@@ -5,23 +5,23 @@ website:
   open-graph: true
   title: "Data Science PD newsletter"
   description: "A newsletter promoting professional development for data scientists at NHS England."
-  site-url: https://nhs-r-community.github.io/quarto-nhs-theme
+  site-url: https://harrietrs.github.io/pd_newsletter
   favicon: docs/_assets/favicon.ico
-  repo-url: https://github.com/NHSDigital/datascience_pd_newsletter
+  repo-url: https://github.com/harrietrs/pd_newsletter
   repo-actions: [edit, issue]
 
   page-footer:
     left: "This page is built [Quarto](https://quarto.org/)."
     right:
     - text: "License"
-      href: https://github.com/NHSDigital/datascience_pd_newsletter/blob/main/LICENCE
+      href: https://github.com/harrietrs/pd_newsletter/blob/main/LICENCE
 
   navbar:
     background: light
     title: false
     collapse-below: lg
     left:
-      - text: "quarto-nhs-theme"
+      - text: "home"
         icon: "box-seam"
         href: index.qmd
       - text: "Updates"
@@ -35,15 +35,15 @@ website:
             href: about.qmd
           - text: "Report a Bug"
             icon: "bug"
-            href: "https://github.com/NHSDigital/datascience_pd_newsletter/issues"
+            href: "https://github.com/harrietrs/pd_newsletter/issues"
           - text: "Ask a Question"
             icon: "chat-right-text"
-            href: "https://github.com/NHSDigital/datascience_pd_newsletter/discussions"
+            href: "https://github.com/harrietrs/pd_newsletter/discussions"
           - text: "FAQ"
             icon: "question-circle"
             href: faq.qmd
       - icon: github
-        href: https://github.com/NHSDigital/
+        href: https://github.com/harrietrs/
         aria-label: GitHub
   sidebar:
     id: toc-side

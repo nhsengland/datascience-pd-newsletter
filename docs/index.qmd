@@ -14,12 +14,12 @@ comments: false
 
 ::: {.content-block}
 
-# quarto-nhs-theme <span>v0.2.0</span>
+# Data Science PD newsletter <span>v0.2.0</span>
 
-### NHS theme for Quarto websites
+### Under construction
 
 ::: {.hero-buttons}
-[Install Theme](tutorials/index.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+[Broken button](tutorials/index.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 ::: 
 
 :::
@@ -29,6 +29,8 @@ comments: false
 
 ::::
 </br>
+
+A note on the [Quarto theme](https://github.com/nhs-r-community/quarto-nhs-theme) this was built with:
 
 It's possible to create beautiful documentation to share online with [Quarto](https://quarto.org) that auto-updates with [GitHub Actions](http://github.com). 
 
