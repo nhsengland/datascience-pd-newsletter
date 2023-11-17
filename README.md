@@ -1,4 +1,4 @@
-<img src='./docs/_assets/img/newsletter.png' align="right" alt="Newsletter logo: an envelope marked newsletter with wings" height="80" /></a>
+<img src='./docs/_assets/img/newsletter.png' align="right" alt="Newsletter logo: an envelope marked newsletter with wings" height="80" />
 
 # NHSDE Data Science Professional Development Newsletter
 
