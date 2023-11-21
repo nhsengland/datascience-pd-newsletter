@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Archive",
+    "section": "",
+    "text": "This is a dummy newsletter\n\n\n\n\n\n\n\n\n\nNov 21, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Harriet Sands newsletter creator\nNHS Quarto Theme: Craig Robert Shenton, PhD author, maintainer.\n\nA note on the Quarto theme this was built with:\nIt’s possible to create beautiful documentation to share online with Quarto that auto-updates with GitHub Actions.\nThis is an example of a Quarto website with an NHS Theme — it is a really powerful way to create and share your work. You can communicate about your work using the same reproducible workflow you and your colleagues use for analyses.\nQuarto.org is the go-to place for full documentation and more tutorials For general guidance on how to use Quarto, please refer to the Quarto Tutorial site, and check out the R-Studio guide."
+  },
+  {
+    "objectID": "about.html#authors",
+    "href": "about.html#authors",
+    "title": "About",
+    "section": "",
+    "text": "Harriet Sands newsletter creator\nNHS Quarto Theme: Craig Robert Shenton, PhD author, maintainer.\n\nA note on the Quarto theme this was built with:\nIt’s possible to create beautiful documentation to share online with Quarto that auto-updates with GitHub Actions.\nThis is an example of a Quarto website with an NHS Theme — it is a really powerful way to create and share your work. You can communicate about your work using the same reproducible workflow you and your colleagues use for analyses.\nQuarto.org is the go-to place for full documentation and more tutorials For general guidance on how to use Quarto, please refer to the Quarto Tutorial site, and check out the R-Studio guide."
+  },
+  {
+    "objectID": "about.html#licence",
+    "href": "about.html#licence",
+    "title": "About",
+    "section": "Licence",
+    "text": "Licence\nMIT License, see LICENSE.md"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "data-science-pd-newsletter",
+    "section": "",
+    "text": "Data Science PD newsletter v0.0.2\n\nUnder construction\n\nSubscribe\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nThis is a dummy newsletter\n\n\n\n\n\n\n\nprogramming\n\n\nnewsletter\n\n\n\n\nThis is a test post.\n\n\n\n\n\n\nNov 21, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2023_11/newsletter.html",
+    "href": "posts/2023_11/newsletter.html",
+    "title": "This is a dummy newsletter",
+    "section": "",
+    "text": "Heading 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.\n\n\nSubscribe\n\nSubscribe"
+  }
+]

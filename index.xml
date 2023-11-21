@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Data Science PD newsletter</title>
+<link>https://harrietrs.github.io/pd_newsletter/index.html</link>
+<atom:link href="https://harrietrs.github.io/pd_newsletter/index.xml" rel="self" type="application/rss+xml"/>
+<description>A newsletter to share professional development tips for data scientists in the NHS
+</description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Tue, 21 Nov 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>This is a dummy newsletter</title>
+  <dc:creator>Harriet Sands</dc:creator>
+  <link>https://harrietrs.github.io/pd_newsletter/posts/2023_11/newsletter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="heading-1" class="level1">
+<h1>Heading 1</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.</p>
+</section>
+<section id="subscribe" class="level1">
+<h1>Subscribe</h1>
+<div class="hero-buttons">
+<p><a href="mailto:datascience@nhs.net?subject=subscribe" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a></p>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>programming</category>
+  <category>newsletter</category>
+  <guid>https://harrietrs.github.io/pd_newsletter/posts/2023_11/newsletter.html</guid>
+  <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
