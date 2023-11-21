@@ -23,10 +23,7 @@ website:
     left:
       - text: "Newsletter"
         icon: "box-seam"
-        href: newsletters.qmd
-      - text: "Updates"
-        icon: "rss"
-        href: updates.qmd
+        href: index.qmd
     right:
       - text: "Help"
         menu:
