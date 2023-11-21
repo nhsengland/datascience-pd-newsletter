@@ -36,9 +36,6 @@ website:
           - text: "Report a Bug"
             icon: "bug"
             href: "https://github.com/harrietrs/pd_newsletter/issues"
-          - text: "Ask a Question"
-            icon: "chat-right-text"
-            href: "https://github.com/harrietrs/pd_newsletter/discussions"
           - text: "FAQ"
             icon: "question-circle"
             href: faq.qmd
@@ -52,8 +49,8 @@ website:
     contents:
       - text: "Homepage" 
         file: index.qmd
-      - text: "Contribute to docs"
-        file: contribute.qmd
+      - text: Newsletters
+        href: newsletters.qmd 
       - text: "FAQ"
         file: faq.qmd
       - text: "About"
