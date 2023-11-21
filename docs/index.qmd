@@ -17,18 +17,10 @@ listing:
 page-layout: full
 ---
 
-:::: {.hero-banner}
-
-::: {.hero-image .hero-image-left}
-:::
-
-::: {.content-block}
-
 # Data Science PD newsletter <span>v0.2.0</span>
 
 ### Under construction
 
 ::: {.hero-buttons}
 [Subscribe]("mailto:datascience@nhs.net?subject=Subscribe to PD newsletter"){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
-
-::::
+:::

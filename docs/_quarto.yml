@@ -25,26 +25,19 @@ website:
         icon: "box-seam"
         href: index.qmd
     right:
+      - text: "Archive"
+        href: archive.qmd
+      - text: "About"
+        icon: "info-circle"
+        href: about.qmd
       - text: "Help"
         menu:
-          - text: "About"
-            icon: "info-circle"
-            href: about.qmd
           - text: "Report a Bug"
             icon: "bug"
             href: "https://github.com/harrietrs/pd_newsletter/issues"
       - icon: github
         href: https://github.com/harrietrs/
         aria-label: GitHub
-  sidebar:
-    id: toc-side
-    style: "floating"
-    pinned: true
-    contents:
-      - text: "Archive"
-        file: archive.qmd
-      - text: "About"
-        file: about.qmd
 format:
   html:
     toc: true
