@@ -2,7 +2,7 @@
 title: 'This is a dummy newsletter'
 date: '2023-11-21'
 categories: ['programming', 'newsletter']
-description: 'This is a test post. In this post, I try out different functionalities'
+description: 'This is a test post.'
 author: 'Harriet Sands'
 ---
 
