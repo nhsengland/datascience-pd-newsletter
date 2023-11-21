@@ -8,6 +8,15 @@ comments: false
 - [Harriet Sands](https://github.com/harrietrs) `newsletter creator`
 - [NHS Quarto Theme](https://github.com/nhs-r-community/quarto-nhs-theme): [Craig Robert Shenton, PhD](https://github.com/craig-shenton) `author`, `maintainer`.
 
+
+A note on the [Quarto theme](https://github.com/nhs-r-community/quarto-nhs-theme) this was built with:
+
+It's possible to create beautiful documentation to share online with [Quarto](https://quarto.org) that auto-updates with [GitHub Actions](http://github.com). 
+
+This is an example of a Quarto website with an NHS Theme --- it is a really powerful way to create and share your work. You can communicate about your work using the same reproducible workflow you and your colleagues use for analyses.
+
+[Quarto.org](https://quarto.org) is the go-to place for full documentation and more tutorials For general guidance on how to use Quarto, please refer to the [Quarto Tutorial](https://openscapes.github.io/quarto-website-tutorial/) site, and check out the [R-Studio guide](https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/rstudio.html).
+
 ## Licence
 
 MIT License, see [`LICENSE.md`](https://github.com/harrietrs/pd_newsletter/blob/main/LICENSE)

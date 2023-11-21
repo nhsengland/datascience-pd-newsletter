@@ -47,12 +47,10 @@ website:
     style: "floating"
     pinned: true
     contents:
-      - text: "Homepage" 
-        file: index.qmd
       - text: Newsletters
         href: newsletters.qmd 
-      - text: "FAQ"
-        file: faq.qmd
+      - text: "Archive"
+        file: archive.qmd
       - text: "About"
         file: about.qmd
 format:
