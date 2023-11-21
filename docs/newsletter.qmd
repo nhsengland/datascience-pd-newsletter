@@ -5,6 +5,17 @@ editor: source
 description: | 
   A newsletter to share professional development tips for data scientists in the NHS
 comments: false
+listing:
+  contents: posts/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
+  feed: true
+page-layout: full
+title-block-banner: false
 ---
 
 :::: {.hero-banner}
@@ -19,7 +30,7 @@ comments: false
 ### Under construction
 
 ::: {.hero-buttons}
-[Broken button](tutorials/index.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+[Broken button](mailto:datascience@nhs.net?subject="Subscribe to PD newsletter"){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 ::: 
 
 :::

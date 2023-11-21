@@ -21,9 +21,9 @@ website:
     title: false
     collapse-below: lg
     left:
-      - text: "home"
+      - text: "Newsletter"
         icon: "box-seam"
-        href: index.qmd
+        href: newsletters.qmd
       - text: "Updates"
         icon: "rss"
         href: updates.qmd
@@ -47,8 +47,6 @@ website:
     style: "floating"
     pinned: true
     contents:
-      - text: Newsletters
-        href: newsletters.qmd 
       - text: "Archive"
         file: archive.qmd
       - text: "About"
