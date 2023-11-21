@@ -12,6 +12,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec du
 
 # Subscribe
 ::: {.hero-buttons}
-[Subscribe](mailto:datascience@nhs.net?subject="Subscribe to PD newsletter"){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+[Subscribe](mailto:datascience@nhs.net?subject=subscribe){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 
 :::: 
