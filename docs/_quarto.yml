@@ -33,9 +33,6 @@ website:
           - text: "Report a Bug"
             icon: "bug"
             href: "https://github.com/harrietrs/pd_newsletter/issues"
-          - text: "FAQ"
-            icon: "question-circle"
-            href: faq.qmd
       - icon: github
         href: https://github.com/harrietrs/
         aria-label: GitHub

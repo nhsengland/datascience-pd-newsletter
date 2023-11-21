@@ -1,5 +1,5 @@
 ---
-pagetitle: "data-science-pd-newsletter"
+title: "data-science-pd-newsletter"
 css: index.css
 editor: source
 description: | 
