@@ -11,7 +11,34 @@
 <description>A newsletter to share professional development tips for data scientists in the NHS
 </description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Tue, 21 Nov 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Jan 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>This is a dummy newsletter</title>
+  <dc:creator>Harriet Sands</dc:creator>
+  <link>https://harrietrs.github.io/pd_newsletter/posts/2024_01/newsletter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="heading-1" class="level1">
+<h1>Heading 1</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.</p>
+</section>
+<section id="subscribe" class="level1">
+<h1>Subscribe</h1>
+<div class="hero-buttons">
+<p><a href="mailto:datascience@nhs.net?subject=subscribe" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a></p>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>newsletter</category>
+  <guid>https://harrietrs.github.io/pd_newsletter/posts/2024_01/newsletter.html</guid>
+  <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>This is a dummy newsletter</title>
   <dc:creator>Harriet Sands</dc:creator>

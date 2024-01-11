@@ -4,7 +4,14 @@
     "href": "archive.html",
     "title": "Archive",
     "section": "",
-    "text": "This is a dummy newsletter\n\n\n\n\n\n\n\n\n\nNov 21, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "This is a dummy newsletter\n\n\n\n\n\n\n\n\n\nJan 11, 2024\n\n\n\n\n\n\n\n\nThis is a dummy newsletter\n\n\n\n\n\n\n\n\n\nNov 21, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2023_11/newsletter.html",
+    "href": "posts/2023_11/newsletter.html",
+    "title": "This is a dummy newsletter",
+    "section": "",
+    "text": "Heading 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.\n\n\nSubscribe\n\nSubscribe"
   },
   {
     "objectID": "about.html",
@@ -32,11 +39,11 @@
     "href": "index.html",
     "title": "data-science-pd-newsletter",
     "section": "",
-    "text": "Data Science PD newsletter v0.0.2\n\nUnder construction\n\nSubscribe\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nThis is a dummy newsletter\n\n\n\n\n\n\n\nprogramming\n\n\nnewsletter\n\n\n\n\nThis is a test post.\n\n\n\n\n\n\nNov 21, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Data Science PD newsletter v0.0.2\n\nUnder construction\n\nSubscribe\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nThis is a dummy newsletter\n\n\n\n\n\n\n\nnewsletter\n\n\n\n\nThis is a test post.\n\n\n\n\n\n\nJan 11, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\nThis is a dummy newsletter\n\n\n\n\n\n\n\nprogramming\n\n\nnewsletter\n\n\n\n\nThis is a test post.\n\n\n\n\n\n\nNov 21, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/2023_11/newsletter.html",
-    "href": "posts/2023_11/newsletter.html",
+    "objectID": "posts/2024_01/newsletter.html",
+    "href": "posts/2024_01/newsletter.html",
     "title": "This is a dummy newsletter",
     "section": "",
     "text": "Heading 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.\n\n\nSubscribe\n\nSubscribe"

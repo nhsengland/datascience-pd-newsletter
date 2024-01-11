@@ -2,12 +2,14 @@
   {
     "listing": "/archive.html",
     "items": [
+      "/posts/2024_01/newsletter.html",
       "/posts/2023_11/newsletter.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
+      "/posts/2024_01/newsletter.html",
       "/posts/2023_11/newsletter.html"
     ]
   }
