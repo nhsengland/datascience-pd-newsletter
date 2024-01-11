@@ -1,0 +1,17 @@
+---
+title: 'This is a dummy newsletter'
+date: '2024-01-11'
+categories: ['newsletter']
+description: 'This is a test post.'
+author: 'Harriet Sands'
+---
+
+# Heading 1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.
+
+# Subscribe
+::: {.hero-buttons}
+[Subscribe](mailto:datascience@nhs.net?subject=subscribe){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+
+::::
