@@ -1,0 +1,6 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/python:3",
+    "features": {
+        "ghcr.io/rocker-org/devcontainer-features/quarto-cli:latest": {}
+    }
+}
