@@ -1,0 +1,51 @@
+---
+title: 'Professional Development Newsletter February 2024'
+date: '2024-02-10'
+format:
+  html:
+    css: /./index.css
+  pdf: default
+categories: ['newsletter']
+description: 'The Professional Development newsletter for February 2024'
+author: 'Harriet Sands and Jennifer Struthers'
+---
+
+# I would like a banner here
+
+Text
+
+<div class="section-heading">
+## Put your section heading here and copy paste as needed
+</div>
+
+I have so much text here
+
+<div class="section-heading">
+## Another section heading
+</div>
+
+More text
+
+<div class="section-heading">
+## This is my section heading
+</div>
+
+more text
+
+<div class="section-heading">
+## This is my super long section heading. It runs on for two lines to show how it looks.
+</div>
+
+Lots of text and links
+
+<div class="section-heading" style="text-align: center;">
+
+## Want to be notified when we publish our newsletter or suggest some content?
+
+</div>
+
+
+<div style="text-align: center;">
+
+[Subscribe](mailto:datascience@nhs.net?subject=subscribe){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new){.btn-action-secondary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"} <!-- this will need updated to new one-->
+</div>
