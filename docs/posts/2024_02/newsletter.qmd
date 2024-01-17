@@ -11,7 +11,8 @@ description: 'The Professional Development newsletter for February 2024'
 author: 'Harriet Sands and Jennifer Struthers'
 ---
 
-![](./images/banner.png)
+![](./../images/banner_feb.png)
+
 
 In the quiet serenity of the morning, sunlight gently filters through the leaves, casting a warm glow on the dew-kissed grass. Nature's symphony, a chorus of birdsong, fills the air, creating a tranquil melody that dances with the gentle breeze. As the world awakens, a sense of calm permeates, inviting reflection and gratitude. Each moment, a fleeting masterpiece painted by the brushstrokes of dawn. Amidst the hustle of life, finding solace in these simple marvels becomes a meditation. Embracing the whispers of the wind and the symphony of nature, one finds peace in the poetry of existence.
 
@@ -69,14 +70,8 @@ plt.plot([1,2,3,4])
 plt.show()
 ```
 
-<div class="section-heading" style="text-align: center;">
-
-## Want to be notified when we publish our newsletter or suggest some content?
-
-</div>
-
-
+And links. [Have fun](https://mywordle.strivemath.com/?word=zokxx){target="_blank"}
 <div style="text-align: center;">
 
-[Subscribe](mailto:datascience@nhs.net?subject=subscribe){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"} <!-- this will need updated to new one-->
+[Subscribe](mailto:datascience@nhs.net?subject=Subscribe%20to%20PD%20newsletter){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"} <!-- this will need updated to new one-->
 </div>
