@@ -21,7 +21,7 @@ website:
     title: false
     collapse-below: lg
     left:
-      - text: "Newsletter"
+      - text: "Homepage"
         icon: "box-seam"
         href: index.qmd
     right:

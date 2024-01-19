@@ -1,17 +1,77 @@
 ---
-title: 'This is a dummy newsletter'
-date: '2024-01-11'
+title: 'Professional Development Newsletter January 2024'
+date: '2024-01-24'
+format:
+  html:
+    css: /./index.css
+  pdf:
+    toc: false
 categories: ['newsletter']
-description: 'This is a test post.'
+description: 'The Professional Development newsletter for January 2024'
 author: 'Harriet Sands'
 ---
 
-# Heading 1
+![](../../images/banner_jan.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.
 
-# Subscribe
-::: {.hero-buttons}
-[Subscribe](mailto:datascience@nhs.net?subject=Subscribe%20to%20PD%20newsletter){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+In the quiet serenity of the morning, sunlight gently filters through the leaves, casting a warm glow on the dew-kissed grass. Nature's symphony, a chorus of birdsong, fills the air, creating a tranquil melody that dances with the gentle breeze. As the world awakens, a sense of calm permeates, inviting reflection and gratitude. Each moment, a fleeting masterpiece painted by the brushstrokes of dawn. Amidst the hustle of life, finding solace in these simple marvels becomes a meditation. Embracing the whispers of the wind and the symphony of nature, one finds peace in the poetry of existence.
 
-::::
+<div class="section-heading">
+## Put your section heading here and copy paste as needed
+</div>
+
+- In the bustling city, skyscrapers stand tall against the sky, casting shadows on the vibrant streets.
+- A myriad of cultures converges, creating a tapestry of diversity in food, art, and languages.
+- Coffee shops offer a refuge, where the aroma of freshly brewed espresso mingles with lively conversations.
+- Parks provide an oasis of greenery, inviting weary souls to unwind amid nature's embrace.
+- Streets echo with the rhythm of footsteps, weaving stories of life's journey in this urban symphony.
+
+
+<div class="section-heading">
+## Another section heading
+</div>
+
+| Name         | Occupation      | Age |
+|--------------|-----------------|-----|
+| Alice        | Software Engineer| 28  |
+| Bob          | Graphic Designer|  35  |
+| Charlie      | Data Scientist  |  30  |
+
+
+<div class="section-heading">
+## This is my section heading
+</div>
+
+
+- **Planning Phase**
+  - [ ] Define project goals and objectives.
+  - [ ] Create a project timeline.
+  - [ ] Identify key stakeholders.
+
+- **Research and Analysis**
+  - [ ] Conduct market research.
+  - [ ] Analyze competitors.
+  - [ ] Gather user feedback.
+
+- **Design Phase**
+  - [ ] Create wireframes.
+  - [ ] Develop a design prototype.
+  - [ ] Review and finalize design with stakeholders.
+
+<div class="section-heading">
+## This is my super long section heading. It runs on for two lines to show how it looks.
+</div>
+
+Quarto allows for a combination of Markdown and code, making it versatile for technical documents. Define a code chunk using triple backticks.
+
+```
+import matplotlib.pyplot as plt
+plt.plot([1,2,3,4])
+plt.show()
+```
+
+And links. [Have fun](https://mywordle.strivemath.com/?word=zokxx){target="_blank"}
+<div style="text-align: center;">
+
+[Subscribe](mailto:datascience@nhs.net?subject=Subscribe%20to%20PD%20newsletter){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+</div>

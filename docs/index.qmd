@@ -1,5 +1,5 @@
 ---
-title: "data-science-pd-newsletter"
+title: "Data Science Professional Development Newsletter"
 css: index.css
 editor: source
 description: | 
