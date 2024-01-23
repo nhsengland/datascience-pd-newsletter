@@ -585,5 +585,5 @@ iframe.reveal-demo {
   text-align: left;
   text-decoration: none;
   color: #ffffff; 
-  padding: 1px 20px 0 20px; /* top, right, bottom, left */
+  padding: 0px 0px 0px 5px; /* top, right, bottom, left */
  }

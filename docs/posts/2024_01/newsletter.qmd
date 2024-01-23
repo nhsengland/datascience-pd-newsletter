@@ -1,77 +1,108 @@
 ---
 title: 'Professional Development Newsletter January 2024'
-date: '2024-01-24'
+date: '2024-01-23'
 format:
   html:
-    css: /./index.css
+    css: /../index.css
   pdf:
     toc: false
 categories: ['newsletter']
 description: 'The Professional Development newsletter for January 2024'
-author: 'Harriet Sands'
+author: 'Harriet Sands and Harry Kelleher'
 ---
 
 ![](../../images/banner_jan.png)
 
+Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Capability team. 
 
-In the quiet serenity of the morning, sunlight gently filters through the leaves, casting a warm glow on the dew-kissed grass. Nature's symphony, a chorus of birdsong, fills the air, creating a tranquil melody that dances with the gentle breeze. As the world awakens, a sense of calm permeates, inviting reflection and gratitude. Each moment, a fleeting masterpiece painted by the brushstrokes of dawn. Amidst the hustle of life, finding solace in these simple marvels becomes a meditation. Embracing the whispers of the wind and the symphony of nature, one finds peace in the poetry of existence.
+The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
 
-<div class="section-heading">
-## Put your section heading here and copy paste as needed
-</div>
+There are some legacy NHS Digital items which we have identified with❗
 
-- In the bustling city, skyscrapers stand tall against the sky, casting shadows on the vibrant streets.
-- A myriad of cultures converges, creating a tapestry of diversity in food, art, and languages.
-- Coffee shops offer a refuge, where the aroma of freshly brewed espresso mingles with lively conversations.
-- Parks provide an oasis of greenery, inviting weary souls to unwind amid nature's embrace.
-- Streets echo with the rhythm of footsteps, weaving stories of life's journey in this urban symphony.
+If you cannot access something of interest to you, please [reach out](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new){target="_blank"}. 
 
+Thanks for reading! – PD newsletter team 
 
 <div class="section-heading">
-## Another section heading
+# Highlights
 </div>
 
-| Name         | Occupation      | Age |
-|--------------|-----------------|-----|
-| Alice        | Software Engineer| 28  |
-| Bob          | Graphic Designer|  35  |
-| Charlie      | Data Scientist  |  30  |
+#### <u>**Competency Framework** – zooming into...Delivery</u> 
+
+As we adjust to delivering in the new team structure; using potentially unfamiliar tools like Confluence, JIRA and DevOps, getting to grips with new projects and new stakeholders, it’s the perfect time to refresh our understanding of what makes good delivery. 
+
+Delivery is the translation of the insights we produce into actionable outcomes. Keeping a delivery-focussed mindset is key to achieve value for money and improve lives for service users. Without it, we cannot fulfil our mission to drive the digital transformation of the NHS! 
+
+Delivery comes in different shapes and sizes, whether it's being accountable for your own tickets or ensuring your team is focused on the top priorities – each of us play our part.  
+
+Check out these top tips from our [Competency Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Competency+Framework){target="_blank"}❗ :
+
+- Break down complex objectives into clear tasks to deliver incremental value with each iteration 
+-	Regularly sync-up with stakeholders to understand priorities and manage delivery expectations 
+-	Be a role model to others by demonstrating a focus on delivery, whilst being open to new ideas and continuous improvement 
+
+___
+
+Check out the resources to boost your delivery skills on the [Training Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework){target="_blank"}❗and our full collection on the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}❗
+Can you spot something missing? Contact [Harriet Sands](mailto:harriet.sands1@nhs.net). 
 
 
 <div class="section-heading">
-## This is my section heading
+# Events
 </div>
+Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗ , and a small selection below.
 
+### [ONS/HDR Health Data Science Seminars](https://www.eventbrite.co.uk/e/health-data-science-seminar-series-tickets-758986237267){target="_blank"}
+**Thursday 25th January, 14:00-15:30, Online**
 
-- **Planning Phase**
-  - [ ] Define project goals and objectives.
-  - [ ] Create a project timeline.
-  - [ ] Identify key stakeholders.
+This event, 'Digital footprints', will feature presentations from guest speakers: Dr Anya Skatova, Senior Research Fellow at the University of Bristol, Professor Will Dixon, Professor of Digital Epidemiology, The University of Manchester and Professor Tim Chico, Professor of Cardiovascular Medicine, from the University of Sheffield.
 
-- **Research and Analysis**
-  - [ ] Conduct market research.
-  - [ ] Analyze competitors.
-  - [ ] Gather user feedback.
+### [Genomics England Research Seminars](https://www.genomicsengland.co.uk/events/research-seminar-january-2024){target="_blank"}
+**Tuesday 30th January, 14:00-15:00, Online**
 
-- **Design Phase**
-  - [ ] Create wireframes.
-  - [ ] Develop a design prototype.
-  - [ ] Review and finalize design with stakeholders.
+This seminar series showcases the latest research using data from the National Genomic Research Library. Two projects will be presented: 'Investigating microRNA-associated variation in the Epileptic Encephalopathies' and 'Effects of Ancestry in the 100,000 Genomes Project Cancer Pipelines'. 
+(January is clearly Genomics month, with the [Festival of Genomics & Biodata](https://festivalofgenomics.com/london/en/page/home){target="_blank"} starting tomorrow!) 
+
+### [Data Bites #48: Getting things done with data in government - smart data special](https://www.instituteforgovernment.org.uk/event/data-bites-48-getting-things-done-data-government){target="_blank"}
+**Monday 26th February, 18:00-19:20, Online & London**
+
+In an exciting, quickfire format, each speaker has eight minutes to present on data in government.
+Next month’s speakers include Ben Goldacre among others. 
+
+___
+
+See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
+
+Know of any events we should feature next month?Let us know by clicking the "Contribute" button, or [here](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
 <div class="section-heading">
-## This is my super long section heading. It runs on for two lines to show how it looks.
+# Knowledge Sharing
 </div>
 
-Quarto allows for a combination of Markdown and code, making it versatile for technical documents. Define a code chunk using triple backticks.
+**[Blog: Delivering user centred dashboards](https://future.nhs.uk/connect.ti/DataAnalytics/messageShowThread?threadid=12369486){target="_blank"}** 
 
-```
-import matplotlib.pyplot as plt
-plt.plot([1,2,3,4])
-plt.show()
-```
+**Harry Kelleher**, Lead BI Developer, shares his experience building dashboards that make a difference, and how a product thinking approach has been the key to unlocking system-wide value. 
 
-And links. [Have fun](https://mywordle.strivemath.com/?word=zokxx){target="_blank"}
+___
+
+Stay tuned for an update on what seminars & show and tells will look like in the new team. 
+Please bear with us as it is likely to be a learning process! Contact [Mia Noonan](mailto:amelia.noonan1@nhs.net) for more information..
+
+<div class="section-heading">
+# Training Opportunities
+</div>
+
+How much do you actually know about the NHS? Check out the [The NHS explained free online course: how the health system in England really works](https://www.kingsfund.org.uk/health-care-explained/online-course){target="_blank"}. 
+
+With the release of the [Generative AI Framework for HMG](https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html){target="_blank"}, Civil Service Learning now includes a set of open learning relating to Generative AI, including a [technical curriculum](https://learn.civilservice.gov.uk/courses/E0nDu3fET6q3Tg5yOBFn_g){target="_blank"}, that is a helpful collection of free resources from [Google](https://www.cloudskillsboost.google/paths/183){target="_blank"}, [Microsoft](https://learn.microsoft.com/en-us/training/paths/copilot/){target="_blank"} and [AWS](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17256/planning-a-generative-ai-project){target="_blank"}. 
+
+___
+
+Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? Contact [Harriet Sands](mailto:harriet.sands1@nhs.net).
+
+
 <div style="text-align: center;">
 
 [Subscribe](mailto:datascience@nhs.net?subject=Subscribe%20to%20PD%20newsletter){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
 </div>
+
