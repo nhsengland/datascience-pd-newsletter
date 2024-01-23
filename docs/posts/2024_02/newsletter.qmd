@@ -11,7 +11,7 @@ description: 'The Professional Development newsletter for MONTH YEAR'
 author: 'AUTHORS'
 ---
 
-![](../../images/banner_MONTH.png)
+![](../../images/banner_feb.png)
 
 Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Capability team. 
 
