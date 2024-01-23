@@ -6,7 +6,7 @@ format:
     css: /../index.css
   pdf:
     toc: false
-categories: ['newsletter']
+categories: ['newsletter', 'compentency']
 description: 'The Professional Development newsletter for MONTH YEAR'
 author: 'AUTHORS'
 ---
