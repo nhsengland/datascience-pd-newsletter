@@ -6,66 +6,151 @@
       version="2.0">
 <channel>
 <title>Data Science PD newsletter</title>
-<link>https://harrietrs.github.io/pd_newsletter/index.html</link>
-<atom:link href="https://harrietrs.github.io/pd_newsletter/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://NHSDigital.github.io/datascience-pd-newsletter/index.html</link>
+<atom:link href="https://NHSDigital.github.io/datascience-pd-newsletter/index.xml" rel="self" type="application/rss+xml"/>
 <description>A newsletter to share professional development tips for data scientists in the NHS
 </description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Thu, 11 Jan 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jan 3000 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>This is a dummy newsletter</title>
-  <dc:creator>Harriet Sands</dc:creator>
-  <link>https://harrietrs.github.io/pd_newsletter/posts/2024_01/newsletter.html</link>
+  <title>Professional Development Newsletter MONTH YEAR</title>
+  <dc:creator>AUTHORS </dc:creator>
+  <link>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_02/newsletter.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="heading-1" class="level1">
-<h1>Heading 1</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.</p>
+<p><img src="https://NHSDigital.github.io/datascience-pd-newsletter/images/banner_feb.png" class="img-fluid"></p>
+<p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Capability team.</p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>There are some legacy NHS Digital items which we have identified with❗</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – PD newsletter team</p>
+<section id="highlights" class="level1 section-heading">
+<h1>Highlights</h1>
 </section>
-<section id="subscribe" class="level1">
-<h1>Subscribe</h1>
-<div class="hero-buttons">
-<p><a href="mailto:datascience@nhs.net?subject=subscribe" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a></p>
+<section id="competency-framework-zooming-intocompetency" class="level4">
+<h4 class="anchored" data-anchor-id="competency-framework-zooming-intocompetency"><u><strong>Competency Framework</strong> – zooming into…COMPETENCY</u></h4>
+<p>TEXT</p>
+<hr>
+<p>Check out the resources to boost your delivery skills on the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework" target="_blank">Training Framework</a>❗and our full collection on the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a>❗ Can you spot something missing? Contact <a href="mailto:harriet.sands1@nhs.net">Harriet Sands</a>.</p>
+</section>
+<section id="events" class="level1 section-heading">
+<h1>Events</h1>
+</section>
+<p>Lots of exciting things coming up! See the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars" target="_blank">full calendar here</a>❗ , and a small selection below.</p>
+<section id="event-title" class="level3">
+<h3 class="anchored" data-anchor-id="event-title"><a href="event link" target="_blank">EVENT TITLE</a></h3>
+<p>**DATE, TIME, LOCATION,*</p>
+<p>A SHORT DESCRIPTION OF EVENT</p>
+<hr>
+<p>See more future events on our <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar" target="_blank">confluence calendar</a>❗</p>
+<p>Know of any events we should feature next month?Let us know by clicking the “Contribute” button, or <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+</section>
+<section id="knowledge-sharing" class="level1 section-heading">
+<h1>Knowledge Sharing</h1>
+</section>
+<p>TEXT</p>
+<hr>
+<p>Stay tuned for an update on what seminars &amp; show and tells will look like in the new team. Please bear with us as it is likely to be a learning process! Contact <a href="mailto:amelia.noonan1@nhs.net">Mia Noonan</a> for more information..</p>
+<section id="training-opportunities" class="level1 section-heading">
+<h1>Training Opportunities</h1>
+</section>
+<p>TEXT</p>
+<hr>
+<p>Check out all the resources in the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a>! Can you spot something missing? Contact <a href="mailto:harriet.sands1@nhs.net">Harriet Sands</a>.</p>
+<div style="text-align: center;">
+<p><a href="mailto:datascience@nhs.net?subject=Subscribe%20to%20PD%20newsletter" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a><a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
 </div>
 
 
-</section>
 
  ]]></description>
   <category>newsletter</category>
-  <guid>https://harrietrs.github.io/pd_newsletter/posts/2024_01/newsletter.html</guid>
-  <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+  <category>compentency</category>
+  <guid>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_02/newsletter.html</guid>
+  <pubDate>Wed, 01 Jan 3000 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>This is a dummy newsletter</title>
-  <dc:creator>Harriet Sands</dc:creator>
-  <link>https://harrietrs.github.io/pd_newsletter/posts/2023_11/newsletter.html</link>
+  <title>Professional Development Newsletter January 2024</title>
+  <dc:creator>Harriet Sands and Harry Kelleher</dc:creator>
+  <link>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_01/newsletter.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="heading-1" class="level1">
-<h1>Heading 1</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.</p>
+<p><img src="https://NHSDigital.github.io/datascience-pd-newsletter/images/banner_jan.png" class="img-fluid"></p>
+<p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Capability team.</p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>There are some legacy NHS Digital items which we have identified with❗</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – PD newsletter team</p>
+<section id="highlights" class="level1 section-heading">
+<h1>Highlights</h1>
 </section>
-<section id="subscribe" class="level1">
-<h1>Subscribe</h1>
-<div class="hero-buttons">
-<p><a href="mailto:datascience@nhs.net?subject=subscribe" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a></p>
+<section id="competency-framework-zooming-intodelivery" class="level4">
+<h4 class="anchored" data-anchor-id="competency-framework-zooming-intodelivery"><u><strong>Competency Framework</strong> – zooming into…Delivery</u></h4>
+<p>As we adjust to delivering in the new team structure; using potentially unfamiliar tools like Confluence, JIRA and DevOps, getting to grips with new projects and new stakeholders, it’s the perfect time to refresh our understanding of what makes good delivery.</p>
+<p>Delivery is the translation of the insights we produce into actionable outcomes. Keeping a delivery-focussed mindset is key to achieve value for money and improve lives for service users. Without it, we cannot fulfil our mission to drive the digital transformation of the NHS!</p>
+<p>Delivery comes in different shapes and sizes, whether it’s being accountable for your own tickets or ensuring your team is focused on the top priorities – each of us play our part.</p>
+<p>Check out these top tips from our <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Competency+Framework" target="_blank">Competency Framework</a>❗ :</p>
+<ul>
+<li>Break down complex objectives into clear tasks to deliver incremental value with each iteration</li>
+<li>Regularly sync-up with stakeholders to understand priorities and manage delivery expectations</li>
+<li>Be a role model to others by demonstrating a focus on delivery, whilst being open to new ideas and continuous improvement</li>
+</ul>
+<hr>
+<p>Check out the resources to boost your delivery skills on the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework" target="_blank">Training Framework</a>❗and our full collection on the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a>❗ Can you spot something missing? Contact <a href="mailto:harriet.sands1@nhs.net">Harriet Sands</a>.</p>
+</section>
+<section id="events" class="level1 section-heading">
+<h1>Events</h1>
+</section>
+<p>Lots of exciting things coming up! See the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars" target="_blank">full calendar here</a>❗ , and a small selection below.</p>
+<section id="onshdr-health-data-science-seminars" class="level3">
+<h3 class="anchored" data-anchor-id="onshdr-health-data-science-seminars"><a href="https://www.eventbrite.co.uk/e/health-data-science-seminar-series-tickets-758986237267" target="_blank">ONS/HDR Health Data Science Seminars</a></h3>
+<p><strong>Thursday 25th January, 14:00-15:30, Online</strong></p>
+<p>This event, ‘Digital footprints’, will feature presentations from guest speakers: Dr Anya Skatova, Senior Research Fellow at the University of Bristol, Professor Will Dixon, Professor of Digital Epidemiology, The University of Manchester and Professor Tim Chico, Professor of Cardiovascular Medicine, from the University of Sheffield.</p>
+</section>
+<section id="genomics-england-research-seminars" class="level3">
+<h3 class="anchored" data-anchor-id="genomics-england-research-seminars"><a href="https://www.genomicsengland.co.uk/events/research-seminar-january-2024" target="_blank">Genomics England Research Seminars</a></h3>
+<p><strong>Tuesday 30th January, 14:00-15:00, Online</strong></p>
+<p>This seminar series showcases the latest research using data from the National Genomic Research Library. Two projects will be presented: ‘Investigating microRNA-associated variation in the Epileptic Encephalopathies’ and ‘Effects of Ancestry in the 100,000 Genomes Project Cancer Pipelines’. (January is clearly Genomics month, with the <a href="https://festivalofgenomics.com/london/en/page/home" target="_blank">Festival of Genomics &amp; Biodata</a> starting tomorrow!)</p>
+</section>
+<section id="data-bites-48-getting-things-done-with-data-in-government---smart-data-special" class="level3">
+<h3 class="anchored" data-anchor-id="data-bites-48-getting-things-done-with-data-in-government---smart-data-special"><a href="https://www.instituteforgovernment.org.uk/event/data-bites-48-getting-things-done-data-government" target="_blank">Data Bites #48: Getting things done with data in government - smart data special</a></h3>
+<p><strong>Monday 26th February, 18:00-19:20, Online &amp; London</strong></p>
+<p>In an exciting, quickfire format, each speaker has eight minutes to present on data in government. Next month’s speakers include Ben Goldacre among others.</p>
+<hr>
+<p>See more future events on our <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar" target="_blank">confluence calendar</a>❗</p>
+<p>Know of any events we should feature next month?Let us know by clicking the “Contribute” button, or <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+</section>
+<section id="knowledge-sharing" class="level1 section-heading">
+<h1>Knowledge Sharing</h1>
+</section>
+<p><strong><a href="https://future.nhs.uk/connect.ti/DataAnalytics/messageShowThread?threadid=12369486" target="_blank">Blog: Delivering user centred dashboards</a></strong></p>
+<p><strong>Harry Kelleher</strong>, Lead BI Developer, shares his experience building dashboards that make a difference, and how a product thinking approach has been the key to unlocking system-wide value.</p>
+<hr>
+<p>Stay tuned for an update on what seminars &amp; show and tells will look like in the new team. Please bear with us as it is likely to be a learning process! Contact <a href="mailto:amelia.noonan1@nhs.net">Mia Noonan</a> for more information..</p>
+<section id="training-opportunities" class="level1 section-heading">
+<h1>Training Opportunities</h1>
+</section>
+<p>How much do you actually know about the NHS? Check out the <a href="https://www.kingsfund.org.uk/health-care-explained/online-course" target="_blank">The NHS explained free online course: how the health system in England really works</a>.</p>
+<p>With the release of the <a href="https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html" target="_blank">Generative AI Framework for HMG</a>, Civil Service Learning now includes a set of open learning relating to Generative AI, including a <a href="https://learn.civilservice.gov.uk/courses/E0nDu3fET6q3Tg5yOBFn_g" target="_blank">technical curriculum</a>, that is a helpful collection of free resources from <a href="https://www.cloudskillsboost.google/paths/183" target="_blank">Google</a>, <a href="https://learn.microsoft.com/en-us/training/paths/copilot/" target="_blank">Microsoft</a> and <a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/17256/planning-a-generative-ai-project" target="_blank">AWS</a>.</p>
+<hr>
+<p>Check out all the resources in the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a>! Can you spot something missing? Contact <a href="mailto:harriet.sands1@nhs.net">Harriet Sands</a>.</p>
+<div style="text-align: center;">
+<p><a href="mailto:datascience@nhs.net?subject=Subscribe%20to%20PD%20newsletter" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a><a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
 </div>
 
 
-</section>
 
  ]]></description>
-  <category>programming</category>
   <category>newsletter</category>
-  <guid>https://harrietrs.github.io/pd_newsletter/posts/2023_11/newsletter.html</guid>
-  <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
+  <category>delivery</category>
+  <guid>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_01/newsletter.html</guid>
+  <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

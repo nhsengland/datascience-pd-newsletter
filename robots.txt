@@ -1,1 +1,1 @@
-Sitemap: https://harrietrs.github.io/pd_newsletter/sitemap.xml
+Sitemap: https://NHSDigital.github.io/datascience-pd-newsletter/sitemap.xml
