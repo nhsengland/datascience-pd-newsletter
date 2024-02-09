@@ -38,7 +38,7 @@ TEXT
 ___
 
 Check out the resources to boost your delivery skills on the [Training Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework){target="_blank"}❗and our full collection on the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}❗
-Can you spot something missing? Contact [Harriet Sands](mailto:harriet.sands1@nhs.net). 
+Can you spot something missing? [Contact us](mailto:datascience@nhs.net). 
 
 
 <div class="section-heading">
@@ -78,7 +78,7 @@ TEXT
 
 ___
 
-Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? Contact [Harriet Sands](mailto:harriet.sands1@nhs.net).
+Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
 
 
 <div style="text-align: center;">

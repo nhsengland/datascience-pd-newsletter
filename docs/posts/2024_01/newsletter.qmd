@@ -22,7 +22,7 @@ Welcome to the latest Professional Development newsletter, brought to you by the
 
 The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
 
-There are some legacy NHS Digital items which we have identified with❗
+There are some items that are available via legacy systems available to former NHS Digital colleagues. We have marked these with❗
 
 If you cannot access something of interest to you, please [reach out](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new){target="_blank"}. 
 
@@ -49,7 +49,7 @@ Check out these top tips from our [Competency Framework](https://nhsd-confluence
 ___
 
 Check out the resources to boost your delivery skills on the [Training Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework){target="_blank"}❗and our full collection on the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}❗
-Can you spot something missing? Contact [Harriet Sands](mailto:harriet.sands1@nhs.net). 
+Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
 
 
 <div class="section-heading">
@@ -103,7 +103,7 @@ With the release of the [Generative AI Framework for HMG](https://www.gov.uk/gov
 
 ___
 
-Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? Contact [Harriet Sands](mailto:harriet.sands1@nhs.net).
+Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? Contact [Harriet Sands](mailto:datascience@nhs.net).
 
 
 <div style="text-align: center;">
