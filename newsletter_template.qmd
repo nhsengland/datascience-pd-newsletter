@@ -44,7 +44,7 @@ Can you spot something missing? [Contact us](mailto:datascience@nhs.net).
 <div class="section-heading">
 # Events
 </div>
-Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗ , and a small selection below.
+Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
 
 
 
@@ -57,7 +57,7 @@ ___
 
 See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
 
-Know of any events we should feature next month?Let us know by clicking the "Contribute" button, or [here](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
 <div class="section-heading">
 # Knowledge Sharing
