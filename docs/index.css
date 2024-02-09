@@ -579,3 +579,11 @@ iframe.reveal-demo {
 .footnotes-end-of-document {
   display: none;
 }
+
+.section-heading {
+  background-color: #0072CE;
+  text-align: left;
+  text-decoration: none;
+  color: #ffffff; 
+  padding: 0px 0px 0px 5px; /* top, right, bottom, left */
+ }
