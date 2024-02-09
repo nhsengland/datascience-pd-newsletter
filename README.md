@@ -8,19 +8,24 @@ A newsletter promoting professional development for data scientists at NHS Engla
 
 ## Contributing to the newsletter
 
-Have something to contribute to the newsletter? Easily suggest it to us using the "Issues" button on the repository. We welcome all suggestions and will do our best to include everything suitable to the newsletter.
+Have something to contribute to the newsletter? Easily suggest it to us using the "Issues" button on the repository, or [click here](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=). We welcome all suggestions and will do our best to include everything suitable to the newsletter.
 
-
-### Folder Structure
-
-TBC
+## Creating the newsletter
+Creating the next monthly newsletter? Here's how:
+- Create a new branch with the title "month_year_newsletter"
+- Open that branch up within GitHub codespaces
+- Create a new subfolder to contain the new newsletter: docs/posts/YYYY_MM
+- Copy and paste the newsletter_template.qmd file from the root folder
+- Replace the necessary parts in the YAML at the top of the file with the information for this month (title, date, description, authors)
+- Replace the image address for the banner with the correct month
+- Check the newsletter renders as expected by following the instructions under [Developing](#developing)
+- Start editing the file to add in all the content you want, checking periodically it's rendering as expected.
+- When finished, create a PR for it to be reviewed and once approved and pushed, an action should kick off to render it so it can be shared.
 
 ### Built With
 
 - [Quarto](https://quarto.org/)
 - [GitHub Actions](https://github.com/features/actions)
-
-## Getting Started
 
 ## Developing
 We create the newsletter using .qmd files, which are markdown files with extra functionality provided by Quarto. Follow the instructions below to find out how to render your `.qmd` so you can see what it will look like once published.
