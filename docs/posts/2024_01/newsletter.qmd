@@ -76,7 +76,7 @@ Next month’s speakers include Ben Goldacre among others.
 
 ___
 
-See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
+See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗
 
 Know of any events we should feature next month?Let us know by clicking the "Contribute" button, or [here](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
