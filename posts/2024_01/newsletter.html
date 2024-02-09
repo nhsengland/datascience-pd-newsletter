@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -49,7 +49,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -58,6 +64,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -69,17 +76,14 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../../index.css">
 <meta property="og:title" content="Data Science PD newsletter - Professional Development Newsletter January 2024">
 <meta property="og:description" content="The Professional Development newsletter for January 2024">
-<meta property="og:image" content="https://NHSDigital.github.io/datascience-pd-newsletter/images/banner_jan.png">
-<meta property="og:site-name" content="Data Science PD newsletter">
-<meta property="og:image:height" content="396">
-<meta property="og:image:width" content="1584">
+<meta property="og:site_name" content="Data Science PD newsletter">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
             <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -88,46 +92,46 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html" rel="" target=""><i class="bi bi-box-seam" role="img">
+    <a class="nav-link" href="../../index.html"> <i class="bi bi-box-seam" role="img">
 </i> 
- <span class="menu-text">Homepage</span></a>
+<span class="menu-text">Homepage</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" rel="" target="_blank">
- <span class="menu-text">Contribute Content</span></a>
+    <a class="nav-link" href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank"> 
+<span class="menu-text">Contribute Content</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../archive.html" rel="" target="">
- <span class="menu-text">Archive</span></a>
+    <a class="nav-link" href="../../archive.html"> 
+<span class="menu-text">Archive</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html" rel="" target=""><i class="bi bi-info-circle" role="img">
+    <a class="nav-link" href="../../about.html"> <i class="bi bi-info-circle" role="img">
 </i> 
- <span class="menu-text">About</span></a>
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-help" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-help" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Help</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-help">    
         <li>
-    <a class="dropdown-item" href="https://github.com/NHSDigital/datascience-pd-newsletter/issues" rel="" target=""><i class="bi bi-bug" role="img">
+    <a class="dropdown-item" href="https://github.com/NHSDigital/datascience-pd-newsletter/issues"><i class="bi bi-bug" role="img">
 </i> 
  <span class="dropdown-text">Report a Bug</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/NHSDigital/" rel="" target=""><i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/NHSDigital/"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -185,7 +189,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#knowledge-sharing" id="toc-knowledge-sharing" class="nav-link" data-scroll-target="#knowledge-sharing">Knowledge Sharing</a></li>
   <li><a href="#training-opportunities" id="toc-training-opportunities" class="nav-link" data-scroll-target="#training-opportunities">Training Opportunities</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https:/github.com/NHSDigital/datascience-pd-newsletter/edit/main/posts/2024_01/newsletter.qmd" class="toc-action">Edit this page</a></p><p><a href="https:/github.com/NHSDigital/datascience-pd-newsletter/issues/new" class="toc-action">Report an issue</a></p></div></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="newsletter.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https:/github.com/NHSDigital/datascience-pd-newsletter/edit/main/posts/2024_01/newsletter.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https:/github.com/NHSDigital/datascience-pd-newsletter/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="newsletter.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
@@ -193,10 +197,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+
 <p><img src="../../images/banner_jan.png" class="img-fluid"></p>
 <p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Capability team.</p>
 <p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
-<p>There are some legacy NHS Digital items which we have identified with❗</p>
+<p>There are some items that are available via legacy systems available to former NHS Digital colleagues. We have marked these with❗</p>
 <p>If you cannot access something of interest to you, please <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
 <p>Thanks for reading! – PD newsletter team</p>
 <section id="highlights" class="level1 section-heading">
@@ -214,7 +219,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Be a role model to others by demonstrating a focus on delivery, whilst being open to new ideas and continuous improvement</li>
 </ul>
 <hr>
-<p>Check out the resources to boost your delivery skills on the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework" target="_blank">Training Framework</a>❗and our full collection on the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a>❗ Can you spot something missing? Contact <a href="mailto:harriet.sands1@nhs.net">Harriet Sands</a>.</p>
+<p>Check out the resources to boost your delivery skills on the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework" target="_blank">Training Framework</a>❗and our full collection on the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a>❗ Can you spot something missing? <a href="mailto:datascience@nhs.net">Contact us</a>!</p>
 </section>
 <section id="events" class="level1 section-heading">
 <h1>Events</h1>
@@ -235,7 +240,7 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Monday 26th February, 18:00-19:20, Online &amp; London</strong></p>
 <p>In an exciting, quickfire format, each speaker has eight minutes to present on data in government. Next month’s speakers include Ben Goldacre among others.</p>
 <hr>
-<p>See more future events on our <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar" target="_blank">confluence calendar</a>❗</p>
+<p>See more future events on our <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars" target="_blank">confluence calendar</a>❗</p>
 <p>Know of any events we should feature next month?Let us know by clicking the “Contribute” button, or <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
 </section>
 <section id="knowledge-sharing" class="level1 section-heading">
@@ -251,9 +256,9 @@ ul.task-list li input[type="checkbox"] {
 <p>How much do you actually know about the NHS? Check out the <a href="https://www.kingsfund.org.uk/health-care-explained/online-course" target="_blank">The NHS explained free online course: how the health system in England really works</a>.</p>
 <p>With the release of the <a href="https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html" target="_blank">Generative AI Framework for HMG</a>, Civil Service Learning now includes a set of open learning relating to Generative AI, including a <a href="https://learn.civilservice.gov.uk/courses/E0nDu3fET6q3Tg5yOBFn_g" target="_blank">technical curriculum</a>, that is a helpful collection of free resources from <a href="https://www.cloudskillsboost.google/paths/183" target="_blank">Google</a>, <a href="https://learn.microsoft.com/en-us/training/paths/copilot/" target="_blank">Microsoft</a> and <a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/17256/planning-a-generative-ai-project" target="_blank">AWS</a>.</p>
 <hr>
-<p>Check out all the resources in the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a>! Can you spot something missing? Contact <a href="mailto:harriet.sands1@nhs.net">Harriet Sands</a>.</p>
+<p>Check out all the resources in the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a>! Can you spot something missing? Contact <a href="mailto:datascience@nhs.net">Harriet Sands</a>.</p>
 <div style="text-align: center;">
-<p><a href="mailto:datascience@nhs.net?subject=Subscribe%20to%20PD%20newsletter" class="btn-action-primary btn-action btn btn-success btn-lg" role="button">Subscribe</a><a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" role="button" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" role="button" target="_blank">PDF Version</a></p>
+<p><a href="https://forms.office.com/e/JJsmgPmVVJ" class="btn-action-primary btn-action btn btn-success btn-lg" role="button">Subscribe</a><a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" role="button" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" role="button" target="_blank">PDF Version</a></p>
 </div>
 
 
@@ -350,10 +355,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -363,8 +367,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -377,6 +390,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -420,6 +552,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -445,6 +578,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -507,19 +666,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">This page is built <a href="https://quarto.org/">Quarto</a>.</div>   
+    <div class="nav-footer-left">
+<p>This page is built <a href="https://quarto.org/">Quarto</a>.</p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https:/github.com/NHSDigital/datascience-pd-newsletter/edit/main/posts/2024_01/newsletter.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https:/github.com/NHSDigital/datascience-pd-newsletter/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="https://github.com/NHSDigital/datascience-pd-newsletter/blob/main/LICENCE">License</a>
+    <a class="nav-link" href="https://github.com/NHSDigital/datascience-pd-newsletter/blob/main/LICENCE">
+<p>License</p>
+</a>
   </li>  
 </ul>
     </div>
   </div>
 </footer>
+
 
 
 
