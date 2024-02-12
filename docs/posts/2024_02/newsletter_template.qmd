@@ -68,7 +68,7 @@ Join us for the HDR UK Midlands & Health Innovation East Midlands Insight Sharin
 
 The sixty-eigth Strand Group will take place at 18.30 on Wednesday 6th March 2024 when Sarah Munby, Permanent Secretary of the Department for Science, Innovation and Technology, will give her second lecture as Visiting Professor on ‘Policy Making in the Age of AI.’
 
-### [The politics and philosophy of AI](https://www.lse.ac.uk/Events/2024/03/202403191830/ai)
+### [The politics and philosophy of AI](https://www.lse.ac.uk/Events/2024/03/202403191830/ai){target="_blank"} 
 **Tuesday 19th March 2024 18:30 to 20:00, London School of Economics & Online**
 
 As artificial intelligence (AI) moves beyond the realm of science fiction, it is already having a profound impact on our economies, societies and politics. To make sense of the transformative power and disruptive potential of AI, we are joined by thinkers at the cutting edge of the technological frontier for an in-depth discussion of its multifaceted impact.
@@ -106,7 +106,7 @@ Please bear with us as it is likely to be a learning process! Contact [Mia Noona
 STEM Ambassadors help young people to understand the real world applications of their learning.
 Attend an [information session](https://www.eventbrite.com/e/volunteer-information-session-becoming-a-stem-ambassador-tickets-771603405557?aff=odcleoeventsincollection&keep_tld=1){target="_blank"} on Thursday 22nd February to learn more.
 
-
+https://analysisfunction.civilservice.gov.uk/policy-store/stakeholder-mapping/
 ___
 
 Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
