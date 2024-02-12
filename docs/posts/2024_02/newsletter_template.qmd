@@ -60,10 +60,20 @@ Monthly informal, conversational and informative online Meetups from Data Scienc
 
 This month is a social session - join to chat about what books, podcasts and articles you've been enjoying.
 
+### [Severe Mental Illness & Physical Disease](https://www.hdruk.ac.uk/events/severe-mental-illness-and-physical-disease/){target="_blank"}
+**Thursday 29th February 10:00 - 13:00, Online**
+
+Hosted by researchers at the Usher Institute, The University of Edinburgh, with contributions from DataMind, the Health Data Research Hub for Mental Health we will hear from researchers working on projects relating to severe mental illness and receipt of cardiovascular care as well as people with lived experience, clinicians and public health and government representatives.
+
 ### [Making a difference: Using Data to Improve Care](event link){target="_blank"}
 **Thursday 29th February 2024 13:00 - 16:00, Online**
 
 Join us for the HDR UK Midlands & Health Innovation East Midlands Insight Sharing Webinar. Highlights include: Dementia and the correlation with cardiovascular diseases, Leveraging administrative healthcare data to enhance drug approval in rare disease, EU data infrastructure for Rare Disease.
+
+### [Policy Making for the Age of AI](https://thestrandgroup.kcl.ac.uk/event/policy-making-for-the-age-of-ai/){target="_blank"}
+**Wednesday 6th March, 18:30, King’s College London**
+
+The sixty-eigth Strand Group will take place at 18.30 on Wednesday 6th March 2024 when Sarah Munby, Permanent Secretary of the Department for Science, Innovation and Technology, will give her second lecture as Visiting Professor on ‘Policy Making in the Age of AI.’
 
 
 ### [Digital Footprints 2024](https://digifootprints.co.uk/digital-footprints-2024/){target="_blank"}
