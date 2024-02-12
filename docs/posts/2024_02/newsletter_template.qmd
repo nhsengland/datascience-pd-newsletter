@@ -53,13 +53,6 @@ Lots of exciting things coming up! See the [full calendar here](https://nhsd-con
 
 A SHORT DESCRIPTION OF EVENT 
 
-### [The February DSxHE Download](https://www.datascienceforhealthequity.com/event-details/the-february-dsxhe-download-3){target="_blank"}
-**Tuesday 13th February, 18:00 – 18:50, Online**
-
-Monthly informal, conversational and informative online Meetups from Data Science for Health Equity.
-
-This month is a social session - join to chat about what books, podcasts and articles you've been enjoying.
-
 ### [Severe Mental Illness & Physical Disease](https://www.hdruk.ac.uk/events/severe-mental-illness-and-physical-disease/){target="_blank"}
 **Thursday 29th February 10:00 - 13:00, Online**
 
@@ -75,6 +68,11 @@ Join us for the HDR UK Midlands & Health Innovation East Midlands Insight Sharin
 
 The sixty-eigth Strand Group will take place at 18.30 on Wednesday 6th March 2024 when Sarah Munby, Permanent Secretary of the Department for Science, Innovation and Technology, will give her second lecture as Visiting Professor on ‘Policy Making in the Age of AI.’
 
+### [The politics and philosophy of AI](https://www.lse.ac.uk/Events/2024/03/202403191830/ai)
+**Tuesday 19th March 2024 18:30 to 20:00, London School of Economics & Online**
+
+As artificial intelligence (AI) moves beyond the realm of science fiction, it is already having a profound impact on our economies, societies and politics. To make sense of the transformative power and disruptive potential of AI, we are joined by thinkers at the cutting edge of the technological frontier for an in-depth discussion of its multifaceted impact.
+Speakers include the 'godfather of AI', Geoffrey Hinton; Kate Vredenburgh, Assistant Professor in the Department of Philosophy, Logic and Scientific Method at LSE and Robin Archer, the Director of the postgraduate programme in political sociology and the Director of the Ralph Miliband Programme at LSE.
 
 ### [Digital Footprints 2024](https://digifootprints.co.uk/digital-footprints-2024/){target="_blank"}
 **Wednesday 8th May 1pm –Thursday 9th May 4pm, University of Bristol**
