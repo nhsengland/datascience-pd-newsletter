@@ -53,6 +53,25 @@ Lots of exciting things coming up! See the [full calendar here](https://nhsd-con
 
 A SHORT DESCRIPTION OF EVENT 
 
+### [The February DSxHE Download](https://www.datascienceforhealthequity.com/event-details/the-february-dsxhe-download-3){target="_blank"}
+**Tuesday 13th February, 18:00 – 18:50, Online**
+
+Monthly informal, conversational and informative online Meetups from Data Science for Health Equity.
+
+This month is a social session - join to chat about what books, podcasts and articles you've been enjoying.
+
+### [Making a difference: Using Data to Improve Care](event link){target="_blank"}
+**Thursday 29th February 2024 13:00 - 16:00, Online**
+
+Join us for the HDR UK Midlands & Health Innovation East Midlands Insight Sharing Webinar. Highlights include: Dementia and the correlation with cardiovascular diseases, Leveraging administrative healthcare data to enhance drug approval in rare disease, EU data infrastructure for Rare Disease.
+
+
+### [Digital Footprints 2024](https://digifootprints.co.uk/digital-footprints-2024/){target="_blank"}
+**Wednesday 8th May 1pm –Thursday 9th May 4pm, University of Bristol**
+
+Focusing on digital footprints data for social impact, inviting innovative research that harnesses the potential of these novel datasets to address pressing societal challenges and drive positive change. The conference is organised by Turing Novel Data Linkage for Health and Wellbeing Interest Group.
+
+*Please note attendance of the conference is subject to a £50 fee.*
 ___
 
 See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
