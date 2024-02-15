@@ -35,6 +35,7 @@ Thanks for reading! – PD newsletter team
 #### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
 
 TEXT
+
 ___
 
 Check out the resources to boost your delivery skills on the [Training Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework){target="_blank"}❗and our full collection on the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}❗
@@ -46,14 +47,7 @@ Can you spot something missing? [Contact us](mailto:datascience@nhs.net).
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
 
-
-
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION**
-
-A SHORT DESCRIPTION OF EVENT
-
-### Lunch and Learn (In-person)
+### Lunch and Learn (Leeds in-person)
 **Wednesday 21st February, 12:00, Town Hall, Wellington Place, Leeds**
 
 In-person, informal Lunch and Learn sessions are starting up, usually on the 3rd Tuesday or Wednesday of each month. The first speaker will be Katie Davidson from Baringa Management Consulting. Watch your email for more information.
