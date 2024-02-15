@@ -18,7 +18,7 @@ author: 'Harriet Sands and Jennifer Struthers'
 
 ![](../../images/banner_feb.png)
 
-Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Capability team. 
+Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Capability team **- now in a new format!**
 
 The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
 
@@ -49,9 +49,14 @@ Lots of exciting things coming up! See the [full calendar here](https://nhsd-con
 
 
 ### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,*
+**DATE, TIME, LOCATION**
 
-A SHORT DESCRIPTION OF EVENT 
+A SHORT DESCRIPTION OF EVENT
+
+### Lunch and Learn (In-person)
+**Wednesday 21st February, 12:00, Town Hall, Wellington Place, Leeds**
+
+In-person, informal Lunch and Learn sessions are starting up, usually on the 3rd Tuesday or Wednesday of each month. The first speaker will be Katie Davidson from Baringa Management Consulting. Watch your email for more information.
 
 ### [Severe Mental Illness & Physical Disease](https://www.hdruk.ac.uk/events/severe-mental-illness-and-physical-disease/){target="_blank"}
 **Thursday 29th February 10:00 - 13:00, Online**
@@ -80,6 +85,8 @@ Speakers include the 'godfather of AI', Geoffrey Hinton; Kate Vredenburgh, Assis
 Focusing on digital footprints data for social impact, inviting innovative research that harnesses the potential of these novel datasets to address pressing societal challenges and drive positive change. The conference is organised by Turing Novel Data Linkage for Health and Wellbeing Interest Group.
 
 *Please note attendance of the conference is subject to a £50 fee.*
+
+
 ___
 
 See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
@@ -90,7 +97,6 @@ Know of any events we should feature next month? Let us know by clicking the "Co
 # Knowledge Sharing
 </div>
 
-TEXT
 
 ___
 
