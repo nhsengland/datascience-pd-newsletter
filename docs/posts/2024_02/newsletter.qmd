@@ -97,6 +97,11 @@ Know of any events we should feature next month? Let us know by clicking the "Co
 # Knowledge Sharing
 </div>
 
+### [Refactoring Golden Rules](https://nhsdigital.github.io/rap-community-of-practice/training_resources/refactoring-guide/?utm_source=p_d_newsletter&utm_medium=email&utm_campaign=refactoring_guide){target="_blank"}
+Are you wondering how you can make your code faster, easier to read, and easier to reuse?
+Getting your code to work is just the first step! After that, you should refactor your code to make it higher-quality - more efficient, more robust, more maintainable.
+But how do you do that? Well, you can start by reading the [refactoring golden rules](https://nhsdigital.github.io/rap-community-of-practice/training_resources/refactoring-guide/?utm_source=p_d_newsletter&utm_medium=email&utm_campaign=refactoring_guide) on the RAP Community of Practice website!
+
 
 ___
 
