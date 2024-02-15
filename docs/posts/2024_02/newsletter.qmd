@@ -122,6 +122,12 @@ This guidance includes a helpful template and further resources to help you map 
 
 Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
 
+<div class="section-heading">
+# Fun Corner
+</div>
+
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=zokddgesefp){target="_blank"}
+
 
 <div style="text-align: center;">
 
