@@ -74,7 +74,7 @@ As artificial intelligence (AI) moves beyond the realm of science fiction, it is
 Speakers include the 'godfather of AI', Geoffrey Hinton; Kate Vredenburgh, Assistant Professor in the Department of Philosophy, Logic and Scientific Method at LSE and Robin Archer, the Director of the postgraduate programme in political sociology and the Director of the Ralph Miliband Programme at LSE.
 
 ### [Digital Footprints 2024](https://digifootprints.co.uk/digital-footprints-2024/){target="_blank"}
-**Wednesday 8th May 1pm –Thursday 9th May 4pm, University of Bristol**
+**Wednesday 8th May 1pm – Thursday 9th May 4pm, University of Bristol**
 
 Focusing on digital footprints data for social impact, inviting innovative research that harnesses the potential of these novel datasets to address pressing societal challenges and drive positive change. The conference is organised by Turing Novel Data Linkage for Health and Wellbeing Interest Group.
 
@@ -96,7 +96,6 @@ Are you wondering how you can make your code faster, easier to read, and easier 
 Getting your code to work is just the first step! After that, you should refactor your code to make it higher-quality - more efficient, more robust, more maintainable.
 But how do you do that? Well, you can start by reading the [refactoring golden rules](https://nhsdigital.github.io/rap-community-of-practice/training_resources/refactoring-guide/?utm_source=p_d_newsletter&utm_medium=email&utm_campaign=refactoring_guide) on the RAP Community of Practice website!
 
-
 ___
 
 Stay tuned for an update on what seminars & show and tells will look like in the new team. 
@@ -113,6 +112,9 @@ Attend an [information session](https://www.eventbrite.com/e/volunteer-informati
 
 ### [Stakeholder Mapping Resources](https://analysisfunction.civilservice.gov.uk/policy-store/stakeholder-mapping/){target="_blank"} 
 This guidance includes a helpful template and further resources to help you map stakeholders for user engagement.
+
+### [Pluralsight](https://www.pluralsight.com/){target="_blank"}
+Tim Roebuck [announced](https://web.yammer.com/main/org/hscic.gov.uk/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMjY2Njk0NDQ1MDQ0NTMxMiJ9?trk_copy_link=V2){target="_blank"} that following delays to resolve contractual issues for a new contract, access has been restored for existing Pluralsight users, and you should been able to continue any previous training.
 
 Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
 
