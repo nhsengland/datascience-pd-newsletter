@@ -70,6 +70,11 @@ Hosted by researchers at the Usher Institute, The University of Edinburgh, with 
 
 Join us for the HDR UK Midlands & Health Innovation East Midlands Insight Sharing Webinar. Highlights include: Dementia and the correlation with cardiovascular diseases, Leveraging administrative healthcare data to enhance drug approval in rare disease, EU data infrastructure for Rare Disease.
 
+### [What Career? Live](https://nhsengland.sharepoint.com/sites/thehub/SitePages/Help-us-inspire-students-to-join-the-NHS.aspx){target="_blank"}
+**Friday 1st and Saturday 2nd March, NEC Birmingham**
+
+NHS Health Careers is looking for people to help inspire students to join the NHS by attending this national careers event. If you are interested, please email Laura Monks from the NHS Health Careers team by **Monday 26 February** on laura.monks2@nhs.net. 
+
 ### [Policy Making for the Age of AI](https://thestrandgroup.kcl.ac.uk/event/policy-making-for-the-age-of-ai/){target="_blank"}
 **Wednesday 6th March, 18:30, King’s College London**
 
@@ -112,6 +117,15 @@ Please bear with us as it is likely to be a learning process! Contact [Mia Noona
 <div class="section-heading">
 # Training Opportunities
 </div>
+
+### [Applications for the NIHR Health Service Modelling Associates now open](https://sites.google.com/nihr.ac.uk/hsma){target="_blank"}
+This free, 15-month course teaches people based in non-commercial health, social care, policing, or related organisations within England how to use Operational Research and Data Science techniques to improve services and aid decision making.
+ 
+The course is offered free of charge, although a time commitment of one day a week for the full programme is required. All code in the course is in Python, though  some other open-source software will be used too - but no prior experience with Python (or any programming experience at all!) is required.
+
+An [FAQ](https://sites.google.com/nihr.ac.uk/hsma/apply-to-become-a-hsma?authuser=0){target="_blank"} about the course is available, and any further questions can be sent to [penchord@exeter.ac.uk](mailto:penchord@exeter.ac.uk) or [s.j.rosser@exeter.ac.uk](mailto:s.j.rosser@exeter.ac.uk), a trainer on the course who has said she is happy to recieve questions regarding it.
+
+Applications for the course close on the **4th of March 2024**, with the course beginning **Monday 15th April 2024**.
 
 ### [Become a STEM ambassador](https://www.stem.org.uk/stem-ambassadors/become-a-stem-ambassador){target="_blank"} 
 
