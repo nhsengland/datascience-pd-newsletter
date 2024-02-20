@@ -11,7 +11,7 @@ format:
       - bottom=10mm
       - left=20mm
       - right=20mm
-categories: ['newsletter', 'compentency']
+categories: ['newsletter', 'analytics']
 description: 'The Professional Development newsletter for February 2024'
 author: 'Harriet Sands and Jennifer Struthers'
 ---
@@ -32,13 +32,18 @@ Thanks for reading! – PD newsletter team
 # Highlights
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+#### <u>**Competency Framework** – zooming into... Analytics</u> 
 
-TEXT
+Analytics is the the first compentency in our [Comptency Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Competency+Framework){target="_blank"}❗ and is all about levereging Data Science techniques to develop actionable insights from complex datasets, driving informed decision-making and value creation.
+These include:
+
+- Knowledge and application of data science & machine learning techniques (including but not limited to NLP, geospatial analysis, information retrieval & search, hypothesis testing, simulation and data linkage)
+- Taking a critical and informed view of possible approaches given user needs and the strengths and limitations of the data and techniques available. Formulating, implementing, and evaluating of data science projects, ensuring techniques are applied appropriately. integrating analytics methods using specialised programming languages, tools, and techniques.
+- Developing model-based insights that meet user needs, create value, and drive effective decision-making.
 
 ___
 
-Check out the resources to boost your delivery skills on the [Training Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework){target="_blank"}❗and our full collection on the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}❗
+Check out the resources to boost your skills on the [Training Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework){target="_blank"}❗and our full collection on the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}❗
 Can you spot something missing? [Contact us](mailto:datascience@nhs.net). 
 
 
@@ -115,6 +120,14 @@ This guidance includes a helpful template and further resources to help you map 
 
 ### [Pluralsight](https://www.pluralsight.com/){target="_blank"}
 Tim Roebuck [announced](https://web.yammer.com/main/org/hscic.gov.uk/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMjY2Njk0NDQ1MDQ0NTMxMiJ9?trk_copy_link=V2){target="_blank"} that following delays to resolve contractual issues for a new contract, access has been restored for existing Pluralsight users, and you should been able to continue any previous training.
+
+### [Improve your Markdown by contributing to the Data Science website](https://nhsengland.github.io/datascience/)!
+Ever wanted to try your hand at learning Markdown but never really found a reason? 
+Check out this [Markdown tutorial](https://www.markdowntutorial.com/){target="_blank"} before 
+
+|  | |
+|-------|------|
+|<img src="amaia_website_newsletter.png" alt="Newsletter Image" width="350"> | We launched the prototype [Data Science website](https://nhsengland.github.io/datascience/) - but now we need your help. <br>Generally, we need contributions to the website (see how to do this [here](https://github.com/nhsengland/datascience/blob/main/CONTRIBUTE.md)), in particular:<br><br>- Send us a summary of your project (see [this example](https://nhsengland.github.io/datascience/our_work/ds218_rap_community_of_practice/))<br>- Follow [this template](https://github.com/nhsengland/datascience/blob/main/docs/our_work/template-project.md).<br>- Contribute an article to the blog.<br>- Volunteer to pick up an [issue](https://github.com/nhsengland/datascience/issues) on GitHub.<br>- Give us feedback about the [website](https://nhsengland.github.io/datascience/).<br><br>**You’ve got lots to gain too**: It's crucial people know about our work, and with the conference seasons approaching, having something up on the web means you've got something nice to point people to!<br><br>**So don't delay -** in the next few weeks find an hour to bash together a summary of your project and get in touch with the marketing team (or try and raise a pull request to add it yourself!). |
 
 Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
 
