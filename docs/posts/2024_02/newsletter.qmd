@@ -34,14 +34,14 @@ Thanks for reading! – PD newsletter team
 
 #### <u>**Competency Framework** – zooming into... Analytics</u> 
 
-Analytics is the first compentency in our [Comptency Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Competency+Framework){target="_blank"}❗ and is all about leveraging data science techniques to develop actionable insights from complex datasets and driving informed decision-making.
-These include:
+Analytics, the first compentency in our [Competency Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Competency+Framework){target="_blank"}❗, is all about leveraging data science techniques to develop actionable insights from complex datasets.
+This competency covers:
 
 - Knowledge and application of data science & machine learning techniques (including but not limited to NLP, geospatial analysis, hypothesis testing, simulation and data linkage)
-- Taking a critical and informed view of possible approaches given user needs and the strengths and limitations of the data and techniques available. Formulating, implementing, and evaluating of data science projects, ensuring techniques are applied appropriately. integrating analytics methods using specialised programming languages, tools, and techniques.
+- Taking a critical and informed view of possible approaches given user needs and the strengths and limitations of the data and techniques available. 
 - Developing model-based insights that meet user needs, create value, and drive effective decision-making.
 
-Also, remember if you are thinking about going for a hire band role in any future recruitment, you can have a look at the [job descriptions saved on Confluence](https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Job+Descriptions){target="_blank"} to help plan out your preparation and development.
+Also, take a look at the [job descriptions saved on Confluence](https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Job+Descriptions){target="_blank"} to help plan out your career progression and help identify areas for development.
 
 #### <u>**Health and Care Analytics Conference 2024** - Call for Abstracts</u>
 Have some interesting work to share? The [HACA Conference 2024](https://haca-conference.nhs.uk/){target="_blank"} is officially accepting applications to present (in the form of a talk or poster) at the 2024 conference, hosted 23rd-24th July at Telford International Centre. The deadline to submit is **Thursday February 29th 2024**. Check out the [HACA 2024 Confluence page](https://nhsd-confluence.digital.nhs.uk/display/DAT/HACA+2024){target="_blank"}❗ to see the steps and track submissions.
@@ -70,7 +70,7 @@ Join us for the HDR UK Midlands & Health Innovation East Midlands Insight Sharin
 ### [What Career? Live](https://nhsengland.sharepoint.com/sites/thehub/SitePages/Help-us-inspire-students-to-join-the-NHS.aspx){target="_blank"}
 **Friday 1st and Saturday 2nd March, NEC Birmingham**
 
-NHS Health Careers is looking for people to help inspire students to join the NHS by attending this national careers event. If you are interested, please email Laura Monks from the NHS Health Careers team by **Monday 26 February** on laura.monks2@nhs.net. 
+NHS Health Careers is looking for people to help inspire students to join the NHS by attending this national careers event. If you're interested, [email Laura Monks](mailto:laura.monks2@nhs.net) by **Monday 26th February** . 
 
 ### [Policy Making for the Age of AI](https://thestrandgroup.kcl.ac.uk/event/policy-making-for-the-age-of-ai/){target="_blank"}
 **Wednesday 6th March, 18:30, King’s College London**
@@ -103,7 +103,7 @@ Know of any events we should feature next month? Let us know by clicking the "Co
 
 ### [Refactoring Golden Rules](https://nhsdigital.github.io/rap-community-of-practice/training_resources/refactoring-guide/?utm_source=p_d_newsletter&utm_medium=email&utm_campaign=refactoring_guide){target="_blank"}
 Are you wondering how you can make your code faster, easier to read, and easier to reuse?
-Getting your code to work is just the first step! After that, you should refactor your code to make it higher-quality - more efficient, more robust, more maintainable.
+Getting your code to work is just the first step! After that, you should refactor your code to make it higher quality - more efficient, more robust, more maintainable.
 But how do you do that? Well, you can start by reading the [refactoring golden rules](https://nhsdigital.github.io/rap-community-of-practice/training_resources/refactoring-guide/?utm_source=p_d_newsletter&utm_medium=email&utm_campaign=refactoring_guide) on the RAP Community of Practice website!
 
 ___
@@ -116,11 +116,11 @@ Please bear with us as it is likely to be a learning process! Contact [Mia Noona
 </div>
 
 ### [Applications for the NIHR Health Service Modelling Associates now open](https://sites.google.com/nihr.ac.uk/hsma){target="_blank"}
-This free, 15-month course teaches people based in non-commercial health, social care, policing, or related organisations within England how to use Operational Research and Data Science techniques to improve services and aid decision making.
+This free, 15-month course teaches people how to use Operational Research and Data Science techniques to improve services and aid decision making.
  
-The course is offered free of charge, although a time commitment of one day a week for the full programme is required. All code in the course is in Python, though  some other open-source software will be used too - but no prior experience with Python (or any programming experience at all!) is required.
+The free course requires a time commitment of one day a week for the full programme. All code in the course is in Python, though  some other open-source software will be used too - but no prior experience with Python (or any programming experience at all!) is required.
 
-An [FAQ](https://sites.google.com/nihr.ac.uk/hsma/apply-to-become-a-hsma?authuser=0){target="_blank"} about the course is available, and any further questions can be sent to [penchord@exeter.ac.uk](mailto:penchord@exeter.ac.uk) or [s.j.rosser@exeter.ac.uk](mailto:s.j.rosser@exeter.ac.uk), a trainer on the course who has said she is happy to recieve questions regarding it.
+See the [FAQs](https://sites.google.com/nihr.ac.uk/hsma/apply-to-become-a-hsma?authuser=0){target="_blank"} and direct any further questions to [penchord@exeter.ac.uk](mailto:penchord@exeter.ac.uk) and [s.j.rosser@exeter.ac.uk](mailto:s.j.rosser@exeter.ac.uk).
 
 Applications for the course close on the **4th of March 2024**, with the course beginning **Monday 15th April 2024**.
 
