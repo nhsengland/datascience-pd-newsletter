@@ -48,9 +48,6 @@ Have some interesting work to share? The [HACA Conference 2024](https://haca-con
 
 ___
 
-Check out the resources to boost your skills on the [Training Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework){target="_blank"}❗and our full collection on the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}❗
-Can you spot something missing? [Contact us](mailto:datascience@nhs.net). 
-
 
 <div class="section-heading">
 # Events
@@ -137,7 +134,7 @@ Tim Roebuck [announced](https://web.yammer.com/main/org/hscic.gov.uk/threads/eyJ
 
 ### [Improve your Markdown by contributing to the Data Science website!](https://nhsengland.github.io/datascience/){target="_blank"}
 Ever wanted to try your hand at learning Markdown but never really found a reason? 
-Check out this [Markdown tutorial](https://www.markdowntutorial.com/){target="_blank"} and then try your hand at it by helping improve the newly launched [Data Science website](https://nhsengland.github.io/datascience/){target="_blank"}
+Check out this [Markdown tutorial](https://www.markdowntutorial.com/){target="_blank"} and then try your hand at it by helping improve the newly launched [Data Science website](https://nhsengland.github.io/datascience/){target="_blank"}.
 
 |  | |
 |-------|------|
