@@ -10,8 +10,137 @@
 <atom:link href="https://NHSDigital.github.io/datascience-pd-newsletter/index.xml" rel="self" type="application/rss+xml"/>
 <description>A newsletter to share professional development tips for data scientists in the NHS
 </description>
-<generator>quarto-1.4.549</generator>
-<lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.550</generator>
+<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Professional Development Newsletter February 2024</title>
+  <dc:creator>Harriet Sands and Jennifer Struthers</dc:creator>
+  <link>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_02/newsletter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://NHSDigital.github.io/datascience-pd-newsletter/images/banner_feb.png" class="img-fluid"></p>
+<p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Capability team <strong>- now in a new format!</strong></p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>There are some legacy NHS Digital items which we have identified with❗</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – PD newsletter team</p>
+<section id="highlights" class="level1 section-heading">
+<h1>Highlights</h1>
+</section>
+<section id="your-professional-development---job-descriptions" class="level4">
+<h4 class="anchored" data-anchor-id="your-professional-development---job-descriptions"><u><strong>Your Professional Development</strong> - Job Descriptions </u></h4>
+<p>When preparing for future career opportunities here at NHSE, it’s a good idea to understand the job descriptions for each role you hope to apply for.</p>
+<p>Take a look at the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Job+Descriptions" target="_blank">current data science job descriptions saved on Confluence</a> which detail the requirements and expectations for the various roles we may look to recruit for in the team. These will be used for recruitment in the immediate future.</p>
+<p>Familiarising yourself with these specifications can help you shape your professional development plans and tailor the training opportunities you seek out.</p>
+<p>Please note that in the longer term these job descriptions may change to be aligned to the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=31311216">National Competency Framework</a> and this will be communicated to the team.</p>
+</section>
+<section id="health-and-care-analytics-conference-2024---call-for-abstracts" class="level4">
+<h4 class="anchored" data-anchor-id="health-and-care-analytics-conference-2024---call-for-abstracts"><u><strong>Health and Care Analytics Conference 2024</strong> - Call for Abstracts</u></h4>
+<p>Have some interesting work to share? The <a href="https://haca-conference.nhs.uk/" target="_blank">HACA Conference 2024</a> is officially accepting applications to present (in the form of a talk or poster) at the 2024 conference, hosted 23rd-24th July at Telford International Centre. The deadline to submit is <strong>Thursday February 29th 2024</strong>. Check out the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/HACA+2024" target="_blank">HACA 2024 Confluence page</a>❗ to see the steps and track submissions.</p>
+<hr>
+</section>
+<section id="events" class="level1 section-heading">
+<h1>Events</h1>
+</section>
+<p>Lots of exciting things coming up! See the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars" target="_blank">full calendar here</a>❗</p>
+<section id="severe-mental-illness-physical-disease" class="level3">
+<h3 class="anchored" data-anchor-id="severe-mental-illness-physical-disease"><a href="https://www.hdruk.ac.uk/events/severe-mental-illness-and-physical-disease/" target="_blank">Severe Mental Illness &amp; Physical Disease</a></h3>
+<p><strong>Thursday 29th February 10:00 - 13:00, Online</strong></p>
+<p>Hosted by researchers at the Usher Institute, The University of Edinburgh, with contributions from DataMind, the Health Data Research Hub for Mental Health we will hear from researchers working on projects relating to severe mental illness and receipt of cardiovascular care as well as people with lived experience, clinicians and public health and government representatives.</p>
+</section>
+<section id="making-a-difference-using-data-to-improve-care" class="level3">
+<h3 class="anchored" data-anchor-id="making-a-difference-using-data-to-improve-care"><a href="event link" target="_blank">Making a difference: Using Data to Improve Care</a></h3>
+<p><strong>Thursday 29th February 2024 13:00 - 16:00, Online</strong></p>
+<p>Join us for the HDR UK Midlands &amp; Health Innovation East Midlands Insight Sharing Webinar. Highlights include: Dementia and the correlation with cardiovascular diseases, Leveraging administrative healthcare data to enhance drug approval in rare disease, EU data infrastructure for Rare Disease.</p>
+</section>
+<section id="what-career-live" class="level3">
+<h3 class="anchored" data-anchor-id="what-career-live"><a href="https://nhsengland.sharepoint.com/sites/thehub/SitePages/Help-us-inspire-students-to-join-the-NHS.aspx" target="_blank">What Career? Live</a></h3>
+<p><strong>Friday 1st and Saturday 2nd March, NEC Birmingham</strong></p>
+<p>NHS Health Careers is looking for people to help inspire students to join the NHS by attending this national careers event. If you’re interested, <a href="mailto:laura.monks2@nhs.net">email Laura Monks</a> by <strong>Monday 26th February</strong> .</p>
+</section>
+<section id="policy-making-for-the-age-of-ai" class="level3">
+<h3 class="anchored" data-anchor-id="policy-making-for-the-age-of-ai"><a href="https://thestrandgroup.kcl.ac.uk/event/policy-making-for-the-age-of-ai/" target="_blank">Policy Making for the Age of AI</a></h3>
+<p><strong>Wednesday 6th March, 18:30, King’s College London</strong></p>
+<p>The sixty-eigth Strand Group will take place at 18.30 on Wednesday 6th March 2024 when Sarah Munby, Permanent Secretary of the Department for Science, Innovation and Technology, will give her second lecture as Visiting Professor on ‘Policy Making in the Age of AI.’</p>
+</section>
+<section id="the-politics-and-philosophy-of-ai" class="level3">
+<h3 class="anchored" data-anchor-id="the-politics-and-philosophy-of-ai"><a href="https://www.lse.ac.uk/Events/2024/03/202403191830/ai" target="_blank">The politics and philosophy of AI</a></h3>
+<p><strong>Tuesday 19th March 2024 18:30 to 20:00, London School of Economics &amp; Online</strong></p>
+<p>As artificial intelligence (AI) moves beyond the realm of science fiction, it is already having a profound impact on our economies, societies and politics. To make sense of the transformative power and disruptive potential of AI, we are joined by thinkers at the cutting edge of the technological frontier for an in-depth discussion of its multifaceted impact. Speakers include the ‘godfather of AI’, Geoffrey Hinton; Kate Vredenburgh, Assistant Professor in the Department of Philosophy, Logic and Scientific Method at LSE and Robin Archer, the Director of the postgraduate programme in political sociology and the Director of the Ralph Miliband Programme at LSE.</p>
+</section>
+<section id="digital-footprints-2024" class="level3">
+<h3 class="anchored" data-anchor-id="digital-footprints-2024"><a href="https://digifootprints.co.uk/digital-footprints-2024/" target="_blank">Digital Footprints 2024</a></h3>
+<p><strong>Wednesday 8th May 1pm – Thursday 9th May 4pm, University of Bristol</strong></p>
+<p>Focusing on digital footprints data for social impact, inviting innovative research that harnesses the potential of these novel datasets to address pressing societal challenges and drive positive change. The conference is organised by Turing Novel Data Linkage for Health and Wellbeing Interest Group.</p>
+<p><em>Please note attendance of the conference is subject to a £50 fee.</em></p>
+<hr>
+<p>See more future events on our <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar" target="_blank">confluence calendar</a>❗</p>
+<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+</section>
+<section id="knowledge-sharing" class="level1 section-heading">
+<h1>Knowledge Sharing</h1>
+</section>
+<section id="refactoring-golden-rules" class="level3">
+<h3 class="anchored" data-anchor-id="refactoring-golden-rules"><a href="https://nhsdigital.github.io/rap-community-of-practice/training_resources/refactoring-guide/?utm_source=p_d_newsletter&amp;utm_medium=email&amp;utm_campaign=refactoring_guide" target="_blank">Refactoring Golden Rules</a></h3>
+<p>Are you wondering how you can make your code faster, easier to read, and easier to reuse? Getting your code to work is just the first step! After that, you should refactor your code to make it higher quality - more efficient, more robust, more maintainable. But how do you do that? Well, you can start by reading the <a href="https://nhsdigital.github.io/rap-community-of-practice/training_resources/refactoring-guide/?utm_source=p_d_newsletter&amp;utm_medium=email&amp;utm_campaign=refactoring_guide">refactoring golden rules</a> on the RAP Community of Practice website!</p>
+<hr>
+<p>Stay tuned for an update on what seminars &amp; show and tells will look like in the new team. Please bear with us as it is likely to be a learning process! Contact <a href="mailto:amelia.noonan1@nhs.net">Mia Noonan</a> for more information..</p>
+</section>
+<section id="training-opportunities" class="level1 section-heading">
+<h1>Training Opportunities</h1>
+</section>
+<section id="applications-for-the-nihr-health-service-modelling-associates-now-open" class="level3">
+<h3 class="anchored" data-anchor-id="applications-for-the-nihr-health-service-modelling-associates-now-open"><a href="https://sites.google.com/nihr.ac.uk/hsma" target="_blank">Applications for the NIHR Health Service Modelling Associates now open</a></h3>
+<p>This free, 15-month course teaches people how to use Operational Research and Data Science techniques to improve services and aid decision making.</p>
+<p>The free course requires a time commitment of one day a week for the full programme. All code in the course is in Python, though some other open-source software will be used too - but no prior experience with Python (or any programming experience at all!) is required.</p>
+<p>See the <a href="https://sites.google.com/nihr.ac.uk/hsma/apply-to-become-a-hsma?authuser=0" target="_blank">FAQs</a> and direct any further questions to <a href="mailto:penchord@exeter.ac.uk">penchord@exeter.ac.uk</a> and <a href="mailto:s.j.rosser@exeter.ac.uk">s.j.rosser@exeter.ac.uk</a>.</p>
+<p>Applications for the course close on the <strong>4th of March 2024</strong>, with the course beginning <strong>Monday 15th April 2024</strong>.</p>
+</section>
+<section id="become-a-stem-ambassador" class="level3">
+<h3 class="anchored" data-anchor-id="become-a-stem-ambassador"><a href="https://www.stem.org.uk/stem-ambassadors/become-a-stem-ambassador" target="_blank">Become a STEM ambassador</a></h3>
+<p>STEM Ambassadors help young people to understand the real world applications of their learning. Attend an <a href="https://www.eventbrite.com/e/volunteer-information-session-becoming-a-stem-ambassador-tickets-771603405557?aff=odcleoeventsincollection&amp;keep_tld=1" target="_blank">information session</a> on Thursday 22nd February to learn more.</p>
+</section>
+<section id="stakeholder-mapping-resources" class="level3">
+<h3 class="anchored" data-anchor-id="stakeholder-mapping-resources"><a href="https://analysisfunction.civilservice.gov.uk/policy-store/stakeholder-mapping/" target="_blank">Stakeholder Mapping Resources</a></h3>
+<p>This guidance includes a helpful template and further resources to help you map stakeholders for user engagement.</p>
+</section>
+<section id="pluralsight" class="level3">
+<h3 class="anchored" data-anchor-id="pluralsight"><a href="https://www.pluralsight.com/" target="_blank">Pluralsight</a></h3>
+<p>Tim Roebuck <a href="https://web.yammer.com/main/org/hscic.gov.uk/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMjY2Njk0NDQ1MDQ0NTMxMiJ9?trk_copy_link=V2" target="_blank">announced</a> that following delays to resolve contractual issues for a new contract, access has been restored for existing Pluralsight users, and you should been able to continue any previous training.</p>
+</section>
+<section id="improve-your-markdown-by-contributing-to-the-data-science-website" class="level3">
+<h3 class="anchored" data-anchor-id="improve-your-markdown-by-contributing-to-the-data-science-website"><a href="https://nhsengland.github.io/datascience/" target="_blank">Improve your Markdown by contributing to the Data Science website!</a></h3>
+<p>Ever wanted to try your hand at learning Markdown but never really found a reason? Check out this <a href="https://www.markdowntutorial.com/" target="_blank">Markdown tutorial</a> and then try your hand at it by helping improve the newly launched <a href="https://nhsengland.github.io/datascience/" target="_blank">Data Science website</a>.</p>
+<table class="table">
+<tbody>
+<tr class="odd">
+<td><img src="https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_02/amaia_website_newsletter.png" alt="Newsletter Image" width="350"></td>
+<td>We launched the prototype <a href="https://nhsengland.github.io/datascience/" target="_blank">Data Science website</a> - but we need your help. <br>We need your contributions (see how to do this <a href="https://github.com/nhsengland/datascience/blob/main/CONTRIBUTE.md" target="_blank">here</a>), in particular:<br><br>- Send us a summary of your project (see <a href="https://nhsengland.github.io/datascience/our_work/ds218_rap_community_of_practice/" target="_blank">this example</a>)<br>- Follow <a href="https://github.com/nhsengland/datascience/blob/main/docs/our_work/template-project.md" target="_blank">this template</a>.<br>- Contribute an article to the blog.<br>- Volunteer to pick up an <a href="https://github.com/nhsengland/datascience/issues" target="_blank">issue</a> on GitHub.<br>- Give us feedback about the <a href="https://nhsengland.github.io/datascience/" target="_blank">website</a>.<br><br>With the conference season approaching, something up on the web can be useful to point people towards!<br></td>
+</tr>
+</tbody>
+</table>
+<p>Check out all the resources in the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a>! Can you spot something missing? <a href="mailto:datascience@nhs.net">Contact us</a>!</p>
+</section>
+<section id="need-a-quick-break" class="level1 section-heading">
+<h1>Need a Quick Break?</h1>
+</section>
+<p><a href="https://mywordle.strivemath.com/?word=zokddgesefp" target="_blank">How many tries will it take you?</a></p>
+<div style="text-align: center;">
+<p><a href="https://forms.office.com/e/JJsmgPmVVJ" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a><a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>newsletter</category>
+  <category>analytics</category>
+  <guid>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_02/newsletter.html</guid>
+  <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Professional Development Newsletter January 2024</title>
   <dc:creator>Harriet Sands and Harry Kelleher</dc:creator>

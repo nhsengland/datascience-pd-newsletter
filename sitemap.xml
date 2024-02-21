@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://NHSDigital.github.io/datascience-pd-newsletter/archive.html</loc>
-    <lastmod>2024-02-09T15:42:02.798Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NHSDigital.github.io/datascience-pd-newsletter/about.html</loc>
-    <lastmod>2024-02-09T15:42:02.798Z</lastmod>
+    <loc>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_01/newsletter.html</loc>
+    <lastmod>2024-02-21T15:10:22.234Z</lastmod>
   </url>
   <url>
     <loc>https://NHSDigital.github.io/datascience-pd-newsletter/index.html</loc>
-    <lastmod>2024-02-09T15:42:02.806Z</lastmod>
+    <lastmod>2024-02-21T15:10:22.234Z</lastmod>
   </url>
   <url>
-    <loc>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_01/newsletter.html</loc>
-    <lastmod>2024-02-09T15:42:02.806Z</lastmod>
+    <loc>https://NHSDigital.github.io/datascience-pd-newsletter/about.html</loc>
+    <lastmod>2024-02-21T15:10:22.234Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NHSDigital.github.io/datascience-pd-newsletter/archive.html</loc>
+    <lastmod>2024-02-21T15:10:22.234Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_02/newsletter.html</loc>
+    <lastmod>2024-02-21T15:10:22.234Z</lastmod>
   </url>
 </urlset>
