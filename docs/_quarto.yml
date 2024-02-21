@@ -17,7 +17,7 @@ website:
       href: https://github.com/NHSDigital/datascience-pd-newsletter/blob/main/LICENCE
 
   navbar:
-    background: light
+    background: "#005EB8"
     title: false
     collapse-below: lg
     left:
