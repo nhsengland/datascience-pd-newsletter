@@ -1,6 +1,6 @@
 ---
 title: 'Professional Development Newsletter February 2024'
-date: '2024-02-23'
+date: '2024-02-21'
 format:
   html:
     css: /../index.css
@@ -11,14 +11,14 @@ format:
       - bottom=10mm
       - left=20mm
       - right=20mm
-categories: ['newsletter', 'compentency']
+categories: ['newsletter', 'analytics']
 description: 'The Professional Development newsletter for February 2024'
 author: 'Harriet Sands and Jennifer Struthers'
 ---
 
 ![](../../images/banner_feb.png)
 
-Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Capability team. 
+Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Capability team **- now in a new format!**
 
 The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
 
@@ -32,26 +32,26 @@ Thanks for reading! – PD newsletter team
 # Highlights
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+#### <u>**Your Professional Development** - Job Descriptions </u> 
 
-TEXT
+When preparing for future career opportunities here at NHSE, it's a good idea to understand the job descriptions for each role you hope to apply for. 
+
+Take a look at the [current data science job descriptions saved on Confluence](https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Job+Descriptions){target="_blank"} which detail the requirements and expectations for the various roles we may look to recruit for in the team. These will be used for recruitment in the immediate future.
+
+Familiarising yourself with these specifications can help you shape your professional development plans and tailor the training opportunities you seek out.
+
+Please note that in the longer term these job descriptions may change to be aligned to the [National Competency Framework](https://future.nhs.uk/DataAnalytics/view?objectID=31311216) and this will be communicated to the team. 
+
+#### <u>**Health and Care Analytics Conference 2024** - Call for Abstracts</u>
+Have some interesting work to share? The [HACA Conference 2024](https://haca-conference.nhs.uk/){target="_blank"} is officially accepting applications to present (in the form of a talk or poster) at the 2024 conference, hosted 23rd-24th July at Telford International Centre. The deadline to submit is **Thursday February 29th 2024**. Check out the [HACA 2024 Confluence page](https://nhsd-confluence.digital.nhs.uk/display/DAT/HACA+2024){target="_blank"}❗ to see the steps and track submissions.
+
 ___
-
-Check out the resources to boost your delivery skills on the [Training Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework){target="_blank"}❗and our full collection on the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}❗
-Can you spot something missing? [Contact us](mailto:datascience@nhs.net). 
 
 
 <div class="section-heading">
 # Events
 </div>
-Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
-
-
-
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,*
-
-A SHORT DESCRIPTION OF EVENT 
+Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗
 
 ### [Severe Mental Illness & Physical Disease](https://www.hdruk.ac.uk/events/severe-mental-illness-and-physical-disease/){target="_blank"}
 **Thursday 29th February 10:00 - 13:00, Online**
@@ -62,6 +62,11 @@ Hosted by researchers at the Usher Institute, The University of Edinburgh, with 
 **Thursday 29th February 2024 13:00 - 16:00, Online**
 
 Join us for the HDR UK Midlands & Health Innovation East Midlands Insight Sharing Webinar. Highlights include: Dementia and the correlation with cardiovascular diseases, Leveraging administrative healthcare data to enhance drug approval in rare disease, EU data infrastructure for Rare Disease.
+
+### [What Career? Live](https://nhsengland.sharepoint.com/sites/thehub/SitePages/Help-us-inspire-students-to-join-the-NHS.aspx){target="_blank"}
+**Friday 1st and Saturday 2nd March, NEC Birmingham**
+
+NHS Health Careers is looking for people to help inspire students to join the NHS by attending this national careers event. If you're interested, [email Laura Monks](mailto:laura.monks2@nhs.net) by **Monday 26th February** . 
 
 ### [Policy Making for the Age of AI](https://thestrandgroup.kcl.ac.uk/event/policy-making-for-the-age-of-ai/){target="_blank"}
 **Wednesday 6th March, 18:30, King’s College London**
@@ -75,11 +80,13 @@ As artificial intelligence (AI) moves beyond the realm of science fiction, it is
 Speakers include the 'godfather of AI', Geoffrey Hinton; Kate Vredenburgh, Assistant Professor in the Department of Philosophy, Logic and Scientific Method at LSE and Robin Archer, the Director of the postgraduate programme in political sociology and the Director of the Ralph Miliband Programme at LSE.
 
 ### [Digital Footprints 2024](https://digifootprints.co.uk/digital-footprints-2024/){target="_blank"}
-**Wednesday 8th May 1pm –Thursday 9th May 4pm, University of Bristol**
+**Wednesday 8th May 1pm – Thursday 9th May 4pm, University of Bristol**
 
 Focusing on digital footprints data for social impact, inviting innovative research that harnesses the potential of these novel datasets to address pressing societal challenges and drive positive change. The conference is organised by Turing Novel Data Linkage for Health and Wellbeing Interest Group.
 
 *Please note attendance of the conference is subject to a £50 fee.*
+
+
 ___
 
 See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
@@ -90,7 +97,10 @@ Know of any events we should feature next month? Let us know by clicking the "Co
 # Knowledge Sharing
 </div>
 
-TEXT
+### [Refactoring Golden Rules](https://nhsdigital.github.io/rap-community-of-practice/training_resources/refactoring-guide/?utm_source=p_d_newsletter&utm_medium=email&utm_campaign=refactoring_guide){target="_blank"}
+Are you wondering how you can make your code faster, easier to read, and easier to reuse?
+Getting your code to work is just the first step! After that, you should refactor your code to make it higher quality - more efficient, more robust, more maintainable.
+But how do you do that? Well, you can start by reading the [refactoring golden rules](https://nhsdigital.github.io/rap-community-of-practice/training_resources/refactoring-guide/?utm_source=p_d_newsletter&utm_medium=email&utm_campaign=refactoring_guide) on the RAP Community of Practice website!
 
 ___
 
@@ -101,6 +111,15 @@ Please bear with us as it is likely to be a learning process! Contact [Mia Noona
 # Training Opportunities
 </div>
 
+### [Applications for the NIHR Health Service Modelling Associates now open](https://sites.google.com/nihr.ac.uk/hsma){target="_blank"}
+This free, 15-month course teaches people how to use Operational Research and Data Science techniques to improve services and aid decision making.
+ 
+The free course requires a time commitment of one day a week for the full programme. All code in the course is in Python, though  some other open-source software will be used too - but no prior experience with Python (or any programming experience at all!) is required.
+
+See the [FAQs](https://sites.google.com/nihr.ac.uk/hsma/apply-to-become-a-hsma?authuser=0){target="_blank"} and direct any further questions to [penchord@exeter.ac.uk](mailto:penchord@exeter.ac.uk) and [s.j.rosser@exeter.ac.uk](mailto:s.j.rosser@exeter.ac.uk).
+
+Applications for the course close on the **4th of March 2024**, with the course beginning **Monday 15th April 2024**.
+
 ### [Become a STEM ambassador](https://www.stem.org.uk/stem-ambassadors/become-a-stem-ambassador){target="_blank"} 
 
 STEM Ambassadors help young people to understand the real world applications of their learning.
@@ -109,7 +128,24 @@ Attend an [information session](https://www.eventbrite.com/e/volunteer-informati
 ### [Stakeholder Mapping Resources](https://analysisfunction.civilservice.gov.uk/policy-store/stakeholder-mapping/){target="_blank"} 
 This guidance includes a helpful template and further resources to help you map stakeholders for user engagement.
 
+### [Pluralsight](https://www.pluralsight.com/){target="_blank"}
+Tim Roebuck [announced](https://web.yammer.com/main/org/hscic.gov.uk/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMjY2Njk0NDQ1MDQ0NTMxMiJ9?trk_copy_link=V2){target="_blank"} that following delays to resolve contractual issues for a new contract, access has been restored for existing Pluralsight users, and you should been able to continue any previous training.
+
+### [Improve your Markdown by contributing to the Data Science website!](https://nhsengland.github.io/datascience/){target="_blank"}
+Ever wanted to try your hand at learning Markdown but never really found a reason? 
+Check out this [Markdown tutorial](https://www.markdowntutorial.com/){target="_blank"} and then try your hand at it by helping improve the newly launched [Data Science website](https://nhsengland.github.io/datascience/){target="_blank"}.
+
+|  | |
+|-------|------|
+|<img src="amaia_website_newsletter.png" alt="Newsletter Image" width="350"> | We launched the prototype [Data Science website](https://nhsengland.github.io/datascience/){target="_blank"} - but we need your help. <br>We need your contributions (see how to do this [here](https://github.com/nhsengland/datascience/blob/main/CONTRIBUTE.md){target="_blank"}), in particular:<br><br>- Send us a summary of your project (see [this example](https://nhsengland.github.io/datascience/our_work/ds218_rap_community_of_practice/){target="_blank"})<br>- Follow [this template](https://github.com/nhsengland/datascience/blob/main/docs/our_work/template-project.md){target="_blank"}.<br>- Contribute an article to the blog.<br>- Volunteer to pick up an [issue](https://github.com/nhsengland/datascience/issues){target="_blank"} on GitHub.<br>- Give us feedback about the [website](https://nhsengland.github.io/datascience/){target="_blank"}.<br><br>With the conference season approaching, something up on the web can be useful to point people towards!<br>
+
 Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=zokddgesefp){target="_blank"}
 
 
 <div style="text-align: center;">
