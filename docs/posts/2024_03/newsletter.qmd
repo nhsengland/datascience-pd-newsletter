@@ -1,6 +1,6 @@
 ---
 title: 'Professional Development Newsletter March 2024'
-date: '2024-03-25'
+date: '2024-03-21'
 format:
   html:
     css: /../index.css
@@ -35,7 +35,25 @@ Thanks for reading! – PD newsletter team
 #### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
 
 TEXT
+
 ___
+
+### Leadership Competency Framework
+NHS England has [published the leadership competency framework](https://www.england.nhs.uk/leaders/){target="_blank"} which comprises a set of leadership competencies incorporating the skills, values and behaviours required in NHS board roles and establishes what good looks like in leadership terms, providing a new and consistent national standard of leadership.
+Many of us are very far from those positions, but it does not hurt to aim high. But also, it is good to know what is expected of our leaders.
+These are the six leadership competency domains that you can learn about reading the framework:
+
+1. Driving high-quality and sustainable outcomes
+2. Setting strategy and delivering long-term transformation
+3. Promoting equality and inclusion, and reducing health and workforce inequalities
+4. Providing robust governance and assurance
+5. Creating a compassionate, just and positive culture
+6. Building a trusted relationship with partners and communities
+
+
+
+___
+
 
 Check out the resources to boost your delivery skills on the [Training Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework){target="_blank"}❗and our full collection on the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}❗
 Can you spot something missing? [Contact us](mailto:datascience@nhs.net). 
@@ -49,7 +67,7 @@ Lots of exciting things coming up! See the [full calendar here](https://nhsd-con
 
 
 ### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,*
+**DATE, TIME, LOCATION,**
 
 A SHORT DESCRIPTION OF EVENT 
 
@@ -63,7 +81,10 @@ Know of any events we should feature next month? Let us know by clicking the "Co
 # Knowledge Sharing
 </div>
 
-TEXT
+### Generative AI in a research context
+Generative AI is increasingly used to draft, edit, annotate and debug code. It’s not just industry software developers who are taking advantage of the tools it has to offer. Those who develop and use software for academic research are benefitting from them too. So how do you make the best use of generative AI for coding in a research context? As software engineers with The Alan Turing Institute’s [Research Engineering Group](https://www.turing.ac.uk/work-turing/research/research-engineering-group){target="_blank"} (REG) and [PhD Enrichment scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment){target="_blank"}, we’ve been asking ourselves just this question. [Here](https://www.turing.ac.uk/blog/using-generative-ai-write-code-guide-researchers?utm_source=E%26E%20Newsletter&utm_medium=Button_link&utm_campaign=Turing-E%26E-Feb24-8){target="_blank"}, we share our thoughts, along with some tips for researchers.
+
+
 
 ___
 
@@ -79,6 +100,14 @@ TEXT
 ___
 
 Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+
+
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=icuhw){target="_blank"}
 
 
 <div style="text-align: center;">
