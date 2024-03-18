@@ -13,7 +13,7 @@ format:
       - right=20mm
 categories: ['newsletter', 'compentency']
 description: 'The Professional Development newsletter for March 2024'
-author: 'Jennifer Struthers'
+author: 'Jennifer Struthers, Giulia Mantovani'
 ---
 
 ![](../../images/banner_march.png)
@@ -32,12 +32,6 @@ Thanks for reading! – PD newsletter team
 # Highlights
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
-
-TEXT
-
-___
-
 ### Leadership Competency Framework
 NHS England has [published the leadership competency framework](https://www.england.nhs.uk/leaders/){target="_blank"} which comprises a set of leadership competencies incorporating the skills, values and behaviours required in NHS board roles and establishes what good looks like in leadership terms, providing a new and consistent national standard of leadership.
 Many of us are very far from those positions, but it does not hurt to aim high. But also, it is good to know what is expected of our leaders.
@@ -50,14 +44,7 @@ These are the six leadership competency domains that you can learn about reading
 5. Creating a compassionate, just and positive culture
 6. Building a trusted relationship with partners and communities
 
-
-
 ___
-
-
-Check out the resources to boost your delivery skills on the [Training Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework){target="_blank"}❗and our full collection on the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}❗
-Can you spot something missing? [Contact us](mailto:datascience@nhs.net). 
-
 
 <div class="section-heading">
 # Events
@@ -65,15 +52,31 @@ Can you spot something missing? [Contact us](mailto:datascience@nhs.net).
 Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
 
 
+### [AI UK Fringe Events](https://ai-uk.turing.ac.uk/fringe-events/){target="_blank"}
+**4th-29th March, In Person across the UK and Online**
 
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,**
+At a series of events AI UK Fringe brings together leaders in academia from across the UK’s AI ecosystem to demonstrate, exhibit and update on their ground-breaking work. Attendees at our AI UK Fringe events will be able to network with local colleagues and peers and take part in specialist debates and roundtables relevant to their regions. Browse this year’s events below and make sure to register your place.
 
-A SHORT DESCRIPTION OF EVENT 
+
+### [The person-centred healthcare record - pipe dream or inevitability?](https://www.tickettailor.com/events/publicdigital/1167958?mc_cid=c757cfd211&mc_eid=f15dd17114){target="_blank"}
+**Thursday 18th April, 6-7:30pm, in person in London or on Zoom**
+
+Successive administrations have tried and failed to implement a person-centred healthcare record, but can it be done? Join us to hear four digital healthcare experts debate the question of how interoperable access to patient data could or should be delivered, looking at political, commercial, and technical considerations. 
+
+
+### Lunch and Learn
+**Monday 22nd April, 12-1pm, Wellington Place: Town Hall Collaboration Space**
+
+Andy Jackson has recently released news of new lunch and learn seminars held in person in Leeds. The next one will feature a guest speaker from ONS - Population Demographics. 
+
+### [Dark Data - Data Ethics and Society Reading Group](https://www.tickettailor.com/events/dataethics/1193123/r/nhs){target="_blank"}
+**Tuesday 4th June, 1-2pm, Online (Teams)**
+
+Join the Public Sector Data Ethics & Society Reading Group to discuss David Hand's book 'Dark Data'. [Sign up now to reserve your spot](https://www.tickettailor.com/events/dataethics/1193123/r/nhs){target="_blank"} (and receive details of the 40% discount off the paperback we've scooped😎)
 
 ___
 
-See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
+See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Events){target="_blank"}❗
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
@@ -95,7 +98,8 @@ Please bear with us as it is likely to be a learning process! Contact [Mia Noona
 # Training Opportunities
 </div>
 
-TEXT
+### [Pluralsight Access](https://nhsd-confluence.digital.nhs.uk/display/DAT/Pluralsight+Access){target="_blank"}
+After the reinstation of the Pluralsight license, a confluence page on how to access it (whether or not you had access before) has been set up. Check it out to gain access to all of the Pluralsight training resources again.
 
 ___
 
