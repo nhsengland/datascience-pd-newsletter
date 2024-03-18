@@ -53,7 +53,7 @@ Lots of exciting things coming up! See the [full calendar here](https://nhsd-con
 
 
 ### [AI UK Fringe Events](https://ai-uk.turing.ac.uk/fringe-events/){target="_blank"}
-**4th-29th March, In Person across the UK and Online**
+**4th-29th March, various times, In person across the UK and online**
 
 At a series of events AI UK Fringe brings together leaders in academia from across the UK’s AI ecosystem to demonstrate, exhibit and update on their ground-breaking work. Attendees at our AI UK Fringe events will be able to network with local colleagues and peers and take part in specialist debates and roundtables relevant to their regions. Browse this year’s events below and make sure to register your place.
 
@@ -67,12 +67,24 @@ Successive administrations have tried and failed to implement a person-centred h
 ### Lunch and Learn
 **Monday 22nd April, 12-1pm, Wellington Place: Town Hall Collaboration Space**
 
-Andy Jackson has recently released news of new lunch and learn seminars held in person in Leeds. The next one will feature a guest speaker from ONS - Population Demographics. 
+Andy Jackson has recently released news of new lunch and learn seminars held in person in Leeds. The next one will feature a guest speaker from ONS - Population Demographics. Watch your email for more information.
+
+### [Digital Footprints 2024](https://digifootprints.co.uk/digital-footprints-2024/){target="_blank"}
+**Wednesday 8th May 1pm – Thursday 9th May 4pm, University of Bristol**
+
+Focusing on digital footprints data for social impact, inviting innovative research that harnesses the potential of these novel datasets to address pressing societal challenges and drive positive change. The conference is organised by Turing Novel Data Linkage for Health and Wellbeing Interest Group.
+
+*Please note attendance of the conference is subject to a £50 fee.*
+
+### [Data Science Festival MayDay 2024](https://datasciencefestival.com/event/mayday-2024/){target="_blank"}
+**Saturday 18th May, 9-6pm, CodeNode, London**
+
+Enter the ballot for achance to grab a *free* ticket to this years' Data Science Festival, hosted in London. Many speakers and sessions to be announced, but already lined up are talks on Gender Bias in Machine Learning and Leveraging GANs for Building Synthetic Data.
 
 ### [Dark Data - Data Ethics and Society Reading Group](https://www.tickettailor.com/events/dataethics/1193123/r/nhs){target="_blank"}
 **Tuesday 4th June, 1-2pm, Online (Teams)**
 
-Join the Public Sector Data Ethics & Society Reading Group to discuss David Hand's book 'Dark Data'. [Sign up now to reserve your spot](https://www.tickettailor.com/events/dataethics/1193123/r/nhs){target="_blank"} (and receive details of the 40% discount off the paperback we've scooped😎)
+Join the Public Sector Data Ethics & Society Reading Group to discuss David Hand's book 'Dark Data'. [Sign up now to reserve your spot](https://www.tickettailor.com/events/dataethics/1193123/r/nhs){target="_blank"} (and receive details of the 40% discount off the paperback we've scooped😎).
 
 ___
 
