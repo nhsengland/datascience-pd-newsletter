@@ -18,7 +18,7 @@ author: 'Jennifer Struthers, Giulia Mantovani'
 
 ![](../../images/banner_march.png)
 
-Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Capability team. 
+Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Group. 
 
 The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
 
