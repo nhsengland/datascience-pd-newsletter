@@ -10,8 +10,116 @@
 <atom:link href="https://NHSDigital.github.io/datascience-pd-newsletter/index.xml" rel="self" type="application/rss+xml"/>
 <description>A newsletter to share professional development tips for data scientists in the NHS
 </description>
-<generator>quarto-1.4.550</generator>
-<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.551</generator>
+<lastBuildDate>Thu, 21 Mar 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Professional Development Newsletter March 2024</title>
+  <dc:creator>Jennifer Struthers, Giulia Mantovani</dc:creator>
+  <link>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_03/newsletter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://NHSDigital.github.io/datascience-pd-newsletter/images/banner_march.png" class="img-fluid"></p>
+<p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Group.</p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>There are some legacy NHS Digital items which we have identified with❗</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – PD newsletter team</p>
+<section id="highlights" class="level1 section-heading">
+<h1>Highlights</h1>
+</section>
+<section id="leadership-competency-framework" class="level3">
+<h3 class="anchored" data-anchor-id="leadership-competency-framework">Leadership Competency Framework</h3>
+<p>NHS England has <a href="https://www.england.nhs.uk/leaders/" target="_blank">published the leadership competency framework</a> which comprises a set of leadership competencies incorporating the skills, values and behaviours required in NHS board roles and establishes what good looks like in leadership terms, providing a new and consistent national standard of leadership. Many of us are very far from those positions, but it does not hurt to aim high. But also, it is good to know what is expected of our leaders. These are the six leadership competency domains that you can learn about reading the framework:</p>
+<ol type="1">
+<li>Driving high-quality and sustainable outcomes</li>
+<li>Setting strategy and delivering long-term transformation</li>
+<li>Promoting equality and inclusion, and reducing health and workforce inequalities</li>
+<li>Providing robust governance and assurance</li>
+<li>Creating a compassionate, just and positive culture</li>
+<li>Building a trusted relationship with partners and communities</li>
+</ol>
+<hr>
+</section>
+<section id="events" class="level1 section-heading">
+<h1>Events</h1>
+</section>
+<p>Lots of exciting things coming up! See the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars" target="_blank">full calendar here</a>❗, and a small selection below.</p>
+<section id="ai-uk-fringe-events" class="level3">
+<h3 class="anchored" data-anchor-id="ai-uk-fringe-events"><a href="https://ai-uk.turing.ac.uk/fringe-events/" target="_blank">AI UK Fringe Events</a></h3>
+<p><strong>4th-29th March, various times, In person across the UK and online</strong></p>
+<p>At a series of events AI UK Fringe brings together leaders in academia from across the UK’s AI ecosystem to demonstrate, exhibit and update on their ground-breaking work. Attendees at our AI UK Fringe events will be able to network with local colleagues and peers and take part in specialist debates and roundtables relevant to their regions. Browse this year’s events below and make sure to register your place.</p>
+</section>
+<section id="the-person-centred-healthcare-record---pipe-dream-or-inevitability" class="level3">
+<h3 class="anchored" data-anchor-id="the-person-centred-healthcare-record---pipe-dream-or-inevitability"><a href="https://www.tickettailor.com/events/publicdigital/1167958?mc_cid=c757cfd211&amp;mc_eid=f15dd17114" target="_blank">The person-centred healthcare record - pipe dream or inevitability?</a></h3>
+<p><strong>Thursday 18th April, 6-7:30pm, in person in London or on Zoom</strong></p>
+<p>Successive administrations have tried and failed to implement a person-centred healthcare record, but can it be done? Join us to hear four digital healthcare experts debate the question of how interoperable access to patient data could or should be delivered, looking at political, commercial, and technical considerations.</p>
+</section>
+<section id="lunch-and-learn" class="level3">
+<h3 class="anchored" data-anchor-id="lunch-and-learn">Lunch and Learn</h3>
+<p><strong>Monday 22nd April, 12-1pm, Wellington Place: Town Hall Collaboration Space</strong></p>
+<p>Andy Jackson has recently released news of new lunch and learn seminars held in person in Leeds. The next one will feature a guest speaker from ONS - Population Demographics. Watch your email for more information.</p>
+</section>
+<section id="digital-footprints-2024" class="level3">
+<h3 class="anchored" data-anchor-id="digital-footprints-2024"><a href="https://digifootprints.co.uk/digital-footprints-2024/" target="_blank">Digital Footprints 2024</a></h3>
+<p><strong>Wednesday 8th May 1pm – Thursday 9th May 4pm, University of Bristol</strong></p>
+<p>Focusing on digital footprints data for social impact, inviting innovative research that harnesses the potential of these novel datasets to address pressing societal challenges and drive positive change. The conference is organised by Turing Novel Data Linkage for Health and Wellbeing Interest Group.</p>
+<p><em>Please note attendance of the conference is subject to a £50 fee.</em></p>
+</section>
+<section id="data-science-festival-mayday-2024" class="level3">
+<h3 class="anchored" data-anchor-id="data-science-festival-mayday-2024"><a href="https://datasciencefestival.com/event/mayday-2024/" target="_blank">Data Science Festival MayDay 2024</a></h3>
+<p><strong>Saturday 18th May, 9-6pm, CodeNode, London</strong></p>
+<p>Enter the ballot for achance to grab a <em>free</em> ticket to this years’ Data Science Festival, hosted in London. Many speakers and sessions to be announced, but already lined up are talks on Gender Bias in Machine Learning and Leveraging GANs for Building Synthetic Data.</p>
+</section>
+<section id="dark-data---data-ethics-and-society-reading-group" class="level3">
+<h3 class="anchored" data-anchor-id="dark-data---data-ethics-and-society-reading-group"><a href="https://www.tickettailor.com/events/dataethics/1193123/r/nhs" target="_blank">Dark Data - Data Ethics and Society Reading Group</a></h3>
+<p><strong>Tuesday 4th June, 1-2pm, Online (Teams)</strong></p>
+<p>Join the Public Sector Data Ethics &amp; Society Reading Group to discuss David Hand’s book ‘Dark Data’. <a href="https://www.tickettailor.com/events/dataethics/1193123/r/nhs" target="_blank">Sign up now to reserve your spot</a> (and receive details of the 40% discount off the paperback we’ve scooped😎).</p>
+<hr>
+<p>See more future events on our <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Events" target="_blank">confluence calendar</a>❗</p>
+<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+</section>
+<section id="knowledge-sharing" class="level1 section-heading">
+<h1>Knowledge Sharing</h1>
+</section>
+<section id="generative-ai-in-a-research-context" class="level3">
+<h3 class="anchored" data-anchor-id="generative-ai-in-a-research-context">Generative AI in a research context</h3>
+<p>Generative AI is increasingly used to draft, edit, annotate and debug code. It’s not just industry software developers who are taking advantage of the tools it has to offer. Those who develop and use software for academic research are benefitting from them too. So how do you make the best use of generative AI for coding in a research context? As software engineers with The Alan Turing Institute’s <a href="https://www.turing.ac.uk/work-turing/research/research-engineering-group" target="_blank">Research Engineering Group</a> (REG) and <a href="https://www.turing.ac.uk/work-turing/studentships/enrichment" target="_blank">PhD Enrichment scheme</a>, we’ve been asking ourselves just this question. <a href="https://www.turing.ac.uk/blog/using-generative-ai-write-code-guide-researchers" target="_blank">Here</a>, we share our thoughts, along with some tips for researchers.</p>
+</section>
+<section id="github-vs-gitlab-terminology-differences" class="level3">
+<h3 class="anchored" data-anchor-id="github-vs-gitlab-terminology-differences"><a href="https://nhsdigital.github.io/rap-community-of-practice/training_resources/git/github_gitlab_terminology/?utm_source=p_d_newsletter&amp;utm_medium=email&amp;utm_campaign=github_gitlab" target="_blank">GitHub vs Gitlab Terminology Differences</a></h3>
+<p>GitHub and GitLab are two very similar yet different platforms and that can lead to some confusion between teams who are familiar with one but not the other when some key pieces of terminology have been changed slightly between them. The RAP Community of Pracice have recently released a quick summary of some of these terminology differences. Read over this and you’ll never get your MRs and PRs mixed up again!</p>
+<hr>
+<p>Stay tuned for an update on what seminars &amp; show and tells will look like in the new team. Please bear with us as it is likely to be a learning process! Contact <a href="mailto:amelia.noonan1@nhs.net">Mia Noonan</a> for more information..</p>
+</section>
+<section id="training-opportunities" class="level1 section-heading">
+<h1>Training Opportunities</h1>
+</section>
+<section id="pluralsight-access" class="level3">
+<h3 class="anchored" data-anchor-id="pluralsight-access"><a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Pluralsight+Access" target="_blank">Pluralsight Access</a></h3>
+<p>After the reinstation of the Pluralsight license, a confluence page on how to access it (whether or not you had access before) has been set up. Check it out to gain access to all of the Pluralsight training resources again.</p>
+<hr>
+<p>Check out all the resources in the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a>! Can you spot something missing? <a href="mailto:datascience@nhs.net">Contact us</a>!</p>
+</section>
+<section id="need-a-quick-break" class="level1 section-heading">
+<h1>Need a Quick Break?</h1>
+</section>
+<p><a href="https://mywordle.strivemath.com/?word=icuhw" target="_blank">How many tries will it take you?</a></p>
+<div style="text-align: center;">
+<p><a href="https://forms.office.com/e/JJsmgPmVVJ" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a><a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>newsletter</category>
+  <category>leadership</category>
+  <guid>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_03/newsletter.html</guid>
+  <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Professional Development Newsletter February 2024</title>
   <dc:creator>Harriet Sands and Jennifer Struthers</dc:creator>
