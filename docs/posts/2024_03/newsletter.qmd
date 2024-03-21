@@ -1,0 +1,134 @@
+---
+title: 'Professional Development Newsletter March 2024'
+date: '2024-03-21'
+format:
+  html:
+    css: /../index.css
+  pdf:
+    toc: false
+    geometry: 
+      - top=10mm
+      - bottom=10mm
+      - left=20mm
+      - right=20mm
+categories: ['newsletter', 'leadership']
+description: 'The Professional Development newsletter for March 2024'
+author: 'Jennifer Struthers, Giulia Mantovani'
+---
+
+![](../../images/banner_march.png)
+
+Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Group. 
+
+The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
+
+There are some legacy NHS Digital items which we have identified with❗
+
+If you cannot access something of interest to you, please [reach out](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new){target="_blank"}. 
+
+Thanks for reading! – PD newsletter team 
+
+<div class="section-heading">
+# Highlights
+</div>
+
+### Leadership Competency Framework
+NHS England has [published the leadership competency framework](https://www.england.nhs.uk/leaders/){target="_blank"} which comprises a set of leadership competencies incorporating the skills, values and behaviours required in NHS board roles and establishes what good looks like in leadership terms, providing a new and consistent national standard of leadership.
+Many of us are very far from those positions, but it does not hurt to aim high. But also, it is good to know what is expected of our leaders.
+These are the six leadership competency domains that you can learn about reading the framework:
+
+1. Driving high-quality and sustainable outcomes
+2. Setting strategy and delivering long-term transformation
+3. Promoting equality and inclusion, and reducing health and workforce inequalities
+4. Providing robust governance and assurance
+5. Creating a compassionate, just and positive culture
+6. Building a trusted relationship with partners and communities
+
+___
+
+<div class="section-heading">
+# Events
+</div>
+Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
+
+
+### [AI UK Fringe Events](https://ai-uk.turing.ac.uk/fringe-events/){target="_blank"}
+**4th-29th March, various times, In person across the UK and online**
+
+At a series of events AI UK Fringe brings together leaders in academia from across the UK’s AI ecosystem to demonstrate, exhibit and update on their ground-breaking work. Attendees at our AI UK Fringe events will be able to network with local colleagues and peers and take part in specialist debates and roundtables relevant to their regions. Browse this year’s events below and make sure to register your place.
+
+
+### [The person-centred healthcare record - pipe dream or inevitability?](https://www.tickettailor.com/events/publicdigital/1167958?mc_cid=c757cfd211&mc_eid=f15dd17114){target="_blank"}
+**Thursday 18th April, 6-7:30pm, in person in London or on Zoom**
+
+Successive administrations have tried and failed to implement a person-centred healthcare record, but can it be done? Join us to hear four digital healthcare experts debate the question of how interoperable access to patient data could or should be delivered, looking at political, commercial, and technical considerations. 
+
+
+### Lunch and Learn
+**Monday 22nd April, 12-1pm, Wellington Place: Town Hall Collaboration Space**
+
+Andy Jackson has recently released news of new lunch and learn seminars held in person in Leeds. The next one will feature a guest speaker from ONS - Population Demographics. Watch your email for more information.
+
+### [Digital Footprints 2024](https://digifootprints.co.uk/digital-footprints-2024/){target="_blank"}
+**Wednesday 8th May 1pm – Thursday 9th May 4pm, University of Bristol**
+
+Focusing on digital footprints data for social impact, inviting innovative research that harnesses the potential of these novel datasets to address pressing societal challenges and drive positive change. The conference is organised by Turing Novel Data Linkage for Health and Wellbeing Interest Group.
+
+*Please note attendance of the conference is subject to a £50 fee.*
+
+### [Data Science Festival MayDay 2024](https://datasciencefestival.com/event/mayday-2024/){target="_blank"}
+**Saturday 18th May, 9-6pm, CodeNode, London**
+
+Enter the ballot for achance to grab a *free* ticket to this years' Data Science Festival, hosted in London. Many speakers and sessions to be announced, but already lined up are talks on Gender Bias in Machine Learning and Leveraging GANs for Building Synthetic Data.
+
+### [Dark Data - Data Ethics and Society Reading Group](https://www.tickettailor.com/events/dataethics/1193123/r/nhs){target="_blank"}
+**Tuesday 4th June, 1-2pm, Online (Teams)**
+
+Join the Public Sector Data Ethics & Society Reading Group to discuss David Hand's book 'Dark Data'. [Sign up now to reserve your spot](https://www.tickettailor.com/events/dataethics/1193123/r/nhs){target="_blank"} (and receive details of the 40% discount off the paperback we've scooped😎).
+
+___
+
+See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Events){target="_blank"}❗
+
+Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+
+<div class="section-heading">
+# Knowledge Sharing
+</div>
+
+### Generative AI in a research context
+Generative AI is increasingly used to draft, edit, annotate and debug code. It’s not just industry software developers who are taking advantage of the tools it has to offer. Those who develop and use software for academic research are benefitting from them too. So how do you make the best use of generative AI for coding in a research context? As software engineers with The Alan Turing Institute’s [Research Engineering Group](https://www.turing.ac.uk/work-turing/research/research-engineering-group){target="_blank"} (REG) and [PhD Enrichment scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment){target="_blank"}, we’ve been asking ourselves just this question. [Here](https://www.turing.ac.uk/blog/using-generative-ai-write-code-guide-researchers){target="_blank"}, we share our thoughts, along with some tips for researchers.
+
+
+### [GitHub vs Gitlab Terminology Differences](https://nhsdigital.github.io/rap-community-of-practice/training_resources/git/github_gitlab_terminology/?utm_source=p_d_newsletter&utm_medium=email&utm_campaign=github_gitlab){target="_blank"}
+GitHub and GitLab are two very similar yet different platforms and that can lead to some confusion between teams who are familiar with one but not the other when some key pieces of terminology have been changed slightly between them. The RAP Community of Pracice have recently released a quick summary of some of these terminology differences. Read over this and you'll never get your MRs and PRs mixed up again!
+
+___
+
+Stay tuned for an update on what seminars & show and tells will look like in the new team. 
+Please bear with us as it is likely to be a learning process! Contact [Mia Noonan](mailto:amelia.noonan1@nhs.net) for more information..
+
+<div class="section-heading">
+# Training Opportunities
+</div>
+
+### [Pluralsight Access](https://nhsd-confluence.digital.nhs.uk/display/DAT/Pluralsight+Access){target="_blank"}
+After the reinstation of the Pluralsight license, a confluence page on how to access it (whether or not you had access before) has been set up. Check it out to gain access to all of the Pluralsight training resources again.
+
+___
+
+Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+
+
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=icuhw){target="_blank"}
+
+
+<div style="text-align: center;">
+
+[Subscribe](https://forms.office.com/e/JJsmgPmVVJ){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+</div>
