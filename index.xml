@@ -6,27 +6,27 @@
       version="2.0">
 <channel>
 <title>Data Science PD newsletter</title>
-<link>https://NHSDigital.github.io/datascience-pd-newsletter/</link>
-<atom:link href="https://NHSDigital.github.io/datascience-pd-newsletter/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://nhsengland.github.io/datascience-pd-newsletter/</link>
+<atom:link href="https://nhsengland.github.io/datascience-pd-newsletter/index.xml" rel="self" type="application/rss+xml"/>
 <description>A newsletter to share professional development tips for data scientists in the NHS
 </description>
-<generator>quarto-1.4.551</generator>
+<generator>quarto-1.4.553</generator>
 <lastBuildDate>Thu, 21 Mar 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Professional Development Newsletter March 2024</title>
   <dc:creator>Jennifer Struthers, Giulia Mantovani</dc:creator>
-  <link>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_03/newsletter.html</link>
+  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_03/newsletter.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://NHSDigital.github.io/datascience-pd-newsletter/images/banner_march.png" class="img-fluid"></p>
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_march.png" class="img-fluid"></p>
 <p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Group.</p>
 <p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
 <p>There are some legacy NHS Digital items which we have identified with❗</p>
-<p>If you cannot access something of interest to you, please <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
 <p>Thanks for reading! – PD newsletter team</p>
 <section id="highlights" class="level1 section-heading">
 <h1>Highlights</h1>
@@ -80,7 +80,7 @@
 <p>Join the Public Sector Data Ethics &amp; Society Reading Group to discuss David Hand’s book ‘Dark Data’. <a href="https://www.tickettailor.com/events/dataethics/1193123/r/nhs" target="_blank">Sign up now to reserve your spot</a> (and receive details of the 40% discount off the paperback we’ve scooped😎).</p>
 <hr>
 <p>See more future events on our <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Events" target="_blank">confluence calendar</a>❗</p>
-<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
 </section>
 <section id="knowledge-sharing" class="level1 section-heading">
 <h1>Knowledge Sharing</h1>
@@ -109,7 +109,7 @@
 </section>
 <p><a href="https://mywordle.strivemath.com/?word=icuhw" target="_blank">How many tries will it take you?</a></p>
 <div style="text-align: center;">
-<p><a href="https://forms.office.com/e/JJsmgPmVVJ" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a><a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+<p><a href="https://forms.office.com/e/JJsmgPmVVJ" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
 </div>
 
 
@@ -117,24 +117,24 @@
  ]]></description>
   <category>newsletter</category>
   <category>leadership</category>
-  <guid>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_03/newsletter.html</guid>
+  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_03/newsletter.html</guid>
   <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Professional Development Newsletter February 2024</title>
   <dc:creator>Harriet Sands and Jennifer Struthers</dc:creator>
-  <link>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_02/newsletter.html</link>
+  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_02/newsletter.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://NHSDigital.github.io/datascience-pd-newsletter/images/banner_feb.png" class="img-fluid"></p>
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_feb.png" class="img-fluid"></p>
 <p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Capability team <strong>- now in a new format!</strong></p>
 <p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
 <p>There are some legacy NHS Digital items which we have identified with❗</p>
-<p>If you cannot access something of interest to you, please <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
 <p>Thanks for reading! – PD newsletter team</p>
 <section id="highlights" class="level1 section-heading">
 <h1>Highlights</h1>
@@ -187,7 +187,7 @@
 <p><em>Please note attendance of the conference is subject to a £50 fee.</em></p>
 <hr>
 <p>See more future events on our <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar" target="_blank">confluence calendar</a>❗</p>
-<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
 </section>
 <section id="knowledge-sharing" class="level1 section-heading">
 <h1>Knowledge Sharing</h1>
@@ -226,7 +226,7 @@
 <table class="table">
 <tbody>
 <tr class="odd">
-<td><img src="https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_02/amaia_website_newsletter.png" alt="A photoshopped image of Amaia onto a WW2 propaganda poster, saying 'We Need You'" width="350"></td>
+<td><img src="https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_02/amaia_website_newsletter.png" alt="A photoshopped image of Amaia onto a WW2 propaganda poster, saying 'We Need You'" width="350"></td>
 <td>We launched the prototype <a href="https://nhsengland.github.io/datascience/" target="_blank">Data Science website</a> - but we need your help. <br>We need your contributions (see how to do this <a href="https://github.com/nhsengland/datascience/blob/main/CONTRIBUTE.md" target="_blank">here</a>), in particular:<br><br>- Send us a summary of your project (see <a href="https://nhsengland.github.io/datascience/our_work/ds218_rap_community_of_practice/" target="_blank">this example</a>)<br>- Follow <a href="https://github.com/nhsengland/datascience/blob/main/docs/our_work/template-project.md" target="_blank">this template</a>.<br>- Contribute an article to the blog.<br>- Volunteer to pick up an <a href="https://github.com/nhsengland/datascience/issues" target="_blank">issue</a> on GitHub.<br>- Give us feedback about the <a href="https://nhsengland.github.io/datascience/" target="_blank">website</a>.<br><br>With the conference season approaching, something up on the web can be useful to point people towards!<br></td>
 </tr>
 </tbody>
@@ -238,7 +238,7 @@
 </section>
 <p><a href="https://mywordle.strivemath.com/?word=zokddgesefp" target="_blank">How many tries will it take you?</a></p>
 <div style="text-align: center;">
-<p><a href="https://forms.office.com/e/JJsmgPmVVJ" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a><a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+<p><a href="https://forms.office.com/e/JJsmgPmVVJ" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
 </div>
 
 
@@ -246,24 +246,24 @@
  ]]></description>
   <category>newsletter</category>
   <category>analytics</category>
-  <guid>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_02/newsletter.html</guid>
+  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_02/newsletter.html</guid>
   <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Professional Development Newsletter January 2024</title>
   <dc:creator>Harriet Sands and Harry Kelleher</dc:creator>
-  <link>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_01/newsletter.html</link>
+  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_01/newsletter.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="https://NHSDigital.github.io/datascience-pd-newsletter/images/banner_jan.png" class="img-fluid"></p>
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_jan.png" class="img-fluid"></p>
 <p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Capability team.</p>
 <p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
 <p>There are some items that are available via legacy systems available to former NHS Digital colleagues. We have marked these with❗</p>
-<p>If you cannot access something of interest to you, please <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
 <p>Thanks for reading! – PD newsletter team</p>
 <section id="highlights" class="level1 section-heading">
 <h1>Highlights</h1>
@@ -302,7 +302,7 @@
 <p>In an exciting, quickfire format, each speaker has eight minutes to present on data in government. Next month’s speakers include Ben Goldacre among others.</p>
 <hr>
 <p>See more future events on our <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars" target="_blank">confluence calendar</a>❗</p>
-<p>Know of any events we should feature next month?Let us know by clicking the “Contribute” button, or <a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+<p>Know of any events we should feature next month?Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
 </section>
 <section id="knowledge-sharing" class="level1 section-heading">
 <h1>Knowledge Sharing</h1>
@@ -319,7 +319,7 @@
 <hr>
 <p>Check out all the resources in the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a>! Can you spot something missing? Contact <a href="mailto:datascience@nhs.net">Harriet Sands</a>.</p>
 <div style="text-align: center;">
-<p><a href="https://forms.office.com/e/JJsmgPmVVJ" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a><a href="https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+<p><a href="https://forms.office.com/e/JJsmgPmVVJ" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
 </div>
 
 
@@ -327,7 +327,7 @@
  ]]></description>
   <category>newsletter</category>
   <category>delivery</category>
-  <guid>https://NHSDigital.github.io/datascience-pd-newsletter/posts/2024_01/newsletter.html</guid>
+  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_01/newsletter.html</guid>
   <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
