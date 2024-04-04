@@ -19,4 +19,4 @@ This is an example of a Quarto website with an NHS Theme --- it is a really powe
 
 ## Licence
 
-MIT License, see [`LICENSE.md`](https://github.com/NHSDigital/datascience-pd-newsletter/blob/main/LICENCE)
+MIT License, see [`LICENSE.md`](https://github.com/nhsengland/datascience-pd-newsletter/blob/main/LICENCE)

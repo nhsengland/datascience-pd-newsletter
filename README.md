@@ -1,6 +1,6 @@
 <img src='./docs/_assets/img/newsletter.png' align="right" alt="Newsletter logo: an envelope marked newsletter with wings" height="80" />
 
-# NHSDE Data Science Professional Development Newsletter
+# NHS England Data Science Professional Development Newsletter
 
 ## About
 
@@ -8,14 +8,14 @@ A newsletter promoting professional development for data scientists at NHS Engla
 
 ## Contributing to the newsletter
 
-Have something to contribute to the newsletter? Easily suggest it to us using the "Issues" button on the repository, or [click here](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=). We welcome all suggestions and will do our best to include everything suitable to the newsletter.
+Have something to contribute to the newsletter? Easily suggest it to us using the "Issues" button on the repository, or [click here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=). We welcome all suggestions and will do our best to include everything suitable to the newsletter.
 
 ## Creating the newsletter
 Creating the next monthly newsletter? Here's how:
 - Create a new branch with the title "month_year_newsletter"
 - Open that branch up within GitHub codespaces
 - Create a new subfolder to contain the new newsletter: docs/posts/YYYY_MM
-- Copy and paste the newsletter_template.qmd file from the root folder
+- Copy and paste the newsletter_template.qmd file from the root folder, and rename to "newsletter.qmd"
 - Replace the necessary parts in the YAML at the top of the file with the information for this month (title, date, description, authors)
 - Replace the image address for the banner with the correct month
 - Check the newsletter renders as expected by following the instructions under [Developing](#developing)
