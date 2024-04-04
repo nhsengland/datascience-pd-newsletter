@@ -24,7 +24,7 @@ The newsletter team are always happy to receive constructive feedback, and we in
 
 There are some legacy NHS Digital items which we have identified with❗
 
-If you cannot access something of interest to you, please [reach out](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new){target="_blank"}. 
+If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
 
 Thanks for reading! – PD newsletter team 
 
@@ -91,7 +91,7 @@ ___
 
 See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
 
-Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
 <div class="section-heading">
 # Knowledge Sharing
@@ -150,6 +150,6 @@ Check out all the resources in the [Training Brochure](https://nhsd-confluence.d
 
 <div style="text-align: center;">
 
-[Subscribe](https://forms.office.com/e/JJsmgPmVVJ){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+[Subscribe](https://forms.office.com/e/JJsmgPmVVJ){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
 </div>
 

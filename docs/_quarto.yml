@@ -5,16 +5,16 @@ website:
   open-graph: true
   title: "Data Science PD newsletter"
   description: "A newsletter promoting professional development for data scientists at NHS England."
-  site-url: https://NHSDigital.github.io/datascience-pd-newsletter
+  site-url: https://nhsengland.github.io/datascience-pd-newsletter
   favicon: docs/_assets/favicon.ico
-  repo-url: https:/github.com/NHSDigital/datascience-pd-newsletter
+  repo-url: https:/github.com/nhsengland/datascience-pd-newsletter
   repo-actions: [edit, issue]
 
   page-footer:
     left: "This page is built [Quarto](https://quarto.org/)."
     right:
     - text: "License"
-      href: https://github.com/NHSDigital/datascience-pd-newsletter/blob/main/LICENCE
+      href: https://github.com/nhsengland/datascience-pd-newsletter/blob/main/LICENCE
 
   navbar:
     background: "#005EB8"
@@ -26,7 +26,7 @@ website:
         href: index.qmd
     right:
       - text: "Contribute Content"
-        href: https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=
+        href: https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=
         target: _blank
       - text: "Archive"
         href: archive.qmd
@@ -37,9 +37,9 @@ website:
         menu:
           - text: "Report a Bug"
             icon: "bug"
-            href: "https://github.com/NHSDigital/datascience-pd-newsletter/issues"
+            href: "https://github.com/nhsengland/datascience-pd-newsletter/issues"
       - icon: github
-        href: https://github.com/NHSDigital/
+        href: https://github.com/nhsengland/
         aria-label: GitHub
 format:
   html:

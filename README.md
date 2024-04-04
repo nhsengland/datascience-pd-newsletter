@@ -8,7 +8,7 @@ A newsletter promoting professional development for data scientists at NHS Engla
 
 ## Contributing to the newsletter
 
-Have something to contribute to the newsletter? Easily suggest it to us using the "Issues" button on the repository, or [click here](https://github.com/NHSDigital/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=). We welcome all suggestions and will do our best to include everything suitable to the newsletter.
+Have something to contribute to the newsletter? Easily suggest it to us using the "Issues" button on the repository, or [click here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=). We welcome all suggestions and will do our best to include everything suitable to the newsletter.
 
 ## Creating the newsletter
 Creating the next monthly newsletter? Here's how:
