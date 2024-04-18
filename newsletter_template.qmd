@@ -18,7 +18,7 @@ author: 'AUTHORS'
 
 ![](../../images/banner_MONTH.png)
 
-Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Capability team. 
+Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Team. 
 
 The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
 
@@ -37,7 +37,7 @@ Thanks for reading! – PD newsletter team
 TEXT
 ___
 
-Check out the resources to boost your delivery skills on the [Training Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework){target="_blank"}❗and our full collection on the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}❗
+Check out the resources to boost your skills on the [Training Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework){target="_blank"}❗and our full collection on the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}❗
 Can you spot something missing? [Contact us](mailto:datascience@nhs.net). 
 
 
@@ -79,6 +79,13 @@ TEXT
 ___
 
 Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](custom_wordle_link){target="_blank"}
+
 
 
 <div style="text-align: center;">
