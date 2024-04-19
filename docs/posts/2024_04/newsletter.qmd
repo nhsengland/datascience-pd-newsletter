@@ -33,14 +33,14 @@ Thanks for reading! – PD newsletter team
 </div>
 
 ### Now Accessible to All!
-After a trialing the use of the [NHS Digital GitHub](https://github.com/NHSDigital){target="_blank"} to aid in the creation of the newsletter, it has now been officially moved to the publically accessible [NHS England GitHub](https://github.com/nhsengland){target="_blank"}. 
+After trialing the use of the [NHS Digital GitHub](https://github.com/NHSDigital){target="_blank"} to aid in the creation of the newsletter, it has now been officially moved to the publically accessible [NHS England GitHub](https://github.com/nhsengland){target="_blank"}. 
 
 We strongly encourage contributions to the newsletter from all our colleagues, which can be submitted through [clicking here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"} or any of the "Contribute" buttons around the site.
 
 ### Mentoring Scheme Expression of Interest
 The Professional Development Function Team are investigating the interest in starting up a Mentorship Scheme between senior and junior NHS Data Science colleagues.
 
-[Mentorship benefits both parties](https://www.southampton.ac.uk/professional-development/mentoring/benefits-of-a-mentoring-relationship.page){target="_blank"}: mentees are provided with guidance from someone who has once been in their shoes and mentors gain insights from a new perspective and experience in staff management and development.
+[Mentorship benefits both parties](https://www.southampton.ac.uk/professional-development/mentoring/benefits-of-a-mentoring-relationship.page){target="_blank"}: mentees are provided with guidance from someone who has once been in their shoes and mentors gain insights from a new perspective, and gain experience in staff management and development.
 If you are interested in becoming a mentor **and/or** mentee, please fill out the [expression of interest form](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO45Vp0C6IOYJOjBrGZlr3xANUMkRSNTg1UElOVUJXRzJaS1VGQklPMUY1Ti4u){target="_blank"}.
 
 ___
@@ -80,7 +80,7 @@ Focusing on digital footprints data for social impact, inviting innovative resea
 ### [Data Science Festival MayDay 2024](https://datasciencefestival.com/event/mayday-2024/){target="_blank"}
 **Saturday 18th May, 9-6pm, CodeNode, London**
 
-Enter the ballot for achance to grab a *free* ticket to this years' Data Science Festival, hosted in London. Many speakers and sessions to be announced, but already lined up are talks on Gender Bias in Machine Learning and Leveraging GANs for Building Synthetic Data.
+Enter the ballot for a chance to grab a *free* ticket to this years' Data Science Festival, hosted in London. Many speakers and sessions to be announced, but already lined up are talks on Gender Bias in Machine Learning and Leveraging GANs for Building Synthetic Data.
 
 ### [Dark Data - Data Ethics and Society Reading Group](https://www.tickettailor.com/events/dataethics/1193123/r/nhs){target="_blank"}
 **Tuesday 4th June, 1-2pm, Online (Teams)**
@@ -89,7 +89,7 @@ Join the Public Sector Data Ethics & Society Reading Group to discuss David Hand
 
 ___
 
-See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
+See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Events){target="_blank"}❗
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
@@ -103,9 +103,9 @@ Know of any events we should feature next month? Let us know by clicking the "Co
 ![Data Scientists discussing a fun topic over coffee, building relationships and expanding their knowledge base](DS_Discussion.png)
 
 </center>
-On Thursday 11th April we had our first Data Science discussion, hosted by Will Poulett. Data Science Discussions are a new event, focussed on peer to peer discussions on a broad range of Data Science topics. For this discussion Will asked everyone attending to research a future application of AI that interested them, and also consider how it could be later applied to healthcare. The discussion began with Will presenting his case: [Project CETI](https://www.projectceti.org/){target="_blank"}, who are applying advanced machine applying advanced machine learning and state-of-the-art robotics to listen to and translate the communication of sperm whales. Check out his slide deck [here](https://nhs.sharepoint.com/:f:/r/sites/msteams_2768a1/Shared%20Documents/FT%20-%20Professional%20Development/PD%20Events/Data%20Science%20Discussions?csf=1&web=1&e=Tbm3Gq){target="_blank"}. We then broke up into smaller group to further discuss his case and our own. 
+On Thursday 11th April we had our first Data Science discussion, hosted by Will Poulett. Data Science Discussions are a new event, focussed on peer to peer discussions on a broad range of Data Science topics. For this discussion Will asked everyone attending to research a future application of AI that interested them, and also consider how it could be later applied to healthcare. The discussion began with Will presenting his case: [Project CETI](https://www.projectceti.org/){target="_blank"}, who are applying advanced machine learning and state-of-the-art robotics to listen to and translate the communication of sperm whales. Check out his slide deck [here](https://nhs.sharepoint.com/:f:/r/sites/msteams_2768a1/Shared%20Documents/FT%20-%20Professional%20Development/PD%20Events/Data%20Science%20Discussions?csf=1&web=1&e=Tbm3Gq){target="_blank"}. We then broke up into smaller groups to further discuss his case and our own. 
 
-The Professional Devleopment Functional Team hope to hold Data Science Discussions monthly. If you have an area of Data Science you're interested in sharing, and encouraging others to look into too, please [contact us](mailto:datascience@nhs.net) to host a session! Most of the session is held in break out rooms, and so all you need to do is spark discussion.
+The Professional Development Functional Team hope to hold Data Science Discussions monthly. If you have an area of Data Science you're interested in sharing, and encouraging others to look into too, please [contact us](mailto:datascience@nhs.net) to host a session! Most of the session is held in break out rooms, and so all you need to do is spark discussion.
 
 ### RAP Drop In Sessions (Now on Tuesdays)
 
@@ -116,7 +116,7 @@ Check out the [RAP Community of Practice website](https://nhsdigital.github.io/r
 ___
 
 Stay tuned for an update on what seminars & show and tells will look like in the new team. 
-Please bear with us as it is likely to be a learning process! Contact [Mia Noonan](mailto:amelia.noonan1@nhs.net) for more information..
+Please bear with us as it is likely to be a learning process! Contact [Mia Noonan](mailto:amelia.noonan1@nhs.net) for more information.
 
 <div class="section-heading">
 # Training Opportunities
@@ -141,12 +141,12 @@ Everyone that has expertise that The Turing Way project can benefit from. The sk
 - Updating how the book looks online (e.g., website design, CSS, logos, layout) 🖥️
 - Documenting other contributions as illustrations or stories 📸
 
-Participants will be expected to attend at least one coworking session (2.5 hours each) per day virtually. 
+Participants will be expected to attend at least one co-working session (2.5 hours each) per day virtually. 
 
 
 ___
 
-Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"} ❗ Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
 
 
 <div class="section-heading">
