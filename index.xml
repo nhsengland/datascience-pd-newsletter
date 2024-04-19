@@ -11,7 +11,139 @@
 <description>A newsletter to share professional development tips for data scientists in the NHS
 </description>
 <generator>quarto-1.4.553</generator>
-<lastBuildDate>Thu, 21 Mar 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Apr 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Professional Development Newsletter April 2024</title>
+  <dc:creator>Jennifer Struthers, Giulia Mantovani, Harriet Sands</dc:creator>
+  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_04/newsletter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_april.png" class="img-fluid"></p>
+<p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science Professional Development Functional Team.</p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>There are some legacy NHS Digital items which we have identified with❗</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – PD newsletter team</p>
+<section id="highlights" class="level1 section-heading">
+<h1>Highlights</h1>
+</section>
+<section id="now-accessible-to-all" class="level3">
+<h3 class="anchored" data-anchor-id="now-accessible-to-all">Now Accessible to All!</h3>
+<p>After trialing the use of the <a href="https://github.com/NHSDigital" target="_blank">NHS Digital GitHub</a> to aid in the creation of the newsletter, it has now been officially moved to the publically accessible <a href="https://github.com/nhsengland" target="_blank">NHS England GitHub</a>.</p>
+<p>We strongly encourage contributions to the newsletter from all our colleagues, which can be submitted through <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">clicking here</a> or any of the “Contribute” buttons around the site.</p>
+</section>
+<section id="mentoring-scheme-expression-of-interest" class="level3">
+<h3 class="anchored" data-anchor-id="mentoring-scheme-expression-of-interest">Mentoring Scheme Expression of Interest</h3>
+<p>The Professional Development Function Team are investigating the interest in starting up a Mentorship Scheme between senior and junior NHS Data Science colleagues.</p>
+<p><a href="https://www.southampton.ac.uk/professional-development/mentoring/benefits-of-a-mentoring-relationship.page" target="_blank">Mentorship benefits both parties</a>: mentees are provided with guidance from someone who has once been in their shoes and mentors gain insights from a new perspective, and gain experience in staff management and development. If you are interested in becoming a mentor <strong>and/or</strong> mentee, please fill out the <a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO45Vp0C6IOYJOjBrGZlr3xANUMkRSNTg1UElOVUJXRzJaS1VGQklPMUY1Ti4u" target="_blank">expression of interest form</a>.</p>
+<hr>
+</section>
+<section id="events" class="level1 section-heading">
+<h1>Events</h1>
+</section>
+<p>Lots of exciting things coming up! See the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars" target="_blank">full calendar here</a>❗, and a small selection below.</p>
+<section id="hdr-uk-advanced-computer-science-summit-ai-and-healthcare" class="level3">
+<h3 class="anchored" data-anchor-id="hdr-uk-advanced-computer-science-summit-ai-and-healthcare"><a href="https://www.hdruk.ac.uk/events/hdr-uk-advanced-computer-science-summit-ai-and-healthcare/" target="_blank">HDR UK Advanced Computer Science Summit: AI and Healthcare</a></h3>
+<p><strong>24 April 2024, 10:00AM - 3:30PM, Online</strong></p>
+<p>The <a href="https://www.hdruk.ac.uk/events/hdr-uk-advanced-computer-science-summit-ai-and-healthcare/" target="_blank">HDR UK Advanced Computer Science Summit: AI and Healthcare</a> aims to anticipate advances in technologies that are on the horizon and discuss the impact these may have on health data research.</p>
+<p>Cool speakers include but are not limited to:</p>
+<ul>
+<li><a href="https://www.linkedin.com/in/elham-kashefi-76b9286/">Elham Kashefi</a> (Chief Scientist for the <a href="https://www.nqcc.ac.uk/wp-content/uploads/2022/11/Press-release-Announcement-of-the-appointment-of-the-Chief-Scientist-for-the-NQCC.pdf">UK’s National Quantum Computing Centre</a> will discuss quantum computation)</li>
+<li><a href="https://profiles.ucl.ac.uk/78197-honghan-wu">Honghan Wu</a> (Associate Professor at the Institute of Health Informatics at UCL will lead on NLP and using text technologies and Knowledge Graph techniques to analyze health data)</li>
+<li><a href="https://www.ed.ac.uk/profile/dr-william-whiteley">William Whiteley</a> (Professor of Neurology and Epidemiology at the University of Edinburgh will discuss replicating RCTs by use of data at large scale)</li>
+<li><a href="https://www.linkedin.com/in/mobuolafoluwa-onayade/">Mobuolafoluwa Onayade</a> (Health Data Scientist and Analyst at Swansea University will be presenting on The use of Causal Machine Learning (CausalML) as an upgrade to Traditional Machine Learning)</li>
+</ul>
+</section>
+<section id="the-turing-roche-knowledge-share-series-fairness-in-ai-for-health" class="level3">
+<h3 class="anchored" data-anchor-id="the-turing-roche-knowledge-share-series-fairness-in-ai-for-health"><a href="https://www.turing.ac.uk/events/turing-roche-knowledge-share-series-fairness-ai-health">The Turing-Roche Knowledge Share Series: Fairness in AI for Health</a></h3>
+<p><strong>Tuesday 30th April, 3-4pm, Online</strong></p>
+<p>Join the Turing-Roche Partnership’s virtual event series for partnership updates, knowledge sharing and new perspectives. This event will explore the theme of fairness in AI, with relation to health, and hear from Leandra Bräuninger, a PhD student at University College London and Adarsh Srivastava, Head of Data and Analytics Quality Assurance at Roche.</p>
+</section>
+<section id="digital-footprints-2024" class="level3">
+<h3 class="anchored" data-anchor-id="digital-footprints-2024"><a href="https://digifootprints.co.uk/digital-footprints-2024/" target="_blank">Digital Footprints 2024</a></h3>
+<p><strong>Wednesday 8th May 1pm – Thursday 9th May 4pm, University of Bristol</strong></p>
+<p>Focusing on digital footprints data for social impact, inviting innovative research that harnesses the potential of these novel datasets to address pressing societal challenges and drive positive change. The conference is organised by Turing Novel Data Linkage for Health and Wellbeing Interest Group.</p>
+<p><em>Please note attendance of the conference is subject to a £50 fee.</em></p>
+</section>
+<section id="data-science-festival-mayday-2024" class="level3">
+<h3 class="anchored" data-anchor-id="data-science-festival-mayday-2024"><a href="https://datasciencefestival.com/event/mayday-2024/" target="_blank">Data Science Festival MayDay 2024</a></h3>
+<p><strong>Saturday 18th May, 9-6pm, CodeNode, London</strong></p>
+<p>Enter the ballot for a chance to grab a <em>free</em> ticket to this years’ Data Science Festival, hosted in London. Many speakers and sessions to be announced, but already lined up are talks on Gender Bias in Machine Learning and Leveraging GANs for Building Synthetic Data.</p>
+</section>
+<section id="dark-data---data-ethics-and-society-reading-group" class="level3">
+<h3 class="anchored" data-anchor-id="dark-data---data-ethics-and-society-reading-group"><a href="https://www.tickettailor.com/events/dataethics/1193123/r/nhs" target="_blank">Dark Data - Data Ethics and Society Reading Group</a></h3>
+<p><strong>Tuesday 4th June, 1-2pm, Online (Teams)</strong></p>
+<p>Join the Public Sector Data Ethics &amp; Society Reading Group to discuss David Hand’s book ‘Dark Data’. <a href="https://www.tickettailor.com/events/dataethics/1193123/r/nhs" target="_blank">Sign up now to reserve your spot</a> (and receive details of the 40% discount off the paperback we’ve scooped😎).</p>
+<hr>
+<p>See more future events on our <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Events" target="_blank">confluence calendar</a>❗</p>
+<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+</section>
+<section id="knowledge-sharing" class="level1 section-heading">
+<h1>Knowledge Sharing</h1>
+</section>
+<section id="data-science-discussions" class="level3">
+<h3 class="anchored" data-anchor-id="data-science-discussions">Data Science Discussions</h3>
+<center>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_04/DS_Discussion.png" class="img-fluid figure-img"></p>
+<figcaption>Data Scientists discussing a fun topic over coffee, building relationships and expanding their knowledge base</figcaption>
+</figure>
+</div>
+</center>
+<p>On Thursday 11th April we had our first Data Science discussion, hosted by Will Poulett. Data Science Discussions are a new event, focussed on peer to peer discussions on a broad range of Data Science topics. For this discussion Will asked everyone attending to research a future application of AI that interested them, and also consider how it could be later applied to healthcare. The discussion began with Will presenting his case: <a href="https://www.projectceti.org/" target="_blank">Project CETI</a>, who are applying advanced machine learning and state-of-the-art robotics to listen to and translate the communication of sperm whales. Check out his slide deck <a href="https://nhs.sharepoint.com/:f:/r/sites/msteams_2768a1/Shared%20Documents/FT%20-%20Professional%20Development/PD%20Events/Data%20Science%20Discussions?csf=1&amp;web=1&amp;e=Tbm3Gq" target="_blank">here</a>. We then broke up into smaller groups to further discuss his case and our own.</p>
+<p>The Professional Development Functional Team hope to hold Data Science Discussions monthly. If you have an area of Data Science you’re interested in sharing, and encouraging others to look into too, please <a href="mailto:datascience@nhs.net">contact us</a> to host a session! Most of the session is held in break out rooms, and so all you need to do is spark discussion.</p>
+</section>
+<section id="rap-drop-in-sessions-now-on-tuesdays" class="level3">
+<h3 class="anchored" data-anchor-id="rap-drop-in-sessions-now-on-tuesdays">RAP Drop In Sessions (Now on Tuesdays)</h3>
+<p>The RAP Squad hold a <a href="https://teams.microsoft.com/l/meetup-join/19:meeting_NGE5Mjc5ZGQtYjJkZi00OGQ4LWJmYmMtOGIxYzI3NWQ3NWZi@thread.v2/0?context=%7B%22Tid%22:%2237c354b2-85b0-47f5-b222-07b48d774ee3%22,%22Oid%22:%226a6e419b-5da0-48cb-854e-e7cca39c57e2%22%7D" target="_blank">weekly drop in session on Teams</a>,<strong>Tuesdays 10-11am</strong>, for anything and all things RAP (Reproducibile Analytical Pipelines). Come along to ask questions, get tips, or share instances of best practice in your team!</p>
+<p>Check out the <a href="https://nhsdigital.github.io/rap-community-of-practice/?utm_source=p_d_newsletter&amp;utm_medium=email&amp;utm_campaign=homepage">RAP Community of Practice website</a> to learn more, including <a href="https://nhsdigital.github.io/rap-community-of-practice/introduction_to_RAP/gov-policy-on-rap/?utm_source=p_d_newsletter&amp;utm_medium=email&amp;utm_campaign=gov_policy">information on what the government has been saying about RAP</a> (spoiler: it’s fast becoming the required way of working with data).</p>
+<hr>
+<p>Stay tuned for an update on what seminars &amp; show and tells will look like in the new team. Please bear with us as it is likely to be a learning process! Contact <a href="mailto:amelia.noonan1@nhs.net">Mia Noonan</a> for more information.</p>
+</section>
+<section id="training-opportunities" class="level1 section-heading">
+<h1>Training Opportunities</h1>
+</section>
+<section id="the-turing-way-book-dash" class="level3">
+<h3 class="anchored" data-anchor-id="the-turing-way-book-dash">The Turing Way Book Dash</h3>
+<p><a href="https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events.html"><strong>The Turing Way Book Dash</strong></a> is a collaborative event where you’ll work with others to add to and improve <strong>The Turing Way book</strong> and become a part of its community.</p>
+<p>The online contribution sessions (collaborative co-working format) and the social networking session will take place from <strong>3 to 6 June 2024</strong>, and two community share-out events on <strong>7 June 2024</strong>. <a href="https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events">See details</a>. There may also be an opportunity to join an in-person hub in your area - please indicate your interest in the application.</p>
+<p><strong>Application</strong> <a href="https://docs.google.com/document/d/1FdrlFh_4yw7XsqoG-yQt8zbEH9J8wHVhKl3ZfNz_NBk/edit">Please see the application form here</a>. Submission deadline is <strong>Friday 26th April 2024</strong> and the application form may take around 30 minutes to complete.</p>
+<p><strong>Who should apply?</strong> Everyone that has expertise that The Turing Way project can benefit from. The skills and contributions that they’re looking for include, but are not limited to:</p>
+<ul>
+<li>Tools, methods, and case studies from reproducibility in Data Science 🛠️</li>
+<li>Science communication skills: skills in writing, editing, and/or exciting interactive communications 📝</li>
+<li>Project design and management skills 📊</li>
+<li>Approaches and principles for collaboration in data science 🤝</li>
+<li>Collaboratively writing new chapters 📝</li>
+<li>Reviewing others’ contributions or editing the current chapters 📋</li>
+<li>Updating how the book looks online (e.g., website design, CSS, logos, layout) 🖥️</li>
+<li>Documenting other contributions as illustrations or stories 📸</li>
+</ul>
+<p>Participants will be expected to attend at least one co-working session (2.5 hours each) per day virtually.</p>
+<hr>
+<p>Check out all the resources in the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a> ❗ Can you spot something missing? <a href="mailto:datascience@nhs.net">Contact us</a>!</p>
+</section>
+<section id="need-a-quick-break" class="level1 section-heading">
+<h1>Need a Quick Break?</h1>
+</section>
+<p><a href="https://mywordle.strivemath.com/?word=mivuj">How many tries will it take you?</a></p>
+<div style="text-align: center;">
+<p><a href="https://forms.office.com/e/JJsmgPmVVJ" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe (nhs.net login)</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>newsletter</category>
+  <category>compentency</category>
+  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_04/newsletter.html</guid>
+  <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Professional Development Newsletter March 2024</title>
   <dc:creator>Jennifer Struthers, Giulia Mantovani</dc:creator>
