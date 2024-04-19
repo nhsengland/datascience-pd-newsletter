@@ -18,7 +18,7 @@ author: 'Jennifer Struthers, Giulia Mantovani, Harriet Sands'
 
 ![](../../images/banner_april.png)
 
-Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Team. 
+Welcome to the latest Professional Development newsletter, brought to you by the Data Science Professional Development Functional Team. 
 
 The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
 
@@ -57,11 +57,8 @@ Lots of exciting things coming up! See the [full calendar here](https://nhsd-con
 
 The [HDR UK Advanced Computer Science Summit: AI and Healthcare](https://www.hdruk.ac.uk/events/hdr-uk-advanced-computer-science-summit-ai-and-healthcare/){target="_blank"} aims to anticipate advances in technologies that are on the horizon and discuss the impact these may have on health data research. 
 
-Cool speakers include:
+Cool speakers include but are not limited to:
 
-- [Frank van Harmelen](https://www.cs.vu.nl/~frankh/) (Professor in Knowledge Representation & Reasoning in the Computer Science department at the Vrije Universiteit Amsterdam will present on human-centric AI)
-- [Alessandra Russo](https://wp.doc.ic.ac.uk/arusso/) (Professor in Applied Computational Logic at Imperial College London will talk on large-scale machine learning)
-- [Mark Parsons](https://www.epcc.ed.ac.uk/about-us/our-team/prof-mark-parsons) (Personal Chair in High Performance Computing at the University of Edinburgh who is establishing the UK’s Exascale Computing Facility will give insight into exascale computation)
 - [Elham Kashefi](https://www.linkedin.com/in/elham-kashefi-76b9286/) (Chief Scientist for the [UK’s National Quantum Computing Centre](https://www.nqcc.ac.uk/wp-content/uploads/2022/11/Press-release-Announcement-of-the-appointment-of-the-Chief-Scientist-for-the-NQCC.pdf) will discuss quantum computation)
 - [Honghan Wu](https://profiles.ucl.ac.uk/78197-honghan-wu) (Associate Professor at the Institute of Health Informatics at UCL will lead on NLP and using text technologies and Knowledge Graph techniques to analyze health data)
 - [William Whiteley](https://www.ed.ac.uk/profile/dr-william-whiteley) (Professor of Neurology and Epidemiology at the University of Edinburgh will discuss replicating RCTs by use of data at large scale)
@@ -70,6 +67,7 @@ Cool speakers include:
 
 ### [The Turing-Roche Knowledge Share Series: Fairness in AI for Health](https://www.turing.ac.uk/events/turing-roche-knowledge-share-series-fairness-ai-health)
 **Tuesday 30th April, 3-4pm, Online**
+
 Join the Turing-Roche Partnership’s virtual event series for partnership updates, knowledge sharing and new perspectives. This event will explore the theme of fairness in AI, with relation to health, and hear from Leandra Bräuninger, a PhD student at University College London and Adarsh Srivastava, Head of Data and Analytics Quality Assurance at Roche.
 
 ### [Digital Footprints 2024](https://digifootprints.co.uk/digital-footprints-2024/){target="_blank"}
@@ -107,13 +105,6 @@ Know of any events we should feature next month? Let us know by clicking the "Co
 </center>
 On Thursday 11th April we had our first Data Science discussion, hosted by Will Poulett. Data Science Discussions are a new event, focussed on peer to peer discussions on a broad range of Data Science topics. For this discussion Will asked everyone attending to research a future application of AI that interested them, and also consider how it could be later applied to healthcare. The discussion began with Will presenting his case: [Project CETI](https://www.projectceti.org/){target="_blank"}, who are applying advanced machine applying advanced machine learning and state-of-the-art robotics to listen to and translate the communication of sperm whales. Check out his slide deck [here](https://nhs.sharepoint.com/:f:/r/sites/msteams_2768a1/Shared%20Documents/FT%20-%20Professional%20Development/PD%20Events/Data%20Science%20Discussions?csf=1&web=1&e=Tbm3Gq){target="_blank"}. We then broke up into smaller group to further discuss his case and our own. 
 
-Some AI applications discussed in each group included:
-
-- Smart Grids: using AI to predict surges in clean energy
-- HMMM 
-- HMMM
-- hMMM
-
 The Professional Devleopment Functional Team hope to hold Data Science Discussions monthly. If you have an area of Data Science you're interested in sharing, and encouraging others to look into too, please [contact us](mailto:datascience@nhs.net) to host a session! Most of the session is held in break out rooms, and so all you need to do is spark discussion.
 
 ### RAP Drop In Sessions (Now on Tuesdays)
@@ -139,7 +130,7 @@ The online contribution sessions (collaborative co-working format) and the socia
 [Please see the application form here](https://docs.google.com/document/d/1FdrlFh_4yw7XsqoG-yQt8zbEH9J8wHVhKl3ZfNz_NBk/edit). Submission deadline is **Friday 26th April 2024** and the application form may take around 30 minutes to complete.
 
 **Who should apply?**
-Everyone in research (across academia, industry, government) have expertise that The Turing Way project can benefit from. The skills and contributions that they're looking for include, but are not limited to:
+Everyone that has expertise that The Turing Way project can benefit from. The skills and contributions that they're looking for include, but are not limited to:
 
 - Tools, methods, and case studies from reproducibility in Data Science 🛠️
 - Science communication skills: skills in writing, editing, and/or exciting interactive communications 📝
