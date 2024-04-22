@@ -1,6 +1,6 @@
 ---
 title: 'Professional Development Newsletter April 2024'
-date: '2024-04-23'
+date: '2024-04-22'
 format:
   html:
     css: /../index.css
@@ -13,7 +13,10 @@ format:
       - right=20mm
 categories: ['newsletter', 'compentency']
 description: 'The Professional Development newsletter for April 2024'
-author: 'Jennifer Struthers, Giulia Mantovani, Harriet Sands'
+author: 
+  - 'Jennifer Struthers' 
+  - 'Giulia Mantovani'
+  - 'Harriet Sands'
 ---
 
 ![](../../images/banner_april.png)
