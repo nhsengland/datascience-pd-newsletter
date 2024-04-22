@@ -11,7 +11,7 @@ format:
       - bottom=10mm
       - left=20mm
       - right=20mm
-categories: ['newsletter', 'compentency']
+categories: ['newsletter']
 description: 'The Professional Development newsletter for April 2024'
 author: 
   - 'Jennifer Struthers' 
