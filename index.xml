@@ -11,10 +11,12 @@
 <description>A newsletter to share professional development tips for data scientists in the NHS
 </description>
 <generator>quarto-1.4.553</generator>
-<lastBuildDate>Tue, 23 Apr 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 22 Apr 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Professional Development Newsletter April 2024</title>
-  <dc:creator>Jennifer Struthers, Giulia Mantovani, Harriet Sands</dc:creator>
+  <dc:creator>Jennifer Struthers</dc:creator>
+  <dc:creator>Giulia Mantovani</dc:creator>
+  <dc:creator>Harriet Sands</dc:creator>
   <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_04/newsletter.html</link>
   <description><![CDATA[ 
 
@@ -142,7 +144,7 @@
   <category>newsletter</category>
   <category>compentency</category>
   <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_04/newsletter.html</guid>
-  <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
+  <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Professional Development Newsletter March 2024</title>
