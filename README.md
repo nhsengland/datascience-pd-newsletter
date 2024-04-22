@@ -15,6 +15,7 @@ Creating the next monthly newsletter? Here's how:
 - Create a new branch with the title "month_year_newsletter"
 - Open that branch up within GitHub codespaces
 - Create a new subfolder to contain the new newsletter: docs/posts/YYYY_MM
+- Copy and paste the index.css file into this folder (HTML rendering will not work otherwise- this is a workaround)
 - Copy and paste the newsletter_template.qmd file from the root folder, and rename to "newsletter.qmd"
 - Replace the necessary parts in the YAML at the top of the file with the information for this month (title, date, description, authors)
 - Replace the image address for the banner with the correct month
