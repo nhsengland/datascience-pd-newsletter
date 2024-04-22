@@ -1,0 +1,166 @@
+---
+title: 'Professional Development Newsletter April 2024'
+date: '2024-04-22'
+format:
+  html:
+    css: index.css
+  pdf:
+    toc: false
+    geometry: 
+      - top=10mm
+      - bottom=10mm
+      - left=20mm
+      - right=20mm
+categories: ['newsletter']
+description: 'The Professional Development newsletter for April 2024'
+author: 
+  - 'Jennifer Struthers' 
+  - 'Giulia Mantovani'
+  - 'Harriet Sands'
+---
+
+![](../../images/banner_april.png)
+
+Welcome to the latest Professional Development newsletter, brought to you by the Data Science Professional Development Functional Team. 
+
+The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
+
+There are some legacy NHS Digital items which we have identified with❗
+
+If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
+
+Thanks for reading! – PD newsletter team 
+
+<div class="section-heading">
+# Highlights
+</div>
+
+### Now Accessible to All!
+After trialing the use of the [NHS Digital GitHub](https://github.com/NHSDigital){target="_blank"} to aid in the creation of the newsletter, it has now been officially moved to the publically accessible [NHS England GitHub](https://github.com/nhsengland){target="_blank"}. 
+
+We strongly encourage contributions to the newsletter from all our colleagues, which can be submitted through [clicking here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"} or any of the "Contribute" buttons around the site.
+
+### Mentoring Scheme Expression of Interest
+The Professional Development Function Team are investigating the interest in starting up a Mentorship Scheme between senior and junior NHS Data Science colleagues.
+
+[Mentorship benefits both parties](https://www.southampton.ac.uk/professional-development/mentoring/benefits-of-a-mentoring-relationship.page){target="_blank"}: mentees are provided with guidance from someone who has once been in their shoes and mentors gain insights from a new perspective, and gain experience in staff management and development.
+If you are interested in becoming a mentor **and/or** mentee, please fill out the [expression of interest form](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO45Vp0C6IOYJOjBrGZlr3xANUMkRSNTg1UElOVUJXRzJaS1VGQklPMUY1Ti4u){target="_blank"}.
+
+___
+
+
+<div class="section-heading">
+# Events
+</div>
+Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
+
+
+### [HDR UK Advanced Computer Science Summit: AI and Healthcare](https://www.hdruk.ac.uk/events/hdr-uk-advanced-computer-science-summit-ai-and-healthcare/){target="_blank"}
+**24 April 2024, 10:00AM - 3:30PM, Online**
+
+The [HDR UK Advanced Computer Science Summit: AI and Healthcare](https://www.hdruk.ac.uk/events/hdr-uk-advanced-computer-science-summit-ai-and-healthcare/){target="_blank"} aims to anticipate advances in technologies that are on the horizon and discuss the impact these may have on health data research. 
+
+Cool speakers include but are not limited to:
+
+- [Elham Kashefi](https://www.linkedin.com/in/elham-kashefi-76b9286/) (Chief Scientist for the [UK’s National Quantum Computing Centre](https://www.nqcc.ac.uk/wp-content/uploads/2022/11/Press-release-Announcement-of-the-appointment-of-the-Chief-Scientist-for-the-NQCC.pdf) will discuss quantum computation)
+- [Honghan Wu](https://profiles.ucl.ac.uk/78197-honghan-wu) (Associate Professor at the Institute of Health Informatics at UCL will lead on NLP and using text technologies and Knowledge Graph techniques to analyze health data)
+- [William Whiteley](https://www.ed.ac.uk/profile/dr-william-whiteley) (Professor of Neurology and Epidemiology at the University of Edinburgh will discuss replicating RCTs by use of data at large scale)
+- [Mobuolafoluwa Onayade](https://www.linkedin.com/in/mobuolafoluwa-onayade/) (Health Data Scientist and Analyst at Swansea University will be presenting on The use of Causal Machine Learning (CausalML) as an upgrade to Traditional Machine Learning)
+
+
+### [The Turing-Roche Knowledge Share Series: Fairness in AI for Health](https://www.turing.ac.uk/events/turing-roche-knowledge-share-series-fairness-ai-health)
+**Tuesday 30th April, 3-4pm, Online**
+
+Join the Turing-Roche Partnership’s virtual event series for partnership updates, knowledge sharing and new perspectives. This event will explore the theme of fairness in AI, with relation to health, and hear from Leandra Bräuninger, a PhD student at University College London and Adarsh Srivastava, Head of Data and Analytics Quality Assurance at Roche.
+
+### [Digital Footprints 2024](https://digifootprints.co.uk/digital-footprints-2024/){target="_blank"}
+**Wednesday 8th May 1pm – Thursday 9th May 4pm, University of Bristol**
+
+Focusing on digital footprints data for social impact, inviting innovative research that harnesses the potential of these novel datasets to address pressing societal challenges and drive positive change. The conference is organised by Turing Novel Data Linkage for Health and Wellbeing Interest Group.
+
+*Please note attendance of the conference is subject to a £50 fee.*
+
+### [Data Science Festival MayDay 2024](https://datasciencefestival.com/event/mayday-2024/){target="_blank"}
+**Saturday 18th May, 9-6pm, CodeNode, London**
+
+Enter the ballot for a chance to grab a *free* ticket to this years' Data Science Festival, hosted in London. Many speakers and sessions to be announced, but already lined up are talks on Gender Bias in Machine Learning and Leveraging GANs for Building Synthetic Data.
+
+### [Dark Data - Data Ethics and Society Reading Group](https://www.tickettailor.com/events/dataethics/1193123/r/nhs){target="_blank"}
+**Tuesday 4th June, 1-2pm, Online (Teams)**
+
+Join the Public Sector Data Ethics & Society Reading Group to discuss David Hand's book 'Dark Data'. [Sign up now to reserve your spot](https://www.tickettailor.com/events/dataethics/1193123/r/nhs){target="_blank"} (and receive details of the 40% discount off the paperback we've scooped😎).
+
+___
+
+See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Events){target="_blank"}❗
+
+Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+
+<div class="section-heading">
+# Knowledge Sharing
+</div>
+
+### Data Science Discussions 
+<center>
+
+![Data Scientists discussing a fun topic over coffee, building relationships and expanding their knowledge base](DS_Discussion.png)
+
+</center>
+On Thursday 11th April we had our first Data Science discussion, hosted by Will Poulett. Data Science Discussions are a new event, focussed on peer to peer discussions on a broad range of Data Science topics. For this discussion Will asked everyone attending to research a future application of AI that interested them, and also consider how it could be later applied to healthcare. The discussion began with Will presenting his case: [Project CETI](https://www.projectceti.org/){target="_blank"}, who are applying advanced machine learning and state-of-the-art robotics to listen to and translate the communication of sperm whales. Check out his slide deck [here](https://nhs.sharepoint.com/:f:/r/sites/msteams_2768a1/Shared%20Documents/FT%20-%20Professional%20Development/PD%20Events/Data%20Science%20Discussions?csf=1&web=1&e=Tbm3Gq){target="_blank"}. We then broke up into smaller groups to further discuss his case and our own. 
+
+The Professional Development Functional Team hope to hold Data Science Discussions monthly. If you have an area of Data Science you're interested in sharing, and encouraging others to look into too, please [contact us](mailto:datascience@nhs.net) to host a session! Most of the session is held in break out rooms, and so all you need to do is spark discussion.
+
+### RAP Drop In Sessions (Now on Tuesdays)
+
+The RAP Squad hold a [weekly drop in session on Teams](https://teams.microsoft.com/l/meetup-join/19:meeting_NGE5Mjc5ZGQtYjJkZi00OGQ4LWJmYmMtOGIxYzI3NWQ3NWZi@thread.v2/0?context=%7B%22Tid%22:%2237c354b2-85b0-47f5-b222-07b48d774ee3%22,%22Oid%22:%226a6e419b-5da0-48cb-854e-e7cca39c57e2%22%7D){target="_blank"},**Tuesdays 10-11am**, for anything and all things RAP (Reproducibile Analytical Pipelines). Come along to ask questions, get tips, or share instances of best practice in your team!
+
+Check out the [RAP Community of Practice website](https://nhsdigital.github.io/rap-community-of-practice/?utm_source=p_d_newsletter&utm_medium=email&utm_campaign=homepage) to learn more, including [information on what the government has been saying about RAP](https://nhsdigital.github.io/rap-community-of-practice/introduction_to_RAP/gov-policy-on-rap/?utm_source=p_d_newsletter&utm_medium=email&utm_campaign=gov_policy) (spoiler: it's fast becoming the required way of working with data).
+
+___
+
+Stay tuned for an update on what seminars & show and tells will look like in the new team. 
+Please bear with us as it is likely to be a learning process! Contact [Mia Noonan](mailto:amelia.noonan1@nhs.net) for more information.
+
+<div class="section-heading">
+# Training Opportunities
+</div>
+### The Turing Way Book Dash
+[**The Turing Way Book Dash**](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events.html) is a collaborative event where you'll work with others to add to and improve **The Turing Way book** and become a part of its community.
+
+The online contribution sessions (collaborative co-working format) and the social networking session will take place from **3 to 6 June 2024**, and two community share-out events on **7 June 2024**. [See details](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events). There may also be an opportunity to join an in-person hub in your area - please indicate your interest in the application.
+
+**Application** 
+[Please see the application form here](https://docs.google.com/document/d/1FdrlFh_4yw7XsqoG-yQt8zbEH9J8wHVhKl3ZfNz_NBk/edit). Submission deadline is **Friday 26th April 2024** and the application form may take around 30 minutes to complete.
+
+**Who should apply?**
+Everyone that has expertise that The Turing Way project can benefit from. The skills and contributions that they're looking for include, but are not limited to:
+
+- Tools, methods, and case studies from reproducibility in Data Science 🛠️
+- Science communication skills: skills in writing, editing, and/or exciting interactive communications 📝
+- Project design and management skills 📊
+- Approaches and principles for collaboration in data science 🤝
+- Collaboratively writing new chapters 📝
+- Reviewing others' contributions or editing the current chapters 📋
+- Updating how the book looks online (e.g., website design, CSS, logos, layout) 🖥️
+- Documenting other contributions as illustrations or stories 📸
+
+Participants will be expected to attend at least one co-working session (2.5 hours each) per day virtually. 
+
+
+___
+
+Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"} ❗ Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=mivuj)
+
+
+<div style="text-align: center;">
+
+[Subscribe (nhs.net login)](https://forms.office.com/e/JJsmgPmVVJ){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+</div>
+
