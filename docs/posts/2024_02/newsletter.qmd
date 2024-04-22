@@ -3,7 +3,7 @@ title: 'Professional Development Newsletter February 2024'
 date: '2024-02-21'
 format:
   html:
-    css: /../index.css
+    css: index.css
   pdf:
     toc: false
     geometry: 
