@@ -39,7 +39,7 @@ website:
             icon: "bug"
             href: "https://github.com/nhsengland/datascience-pd-newsletter/issues"
       - icon: github
-        href: https://github.com/nhsengland/
+        href: https://github.com/nhsengland/datascience-pd-newsletter
         aria-label: GitHub
 format:
   html:
