@@ -1,0 +1,151 @@
+---
+title: 'Professional Development Newsletter May 2024'
+date: '2024-05-23'
+format:
+  html:
+    css: /../index.css
+  pdf:
+    toc: false
+    geometry: 
+      - top=10mm
+      - bottom=10mm
+      - left=20mm
+      - right=20mm
+categories: ['newsletter', 'compentency']
+description: 'The Professional Development newsletter for MONTH YEAR'
+author: 
+- 'Jennifer Struthers'
+- 'Sam Hollings'
+- 'Ben Wallace'
+---
+
+![](../../images/banner_may.png)
+
+Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Team. 
+
+The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
+
+There are some legacy NHS Digital items which we have identified with❗
+
+If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
+
+Thanks for reading! – PD newsletter team 
+
+<div class="section-heading">
+# Highlights
+</div>
+
+
+<div class="section-heading">
+# Events
+</div>
+Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
+
+### [Analysis without Data](https://www.eventbrite.co.uk/e/analysis-without-data-tickets-895208000227?aff=odcleoeventsincollection){target="_blank"}
+**Tuesday 21st May, 12-1pm, Online**
+
+This session outlines work by the Ministry of Justice (MoJ)'s Better Outcomes through Linked Data (BOLD) programme Homelessness Pilot colleagues in Department for Levelling Up, Housing and Communities (DLUHC). The Better Outcomes through Linked Data programme aims to demonstrate the benefits of linked data across government. In DLUHC’s Homelessness Pilot Team, our challenge was a lack of full data access for sensitivity reasons. To overcome this, we developed a Reproducible Analytical Pipeline (RAP) for our offending and repeat homelessness projects. For the rough sleeping and drug treatment project, we took a pragmatic approach to writing a report using only aggregated data that was suppressed.
+
+We shall talk about our approaches, including constructing dummy data, modular coding using Quarto (an alternative to RMarkdown) and robust statistical methods such as trimmed means.
+
+### [Using Data Science and AI to transform delivery in the prison system](https://www.eventbrite.co.uk/e/using-data-science-and-ai-to-transform-delivery-in-the-prison-system-tickets-885509080497?aff=odcleoeventsincollection){target="_blank"}
+**Wednesday 29th May, 2-3pm, Online**
+
+Join colleagues from the Ministry of Justice (MoJ) who work alongside other government departments and agencies to bring the principles of justice to life for everyone in society.
+"We are one of the largest departments with a large proportion of staff working directly to the public and tens of thousands of prison staff making decisions every day about prisoners in their care. In the Prison Data Science team, we aim to support operational decision-making by developing and deploying innovative data science tools.
+
+In this session, we will show examples of how we've used data science and AI to transform processes within prison services"
+
+### [Innovation in analysis with Professor Sir Ian Diamond](https://www.eventbrite.co.uk/e/innovation-in-analysis-with-professor-sir-ian-diamond-tickets-904642649517?aff=odcleoeventsincollection){target="_blank"}
+**Thursday 30th May, 2:30-3:30pm, Online**
+
+Join us to reflect on the innovative topics raised throughout a fantastic AiG Month and consider the importance of innovations to government analysis and where you can get support - no matter which profession or department you work in!
+
+Join this session with, Professor Sir Ian Diamond - Head of the Analysis Function and National Statistician - to hear about the innovations that have caught his eye, and what he thinks are the most interesting and important innovations coming down the road.
+
+
+### [Dark Data - Data Ethics and Society Reading Group](https://www.tickettailor.com/events/dataethics/1193123/r/nhs){target="_blank"}
+**Tuesday 4th June, 1-2pm, Online (Teams)**
+
+Join the Public Sector Data Ethics & Society Reading Group to discuss David Hand's book 'Dark Data'. [Sign up now to reserve your spot](https://www.tickettailor.com/events/dataethics/1193123/r/nhs){target="_blank"} (and receive details of the 40% discount off the paperback we've scooped😎).
+
+
+### [London Data Week 2024](https://londondataweek.org/){target="_blank"}
+**1st-7th July 2024, Online and in person**
+
+London Data Week is a city-wide, distributed festival of events focusing on all things data. Data is a major part of our everyday lives, and shapes many of the decisions we make – as well as the decisions that are made about us – whether we know it or not. We believe that everyone should have a seat at the table when it comes to data, and that is the guiding principle behind our core values: to be collaborative, open and inclusive. So, we invite you to be part of the conversation by joining us and our event partners at a London Data Week event.
+
+Find out more about London Data Week and what events are being held [here](https://londondataweek.org/){target="_blank"}
+
+
+
+### [NHS RPySOC 2024 Conference (21st Nov, Birmingham)  - registration opened](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/){target="_blank"}
+**Thursday 21st-22nd November, 9am-5pm, in-person (Birmingham) / Online**
+
+The **NHS RPySOC 2024 conference** is open for registration now! It will be on **21st & 22nd November in Birmingham**.
+This is jointed hosted by the NHS R Community and NHS.pycom, and also promotes Open Source.
+
+- Day 1 will be a mixture of presentations, workshops and lightening talks
+- Day 2 **(in-person only)** will be ‘Unconference’ with suggestions for topics being taken on day 1.
+
+It's a great chance to show off our work, share our learning with a like minded community and learn a few things yourself, such as the state of the industry and how techniques are being applied elsewhere.
+
+You can either attend:
+
+- [In-Person (The ICC, Hall 11, Birmingham B1 2EA](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/)
+- [Online](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-2024-rpysoc-2024-ticket-for-virtual-attendance-on-thursday-21-november-2024/)
+
+**Abstract submissions haven't been opened yet.**
+
+
+
+___
+
+See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
+
+Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+
+<div class="section-heading">
+# Data Science Community
+</div>
+## AI Quality Community of Practice
+![A group of data scientists engaging with the AIQCoP](AI_CoP.png)
+
+
+The AI Quality Community of Practice was launched on Thursday 16th May,  community primarily of testing and assurance professionals focused on the assurance of healthcare AI.
+ 
+Data Science’s Will Poulett and Ben Wallace gave presentations on research they’d been doing in the AiQCoP, (formally INSTANT) including work on an academic paper which will be presented in IEEE in Athens at the end of the month.
+ 
+AIQCOP will be closely collaborating with data science in the future, but the best way to get involved right now is to sign up to the [Viva Engage group](https://engage.cloud.microsoft/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxODQ1ODE2MDMzMjgifQ/about){target="_blank"} and send any papers or articles their way! You can also check out the [sharepoint website](https://nhs.sharepoint.com/sites/X26_AssuranceCOE/SitePages/AI-%26-Quality-Assurance.aspx?csf=1&web=1&e=HTahJY&xsdata=MDV8MDJ8fGViMDUyZDJlMWEwYjQxMDUwOTVlMDhkYzUyZjEwOGJmfDM3YzM1NGIyODViMDQ3ZjViMjIyMDdiNDhkNzc0ZWUzfDB8MHw2Mzg0NzY0NDIzNjcxMDEyNzh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalU0WXpObFkyRXlMVFk1TXpVdE5ERTFZaTA1TkRrNExXWTVZVE0wTm1Sa01UYzJZMTlrTTJNeE9EUTJOeTFoWkRZeExUUTFaVEl0T1RZNU5TMDFZVFF6TkdRMFlURXlPVEZBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN4TWpBME56UXpOVFkzT1E9PXwyMWY2ZDg2M2UzNzc0ZmNmMDk1ZTA4ZGM1MmYxMDhiZnxmZmE1YTczMTNjY2I0ZWE5OTEwZjZmMjFjMjE0NjE2Nw%3D%3D&sdata=QWVoVk9uOFhHUVZwdCs2SEdsY3EzakxXdEVrTzJCcnB1UTlSeFI1QXpNdz0%3D&ovuser=37c354b2-85b0-47f5-b222-07b48d774ee3%2Canusha.jose%40nhs.net&OR=Teams-HL&CT=1712133835361&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI1MC8yNDAyMTUyODYxNiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&SafelinksUrl=https%3A%2F%2Fnhs.sharepoint.com%2Fsites%2FX26_AssuranceCOE%2FSitePages%2FAI-&-Quality-Assurance.aspx=){target="_blank"} or email them at [nhsdigital.instant@nhs.net](mailto:nhsdigital.instant@nhs.net).
+
+___
+
+<div class="section-heading">
+# Training Opportunities
+</div>
+ 
+## [The Turing Online Learning Platform](https://www.turing.ac.uk/courses){target="_blank"}
+The Turing Online Learning Platform offers a range of **free** online course from AI fairness on social media to an introduction to transparent machine learning. [Check them all out here](https://www.turing.ac.uk/courses){target="_blank"}.
+
+## [Microsoft Enterprise Skills Initiative](https://esi.microsoft.com/landing){target="_blank"}
+
+Using your nhs.net email account, you have access to a variety of Microsoft courses for free, as well as [certifications](https://esi.microsoft.com/getcertification){target="_blank"}. These range from a beginner friendly course titled *Deploy and consume models with Azure Machine Learning* to an advanced course titled *Write advanced Transact-SQL queries*.
+
+__
+
+We are currently updating our resource list and reviewing the content: please let us know of any resources you think would be useful!
+Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=cfrss){target="_blank"}
+
+
+
+<div style="text-align: center;">
+
+[Subscribe (nhs.net login)](https://forms.office.com/e/JJsmgPmVVJ){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+</div>
+
