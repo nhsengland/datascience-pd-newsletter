@@ -12,7 +12,7 @@ format:
       - left=20mm
       - right=20mm
 categories: ['newsletter', 'compentency']
-description: 'The Professional Development newsletter for MONTH YEAR'
+description: 'The Professional Development newsletter for May 2024'
 author: 
 - 'Jennifer Struthers'
 - 'Sam Hollings'
@@ -32,14 +32,15 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – PD newsletter team 
 
 <div class="section-heading">
-# Highlights
-</div>
-
-
-<div class="section-heading">
 # Events
 </div>
-Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
+Lots of exciting things coming up! We are working on revamping the calendar and hope to have something out soon!
+
+### [AnalystX Huddle – AI-Enabled Shared Care Records: Using Google Cloud to transform healthcare in Yorkshire and Humber](https://gbr01.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_YWI5NDM0N2UtMWQyOC00ZGYwLTk0OWQtMThhOGQ4YmU3ODI0%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252237c354b2-85b0-47f5-b222-07b48d774ee3%2522%252c%2522Oid%2522%253a%2522339b2ca8-d397-48dd-a7e3-193ac2e2c2b3%2522%257d&data=05%7C02%7Cjennifer.struthers1%40nhs.net%7Cc37ce647b0734e48efd108dc78400247%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638517463533546585%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Kg05YcJ4HCy%2BahlbnxDV4LgCACU7C4bEAyM9hterY3Y%3D&reserved=0){target="_blank"}
+ **Tuesday 21st May, 2pm-3pm, Teams**
+
+Humber Teaching NHS Foundation Trust, Google Cloud and Deloitte are partnering to drive digital transformation in healthcare and foster innovation in the Yorkshire region with integrated shared care records, and now leveraging Generative AI for EHR search and clinical summarization.
+Join us for an insightful discussion focused on how Google Cloud is revolutionizing healthcare delivery in the Yorkshire and Humber region. Learn how cutting-edge cloud technologies are improving patient care, streamlining operations, and driving innovation across the NHS.
 
 ### [Analysis without Data](https://www.eventbrite.co.uk/e/analysis-without-data-tickets-895208000227?aff=odcleoeventsincollection){target="_blank"}
 **Tuesday 21st May, 12-1pm, Online**
@@ -101,8 +102,6 @@ You can either attend:
 
 ___
 
-See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
-
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
 <div class="section-heading">
@@ -112,11 +111,17 @@ Know of any events we should feature next month? Let us know by clicking the "Co
 ![A group of data scientists engaging with the AIQCoP](AI_CoP.png)
 
 
-The AI Quality Community of Practice was launched on Thursday 16th May,  community primarily of testing and assurance professionals focused on the assurance of healthcare AI.
+The AI Quality Community of Practice was launched on Thursday 16th May, a community primarily of testing and assurance professionals focused on the assurance of healthcare AI.
  
 Data Science’s Will Poulett and Ben Wallace gave presentations on research they’d been doing in the AiQCoP, (formally INSTANT) including work on an academic paper which will be presented in IEEE in Athens at the end of the month.
  
 AIQCOP will be closely collaborating with data science in the future, but the best way to get involved right now is to sign up to the [Viva Engage group](https://engage.cloud.microsoft/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxODQ1ODE2MDMzMjgifQ/about){target="_blank"} and send any papers or articles their way! You can also check out the [sharepoint website](https://nhs.sharepoint.com/sites/X26_AssuranceCOE/SitePages/AI-%26-Quality-Assurance.aspx?csf=1&web=1&e=HTahJY&xsdata=MDV8MDJ8fGViMDUyZDJlMWEwYjQxMDUwOTVlMDhkYzUyZjEwOGJmfDM3YzM1NGIyODViMDQ3ZjViMjIyMDdiNDhkNzc0ZWUzfDB8MHw2Mzg0NzY0NDIzNjcxMDEyNzh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalU0WXpObFkyRXlMVFk1TXpVdE5ERTFZaTA1TkRrNExXWTVZVE0wTm1Sa01UYzJZMTlrTTJNeE9EUTJOeTFoWkRZeExUUTFaVEl0T1RZNU5TMDFZVFF6TkdRMFlURXlPVEZBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN4TWpBME56UXpOVFkzT1E9PXwyMWY2ZDg2M2UzNzc0ZmNmMDk1ZTA4ZGM1MmYxMDhiZnxmZmE1YTczMTNjY2I0ZWE5OTEwZjZmMjFjMjE0NjE2Nw%3D%3D&sdata=QWVoVk9uOFhHUVZwdCs2SEdsY3EzakxXdEVrTzJCcnB1UTlSeFI1QXpNdz0%3D&ovuser=37c354b2-85b0-47f5-b222-07b48d774ee3%2Canusha.jose%40nhs.net&OR=Teams-HL&CT=1712133835361&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI1MC8yNDAyMTUyODYxNiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&SafelinksUrl=https%3A%2F%2Fnhs.sharepoint.com%2Fsites%2FX26_AssuranceCOE%2FSitePages%2FAI-&-Quality-Assurance.aspx=){target="_blank"} or email them at [nhsdigital.instant@nhs.net](mailto:nhsdigital.instant@nhs.net).
+
+# RAP Community of Practice
+
+The [RAP Community of Practice](https://nhsdigital.github.io/rap-community-of-practice/?utm_source=p_d_newsletter&utm_medium=email&utm_campaign=PR_requests){target="_blank"} promotes good coding practice and aims to support analytical teams by developing learning materials, however it's not a solo effort! Many RAP Champions have worked with the team in recent years and the current RAP Squad wants to encourage everyone to contribute to the Community, whether it be by sending a [Pull Request](https://github.com/NHSDigital/rap-community-of-practice/pulls){target="_blank"}, raising an [Issue](https://github.com/NHSDigital/rap-community-of-practice/issues/new){target="_blank"}, or even [emailing them!](mailto:england.rapchampions@nhs.net){target="_blank"} 
+
+Help make the RAP *Community* of Practice a *community* endeavour!
 
 ___
 
@@ -131,7 +136,7 @@ The Turing Online Learning Platform offers a range of **free** online course fro
 
 Using your nhs.net email account, you have access to a variety of Microsoft courses for free, as well as [certifications](https://esi.microsoft.com/getcertification){target="_blank"}. These range from a beginner friendly course titled *Deploy and consume models with Azure Machine Learning* to an advanced course titled *Write advanced Transact-SQL queries*.
 
-__
+___
 
 We are currently updating our resource list and reviewing the content: please let us know of any resources you think would be useful!
 Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
