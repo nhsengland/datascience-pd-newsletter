@@ -36,12 +36,6 @@ Thanks for reading! – PD newsletter team
 </div>
 Lots of exciting things coming up! We are working on revamping the calendar and hope to have something out soon!
 
-### [AnalystX Huddle – AI-Enabled Shared Care Records: Using Google Cloud to transform healthcare in Yorkshire and Humber](https://gbr01.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_YWI5NDM0N2UtMWQyOC00ZGYwLTk0OWQtMThhOGQ4YmU3ODI0%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252237c354b2-85b0-47f5-b222-07b48d774ee3%2522%252c%2522Oid%2522%253a%2522339b2ca8-d397-48dd-a7e3-193ac2e2c2b3%2522%257d&data=05%7C02%7Cjennifer.struthers1%40nhs.net%7Cc37ce647b0734e48efd108dc78400247%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638517463533546585%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Kg05YcJ4HCy%2BahlbnxDV4LgCACU7C4bEAyM9hterY3Y%3D&reserved=0){target="_blank"}
- **Tuesday 21st May, 2pm-3pm, Teams**
-
-Humber Teaching NHS Foundation Trust, Google Cloud and Deloitte are partnering to drive digital transformation in healthcare and foster innovation in the Yorkshire region with integrated shared care records, and now leveraging Generative AI for EHR search and clinical summarization.
-Join us for an insightful discussion focused on how Google Cloud is revolutionizing healthcare delivery in the Yorkshire and Humber region. Learn how cutting-edge cloud technologies are improving patient care, streamlining operations, and driving innovation across the NHS.
-
 ### [Analysis without Data](https://www.eventbrite.co.uk/e/analysis-without-data-tickets-895208000227?aff=odcleoeventsincollection){target="_blank"}
 **Tuesday 21st May, 12-1pm, Online**
 
