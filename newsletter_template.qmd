@@ -3,7 +3,7 @@ title: 'Professional Development Newsletter MONTH YEAR'
 date: '3000-01-01'
 format:
   html:
-    css: /../index.css
+    css: index.css
   pdf:
     toc: false
     geometry: 
