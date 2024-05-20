@@ -1,6 +1,6 @@
 ---
 title: 'Professional Development Newsletter May 2024'
-date: '2024-05-23'
+date: '2024-05-20'
 format:
   html:
     css: index.css
