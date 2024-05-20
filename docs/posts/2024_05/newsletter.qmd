@@ -3,7 +3,7 @@ title: 'Professional Development Newsletter May 2024'
 date: '2024-05-23'
 format:
   html:
-    css: /../index.css
+    css: index.css
   pdf:
     toc: false
     geometry: 
@@ -30,6 +30,7 @@ There are some legacy NHS Digital items which we have identified with❗
 If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
 
 Thanks for reading! – PD newsletter team 
+
 
 <div class="section-heading">
 # Events
