@@ -37,9 +37,6 @@ Thanks for reading! – PD newsletter team
 TEXT
 ___
 
-Check out the resources to boost your skills on the [Training Framework](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework){target="_blank"}❗and our full collection on the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}❗
-Can you spot something missing? [Contact us](mailto:datascience@nhs.net). 
-
 
 <div class="section-heading">
 # Events
