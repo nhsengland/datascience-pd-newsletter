@@ -32,10 +32,8 @@ Thanks for reading! – PD newsletter team
 # Highlights
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
-
-TEXT
-___
+- Advertise School placement thing here
+- NCF Self Assessment Toolkit
 
 
 <div class="section-heading">
@@ -43,12 +41,43 @@ ___
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
 
+### Linking Analysts In Leeds
+**Thursday 4th July 13:00-14:30, BEC Ground Floor 7&8 Wellington Place and Teams**
+
+Linking Analysts In Leeds is an opportunity for analysts working in different civil service departments in Wellington Place in Leeds to meet-up, make links, and share learning.
+ 
+This session will involves speakers from DataCamp running a session showcasing [DataCamp](https://www.datacamp.com){target="_blank"} and the extensive training resources it offers. 
+
+If you wish to join the meeting please complete the following form (this covers in person and online): [Linking Analysts In Leeds - July](https://forms.office.com/pages/responsepage.aspx?id=PPdSrBr9mkqOekokjzE54W_NLvrah2tMkR4LC77BWoFUMFhKUlBEOTlBU0dQM0g2UUIyMVo4QzNWTi4u){target="_blank"}
+ 
 
 
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,*
+### [London Data Week 2024](https://londondataweek.org/){target="_blank"}
+**1st-7th July 2024, Online and in person**
 
-A SHORT DESCRIPTION OF EVENT 
+London Data Week is a city-wide, distributed festival of events focusing on all things data. Data is a major part of our everyday lives, and shapes many of the decisions we make – as well as the decisions that are made about us – whether we know it or not. We believe that everyone should have a seat at the table when it comes to data, and that is the guiding principle behind our core values: to be collaborative, open and inclusive. So, we invite you to be part of the conversation by joining us and our event partners at a London Data Week event.
+
+Find out more about London Data Week and what events are being held [here](https://londondataweek.org/){target="_blank"}
+
+
+
+### [NHS RPySOC 2024 Conference - registration opened](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/){target="_blank"}
+**Thursday 21st-22nd November, 9am-5pm, in-person (Birmingham) / Online**
+
+The **NHS RPySOC 2024 conference** is open for registration now! It will be on **21st & 22nd November in Birmingham**.
+This is jointed hosted by the NHS R Community and NHS.pycom, and also promotes Open Source.
+
+- Day 1 will be a mixture of presentations, workshops and lightening talks
+- Day 2 **(in-person only)** will be ‘Unconference’ with suggestions for topics being taken on day 1.
+
+It's a great chance to show off our work, share our learning with a like minded community and learn a few things yourself, such as the state of the industry and how techniques are being applied elsewhere.
+
+You can either attend:
+
+- [In-Person (The ICC, Hall 11, Birmingham B1 2EA](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/)
+- [Online](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-2024-rpysoc-2024-ticket-for-virtual-attendance-on-thursday-21-november-2024/)
+
+
 
 ___
 
@@ -57,10 +86,18 @@ See more future events on our [confluence calendar](https://nhsd-confluence.digi
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
 <div class="section-heading">
-# Knowledge Sharing
+# Interview with a Data Scientist
 </div>
+Mia Noonan has been working in the NHS England (previously NHS Digital) Data Science team for X months. She first joined the company as a member of the 2021 graduate cohort, but before even two years obtained a permanent role. 
 
-TEXT
+
+- What motivated you to pursue a career in data science within the NHS?
+- What specific professional development tools or resources do/did you find most helpful?
+- What keeps you motivated and passionate about your work in data science within the NHS?
+- One piece of advice for the current graduates who will soon embark on their end of scheme assessment, hoping to obtain permanent roles.
+
+
+*This interview was edited for brevity*
 
 ___
 
@@ -71,7 +108,24 @@ Please bear with us as it is likely to be a learning process! Contact [Mia Noona
 # Training Opportunities
 </div>
 
-TEXT
+## [NHS England and Microsoft - Digital Accessibility Fundamentals Training](https://learn.microsoft.com/en-gb/collections/xee0tzym2j7zqm){target="_blank"}
+
+NHS England have teamed up with Microsoft to put some training together on Accessibility Fundamentals. For more information and details on how to sign up for the training, check out the [post on the NHS England Hub](https://nhs.sharepoint.com/sites/thehub/_layouts/15/Event.aspx?ListGuid=dc2bb1a1-a738-4cfd-87a6-500fce05afe2&ItemId=1595){target="_blank"}.
+ 
+📅 The training is being promoted from May 21 through to June 21 2024.
+ 
+There has also been added information for the event onto the [Accessibility Hub!](https://nhsd-confluence.digital.nhs.uk/display/DAT/Accessibility+Hub#AccessibilityHub-HighlightedContent){target="_blank"}❗
+
+
+
+## [Microsoft Learn for GitHub](https://learn.microsoft.com/en-us/training/github/){target="_blank"}
+
+Check out the GitHub training available on Microsoft Learn, modules available include: 
+
+- [Introduction to Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/){target="_blank"}
+- [Learn continuous integration with GitHub Actions](https://learn.microsoft.com/en-us/training/modules/learn-continuous-integration-github-actions/){target="_blank"}
+- [Manage sensitive data and security policies within GitHub](https://learn.microsoft.com/en-us/training/modules/manage-sensitive-data-security-policies/){target="_blank"}
+- [Create and publish custom GitHub actions](https://learn.microsoft.com/en-us/training/modules/create-custom-github-actions/){target="_blank"}
 
 ___
 
