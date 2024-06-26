@@ -46,6 +46,26 @@ You can use this tool in any way you like:
 
 While this framework is still in the early stages of adoption, feedback is key to help the Professional Development Function Team and the National Competency Framework team develop more resources. Let us know if and how you are using the tool, or any other ways we can help you use the National Competency Framework [through this form](https://forms.office.com/e/XGuTzWcB5j){target="_blank"}
 
+## Masters in Research (MRes) in Data Science & Analytics for Health
+
+Applications opening soon for a funded Masters! In the next few weeks NHS England D&A plan to open applications for 8 fully funded places on a part-time Masters in Research (MRes) in Data Science & Analytics for Health, starting this October.
+This is a course that was developed in partnership with NHS Digital/England over the last 4 years, with over 20 students either completed or currently studying. This is a fantastic opportunity for those who want to deepen their expertise in data science and analytics, with a specific focus on a health data research project.
+
+The syllabus will include campus-based or remote lectures and practical-based training in:
+
+  - Machine learning
+  -	Artificial Intelligence
+  - Programming for Data Science
+  - Data Science & Analytics for Causal Inference and Prediction
+  - A workplace-based research project, undertaken within NHS England, supported by the NHS England Data Science Team.
+
+A Masters course is a significant personal investment of time, a day a week will be allocated to attend university and it is anticipated that there will be three to six hours per week worth of additional study. Potential applicants should consider this before applying. It is also a substantial investment from NHS England and will therefore be subject to a rigorous, fair and transparent selection process. **We are aiming to open applications in late June**. 
+
+We will be releasing more details, including FAQs and the application form soon, but the course will either be the same or similar to [this Masters in Research (MRes) in Data Science & Analytics for Health](https://courses.leeds.ac.uk/i927/data-science-and-analytics-for-health-mres){target="_blank"}.
+
+If you have any questions, please get in touch with [Sarah Culkin](mailto:s.culkin@nhs.net)  or [Rupert Chaplin](mailto:rupert.chaplin1@nhs.net). 
+
+
 <div class="section-heading">
 # Events
 </div>
