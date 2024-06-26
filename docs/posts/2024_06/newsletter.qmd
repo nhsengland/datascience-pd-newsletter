@@ -1,6 +1,6 @@
 ---
 title: 'Professional Development Newsletter June 2024'
-date: '2024-06-20'
+date: '2024-06-27'
 format:
   html:
     css: index.css
@@ -11,7 +11,7 @@ format:
       - bottom=10mm
       - left=20mm
       - right=20mm
-categories: ['newsletter']
+categories: ['newsletter', 'interview with a data scientist']
 description: 'The Professional Development newsletter for June 2024'
 author: 'Jennifer Struthers'
 ---
@@ -32,14 +32,31 @@ Thanks for reading! – PD newsletter team
 # Highlights
 </div>
 
-- Advertise School placement thing here
-- NCF Self Assessment Toolkit
+## [National Competency Framework Tool](https://future.nhs.uk/DataAnalytics/view?objectID=163018181){target="_blank"}
 
+The Professional Development Function Team want to promote the National Competency Framework Tool to help shape your objectives for the year ahead.
+
+You can use this tool in any way you like:
+
+- Do a full self-assessment to build a personal profile of yourself, marking areas where you want to target your development and understanding where you measure up against job bands.
+- Review areas where you are interested in developing; we recommend checking out the additional modules of the framework covering: 
+  - Specialised technical skills that you may have developed in a unique role within a team, like Data Visualisation, Machine Learning, or Data Automation.
+  - Broader professional skill areas such as Behaviours, Leadership and Management, and Working in Team that apply across roles regardless of background.
+-	See where you stand for other job areas like Data Analysis and Data Engineering.
+
+While this framework is still in the early stages of adoption, feedback is key to help the Professional Development Function Team and the National Competency Framework team develop more resources. Let us know if and how you are using the tool, or any other ways we can help you use the National Competency Framework [through this form](https://forms.office.com/e/XGuTzWcB5j){target="_blank"}
 
 <div class="section-heading">
 # Events
 </div>
-Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
+Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗
+
+### [Data and AI Ethics Community meeting: Ethical Considerations in Data Linkage with Splink](https://www.tickettailor.com/events/publicsectoruk/1289987){target="_blank"}
+**Tuesday 2nd July 13:00-14:00, Teams**
+
+Splink is a Ministry of Justices open-source software which uses unsupervised machine learning to link together millions of data records belonging to justice system users. This talk will cover the many and varied ethical considerations of performing data linkage with Splink, how we address these within our work and improvements we are planning for the future. The Data Linkage Hub at NHSE is exploring the use of Splink as a probabilistic data linkage tool.
+Reach out if you want to know more and familiarize yourself with our pipeline.
+
 
 ### Linking Analysts In Leeds
 **Thursday 4th July 13:00-14:30, BEC Ground Floor 7&8 Wellington Place and Teams**
@@ -59,6 +76,12 @@ London Data Week is a city-wide, distributed festival of events focusing on all 
 
 Find out more about London Data Week and what events are being held [here](https://londondataweek.org/){target="_blank"}
 
+### [Health and Care Analytics Conference 2024](https://haca-conference.nhs.uk/){target="_blank"}
+**23rd-24th July 2024, Telford International Centre**
+
+The HACA conference is a celebration of the great work of health and care analysts bringing together analysts and leaders and decision makers to showcase how analysts can help leaders make high quality decisions.
+
+The programme is now published - [check out what events and talks you might be interested in!](https://haca-conference.nhs.uk/programme/){target="_blank"} Beforehand, have a look at some of their [E-Labs, running 8th-10th July](https://haca-conference.nhs.uk/e-labs/){target="_blank"}.
 
 
 ### [NHS RPySOC 2024 Conference - registration opened](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/){target="_blank"}
@@ -77,32 +100,57 @@ You can either attend:
 - [In-Person (The ICC, Hall 11, Birmingham B1 2EA](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/)
 - [Online](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-2024-rpysoc-2024-ticket-for-virtual-attendance-on-thursday-21-november-2024/)
 
-
-
 ___
 
-See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
+See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗ Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
-Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+
 
 <div class="section-heading">
 # Interview with a Data Scientist
 </div>
-Mia Noonan has been working in the NHS England (previously NHS Digital) Data Science team for X months. She first joined the company as a member of the 2021 graduate cohort, but before even two years obtained a permanent role. 
 
+Mia Noonan is a Senior Data Scientist in the NHS England Data Science team, who first joined the company as a member of the 2021 graduate cohort.
 
-- What motivated you to pursue a career in data science within the NHS?
-- What specific professional development tools or resources do/did you find most helpful?
-- What keeps you motivated and passionate about your work in data science within the NHS?
-- One piece of advice for the current graduates who will soon embark on their end of scheme assessment, hoping to obtain permanent roles.
+**Thank you for agreeing to be the first “Interview with a Data Scientist” for the PD newsletter! I was wondering, could you tell me a bit about your background and what motivated you to pursue a career in data science in the NHS?**
+ 
+M: I did economics and politics at Uni, but after a year in finance thought this isn't for me as I didn't really gel with the sort of work that I was doing at the time. In contrast, I found myself really interested by the work that the IT department was doing because I could see the impact that it had on my day-to-day. For example, there was one task where I had to process a load of invoices and that would take me all afternoon and then one day they just went, *"Oh yeah, we've automated that"*. And I was like *"what?!"* – and immediately wanted to be on the side which was doing that!
+  
+So that was one of my main motivations to go into computer science, and I decided to do a computer science Master’s at Bath. It was quite an intense year, but it gave me the upskilling that I needed to go into more technical roles. I got introduced to data science right at the end of that year from my final research project. It was an NLP project where I had to analyse the transcription of everything that's said in parliament, to understand where MPs are focusing their attention. I really enjoyed it because it was a bridge between economics, politics and computer science.
+ 
+Once I did that project I thought, *yeah, this is this is super cool, this is exactly where I want to be*. Someone I was speaking to mentioned that there was a data science team in the NHS and I was like *wow, I didn't know* - but immediately wanted to be a part of it! I was lucky enough to get a placement in the data science team through the NHS Digital graduate scheme, and the rest is history…! 
+ 
+ 
+**What specific professional development tools or resources did you find most helpful in skilling up on your time of the graduate scheme?**
+ 
+ 
+M: I had Kin as a line manager, so that was great. He was very, very good at articulating [SMART goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals){target="_blank"}, and I think that really helped because the goals were so well laid out, a lot of the competencies I could just tick off on the job due to the variety of work in the data linkage enhancement team. I was lucky with my placement, my line manager, and had a lot of the things I could just do on the job, which was great.
+ 
+In terms of technical skills, [Pluralsight](https://www.pluralsight.com/){target="_blank"} would be my bread and butter in terms of a tool and a resource to turn to just to upskill. If I'm like *"oh, I don't know what an S3 bucket is, I need to do some AWS training"*, if there's a specific technical skill I need to learn, I'd go to that.
+ 
+I think I find that I probably sometimes upskill a little bit easier when I'm doing something on the job and practically applying it straight away. I really try and actively seek out the opportunities to go and upskill in other areas. I try not to be passive about my development goals and seek out the opportunities, and if there's something that interests me, follow up on it.
+ 
+ 
+**What keeps you motivated and passionate about your work and data science with the NHS?**
+ 
+M: It's really exciting just being able to continuously learn new things and be on the forefront of new disruptive technologies. I like the fact that the work we're doing is making a real difference to the NHS, it's great. 
+  
+Being surrounded by such great team members also makes a big difference. The team has got so much knowledge inside of it that it's easy to organically learn things from people. It’s a positive learning environment and has a culture of safety and openness, there's no one in the team I would feel hesitant going to ask a question to.
+ 
+And then also having that culture of wanting everyone to do well, makes you want to do well because you want to contribute back and create that positive cycle for the whole team and feel like you're contributing towards that.
+ 
+ 
+**The current graduates will be embarking on their End of Scheme in the next fortnight or so. What is a piece of advice that you have for them?**
+ 
+ 
+M: In terms of something that's relevant to this point in terms of their career and passing their End of Scheme I would say that my biggest piece of advice would be don't stop being curious about things. They’ve had a really intense upskilling period where they've gone through two years of intense rotations, being exposed to those different areas, but don't stop that momentum just because you've rolled off the scheme. Go out, speak to loads of different teams, different people, keep networking. Keep trying different projects, different things because you'll learn more and more about what interests and motivates you, because two years sounds like a long time, but it's really short.
+
 
 
 *This interview was edited for brevity*
 
 ___
 
-Stay tuned for an update on what seminars & show and tells will look like in the new team. 
-Please bear with us as it is likely to be a learning process! Contact [Mia Noonan](mailto:amelia.noonan1@nhs.net) for more information..
 
 <div class="section-heading">
 # Training Opportunities
@@ -112,10 +160,8 @@ Please bear with us as it is likely to be a learning process! Contact [Mia Noona
 
 NHS England have teamed up with Microsoft to put some training together on Accessibility Fundamentals. For more information and details on how to sign up for the training, check out the [post on the NHS England Hub](https://nhs.sharepoint.com/sites/thehub/_layouts/15/Event.aspx?ListGuid=dc2bb1a1-a738-4cfd-87a6-500fce05afe2&ItemId=1595){target="_blank"}.
  
-📅 The training is being promoted from May 21 through to June 21 2024.
  
 There has also been added information for the event onto the [Accessibility Hub!](https://nhsd-confluence.digital.nhs.uk/display/DAT/Accessibility+Hub#AccessibilityHub-HighlightedContent){target="_blank"}❗
-
 
 
 ## [Microsoft Learn for GitHub](https://learn.microsoft.com/en-us/training/github/){target="_blank"}
