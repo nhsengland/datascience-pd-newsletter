@@ -1,6 +1,6 @@
 ---
 title: 'Professional Development Newsletter July 2024'
-date: '2024-07-29'
+date: '2024-07-27'
 format:
   html:
     css: index.css
@@ -16,7 +16,7 @@ description: 'The Professional Development newsletter for July 2024'
 author: 'Jennifer Struthers'
 ---
 
-![](../../images/banner_july.png.png)
+![](../../images/banner_june.png)
 
 Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Team. 
 
@@ -32,48 +32,51 @@ Thanks for reading! – PD newsletter team
 # Highlights
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+## Highlight 1
 
-TEXT
-___
-
+## Highlight 2
 
 <div class="section-heading">
 # Events
 </div>
-Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
+Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗
 
 
+### [NHS RPySOC 2024 Conference - registration opened](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/){target="_blank"}
+**Thursday 21st-22nd November, 9am-5pm, in-person (Birmingham) / Online**
 
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,*
+The **NHS RPySOC 2024 conference** is open for registration now! It will be on **21st & 22nd November in Birmingham**.
+This is jointed hosted by the NHS R Community and NHS.pycom, and also promotes Open Source.
 
-A SHORT DESCRIPTION OF EVENT 
+- Day 1 will be a mixture of presentations, workshops and lightening talks
+- Day 2 **(in-person only)** will be ‘Unconference’ with suggestions for topics being taken on day 1.
 
-___
+It's a great chance to show off our work, share our learning with a like minded community and learn a few things yourself, such as the state of the industry and how techniques are being applied elsewhere.
 
-See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
+You can either attend:
 
-Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
-
-<div class="section-heading">
-# Knowledge Sharing
-</div>
-
-TEXT
+- [In-Person (The ICC, Hall 11, Birmingham B1 2EA](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/)
+- [Online](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-2024-rpysoc-2024-ticket-for-virtual-attendance-on-thursday-21-november-2024/)
 
 ___
 
-Stay tuned for an update on what seminars & show and tells will look like in the new team. 
-Please bear with us as it is likely to be a learning process! Contact [Mia Noonan](mailto:amelia.noonan1@nhs.net) for more information..
+See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗ Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+
+
+___
+
 
 <div class="section-heading">
 # Training Opportunities
 </div>
 
-TEXT
+## Training Resource 1
+
+
+## Training Resource 2
 
 ___
+
 
 Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
 
@@ -81,7 +84,7 @@ Check out all the resources in the [Training Brochure](https://nhsd-confluence.d
 # Need a Quick Break?
 </div>
 
-[How many tries will it take you?](https://mywordle.strivemath.com/?word=mivuj){target="_blank"}
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=yzvdy){target="_blank"}
 
 
 
