@@ -1,6 +1,6 @@
 ---
 title: 'Professional Development Newsletter July 2024'
-date: '2024-07-30'
+date: '2024-07-31'
 format:
   html:
     css: index.css
@@ -16,6 +16,7 @@ description: 'The Professional Development newsletter for July 2024'
 author: 
 - 'Jennifer Struthers'
 - 'Warren Davies'
+- Liz Kelly
 
 ---
 
@@ -61,15 +62,27 @@ You should definitely go next time. You will build your networking skills, help 
 # School Placement
 </div>
 
-In July, the NHS England Data Science Professional Development Functional Team hosted a school placement, hosting five students from a London based secondary school to teach them about our work and show them some of the skills they would need to start a career in data science.
+In July, the NHS England Data Science Professional Development Functional Team hosted a school placement, hosting five students from a London based secondary school to teach them about our work and show them some of the skills they would need to start a career in data science. Liz Kelly describes her experience, working to prepare this week to show the school pupils what our team does, and give them a taste of how it might be to work with us.
 
-This was a diffcult task, involving a lot of admin, paperwork, and even a conversation with NHS England lawyers to check we were dotting all our i's and crossing all our t's.
-
--	Student experience (attached): We introduced two methods of data science ways of working: python programming and collaborative works on GitHub. Students had a rotation of four data science teams to link up their learnings. At the end of the placement week, they had a mock interview and an optional task to build a classifier function with if-else conditions to find which group (of the sessions) they could match the session information.
--	Impact on the team: It was the first host experience since post-merger; not only as a data science team but also first for the entire NHS England! About half of the data scientists (a total of 22) met students during the placement week alongside more indirect engagements from others such as helping with the training materials. Evaluated this as a good trial to address the fair opportunity for the community to get work experience opportunity without worries about individual friendships or lack of working devices; we found Inspiring the Future and made the school provide the laptops.
+![Some really happy cartoon kids on a school placement, ready to learn about the NHS England Data Science team.](school.jpg)
 
 
-As this was the first of it's kind, it took a while to discover all the rules and policies. Now we have done this once, subsequent placements should be a lot easier to host. 
+This was a rewarding yet difficult task, involving a lot of admin, paperwork, and even a conversation with NHS England lawyers to check we were dotting all our i's and crossing all our t's. Naturally, after all this, there were still the dreaded tech setup issues (*sigh*). But Chaeyoon did an amazing job at fixing them in record time, so the students could still get the most out of their placement.
+
+As a graduate in the Data Science team, I know first-hand how valuable it is for colleagues to take time to explain the various cogs in the NHS system. Because let’s be honest, it’s a bit complicated. So, we made sure to cover as many areas as possible to help with this understanding.
+
+About half of the data scientists (a total of 22) met students during the placement week, alongside more indirect engagements from others such as helping with the training materials. The students rotated through four data science teams and were introduced to two methods of data science ways of working: python programming and collaborative works on GitHub. At the end of the placement week, they had a mock interview and an optional task to build a classifier function with if-else conditions to find which group (from the placement sessions) they could match to the session information.
+It is incredible to think some of the students had never touched programming before and yet, by the end of the week, they had a basic understanding of Python!
+
+I personally enjoyed the challenge of organising the timetable for the students and leading them through workshops and career talks. Who doesn’t love a good to-do list! And since I don’t cover this kind of outreach in my day-to-day role, this was an excellent opportunity. I could tick off those leadership and mentoring competencies, not to mention dealing with complexity (those pesky access and tech issues). I will admit, teaching a group over Teams is trickier than I thought, especially interactive sessions. The students were eager to discuss and answer questions but sometimes their meeting room microphone didn’t quite catch what they were saying … or perhaps it was just me and the London accent.
+
+As this was the first of its kind, it took a while to discover all the rules and policies. Now we have done this once, subsequent placements should be a lot easier to host. We have collated the resources used [here](https://github.com/nhsengland/PD_kanban_board/blob/main/PD%20Outreach/Host%20a%20placement.md){target="_blank"}, currently accessible to those in NHSE DS GitHub team. We are working to collate and publish our resources more widely in the future.
+
+As soon as we say “I work for the NHS”, peoples first thoughts are frontline staff, not data scientists. It wasn’t until I was graduating university that I stumbled across data science roles in the NHS and even then, it was purely accidental. When I think back to my time at school I would have loved to do this work experience week in the NHS.
+
+I know I am not alone when I say just how important it is to introduce young people to Data Science, particularly in the NHS. This provides them with more avenues to follow and more ideas of what is out there. It makes the world of possibilities just that bit bigger.
+
+Once again, thank you to everyone involved. I’m sure you’ll agree the placement week was a success, just perhaps short of a few tea and biscuit breaks. The students are not used to being at a desk all day!
 
 
 
@@ -144,7 +157,7 @@ ___
 # Digital Health Hive
 </div>
 
-Interested in joining a community of patients, healthcare professionals and decision makers, companies, and researchers with an interest in digital health, and engaging and interacting with one another to develop digital health research and tools? Join the Digital Health Hive by completing [this form](https://forms.office.com/e/B0gNDcYYNT){target="_blank"} or emailing [digitalhealthhive@leeds.ac.uk](mailto:digitalhealthhive@leeds.ac.uk)
+Yorkshire based, and interested in joining a community of patients, healthcare professionals and decision makers, companies, and researchers with an interest in digital health, and engaging and interacting with one another to develop digital health research and tools? Join the Digital Health Hive by completing [this form](https://forms.office.com/e/B0gNDcYYNT){target="_blank"} or emailing [digitalhealthhive@leeds.ac.uk](mailto:digitalhealthhive@leeds.ac.uk)
 
 
 
