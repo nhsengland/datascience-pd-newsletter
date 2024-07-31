@@ -10,14 +10,139 @@
 <atom:link href="https://nhsengland.github.io/datascience-pd-newsletter/index.xml" rel="self" type="application/rss+xml"/>
 <description>A newsletter to share professional development tips for data scientists in the NHS
 </description>
-<generator>quarto-1.4.557</generator>
-<lastBuildDate>Thu, 27 Jun 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.55</generator>
+<lastBuildDate>Wed, 31 Jul 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Professional Development Newsletter July 2024</title>
+  <dc:creator>Jennifer Struthers</dc:creator>
+  <dc:creator>Warren Davies</dc:creator>
+  <dc:creator>Liz Kelly</dc:creator>
+  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_07/newsletter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_july.png" class="img-fluid"></p>
+<p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Team.</p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>There are some legacy NHS Digital items which we have identified with❗</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – PD newsletter team</p>
+<section id="health-and-care-analytics-conference" class="level1 section-heading">
+<h1>Health and Care Analytics Conference</h1>
+</section>
+<p><em>This month some of the NHS England Data Science team went to the Health and Care Analytics Conference (HACA) 2024, hosted in Telford. The team had various talks, posters and workshops delivered at the conference about our work and projects. Warren Davies reports back.</em></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_07/warren_talk.jpg" class="img-fluid figure-img"></p>
+<figcaption>NHS England RAP Star Warren Davies giving a talk at HACA on RAP Principles</figcaption>
+</figure>
+</div>
+<p>At the HACA conference 2024 I gave a talk on RAP to a huge crowd, over 4,000 people, great people, the best people. OK more like 70. And I also helped run workshops on Python and RAP. I highly recommend the experience overall. I gained the following XP:</p>
+<ul>
+<li><p><strong>+10 Planning</strong> – it’s tricky to plan when you don’t know in advance the size and experience of the audience (in the workshops we opted to give a flavour of what was possible, along with some simple exercises people could follow along with).</p></li>
+<li><p><strong>+10 Schmoozing</strong> – it is actually very easy. People are very happy to talk about their work and how you might be able to help them.</p></li>
+<li><p><strong>+20 Resilience</strong> – public speaking can be nerve wracking but that is OK, it’s just weakness leaving the body.</p></li>
+</ul>
+<p>But you also have the opportunity to help other people. It’s easy to take for granted in NHS England that we basically have a huge bunch of geniuses at our beck and call that that we can pester and learn from every day. But not every analyst in the wider NHS and health world is so lucky. Within trusts and regional organisations, there are often small teams - or even individuals - who do similar work to us but don’t have the kind of support we do.</p>
+<p>With events like HACA we have the chance to connect with them, and point them to resources and communities they might not know about. Which not only helps them, but gives you a warm fuzzy feeling inside too (incidentally, it also ticks a whole load of those “Sharing knowledge” boxes on the competency framework…).</p>
+<p>You should definitely go next time. You will build your networking skills, help people out, and get loads of great examples you can use when you apply for that promotion. Plus, everyone loves a road trip right?</p>
+<section id="school-placement" class="level1 section-heading">
+<h1>School Placement</h1>
+</section>
+<p>In July, the NHS England Data Science Professional Development Functional Team hosted a school placement, hosting five students from a London based secondary school to teach them about our work and show them some of the skills they would need to start a career in data science. Liz Kelly describes her experience, working to prepare this week to show the school pupils what our team does, and give them a taste of how it might be to work with us.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_07/school.jpg" class="img-fluid figure-img"></p>
+<figcaption>Some really happy cartoon kids on a school placement, ready to learn about the NHS England Data Science team.</figcaption>
+</figure>
+</div>
+<p>This was a rewarding yet difficult task, involving a lot of admin, paperwork, and even a conversation with NHS England lawyers to check we were dotting all our i’s and crossing all our t’s. Naturally, after all this, there were still the dreaded tech setup issues (<em>sigh</em>). But Chaeyoon did an amazing job at fixing them in record time, so the students could still get the most out of their placement.</p>
+<p>As a graduate in the Data Science team, I know first-hand how valuable it is for colleagues to take time to explain the various cogs in the NHS system. Because let’s be honest, it’s a bit complicated. So, we made sure to cover as many areas as possible to help with this understanding.</p>
+<p>About half of the data scientists (a total of 22) met students during the placement week, alongside more indirect engagements from others such as helping with the training materials. The students rotated through four data science teams and were introduced to two methods of data science ways of working: python programming and collaborative works on GitHub. At the end of the placement week, they had a mock interview and an optional task to build a classifier function with if-else conditions to find which group (from the placement sessions) they could match to the session information. It is incredible to think some of the students had never touched programming before and yet, by the end of the week, they had a basic understanding of Python!</p>
+<p>I personally enjoyed the challenge of organising the timetable for the students and leading them through workshops and career talks. Who doesn’t love a good to-do list! And since I don’t cover this kind of outreach in my day-to-day role, this was an excellent opportunity. I could tick off those leadership and mentoring competencies, not to mention dealing with complexity (those pesky access and tech issues). I will admit, teaching a group over Teams is trickier than I thought, especially interactive sessions. The students were eager to discuss and answer questions but sometimes their meeting room microphone didn’t quite catch what they were saying … or perhaps it was just me and the London accent.</p>
+<p>As this was the first of its kind, it took a while to discover all the rules and policies. Now we have done this once, subsequent placements should be a lot easier to host. We have collated the resources used <a href="https://github.com/nhsengland/PD_kanban_board/blob/main/PD%20Outreach/Host%20a%20placement.md" target="_blank">here</a>, currently accessible to those in NHSE DS GitHub team. We are working to collate and publish our resources more widely in the future.</p>
+<p>As soon as we say “I work for the NHS”, peoples first thoughts are frontline staff, not data scientists. It wasn’t until I was graduating university that I stumbled across data science roles in the NHS and even then, it was purely accidental. When I think back to my time at school I would have loved to do this work experience week in the NHS.</p>
+<p>I know I am not alone when I say just how important it is to introduce young people to Data Science, particularly in the NHS. This provides them with more avenues to follow and more ideas of what is out there. It makes the world of possibilities just that bit bigger.</p>
+<p>Once again, thank you to everyone involved. I’m sure you’ll agree the placement week was a success, just perhaps short of a few tea and biscuit breaks. The students are not used to being at a desk all day!</p>
+<section id="events" class="level1 section-heading">
+<h1>Events</h1>
+</section>
+<p>Lots of exciting things coming up! See the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars" target="_blank">full calendar here</a>❗</p>
+<section id="practical-applications-of-generative-ai-building-a-chatbot-answering-questions-about-your-documents." class="level3">
+<h3 class="anchored" data-anchor-id="practical-applications-of-generative-ai-building-a-chatbot-answering-questions-about-your-documents."><a href="https://datasciencefestival.com/session/dunnhumby-talk/" target="_blank">Practical applications of Generative AI: building a chatbot answering questions about your documents.</a></h3>
+<p><strong>Tuesday 13th August 2024, 13:00 - 14:00, Online</strong></p>
+<p>The recent explosion on the scene of Generative AI and Large Language Models (LLMs) is creating a vast array of opportunities. There is more than one way to leverage this recent breakthrough. You can create a chatbot by directly “plugging” to a LLM and start asking questions. However, LLMs are limited to the information available in the data they have seen during their training. So how to build a chatbot that will be able to answer questions related to documents that the model has never seen. One solution is to use a technique called “Retrieval Augmented Generation” (RAG). After an introduction of Generative AI and transformers, we will go through the RAG logic and explore its benefits and potential drawbacks. The talk is intended for anyone interested in generative AI and its potential applications.</p>
+</section>
+<section id="translational-science-methods-club-explainable-ai" class="level3">
+<h3 class="anchored" data-anchor-id="translational-science-methods-club-explainable-ai"><a href="https://www.turing.ac.uk/events/translational-science-methods-club-explainable-ai" target="_blank">Translational Science Methods Club: Explainable AI</a></h3>
+<p><strong>Tuesday 20th Aug 2024, 15:30 - 17:00, Virtual Seminar</strong></p>
+<p>The theme of this T-SciM event will be explainable AI (XAI). This refers to a range of approaches that seek to design or evaluate ways to make the outputs of artificial intelligence algorithms more interpretable. Such explainability is important to better understand the mechanisms underlying the models computations and determine how trustworthy and generalisable their results are.</p>
+<p>We will be joined by 3 speakers, who will give short talks introducing their work on XAI, followed by a panel discussion with questions and prompts from the audience.</p>
+<p>Speakers include: Dr Ahmed Salih, Dr Tapabrata (Rohan) Chakraborty and Sophie Martin (ex-PhD intern with the NHSE DS team).</p>
+</section>
+<section id="health-data-science-seminar-series-transforming-healthcare-ai-in-health-data-science" class="level3">
+<h3 class="anchored" data-anchor-id="health-data-science-seminar-series-transforming-healthcare-ai-in-health-data-science"><a href="https://www.eventbrite.co.uk/e/health-data-science-seminar-series-tickets-947750486217?aff=ebdssbdestsearch" target="_blank">Health Data Science Seminar Series: Transforming Healthcare: AI in Health Data Science</a></h3>
+<p><strong>Thursday 12th September 2024, 14:00 - 15:30, Teams</strong></p>
+<p>This series of seminars presents an exciting opportunity to hear about recent developments in health data science, generate ideas and help build the health data science community. It is hosted by the ONS’s Data Science Campus and Health Analysis Team in partnership with Health Data Research UK (HDR UK).</p>
+<p>The Health Data Science Seminar series provides a dedicated space for data scientists, policymakers, health professionals, academics, epidemiologists, statisticians and other members of the data science community to come together and explore the potential of data science, to help improve health and health policy.</p>
+<p>This event will feature presentations from guest speakers including:</p>
+<p>Dr Siegfried Karl Wagner - Ophthalmologist and senior research fellow, University College London Professor Christopher Yau - Professor of Artificial Intelligence and Turing AI Fellow, University of Oxford</p>
+</section>
+<section id="data-science-festival-oktoberfest" class="level3">
+<h3 class="anchored" data-anchor-id="data-science-festival-oktoberfest"><a href="https://datasciencefestival.com/event/oktoberfest-2024/" target="_blank">Data Science Festival: Oktoberfest</a></h3>
+<p><strong>Saturday 19th October 2024, 9am-5pm, CodeNode London</strong></p>
+<p>Apply for a FREE ballot entry to this years DSF Oktoberfest. Top tech speakers, incredible partners and a thriving community. There will be a mixture of talks featured at the festival, covering all things data (science, engineering, etc) and a variety of technical levels.</p>
+<p><a href="https://www.youtube.com/playlist?list=PLwzX3WM0AfxopbhVhGCA373Xk-7wNhLfq" target="_blank">Check out highlights from last year here.</a></p>
+</section>
+<section id="nhs-rpysoc-2024-conference---registration-opened" class="level3">
+<h3 class="anchored" data-anchor-id="nhs-rpysoc-2024-conference---registration-opened"><a href="https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/" target="_blank">NHS RPySOC 2024 Conference - registration opened</a></h3>
+<p><strong>Thursday 21st-22nd November, 9am-5pm, in-person (Birmingham) / Online</strong></p>
+<p>The <strong>NHS RPySOC 2024 conference</strong> is open for registration now! It will be on <strong>21st &amp; 22nd November in Birmingham</strong>. This is jointed hosted by the NHS R Community and NHS.pycom, and also promotes Open Source.</p>
+<ul>
+<li>Day 1 will be a mixture of presentations, workshops and lightening talks</li>
+<li>Day 2 <strong>(in-person only)</strong> will be ‘Unconference’ with suggestions for topics being taken on day 1.</li>
+</ul>
+<p>It’s a great chance to show off our work, share our learning with a like minded community and learn a few things yourself, such as the state of the industry and how techniques are being applied elsewhere.</p>
+<p>You can either attend:</p>
+<ul>
+<li><a href="https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/">In-Person (The ICC, Hall 11, Birmingham B1 2EA</a></li>
+<li><a href="https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-2024-rpysoc-2024-ticket-for-virtual-attendance-on-thursday-21-november-2024/">Online</a></li>
+</ul>
+<p><strong><a href="https://nhsrway.nhsrcommunity.com/conference.html#rpysoc-24-conference---call-for-abstracts" target="_blank">Got something to present? Abstract submissions deadline extended to Monday 12th August!</a></strong></p>
+<hr>
+<p>See more future events on our <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar" target="_blank">confluence calendar</a>❗ Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+<hr>
+</section>
+<section id="digital-health-hive" class="level1 section-heading">
+<h1>Digital Health Hive</h1>
+</section>
+<p>Yorkshire based, and interested in joining a community of patients, healthcare professionals and decision makers, companies, and researchers with an interest in digital health, and engaging and interacting with one another to develop digital health research and tools? Join the Digital Health Hive by completing <a href="https://forms.office.com/e/B0gNDcYYNT" target="_blank">this form</a> or emailing <a href="mailto:digitalhealthhive@leeds.ac.uk">digitalhealthhive@leeds.ac.uk</a></p>
+<div class="text-center">
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_07/digital_health_hive.png" class="img-fluid"></p>
+</div>
+<hr>
+<section id="need-a-quick-break" class="level1 section-heading">
+<h1>Need a Quick Break?</h1>
+</section>
+<p><a href="https://mywordle.strivemath.com/?word=yzvdy" target="_blank">How many tries will it take you?</a></p>
+<div style="text-align: center;">
+<p><a href="https://forms.office.com/e/JJsmgPmVVJ" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe (nhs.net login)</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>newsletter</category>
+  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_07/newsletter.html</guid>
+  <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Professional Development Newsletter June 2024</title>
   <dc:creator>Jennifer Struthers</dc:creator>
   <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_06/newsletter.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -170,7 +295,6 @@
 
 
 
-
 <p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_may.png" class="img-fluid"></p>
 <p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Team.</p>
 <p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
@@ -289,7 +413,6 @@
   <dc:creator>Harriet Sands</dc:creator>
   <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_04/newsletter.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -424,7 +547,6 @@
 
 
 
-
 <p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_march.png" class="img-fluid"></p>
 <p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Group.</p>
 <p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
@@ -528,7 +650,6 @@
   <dc:creator>Harriet Sands and Jennifer Struthers</dc:creator>
   <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_02/newsletter.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -657,7 +778,6 @@
   <dc:creator>Harriet Sands and Harry Kelleher</dc:creator>
   <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_01/newsletter.html</link>
   <description><![CDATA[ 
-
 
 
 
