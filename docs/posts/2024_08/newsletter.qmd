@@ -29,12 +29,12 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – PD newsletter team 
 
 <div class="section-heading">
-# Highlights
+# HACA 2024: Relive the experience
 </div>
 
 ## HACA 2024: Relive the experience
 
-Had to pick between two presentations on at the same time? Couldn't make the event in person? No worries - the Health and Care Analytics conference hosted in July recorded all their presentations and has now uploaded them onto their YouTube channel, and can be easily accessed from [their site](https://haca-conference.nhs.uk/programme/){target="_blank"}.
+Couldn't make the event in person? Had to pick between two presentations on at the same time?  No worries - the Health and Care Analytics conference hosted in July recorded all their presentations and has now uploaded them onto their YouTube channel, and can be easily accessed from [their site](https://haca-conference.nhs.uk/programme/){target="_blank"}.
 
 HACA was also full of amazing posters on a wide range of topics, so many it was hard to read them all! You can check out the posters on [their site](https://haca-conference.nhs.uk/haca-24-posters/){target="_blank"} as well.
 
@@ -44,6 +44,14 @@ HACA was also full of amazing posters on a wide range of topics, so many it was 
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
 
+### [Code Dependent - Data Ethics and Society Reading Group](https://www.tickettailor.com/events/dataethics/1292240/r/gss){target="_blank"}
+**Wednesday 4th September, 13:00-14:00, Teams**
+
+We will be discussing Code Dependent by Madhumita Murgia:
+
+The lives of a British poet, an Uber Eats courier in Pittsburgh, an Indian doctor, and a Chinese activist in exile are linked by their unexpected encounters with AI. In this book Madhumita Murgia, AI Editor at the FT, highlights the voices of ordinary people, to show how automated systems are reshaping lives all over the world, from technology that marks children as future criminals to an app that is helping to give diagnoses to a remote trial community.
+
+See [our GitHub page](https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/){target="_blank"} for more information. Registration closes Friday 23rd August 17:00
 
 ### [Health Data Science Seminar Series: Transforming Healthcare: AI in Health Data Science](https://www.eventbrite.co.uk/e/health-data-science-seminar-series-tickets-947750486217?aff=ebdssbdestsearch){target="_blank"}
 **Thursday 12th September 2024, 14:00 - 15:30, Teams**
