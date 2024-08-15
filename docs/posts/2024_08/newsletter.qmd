@@ -32,10 +32,11 @@ Thanks for reading! – PD newsletter team
 # Highlights
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+## HACA 2024: Relive the experience
 
-TEXT
-___
+Had to pick between two presentations on at the same time? Couldn't make the event in person? No worries - the Health and Care Analytics conference hosted in July recorded all their presentations and has now uploaded them onto their YouTube channel, and can be easily accessed from [their site](https://haca-conference.nhs.uk/programme/){target="_blank"}.
+
+HACA was also full of amazing posters on a wide range of topics, so many it was hard to read them all! You can check out the posters on [their site](https://haca-conference.nhs.uk/haca-24-posters/){target="_blank"} as well.
 
 
 <div class="section-heading">
@@ -44,11 +45,42 @@ ___
 Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
 
 
+### [Health Data Science Seminar Series: Transforming Healthcare: AI in Health Data Science](https://www.eventbrite.co.uk/e/health-data-science-seminar-series-tickets-947750486217?aff=ebdssbdestsearch){target="_blank"}
+**Thursday 12th September 2024, 14:00 - 15:30, Teams**
 
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,*
+This series of seminars presents an exciting opportunity to hear about recent developments in health data science, generate ideas and help build the health data science community. It is hosted by the ONS's Data Science Campus and Health Analysis Team in partnership with Health Data Research UK (HDR UK).
 
-A SHORT DESCRIPTION OF EVENT 
+The Health Data Science Seminar series provides a dedicated space for data scientists, policymakers, health professionals, academics, epidemiologists, statisticians and other members of the data science community to come together and explore the potential of data science, to help improve health and health policy.
+
+This event will feature presentations from guest speakers including:
+
+Dr Siegfried Karl Wagner - Ophthalmologist and senior research fellow, University College London
+Professor Christopher Yau - Professor of Artificial Intelligence and Turing AI Fellow, University of Oxford
+
+### [Data Science Festival: Oktoberfest](https://datasciencefestival.com/event/oktoberfest-2024/){target="_blank"}
+**Saturday 19th October 2024, 9am-5pm, CodeNode London**
+
+Apply for a FREE ballot entry to this years DSF Oktoberfest. Top tech speakers, incredible partners and a thriving community. There will be a mixture of talks featured at the festival, covering all things data (science, engineering, etc) and a variety of technical levels. 
+
+[Check out highlights from last year here.](https://www.youtube.com/playlist?list=PLwzX3WM0AfxopbhVhGCA373Xk-7wNhLfq){target="_blank"}
+
+### [NHS RPySOC 2024 Conference](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/){target="_blank"}
+**Thursday 21st-22nd November, 9am-5pm, in-person (Birmingham) / Online**
+
+The **NHS RPySOC 2024 conference** is open for registration now! It will be on **21st & 22nd November in Birmingham**.
+This is jointed hosted by the NHS R Community and NHS.pycom, and also promotes Open Source.
+
+- Day 1 will be a mixture of presentations, workshops and lightening talks
+- Day 2 will be ‘Unconference’ with suggestions for topics being taken on day 1.
+
+It's a great chance to show off our work, share our learning with a like minded community and learn a few things yourself, such as the state of the industry and how techniques are being applied elsewhere.
+
+You can either attend:
+
+- [In-Person (The ICC, Hall 11, Birmingham B1 2EA](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/) (Sold Out: Waiting List Only)
+- [Online](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-2024-rpysoc-2024-ticket-for-virtual-attendance-on-thursday-21-november-2024/)
+
+
 
 ___
 
