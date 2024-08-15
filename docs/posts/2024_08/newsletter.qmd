@@ -57,6 +57,14 @@ This event will feature presentations from guest speakers including:
 Dr Siegfried Karl Wagner - Ophthalmologist and senior research fellow, University College London
 Professor Christopher Yau - Professor of Artificial Intelligence and Turing AI Fellow, University of Oxford
 
+### [Python ELT with dlt: Zero to Hero workshop](https://lu.ma/ozfm3thk){target="_blank"}
+**Thursday 19th September, Thursday 26th September, 17:00-19:00, Online**
+
+A zero-to-hero workshop for learning ELT, dlt and advanced features around it. The goal is to have you walk away with the ability and understanding to build robust ELT pipelines. This will essentially upskill your Python EL ability from just learning to senior data (platform) engineer level.
+
+This is a two-part workshop, with a target audience of data platform engineers, Python First data engineers, Python normies who want to learn best practice data engineering.
+
+
 ### [Data Science Festival: Oktoberfest](https://datasciencefestival.com/event/oktoberfest-2024/){target="_blank"}
 **Saturday 19th October 2024, 9am-5pm, CodeNode London**
 
@@ -120,11 +128,16 @@ Please bear with us as it is likely to be a learning process! Contact [Mia Noona
 # Training Opportunities
 </div>
 
-TEXT
+## Large Language Model Tutorial
 
-___
+Curious about how you could create your own LLM but worried it'll be too complicated or costly? Adam and Sam Hollings have put together a LLM tutorial to walk yuo through some simple implementations. The software is all free and runs inside Google Collab, so it won't cost you anything. Some ability with python will be helpful, and an interest in data science and LLMs will help!
 
-Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+Instructions for set up, or for contacting the owners can be found in [this GitHub repository](https://github.com/nhsengland/llm_tutorial){target="_blank"}.
+
+## Technical Writing Courses
+
+Sometimes when we spend most of days writing code we forgot a huge part of our jobs is communicating our work and documenting it. [Google have a collection of courses and learning resources](https://developers.google.com/tech-writing){target="_blank"} aiming to improve your technical documentation skills. Learn how to plan and author technical documents. You can also learn about the role of technical writers at Google.
+
 
 <div class="section-heading">
 # Need a Quick Break?
