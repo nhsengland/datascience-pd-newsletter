@@ -1,0 +1,162 @@
+---
+title: 'Professional Development Newsletter August 2024'
+date: '2024-08-21'
+format:
+  html:
+    css: index.css
+  pdf:
+    toc: false
+    geometry: 
+      - top=10mm
+      - bottom=10mm
+      - left=20mm
+      - right=20mm
+categories: ['newsletter']
+description: 'The Professional Development newsletter for August 2024'
+author: 'Jennifer Struthers'
+---
+
+![](../../images/banner_august.png)
+
+Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Team. 
+
+The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
+
+There are some legacy NHS Digital items which we have identified with❗
+
+If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
+
+Thanks for reading! – PD newsletter team 
+
+<div class="section-heading">
+# HACA 2024: Relive the experience
+</div>
+
+## HACA 2024: Relive the experience
+
+Couldn't make the event in person? Had to pick between two presentations on at the same time?  No worries - the Health and Care Analytics conference hosted in July recorded all their presentations and has now uploaded them onto their YouTube channel, and can be easily accessed from [their site](https://haca-conference.nhs.uk/programme/){target="_blank"}.
+
+HACA was also full of amazing posters on a wide range of topics, so many it was hard to read them all! You can check out the posters on [their site](https://haca-conference.nhs.uk/haca-24-posters/){target="_blank"} as well.
+
+
+<div class="section-heading">
+# Events
+</div>
+Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
+
+### [Code Dependent - Data Ethics and Society Reading Group](https://www.tickettailor.com/events/dataethics/1292240/r/gss){target="_blank"}
+**Wednesday 4th September, 13:00-14:00, Teams**
+
+We will be discussing Code Dependent by Madhumita Murgia:
+
+The lives of a British poet, an Uber Eats courier in Pittsburgh, an Indian doctor, and a Chinese activist in exile are linked by their unexpected encounters with AI. In this book Madhumita Murgia, AI Editor at the FT, highlights the voices of ordinary people, to show how automated systems are reshaping lives all over the world, from technology that marks children as future criminals to an app that is helping to give diagnoses to a remote trial community.
+
+See [our GitHub page](https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/){target="_blank"} for more information. Registration closes Friday 23rd August 17:00
+
+### [Health Data Science Seminar Series: Transforming Healthcare: AI in Health Data Science](https://www.eventbrite.co.uk/e/health-data-science-seminar-series-tickets-947750486217?aff=ebdssbdestsearch){target="_blank"}
+**Thursday 12th September 2024, 14:00 - 15:30, Teams**
+
+This series of seminars presents an exciting opportunity to hear about recent developments in health data science, generate ideas and help build the health data science community. It is hosted by the ONS's Data Science Campus and Health Analysis Team in partnership with Health Data Research UK (HDR UK).
+
+The Health Data Science Seminar series provides a dedicated space for data scientists, policymakers, health professionals, academics, epidemiologists, statisticians and other members of the data science community to come together and explore the potential of data science, to help improve health and health policy.
+
+This event will feature presentations from guest speakers including:
+
+Dr Siegfried Karl Wagner - Ophthalmologist and senior research fellow, University College London
+Professor Christopher Yau - Professor of Artificial Intelligence and Turing AI Fellow, University of Oxford
+
+### [Python ELT with dlt: Zero to Hero workshop](https://lu.ma/ozfm3thk){target="_blank"}
+**Thursday 19th September, Thursday 26th September, 17:00-19:00, Online**
+
+A zero-to-hero workshop for learning ELT, dlt and advanced features around it. The goal is to have you walk away with the ability and understanding to build robust ELT pipelines. This will essentially upskill your Python EL ability from just learning to senior data (platform) engineer level.
+
+This is a two-part workshop, with a target audience of data platform engineers, Python First data engineers, and Python normies who want to learn best practice data engineering.
+
+
+### [Data Science Festival: Oktoberfest](https://datasciencefestival.com/event/oktoberfest-2024/){target="_blank"}
+**Saturday 19th October 2024, 9am-5pm, CodeNode London**
+
+Apply for a FREE ballot entry to this years DSF Oktoberfest. Top tech speakers, incredible partners and a thriving community. There will be a mixture of talks featured at the festival, covering all things data (science, engineering, etc) and a variety of technical levels. 
+
+[Check out highlights from last year here.](https://www.youtube.com/playlist?list=PLwzX3WM0AfxopbhVhGCA373Xk-7wNhLfq){target="_blank"}
+
+### [NHS RPySOC 2024 Conference](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/){target="_blank"}
+**Thursday 21st-22nd November, 9am-5pm, in-person (Birmingham) / Online**
+
+The **NHS RPySOC 2024 conference** is open for registration now! It will be on **21st & 22nd November in Birmingham**.
+This is jointly hosted by the NHS R Community and NHS.pycom, and also promotes Open Source.
+
+- Day 1 will be a mixture of presentations, workshops and lightening talks
+- Day 2 will be ‘Unconference’ with suggestions for topics being taken on day 1.
+
+It's a great chance to show off our work, share our learning with a like minded community and learn a few things yourself, such as the state of the industry and how techniques are being applied elsewhere.
+
+You can either attend:
+
+- [In-Person (The ICC, Hall 11, Birmingham B1 2EA](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/) (Sold Out: Waiting List Only)
+- [Online](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-2024-rpysoc-2024-ticket-for-virtual-attendance-on-thursday-21-november-2024/)
+
+
+
+___
+
+See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
+
+Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+
+<div class="section-heading">
+# Data Science Discussion: Democracy 
+</div>
+
+![Cartoon image of a future UK parliament filled with robots](robot_parliament.jpg)
+
+Recently, we held another Data Science Discussion, where we encourage people to look into a different area or use case of data science than they might strictly look at in their day job and spark discussion on a peer-to-peer level.
+
+This time we delved into the intriguing topic of data science and democracy, hosted by Mia Noonan. 
+
+
+Mia kicked off the discussion by asking the group to consider the different ways data science could interact with and potentially reshape the political landscape. One of the key ideas presented was the concept of AI-driven profiles that could be created based on an individual's opinions and values, with the potential to vote on bills and acts on their behalf. This led to a lively debate on the implications of such a system, and what type of democracy we’d like to see AI help facilitate- representative, direct or deliberative.
+
+Throughout the session, the group expressed a healthy dose of skepticism, particularly regarding the biases inherent in large language models (LLMs) and AI systems. Concerns were raised about the potential for AI to reflect and even exacerbate existing biases, as well as the broader implications for democracy and personal agency. The discussion highlighted the complex and often controversial nature of combining AI with politics, but also the potential for innovative applications that could transform how we engage with governance.
+
+
+The Professional Development Functional Team is excited to continue hosting these monthly Data Science Discussions. If you have a data science topic you're passionate about and would like to share with others, please reach out to us to host a session. The format is designed to be collaborative and conversational, with most of the session taking place in breakout rooms, so all you need is a spark of inspiration to get the conversation started.
+
+Interested in learning a bit more about this topic? 
+
+- [A TED talk on ‘automating’ politicians](https://www.youtube.com/watch?v=CyGWML6cI_k){target="_blank"}
+- [How LLMs could help citizens assemblies](https://blogs.bath.ac.uk/iprblog/2024/02/22/how-ai-could-help-citizens-assemblies-make-well-informed-decisions/){target="_blank"}
+
+___
+
+Stay tuned for an update on what seminars & show and tells will look like in the new team. 
+Please bear with us as it is likely to be a learning process! Contact [Mia Noonan](mailto:amelia.noonan1@nhs.net) for more information.
+
+<div class="section-heading">
+# Training Opportunities
+</div>
+
+## Large Language Model Tutorial
+
+Curious about how you could create your own LLM but worried it'll be too complicated or costly? Adam and Sam Hollings have put together an LLM tutorial to walk you through some simple implementations. The software is all free and runs inside Google Collab, so it won't cost you anything. Some ability with python will be helpful, and an interest in data science and LLMs will help!
+
+Instructions for set up, or for contacting the owners can be found in [this GitHub repository](https://github.com/nhsengland/llm_tutorial){target="_blank"}.
+
+## Technical Writing Courses
+
+Sometimes when we spend most days writing code we forget a huge part of our jobs is communicating our work and documenting it. [Google have a collection of courses and learning resources](https://developers.google.com/tech-writing){target="_blank"} aiming to improve your technical documentation skills. Learn how to plan and author technical documents. You can also learn about the role of technical writers at Google.
+
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=hcxln){target="_blank"}
+
+
+
+<div style="text-align: center;">
+
+[Subscribe (nhs.net login)](https://forms.office.com/e/JJsmgPmVVJ){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+</div>
+
