@@ -16,7 +16,7 @@ description: 'The Professional Development newsletter for July 2024'
 author: 
 - 'Jennifer Struthers'
 - 'Warren Davies'
-- Liz Kelly
+- 'Liz Kelly'
 
 ---
 
