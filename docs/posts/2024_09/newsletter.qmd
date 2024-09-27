@@ -11,9 +11,11 @@ format:
       - bottom=10mm
       - left=20mm
       - right=20mm
-categories: ['newsletter',]
+categories: ['newsletter', 'Civil Service Data Challenge']
 description: 'The Professional Development newsletter for September 2024'
-author: 'Jennifer Struthers'
+author: 
+- 'Jennifer Struthers'
+- 'Divya Balasubramanian'
 ---
 
 ![](../../images/banner_sept.png)
@@ -31,17 +33,24 @@ Thanks for reading! – PD newsletter team
 <div class="section-heading">
 # Civil Service Data Challenge Success!
 </div>
+*Divya Balasubramanian (below, third from left) recently led her team to an amazing second place at the Civil Service Data Challenge. Read about the challenge and her experience below.*
 
 
-PICTURE HERE
+<p float="center">
+  <img src="Public%20sector%20team.jfif" alt="Public Sector Team" width="465"/>
+  <img src="logo_chatgpt.jpg" alt="AI Generated Logo for " width="310"/>
+</p>
 
-TEXT
 
-TEXT
 
-TEXT
+I was a part of one of the teams who were finalists at the [civil service data challenge](https://datachallenge.uk/) (CSDC) which is an annual event where teams come together to pitch innovative ideas to secure funding. Think of it like Dragon's Den or Shark Tank but with friendlier judges who are all senior data leaders from across the public sector.  A multidisciplinary team chosen from the applicants across public sector were tasked to build a product roadmap for RouteCare, an NHS geospatial tool, that can be pitched for funding. We were among the four finalists, and we came a close second place (still gutted!). While it meant we didn't receive the funding, it was a huge achievement for the team! We were also the only all-women-panel which inspired several members of the audience who kindly congratulated us for our presentation - a highlight for me.
+ 
+Now for some behind the scenes. This was not a hackathon but an entire "side" project involving multiple stakeholders. Once we were selected after the semi-finals, each team was allocated a mentor from the judging panel and ours was John Quinn, Chief Information Officer, NHS England. This helped in securing senior management buy-in straightaway, however expanded the vision of the product. John’s involvement opened several doors for us including obtaining buy-in from Helen Balsdon, Chief Nursing Information Officer, NHS England and partnership with Google to further build this tool.
+ 
+We however lost a few team members to churn, and I took on the leadership of the tool. This was an excellent opportunity to pick up skills including different styles of leadership (technical and motivational), influencing senior stakeholders, collaboration with team members with diverse backgrounds, commercial negotiation and most of all, public speaking (presenting to a 200-member audience whilst being filmed isn't my idea of fun). 
 
-TEXT
+I would highly recommend applying for the next cohort of CSDC if you would like an overall development opportunity which is unique and will certainly be a valuable experience for your career!
+
 
 
 ___
@@ -118,19 +127,10 @@ Check out the [Python in an Hour Git repo](https://github.com/nhsengland/python-
 
 Check out some recordings of previous talks we have been hosting - also known as Huddles! These talks cover a range of data science topics with a range of speakers, both internal and external to the NHS. 
 
-Check them out on our [FutureNHS page](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}
+Check them out on our [FutureNHS page](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}.
 
 Have a topic you'd be keen to share? [Contact us](mailto:datascience@nhs.net?subject=PD%20FT%20AnalystX%20DS%20Huddle) and let us know!
 
-
-___
-
-
-<div class="section-heading">
-# Training Opportunities
-</div>
-
-TEXT
 
 ___
 
@@ -140,7 +140,7 @@ Check out all the resources in the [Resources](https://future.nhs.uk/DataAnalyti
 # Need a Quick Break?
 </div>
 
-[How many tries will it take you?](https://mywordle.strivemath.com/){target="_blank"}
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=earjp){target="_blank"}
 
 
 
