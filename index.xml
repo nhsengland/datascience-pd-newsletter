@@ -10,8 +10,111 @@
 <atom:link href="https://nhsengland.github.io/datascience-pd-newsletter/index.xml" rel="self" type="application/rss+xml"/>
 <description>A newsletter to share professional development tips for data scientists in the NHS
 </description>
-<generator>quarto-1.5.56</generator>
-<lastBuildDate>Wed, 21 Aug 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Fri, 27 Sep 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Professional Development Newsletter September 2024</title>
+  <dc:creator>Jennifer Struthers</dc:creator>
+  <dc:creator>Divya Balasubramanian</dc:creator>
+  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_09/newsletter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_sept.png" class="img-fluid"></p>
+<p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Team.</p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>There are some legacy NHS Digital items which we have identified with❗</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – PD newsletter team</p>
+<section id="civil-service-data-challenge-success" class="level1 section-heading">
+<h1>Civil Service Data Challenge Success!</h1>
+</section>
+<p><em>Divya Balasubramanian (below, third from left) recently led her team to an amazing second place at the Civil Service Data Challenge. Read about the challenge and her experience below.</em></p>
+<p float="center">
+<img src="https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_09/Public sector team.jfif" alt="Public Sector Team" width="465"> <img src="https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_09/logo_chatgpt.jpg" alt="AI Generated Logo for " width="310">
+</p>
+<p>I was a part of one of the teams who were finalists at the <a href="https://datachallenge.uk/">civil service data challenge</a> (CSDC) which is an annual event where teams come together to pitch innovative ideas to secure funding. Think of it like Dragon’s Den or Shark Tank but with friendlier judges who are all senior data leaders from across the public sector. A multidisciplinary team chosen from the applicants across public sector were tasked to build a product roadmap for RouteCare, an NHS geospatial tool, that can be pitched for funding. We were among the four finalists, and we came a close second place (still gutted!). While it meant we didn’t receive the funding, it was a huge achievement for the team! We were also the only all-women-panel which inspired several members of the audience who kindly congratulated us for our presentation - a highlight for me.</p>
+<p>Now for some behind the scenes. This was not a hackathon but an entire “side” project involving multiple stakeholders. Once we were selected after the semi-finals, each team was allocated a mentor from the judging panel and ours was John Quinn, Chief Information Officer, NHS England. This helped in securing senior management buy-in straightaway, however expanded the vision of the product. John’s involvement opened several doors for us including obtaining buy-in from Helen Balsdon, Chief Nursing Information Officer, NHS England and partnership with Google to further build this tool.</p>
+<p>We however lost a few team members to churn, and I took on the leadership of the tool. This was an excellent opportunity to pick up skills including different styles of leadership (technical and motivational), influencing senior stakeholders, collaboration with team members with diverse backgrounds, commercial negotiation and most of all, public speaking (presenting to a 200-member audience whilst being filmed isn’t my idea of fun).</p>
+<p>I would highly recommend applying for the next cohort of CSDC if you would like an overall development opportunity which is unique and will certainly be a valuable experience for your career!</p>
+<hr>
+<section id="events" class="level1 section-heading">
+<h1>Events</h1>
+</section>
+<p>Lots of exciting things coming up! <a href="mailto:datascience@nhs.net">Contact Us</a> if there’s a specific event you think would be great advertise in the next newsletter!</p>
+<section id="ons-local-presents-health-foundation-local-authority-dashboard" class="level3">
+<h3 class="anchored" data-anchor-id="ons-local-presents-health-foundation-local-authority-dashboard"><a href="https://www.eventbrite.co.uk/e/ons-local-presents-health-foundation-local-authority-dashboard-tickets-1009106945037?aff=ebdsoporgprofile&amp;_gl=1*ktmjn*_up*MQ..*_ga*MTAyMzgwNDY5OS4xNzI3MjYwMTgx*_ga_TQVES5V6SH*MTcyNzI2MDE4MC4xLjAuMTcyNzI2MDE4MC4wLjAuMA.." target="_blank">ONS Local presents: Health Foundation local authority dashboard</a></h3>
+<p><strong>Tuesday 1st October, 09:15-10:00, Online</strong></p>
+<p>The presentation will be focused on the Health Foundation Local Authority Dashboard, an interactive tool which brings together data and insights on the state of health and health inequalities across all local authorities in England.</p>
+<p>This event is open to all; we anticipate it will be of most interest to anyone working on health indicators at a local level.</p>
+</section>
+<section id="the-turing-lectures-can-we-trust-ai" class="level3">
+<h3 class="anchored" data-anchor-id="the-turing-lectures-can-we-trust-ai"><a href="https://www.turing.ac.uk/events/turing-lectures-can-we-trust-ai" target="_blank">The Turing Lectures: Can we trust AI?</a></h3>
+<p><strong>Monday 14th October, 19:30-21:30, In person (London) AND online</strong></p>
+<p>Is AI eroding public confidence in technology? Can AI be trustworthy? In the second Turing Lecture, Abeba Birhane will unpack the biases in data and its downstream impact on AI systems and shows how it can lead to unfair outcomes in our daily lives.</p>
+<p>She’ll look at why this happens, why it’s such a big issue and how researchers, activists and policy makers are tackling the problem.</p>
+<p>By the end of this talk, you’ll have an improved understanding of the AI systems that increasingly shape our world. You’ll be better equipped to ask critical questions about AI technologies and understand why rigorous testing of AI systems and accountability of tech corporations is so crucial - no matter your background, you’ll learn something valuable.</p>
+<p><strong>Online: Free</strong></p>
+<p><strong>In person: £10 (covers drinks and nibbles)</strong></p>
+</section>
+<section id="data-science-festival-oktoberfest" class="level3">
+<h3 class="anchored" data-anchor-id="data-science-festival-oktoberfest"><a href="https://datasciencefestival.com/event/oktoberfest-2024/" target="_blank">Data Science Festival: Oktoberfest</a></h3>
+<p><strong>Saturday 19th October 2024, 9am-5pm, CodeNode London</strong></p>
+<p>Apply for a FREE ballot entry to this years DSF Oktoberfest. Top tech speakers, incredible partners and a thriving community. There will be a mixture of talks featured at the festival, covering all things data (science, engineering, etc) and a variety of technical levels.</p>
+<p><a href="https://www.youtube.com/playlist?list=PLwzX3WM0AfxopbhVhGCA373Xk-7wNhLfq" target="_blank">Check out highlights from last year here.</a></p>
+</section>
+<section id="nhs-rpysoc-2024-conference" class="level3">
+<h3 class="anchored" data-anchor-id="nhs-rpysoc-2024-conference"><a href="https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/" target="_blank">NHS RPySOC 2024 Conference</a></h3>
+<p><strong>Thursday 21st-22nd November, 9am-5pm, in-person (Birmingham) / Online</strong></p>
+<p>The <strong>NHS RPySOC 2024 conference</strong> is open for registration now! It will be on <strong>21st &amp; 22nd November in Birmingham</strong>. This is jointly hosted by the NHS R Community and NHS.pycom, and also promotes Open Source.</p>
+<ul>
+<li>Day 1 will be a mixture of presentations, workshops and lightening talks</li>
+<li>Day 2 will be ‘Unconference’ with suggestions for topics being taken on day 1.</li>
+</ul>
+<p>It’s a great chance to show off our work, share our learning with a like minded community and learn a few things yourself, such as the state of the industry and how techniques are being applied elsewhere.</p>
+<p>You can either attend:</p>
+<ul>
+<li><a href="https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/">In-Person (The ICC, Hall 11, Birmingham B1 2EA</a> (Sold Out: Waiting List Only)</li>
+<li><a href="https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-2024-rpysoc-2024-ticket-for-virtual-attendance-on-thursday-21-november-2024/">Online</a></li>
+</ul>
+<hr>
+<p>See more future events on our <a href="https://future.nhs.uk/DataAnalytics/view?objectID=54053296" target="_blank">FutureNHS page</a> - scroll down to “Our Events” to see the calendar</p>
+<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+</section>
+<section id="knowledge-sharing" class="level1 section-heading">
+<h1>Knowledge Sharing</h1>
+</section>
+<section id="python-in-an-hour" class="level2">
+<h2 class="anchored" data-anchor-id="python-in-an-hour">Python in an hour</h2>
+<p>Have you been stuck in an Excel rut for years and want to try out something new? Or maybe you have a team you are trying to convince of the wonders of python, but need to show them quickly what it can do.</p>
+<p>Check out the <a href="https://github.com/nhsengland/python-in-an-hour" target="_blank">Python in an Hour Git repo</a>. It can be run either on GitHub codespaces, or Google Colab, completely for free - you just need an account. See a simple data pipeline, from importing, to procesing, to outputting graphs, all done just with a few clicks.</p>
+</section>
+<section id="past-analystx-ds-huddles" class="level2">
+<h2 class="anchored" data-anchor-id="past-analystx-ds-huddles">Past AnalystX DS Huddles</h2>
+<p>Check out some recordings of previous talks we have been hosting - also known as Huddles! These talks cover a range of data science topics with a range of speakers, both internal and external to the NHS.</p>
+<p>Check them out on our <a href="https://future.nhs.uk/DataAnalytics/view?objectID=56936784" target="_blank">FutureNHS page</a>.</p>
+<p>Have a topic you’d be keen to share? <a href="mailto:datascience@nhs.net?subject=PD%20FT%20AnalystX%20DS%20Huddle">Contact us</a> and let us know!</p>
+<hr>
+<p>Check out all the resources in the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=56293968" target="_blank">Resources</a> page on our FutureNHS page! Can you spot something missing? <a href="mailto:datascience@nhs.net">Contact us</a>!</p>
+</section>
+<section id="need-a-quick-break" class="level1 section-heading">
+<h1>Need a Quick Break?</h1>
+</section>
+<p><a href="https://mywordle.strivemath.com/?word=earjp" target="_blank">How many tries will it take you?</a></p>
+<div style="text-align: center;">
+<p><a href="https://forms.office.com/e/JJsmgPmVVJ" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe (nhs.net login)</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>newsletter</category>
+  <category>Civil Service Data Challenge</category>
+  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_09/newsletter.html</guid>
+  <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Professional Development Newsletter August 2024</title>
   <dc:creator>Jennifer Struthers</dc:creator>
