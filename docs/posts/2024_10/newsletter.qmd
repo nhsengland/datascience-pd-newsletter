@@ -1,0 +1,115 @@
+---
+title: 'Professional Development Newsletter October 2024'
+date: '2024-10-24'
+format:
+  html:
+    css: index.css
+  pdf:
+    toc: false
+    geometry: 
+      - top=10mm
+      - bottom=10mm
+      - left=20mm
+      - right=20mm
+categories: ['newsletter', 'professional development']
+description: 'The Professional Development newsletter for October 2024'
+author: 'Jennifer Struthers'
+---
+
+![](../../images/banner_oct.png)
+
+Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Team. 
+
+The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
+
+There are some legacy NHS Digital items which we have identified with❗
+
+If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
+
+Thanks for reading! – PD newsletter team 
+
+<div class="section-heading">
+# Highlights
+</div>
+
+#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+
+TEXT
+___
+
+
+<div class="section-heading">
+# Events
+</div>
+Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
+
+
+
+### [EVENT TITLE](event link){target="_blank"}
+**DATE, TIME, LOCATION,*
+
+A SHORT DESCRIPTION OF EVENT 
+
+___
+
+See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
+
+Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+
+<div class="section-heading">
+# Knowledge Sharing
+</div>
+
+TEXT
+
+___
+
+Stay tuned for an update on what seminars & show and tells will look like in the new team. 
+Please bear with us as it is likely to be a learning process! Contact [Mia Noonan](mailto:amelia.noonan1@nhs.net) for more information..
+
+<div class="section-heading">
+# Competitions and Challenges
+</div>
+## British Heart Foundation Kaggle Competition
+Got a competitive edge but a heart of gold?
+
+The British Heart Foundation Data Science Centre have set up a Kaggle competition, in collaboration with researchers from the ition on Kaggle The University of Edinburgh. The challenge aims to assess whether artificial intelligence/machine learning can be used to identify and classify disorders of heart rhythm from synthetic ECG images which have been created to incorporate common artefacts.
+
+The top scoring teams will be invited to participate in a British Heart Foundation Data Science Centre webinar about the challenge and the best performing will be invited to present their results at the British Cardiovascular Society (BCS) meeting in June 2025. Participation in these activities will require code sharing.
+
+
+Find out more information and how to enter [here](https://www.kaggle.com/c/bhf-data-science-centre-ecg-challenge). 
+This competition is currently open and runs until Monday 16th of December 2024.
+
+## Gandalf Game
+ 
+Test your LLM prompt skills by tricking Gandalf into revealing the secret password for each level. Each level gets progressively harder, with Gandalf first just giving the password to anyone that asks and later more creative approaches are needed. 
+
+Played before? There's new adventures! Try Reverse Gandalf, where you tell Gandalf how to defend against password seeking users.
+
+You can check it out here: [Gandalf Wizard AI](https://gandalf.lakera.ai/intro){target="_blank"}
+
+## AI vs Human: Who wrote it best?
+
+Can you tell when something has been written by a machine? Can you write like a machine?
+
+Check out [GPTZero](https://gptzero.me/){target="_blank"}, a free online AI checker which estimates its confidence that the text you input is or isn't AI generated. Think you can fool it? Try writing a short paragraph in the style of ChatGPT, and see if you can get it to think what you've written was really written by an LLM. Or flip the script: give your favourite LLM prompts to see if it can produce text that passes as human.
+
+
+___
+
+Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=hwdle){target="_blank"}
+
+
+
+<div style="text-align: center;">
+
+[Subscribe (nhs.net login)](https://forms.office.com/e/JJsmgPmVVJ){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+</div>
+
