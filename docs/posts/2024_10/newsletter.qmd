@@ -22,8 +22,6 @@ Welcome to the latest Professional Development newsletter, brought to you by the
 
 The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
 
-There are some legacy NHS Digital items which we have identified with❗
-
 If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
 
 Thanks for reading! – PD newsletter team 
@@ -41,7 +39,7 @@ ___
 <div class="section-heading">
 # Events
 </div>
-Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
+Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"} and a small selection below.
 
 
 
@@ -52,7 +50,7 @@ A SHORT DESCRIPTION OF EVENT
 
 ___
 
-See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
+See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
@@ -64,8 +62,6 @@ TEXT
 
 ___
 
-Stay tuned for an update on what seminars & show and tells will look like in the new team. 
-Please bear with us as it is likely to be a learning process! Contact [Mia Noonan](mailto:amelia.noonan1@nhs.net) for more information..
 
 <div class="section-heading">
 # Training Opportunities
@@ -75,7 +71,7 @@ TEXT
 
 ___
 
-Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+Check out all the resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=56293968){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
 
 <div class="section-heading">
 # Need a Quick Break?
