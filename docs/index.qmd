@@ -3,7 +3,7 @@ title: "Data Science Professional Development Newsletter"
 css: index.css
 editor: source
 description: | 
-  A newsletter to share professional development tips for data scientists in the NHS
+  A newsletter to share professional development tips and opportunities for people interested in healthcare data science
 comments: false
 listing:
   contents: posts/**/*.qmd

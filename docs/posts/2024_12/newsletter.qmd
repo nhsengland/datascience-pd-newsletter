@@ -1,5 +1,5 @@
 ---
-title: 'Professional Development Newsletter MONTH YEAR'
+title: 'Data Science Community for Health and Care Newsletter MONTH YEAR'
 date: '3000-01-01'
 format:
   html:
@@ -12,19 +12,19 @@ format:
       - left=20mm
       - right=20mm
 categories: ['newsletter', 'compentency']
-description: 'The Professional Development newsletter for MONTH YEAR'
+description: 'The Data Science Community for Health and Care newsletter for MONTH YEAR'
 author: 'AUTHORS'
 ---
 
-![](../../images/banner_MONTH.png)
+![](../../images/banner_april.png)
 
-Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Team. 
+Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
 
 The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
 
 If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
 
-Thanks for reading! – PD newsletter team 
+Thanks for reading! – newsletter team 
 
 <div class="section-heading">
 # Highlights
@@ -39,7 +39,7 @@ ___
 <div class="section-heading">
 # Events
 </div>
-Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"} and a small selection below.
+Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
 
 
@@ -71,7 +71,7 @@ TEXT
 
 ___
 
-Check out all the resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=56293968){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+Check out our collection of training resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
 
 <div class="section-heading">
 # Need a Quick Break?
