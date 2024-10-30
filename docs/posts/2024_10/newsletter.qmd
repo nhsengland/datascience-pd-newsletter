@@ -63,7 +63,7 @@ The Health Data Research Gateway (the Gateway) is a central location to discover
 Throughout the last year, the HDR UK Technology Team has been working on a major new version of the platform. This presentation will outline how the Gateway’s new functionality will help users discover, explore and access health and health-related data, software and research analysis, publications, diseases, phenotypes and other shareable resources.
 
 
-### [NHS RPySOC 2024 Conference](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/){target="_blank"}
+### [NHS RPySOC 2024 Conference](https://nhsrcommunity.com/events.html){target="_blank"}
 **Thursday 21st-22nd November, 9am-5pm, in-person (Birmingham) / Online**
 
 The **NHS RPySOC 2024 conference** is open for registration now! It will be on **21st & 22nd November in Birmingham**.
@@ -76,8 +76,8 @@ It's a great chance to show off our work, share our learning with a like minded 
 
 You can either attend:
 
-- [In-Person (The ICC, Hall 11, Birmingham B1 2EA](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/) (Sold Out: Waiting List Only)
-- [Online](https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-2024-rpysoc-2024-ticket-for-virtual-attendance-on-thursday-21-november-2024/)
+- In-Person (The ICC, Hall 11, Birmingham B1 2EA  (Sold Out: Waiting List Only)
+- Online
 
 ___
 
