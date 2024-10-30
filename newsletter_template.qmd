@@ -1,5 +1,5 @@
 ---
-title: 'Professional Development Newsletter MONTH YEAR'
+title: 'Data Science Community for Health and Care Newsletter MONTH YEAR'
 date: '3000-01-01'
 format:
   html:
@@ -12,21 +12,19 @@ format:
       - left=20mm
       - right=20mm
 categories: ['newsletter', 'compentency']
-description: 'The Professional Development newsletter for MONTH YEAR'
+description: 'The Data Science Community for Health and Care newsletter for MONTH YEAR'
 author: 'AUTHORS'
 ---
 
 ![](../../images/banner_MONTH.png)
 
-Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Team. 
+Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
 
 The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
 
-There are some legacy NHS Digital items which we have identified with❗
-
 If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
 
-Thanks for reading! – PD newsletter team 
+Thanks for reading! – newsletter team 
 
 <div class="section-heading">
 # Highlights
@@ -41,7 +39,7 @@ ___
 <div class="section-heading">
 # Events
 </div>
-Lots of exciting things coming up! See the [full calendar here](https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars){target="_blank"}❗, and a small selection below.
+Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
 
 
@@ -52,7 +50,7 @@ A SHORT DESCRIPTION OF EVENT
 
 ___
 
-See more future events on our [confluence calendar](https://nhsd-confluence.digital.nhs.uk/display/DAT/Events+calendar){target="_blank"}❗
+See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
@@ -64,8 +62,6 @@ TEXT
 
 ___
 
-Stay tuned for an update on what seminars & show and tells will look like in the new team. 
-Please bear with us as it is likely to be a learning process! Contact [Mia Noonan](mailto:amelia.noonan1@nhs.net) for more information..
 
 <div class="section-heading">
 # Training Opportunities
@@ -75,7 +71,7 @@ TEXT
 
 ___
 
-Check out all the resources in the [Training Brochure](https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+Check out our collection of training resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
 
 <div class="section-heading">
 # Need a Quick Break?
@@ -87,6 +83,6 @@ Check out all the resources in the [Training Brochure](https://nhsd-confluence.d
 
 <div style="text-align: center;">
 
-[Subscribe (nhs.net login)](https://forms.office.com/e/JJsmgPmVVJ){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+[Subscribe to the community](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
 </div>
 

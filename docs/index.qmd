@@ -3,7 +3,7 @@ title: "Data Science Professional Development Newsletter"
 css: index.css
 editor: source
 description: | 
-  A newsletter to share professional development tips for data scientists in the NHS
+  A newsletter to share professional development tips and opportunities for people interested in healthcare data science
 comments: false
 listing:
   contents: posts/**/*.qmd
@@ -19,4 +19,4 @@ page-layout: full
 
 # Data Science PD newsletter <span>v1.0.0</span>
 
-[Subscribe (nhs.net login)](https://forms.office.com/e/JJsmgPmVVJ){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+[Subscribe to the community](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
