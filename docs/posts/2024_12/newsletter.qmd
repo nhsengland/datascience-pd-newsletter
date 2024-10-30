@@ -16,7 +16,7 @@ description: 'The Data Science Community for Health and Care newsletter for MONT
 author: 'AUTHORS'
 ---
 
-![](../../images/banner_MONTH.png)
+![](../../images/banner_april.png)
 
 Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
 
