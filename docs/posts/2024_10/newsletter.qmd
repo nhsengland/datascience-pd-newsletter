@@ -1,6 +1,6 @@
 ---
-title: 'Professional Development Newsletter October 2024'
-date: '2024-10-29'
+title: 'Data Science Community for Health and Care Newsletter October 2024'
+date: '2024-10-30'
 format:
   html:
     css: index.css
@@ -12,19 +12,19 @@ format:
       - left=20mm
       - right=20mm
 categories: ['newsletter', 'professional development', 'data science discussion']
-description: 'The Professional Development newsletter for October 2024'
+description: 'The Data Science Community for Health and Care newsletter for October 2024'
 author: 'Jennifer Struthers'
 ---
 
 ![](../../images/banner_oct.png)
 
-Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Team. 
+Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
 
 The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
 
 If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
 
-Thanks for reading! – PD newsletter team 
+Thanks for reading! – newsletter team 
 
 <div class="section-heading">
 # Check out our website!
@@ -47,7 +47,7 @@ ___
 <div class="section-heading">
 # Events
 </div>
-Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/connect.ti/DataAnalytics/view?objectId=54053296){target="_blank"}, and a small selection below.
+Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
 ### [BOLD Innovation Showcase](https://www.eventbrite.co.uk/e/bold-innovation-showcase-tickets-983890461857){target="_blank"}
 **Wednesday 6th November 2024, 9:30-16:30, London**
@@ -81,7 +81,7 @@ You can either attend:
 
 ___
 
-See more future events on our [calendar](https://future.nhs.uk/connect.ti/DataAnalytics/view?objectId=54053296){target="_blank"} (Scroll down!)
+See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
@@ -146,7 +146,7 @@ Was this text written by AI? Test it out!
 
 ___
 
-Check out all the resources in the [Training Brochure](https://future.nhs.uk/DataAnalytics/view?objectID=56293968){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+Check out our collection of training resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
 
 <div class="section-heading">
 # Need a Quick Break?
@@ -158,6 +158,5 @@ Check out all the resources in the [Training Brochure](https://future.nhs.uk/Dat
 
 <div style="text-align: center;">
 
-[Subscribe (nhs.net login)](https://forms.office.com/e/JJsmgPmVVJ){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+[Subscribe to the community](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
 </div>
-
