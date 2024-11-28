@@ -13,7 +13,7 @@ format:
       - right=20mm
 categories: ['newsletter', 'RPySOC', 'Data Science Discussion']
 description: 'The Data Science Community for Health and Care newsletter for November 2024'
-author: 'Jennifer Struthers'
+author: 'Jennifer Struthers, William Poulett'
 ---
 
 ![](../../images/banner_nov.png)
@@ -27,41 +27,25 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# RPYSOC: Conference Musings
+# RPySOC: Conference Musings
 </div>
 
 If you are a regular reader of this newsletter you might have seen the RPySOC event plugged each month, which was at long last held last week. The conference was a celebration of all things R/Python/Open-Source, and everyone there was excited to show off the projects they had been involved in over the last year.
 
 There were at least 100 people gathered in the Birmingham International Conference Centre, and more present online where the talks were being live-streamed. People seemed to be saying hello to colleagues that they hadn't seen in a while, and sitting down at tables to meet new people and discuss all things healthcare and coding.
 
-I went along to present my project on experimenting with open-source dashboarding tools and packages, which I had undertaken earlier this year to develop my data visualisation and general coding skills. It was a brief talk, with just a 15 minute timeslot, but I got surprisingly more nervous as the morning went on. I've given varients of this presentation before, and I was confident in answering any questions on it so really I should have been fine. However this was the first time since I was in university that I had stood in front of people and spoken to them, instead of hidden behind my computer screen talking to my slides. Strange how something like remote working has completely changed something as fundamental as giving a presentation. 
+I went along to present my project on experimenting with open-source dashboarding tools and packages, which I had undertaken earlier this year to develop my data visualisation and general coding skills. It was a brief talk, with just a 15 minute timeslot, but I got surprisingly more nervous as the morning went on. I've given variants of this presentation before, and I was confident in answering any questions on it, really I should have been fine. However this was the first time since I was in university that I had stood in front of people and spoken to them, instead of hidden behind my computer screen talking to my slides. Strange how something like hybrid working has completely changed something as fundamental as giving a presentation. 
 
-Luckily, my fears were unfounded. The stage lights were so bright I couldn't see anyone anyway, so I could pretend I was still at my desk, talking at my slides like normal. Before I knew it I was back at my table and could breathe and enjoy the rest of the conference, while also typing away answering all the questions and comments that had come through during my talk.
+Luckily, my fears were unfounded. The stage lights were so bright I couldn't see anyone anyway and I could pretend I was still at my desk, talking at my slides like normal. Before I knew it I was back at my table and could breathe and enjoy the rest of the conference, while typing away to answer all the questions and comments that had come through during my talk.
 
-There was a Slack channel organised for questions which meant that online viewers had the same chance to ask questions as in-person attendees, and the speakers could take their time afterwards to answer extra questions and give links. Almost every single presentation included links to public GitHub repositorys, and people were actively encouraged to check out the code, and use whatever they wanted to. 
+There was a Slack channel organised for questions which meant that online viewers had the same chance to ask questions as in-person attendees, and the speakers could take their time afterwards to answer extra questions and give links. Almost every single presentation included links to public GitHub repositories, and people were actively encouraged to check out the code, and re-use whatever they wanted to. 
 
-The whole conference was focused on sharing, collaborating and supporting others, regardless of where they were at in the coding journey. It was a great gathering of a community (full of provided food and coffee!), and what really struck me was how keen everyone was to get involved, give people pointers, and congratulate them on the work they had done. The talks were evenly distributed between Python and R users, and everything pitched at a level anyone with a coding interest could understand. If you've got a project you're working on and are keen to share the results of in front of an audience, I would definitely recommend next years RPySOC!
-
-
-The conference organisers will be sharing the recordings of the talks, along with slides and links, at a later date so that the knowledge can be shared on and on - watch this space in the December newsletter for that. 
-
-<div class="section-heading">
-# Events
-</div>
-Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
+The whole conference was focused on sharing, collaborating and supporting others, regardless of where they were at in the coding journey. It was a great gathering of a community (full of provided food and coffee!), and what really struck me was how keen everyone was to get involved, give people pointers, and congratulate them on the work they had done. The talks were evenly distributed between Python and R users, and everything pitched at a level anyone with a coding interest could understand. If you've got a project you're working on and are keen to share the results of in front of an audience, I would definitely recommend next year's RPySOC!
 
 
-
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,*
-
-A SHORT DESCRIPTION OF EVENT 
+The conference organisers will be sharing the recordings of the talks, along with slides and links, at a later date so that the knowledge can be shared on and on.
 
 ___
-
-See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
-
-Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
 <div class="section-heading">
 # Data Science Discussion 
@@ -82,10 +66,12 @@ ___
 # Community Shout Outs
 </div>
 
+There are a myriad of data science communities doing excellent work to link people, share resources and support people in their careers and personal projects: check out some of them below and get involved!
+
 ## NHS-R
 The [NHS-R Community](https://nhsrcommunity.com/){target="_blank"} started in 2018 to promote the use of R in the NHS and the community has grown rapidly ever since. It is a community that is broader than the NHS as members come from public sector organisations across the UK, including Local Authorities and Civil Service, as well as academics and voluntary sector people who have an interest in healthcare and R.
 
-## NHS PyCom
+## NHS-PyCom
 Led by enthusiasts and advocates, the [NHS Python Community for Healthcare](https://nhs-pycom.net/){target="_blank"} is an open community of practice that champions the use of the Python programming language and open code in the NHS and healthcare sector. Join them on [Slack](https://join.slack.com/t/nhs-pycom/shared_invite/zt-z6h1hszo-3_w68FdalVM2EATVVdgCuw){target="_blank"}, [YouTube](https://www.youtube.com/channel/UC_jacmsGNZQR5BPP7h0EtXw/video), [LinkedIn](https://www.linkedin.com/company/nhs-python-community/posts/){target="_blank"} and [GitHub](https://github.com/nhs-pycom){target="_blank"}.
 
 ## rainbowR
@@ -94,9 +80,22 @@ Led by enthusiasts and advocates, the [NHS Python Community for Healthcare](http
 ## AnalystX
 [AnalystX](https://analystx.uk/){target="_blank"} are here to connect and empower the data and analytics community, providing a safe space for professionals to collaborate in a radical way across the health system. The host lots of [resources](https://analystx.uk/resources){target="_blank"} on their site, including links to their [sub-communities](https://communities.analystx.uk/){target="_blank"} of Data Science, Data Engineering, GeoHealth and more!
 
+## The Turing Way
+[The Turing Way](https://book.the-turing-way.org/index.html){target="_blank"} is an open science, open collaboration, and community-driven project. We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone. Our goal is to provide all the information that researchers, data scientists, software engineers, policymakers, and other practitioners in academia, industry, government and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
+
 ___
 
-Check out our collection of training resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+<div class="section-heading">
+# Call for Content!
+</div>
+
+Got a project to showcase? An event to plug? A tip to share?
+
+We want to hear from you! This newsletter is a community effort and we want to showcase and spread the word about all of the good work being done across it.
+
+[Click here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}, or at the bottom of the page to submit your contribution!
+
+___
 
 <div class="section-heading">
 # Need a Quick Break?
@@ -104,7 +103,7 @@ Check out our collection of training resources in the [Resources Section](https:
 
 [How many tries will it take you?](https://mywordle.strivemath.com/?word=pfrly){target="_blank"}
 
-
+___
 
 <div style="text-align: center;">
 
