@@ -30,7 +30,11 @@ Thanks for reading! – newsletter team
 # RPySOC: Conference Musings
 </div>
 
-If you are a regular reader of this newsletter you might have seen the RPySOC event plugged each month, which was at long last held last week. The conference was a celebration of all things R/Python/Open-Source, and everyone there was excited to show off the projects they had been involved in over the last year.
+*written by Jennifer Struthers*
+
+___
+
+If you are a regular reader of this newsletter you might have seen the [RPySOC event](https://nhsrcommunity.com/conference24.html){target="_blank"} plugged each month, which was at long last held last week. The conference was a celebration of all things R/Python/Open-Source, and everyone there was excited to show off the projects they had been involved in over the last year.
 
 There were at least 100 people gathered in the Birmingham International Conference Centre, and more present online where the talks were being live-streamed. People seemed to be saying hello to colleagues that they hadn't seen in a while, and sitting down at tables to meet new people and discuss all things healthcare and coding.
 
