@@ -10,8 +10,98 @@
 <atom:link href="https://nhsengland.github.io/datascience-pd-newsletter/index.xml" rel="self" type="application/rss+xml"/>
 <description>A newsletter to share professional development tips and opportunities for people interested in healthcare data science
 </description>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Wed, 30 Oct 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.39</generator>
+<lastBuildDate>Fri, 29 Nov 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Data Science Community for Health and Care Newsletter November 2024</title>
+  <dc:creator>Jennifer Struthers, William Poulett</dc:creator>
+  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_11/newsletter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_nov.png" class="img-fluid"></p>
+<p>Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team.</p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – newsletter team</p>
+<section id="rpysoc-conference-musings" class="level1 section-heading">
+<h1>RPySOC: Conference Musings</h1>
+</section>
+<p><em>written by Jennifer Struthers</em></p>
+<hr>
+<p>If you are a regular reader of this newsletter you might have seen the <a href="https://nhsrcommunity.com/conference24.html" target="_blank">RPySOC event</a> plugged each month, which was at long last held last week. The conference was a celebration of all things R/Python/Open-Source, and everyone there was excited to show off the projects they had been involved in over the last year.</p>
+<p>There were at least 100 people gathered in the Birmingham International Conference Centre, and more present online where the talks were being live-streamed. People seemed to be saying hello to colleagues that they hadn’t seen in a while, and sitting down at tables to meet new people and discuss all things healthcare and coding.</p>
+<p>I went along to present my project on experimenting with open-source dashboarding tools and packages, which I had undertaken earlier this year to develop my data visualisation and general coding skills. It was a brief talk, with just a 15 minute timeslot, but I got surprisingly more nervous as the morning went on. I’ve given variants of this presentation before, and I was confident in answering any questions on it, really I should have been fine. However this was the first time since I was in university that I had stood in front of people and spoken to them, instead of hidden behind my computer screen talking to my slides. Strange how something like hybrid working has completely changed something as fundamental as giving a presentation.</p>
+<p>Luckily, my fears were unfounded. The stage lights were so bright I couldn’t see anyone anyway and I could pretend I was still at my desk, talking at my slides like normal. Before I knew it I was back at my table and could breathe and enjoy the rest of the conference, while typing away to answer all the questions and comments that had come through during my talk.</p>
+<p>There was a Slack channel organised for questions which meant that online viewers had the same chance to ask questions as in-person attendees, and the speakers could take their time afterwards to answer extra questions and give links. Almost every single presentation included links to public GitHub repositories, and people were actively encouraged to check out the code, and re-use whatever they wanted to.</p>
+<p>The whole conference was focused on sharing, collaborating and supporting others, regardless of where they were at in the coding journey. It was a great gathering of a community (full of provided food and coffee!), and what really struck me was how keen everyone was to get involved, give people pointers, and congratulate them on the work they had done. The talks were evenly distributed between Python and R users, and everything pitched at a level anyone with a coding interest could understand. If you’ve got a project you’re working on and are keen to share the results in front of an audience, I would definitely recommend next year’s RPySOC!</p>
+<p>The conference organisers will be sharing the recordings of the talks, along with slides and links, at a later date so that the knowledge can be shared on and on.</p>
+<hr>
+<section id="data-science-discussion" class="level1 section-heading">
+<h1>Data Science Discussion</h1>
+</section>
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_11/sci_comm.png" class="img-fluid"></p>
+<p>The data science team at NHS England hold Data Science Discussions on a monthly (ish!) basis. These discussions are typically informal, and in a small group to encourage as much discussion as possible. The most recent Data Science Discussion was delivered by Ben Wallace, one of the senior data scientists within the team.</p>
+<p>Ben was keen to introduce the idea of science communication and how to get your ideas across correctly. We discussed how to explain complex topics such as lossy compression in an easily understandable manor. Through examples we discussed when explanations were too complex, too simple, or just right, before having a go ourselves at explaining tricky data science terms.</p>
+<p>Interested in learning more about science communication? Check out these resources below:</p>
+<ul>
+<li><a href="https://www.howtogiveatalk.com/" target="_blank">How to Give A Talk (blog)</a></li>
+<li><a href="https://www.youtube.com/c/storytellingwithdata" target="_blank">Storytelling with Data (Youtube channel)</a></li>
+<li><a href="https://www.mpls.ox.ac.uk/public-engagement/latest/free-short-online-course-how-to-communicate-scientific-uncertainty" target="_blank">How to communicate scientific uncertainty (free online course from University of Oxford)</a></li>
+</ul>
+<hr>
+<section id="community-shout-outs" class="level1 section-heading">
+<h1>Community Shout Outs</h1>
+</section>
+<p>There are a myriad of data science communities doing excellent work to link people, share resources and support people in their careers and personal projects: check out some of them below and get involved!</p>
+<section id="nhs-r" class="level2">
+<h2 class="anchored" data-anchor-id="nhs-r">NHS-R</h2>
+<p>The <a href="https://nhsrcommunity.com/" target="_blank">NHS-R Community</a> started in 2018 to promote the use of R in the NHS and the community has grown rapidly ever since. It is a community that is broader than the NHS as members come from public sector organisations across the UK, including Local Authorities and Civil Service, as well as academics and voluntary sector people who have an interest in healthcare and R.</p>
+</section>
+<section id="nhs-pycom" class="level2">
+<h2 class="anchored" data-anchor-id="nhs-pycom">NHS-PyCom</h2>
+<p>Led by enthusiasts and advocates, the <a href="https://nhs-pycom.net/" target="_blank">NHS Python Community for Healthcare</a> is an open community of practice that champions the use of the Python programming language and open code in the NHS and healthcare sector. Join them on <a href="https://join.slack.com/t/nhs-pycom/shared_invite/zt-z6h1hszo-3_w68FdalVM2EATVVdgCuw" target="_blank">Slack</a>, <a href="https://www.youtube.com/channel/UC_jacmsGNZQR5BPP7h0EtXw/video">YouTube</a>, <a href="https://www.linkedin.com/company/nhs-python-community/posts/" target="_blank">LinkedIn</a> and <a href="https://github.com/nhs-pycom" target="_blank">GitHub</a>.</p>
+</section>
+<section id="rainbowr" class="level2">
+<h2 class="anchored" data-anchor-id="rainbowr">rainbowR</h2>
+<p><a href="https://rainbowr.org/" target="_blank">rainbowR</a> is a community that supports, promotes and connects LGBTQ+ people who code in the R language, and spreads awareness of LGBTQ+ issues through data-driven activism. They are currently running a book club, get involved! <a href="https://docs.google.com/forms/d/1y7SOWE3IW-fpR_5Cd4mK-CMUpFZ-hvhY4cTj34JqTVE/viewform?edit_requested=true" target="_blank">Join the community.</a></p>
+</section>
+<section id="analystx" class="level2">
+<h2 class="anchored" data-anchor-id="analystx">AnalystX</h2>
+<p><a href="https://analystx.uk/" target="_blank">AnalystX</a> are here to connect and empower the data and analytics community, providing a safe space for professionals to collaborate in a radical way across the health system. They host lots of <a href="https://analystx.uk/resources" target="_blank">resources</a> on their site, including links to their <a href="https://communities.analystx.uk/" target="_blank">sub-communities</a> of Data Science, Data Engineering, GeoHealth and more!</p>
+</section>
+<section id="the-turing-way" class="level2">
+<h2 class="anchored" data-anchor-id="the-turing-way">The Turing Way</h2>
+<p><a href="https://book.the-turing-way.org/index.html" target="_blank">The Turing Way</a> is an open science, open collaboration, and community-driven project. We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone. Our goal is to provide all the information that researchers, data scientists, software engineers, policymakers, and other practitioners in academia, industry, government and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.</p>
+<hr>
+</section>
+<section id="call-for-content" class="level1 section-heading">
+<h1>Call for Content!</h1>
+</section>
+<p>Got a project to showcase? An event to plug? A tip to share?</p>
+<p>We want to hear from you! This newsletter is a community effort and we want to showcase and spread the word about all of the good work being done across it.</p>
+<p><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">Click here</a>, or at the bottom of the page to submit your contribution!</p>
+<hr>
+<section id="need-a-quick-break" class="level1 section-heading">
+<h1>Need a Quick Break?</h1>
+</section>
+<p><a href="https://mywordle.strivemath.com/?word=pfrly" target="_blank">How many tries will it take you?</a></p>
+<hr>
+<div style="text-align: center;">
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe to the community</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>newsletter</category>
+  <category>RPySOC</category>
+  <category>Data Science Discussion</category>
+  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_11/newsletter.html</guid>
+  <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Data Science Community for Health and Care Newsletter October 2024</title>
   <dc:creator>Jennifer Struthers</dc:creator>
