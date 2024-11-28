@@ -57,11 +57,15 @@ ___
 
 ![](sci_comm.png)
 
-The data science team at NHS England hold Data Science Discussions on a monthly (ish!) basis. These discussions are typically informal, and in a small group to encourage as much discussion as possible. The most recent Data Science Discussion was delivered by Ben Wallace, one of the senior data scientists within the  team. 
+The data science team at NHS England hold Data Science Discussions on a monthly (ish!) basis. These discussions are typically informal, and in a small group to encourage as much discussion as possible. The most recent Data Science Discussion was delivered by Ben Wallace, one of the senior data scientists within the team. 
 
-Ben was keen to introduce the idea of science communication with the team. We discussed how to explain complex topics such as lossy compression in an easily understandable manor. Through examples we discussed when explanations were too complex, too simple, or just right, before having a go ourselves at explaining tricky data science terms. The session was recorded and slides will be made available for those wishing to learn more.
+Ben was keen to introduce the idea of science communication and how to get your ideas across correctly. We discussed how to explain complex topics such as lossy compression in an easily understandable manor. Through examples we discussed when explanations were too complex, too simple, or just right, before having a go ourselves at explaining tricky data science terms. 
 
-Check it out on our FutureNHS page???? CHECK WITH WILL IF HE CAN UPLOAD!!!!!!!
+Interested in learning more about science communication? Check out these resources below:
+
+- [How to Give A Talk (blog)](https://www.howtogiveatalk.com/){target="_blank"}
+- [Storytelling with Data (Youtube channel)](https://www.youtube.com/c/storytellingwithdata){target="_blank"}
+- [How to communicate scientific uncertainty (free online course from University of Oxford)](https://www.mpls.ox.ac.uk/public-engagement/latest/free-short-online-course-how-to-communicate-scientific-uncertainty){target="_blank"}
 
 ___
 
