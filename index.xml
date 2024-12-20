@@ -11,7 +11,97 @@
 <description>A newsletter to share professional development tips and opportunities for people interested in healthcare data science
 </description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Fri, 29 Nov 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Dec 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Data Science Community for Health and Care Newsletter December 2024</title>
+  <dc:creator>Jennifer Struthers, Amaia Imaz-Blanco</dc:creator>
+  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_12/newsletter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_dec.png" class="img-fluid"></p>
+<p>Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team.</p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – newsletter team</p>
+<section id="microsoft-hack" class="level1 section-heading">
+<h1>Microsoft Hack</h1>
+</section>
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_12/amaia_hack_image.png" class="img-fluid"></p>
+<p>The NHS England Data Science team, as well as a range of other analysts from across the organisation, attended an AI Hackathon at Microsoft, organised by the Data Science Team together with Microsoft and Kainos, with the key stakeholders being the NHS Websites Services Team. In this article, the author shares her experiences at the event.</p>
+<p>Last week, the long awaited Hack for Health hosted at the beautiful Story Club, in Paddington London, by Microsoft and NHSE finally happened! At the hackathon, every team had either a Kainos or Microsoft representative, as well as a range of participants from across NHS England, including a strong Data Science Team presence, with several of our team members in each group. And unlike a usual hackathon, this one had stakeholders and well defined use cases, we were all working to one common goal.</p>
+<p><a href="https://nhsengland.github.io/datascience/articles/2024/12/04/microsoft-hackathon/" target="_blank">Continue reading…</a></p>
+<section id="christmas-challenges" class="level1 section-heading">
+<h1>Christmas Challenges</h1>
+</section>
+<section id="gchq-christmas-challenge" class="level2">
+<h2 class="anchored" data-anchor-id="gchq-christmas-challenge">GCHQ Christmas Challenge</h2>
+<p>GCHQ have released their annual <a href="https://www.gchq.gov.uk/files/GCHQ%20Christmas%20Challenge%202024.pdf" target="_blank">Christmas Challenge</a>. While aimed at children aged 11-18 we had a great time puzzling this one out during a morning Christmas meeting - perfect for a family Christmas quiz night!</p>
+</section>
+<section id="rss-christmas-quiz-puzzles" class="level2">
+<h2 class="anchored" data-anchor-id="rss-christmas-quiz-puzzles">RSS Christmas Quiz + Puzzles</h2>
+<p>The Royal Statistical Society have published their Christmas quiz and puzzles. There are even prizes for answering - the top three entries received by the deadline (<strong>20:00 Sunday 5th January 2025</strong>) will receive a donation of up to £150 to a charity of good cause of their choice.</p>
+<p>The Section A quiz questions can be found <a href="https://rss.org.uk/news-publication/news-publications/2024/general-news/rss-christmas-quiz-2024-questions-and-puzzles-to-p/" target="_blank">here</a>, while the Section B puzzles can be found in PDF format <a href="https://rss.org.uk/RSS/media/File-library/Quiz/2024-RSS-XMAS-QUIZ_section-B.pdf" target="_blank">here</a> on linked on their own site: <a href="thexmaspuzzles.com" target="_blank">thexmaspuzzles.com</a>.</p>
+<p><em>Note: This site may not be accessible through work laptops</em></p>
+</section>
+<section id="bbc-bitesize-ai-or-real-christmas-edition" class="level2">
+<h2 class="anchored" data-anchor-id="bbc-bitesize-ai-or-real-christmas-edition">BBC Bitesize: AI or real? Christmas edition!</h2>
+<p>Artificial intelligence is already very impressive, with many AI images and videos so flawless that it can be difficult to tell what’s fake and what’s real. But as it continues to develop, will this become an impossible task?</p>
+<p>Challenge yourself with this Christmas edition of <a href="https://www.bbc.co.uk/bitesize/articles/zv74tcw" target="_blank">AI or real</a>!</p>
+</section>
+<section id="christmas-crossword" class="level2">
+<h2 class="anchored" data-anchor-id="christmas-crossword">Christmas Crossword</h2>
+<p>Love crosswords? Love Machine Learning and AI? Last year Ivan Reznikov published a <a href="https://medium.com/@ivanreznikov/data-science-christmas-crossword-puzzle-327dec18cfab" target="_blank">Christmas Data Science Crossword Puzzle</a>.</p>
+<p>Your family will love solving this together after Christmas dinner and definitely not throw wrapping paper at your head!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://medium.com/@ivanreznikov/data-science-christmas-crossword-puzzle-327dec18cfab" target="_blank"><img src="https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_12/crossword.png" class="img-fluid figure-img" alt="Christmas Crossword: click the image to go to the site"></a></p>
+<figcaption>Christmas Crossword: click the image to go to the site</figcaption>
+</figure>
+</div>
+<hr>
+</section>
+<section id="rpysoc-relive-the-experience" class="level1 section-heading">
+<h1>RPySOC: Relive the experience</h1>
+</section>
+<p>As mentined in last month’s newsletter, the RPySOC conference was hosted, bringing together enthusiasts of all things R, Python and Open Source software from all over the country. In the spirit of things being open and freely available, the talks and slides have been made available to you all to watch in your own time!</p>
+<ul>
+<li><a href="https://github.com/nhs-r-community/conference-2024?tab=readme-ov-file" target="_blank">Link to slides held in GitHub</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLXCrMzQaI6c2vQUabRSOg9_FCxp6x6cVg" target="_blank">Link to recordings hosted on YouTube</a></li>
+</ul>
+<section id="resources" class="level1 section-heading">
+<h1>Resources</h1>
+</section>
+<p>For some, the festive period can allow a little bit of a reprieve from projects and meetings: the perfect time to do that training you always wanted to do but never had the time for. Consider blocking out some time for yourself to hit your learning goals!</p>
+<section id="intro-to-coding" class="level2">
+<h2 class="anchored" data-anchor-id="intro-to-coding"><a href="https://future.nhs.uk/DataAnalytics/view?objectID=56293968" target="_blank">Intro to Coding</a></h2>
+<p>The team have been busy updating the resources page of the FutureNHS site (free account required to access), including a new section full of resources on how to get started with Python.</p>
+<p>There are so many great resources to get you started on a data science journey.</p>
+</section>
+<section id="intro-to-llms" class="level2">
+<h2 class="anchored" data-anchor-id="intro-to-llms"><a href="https://github.com/nhsengland/llm_tutorial" target="_blank">Intro to LLMs</a></h2>
+<p>Sam and Adam Hollings have a public repository which will walk you through some simple LLM implementations. It uses free software and can all be run inside Google Collab, for maximum accessibility. It could not be easier to start learning about this essential area of data science!</p>
+<hr>
+<p>Check out our collection of training resources in the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=56293968" target="_blank">Resources Section</a>! Can you spot something missing? <a href="mailto:datascience@nhs.net">Contact us</a>!</p>
+</section>
+<section id="need-a-quick-break" class="level1 section-heading">
+<h1>Need a Quick Break?</h1>
+</section>
+<p><a href="https://mywordle.strivemath.com/?word=pfvhd" target="_blank">How many tries will it take you?</a></p>
+<div style="text-align: center;">
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe to the community</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>newsletter</category>
+  <category>festive edition</category>
+  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_12/newsletter.html</guid>
+  <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Data Science Community for Health and Care Newsletter November 2024</title>
   <dc:creator>Jennifer Struthers, William Poulett</dc:creator>
