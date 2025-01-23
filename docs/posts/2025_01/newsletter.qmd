@@ -73,7 +73,7 @@ In this event Eleanor Drage talks about HEAT, a somewhat anarchic regulation too
 ### [AI UK 2025](https://www.turing.ac.uk/events/ai-uk-2025){target="_blank"}
 **Monday 17th - Tuesday 18th March, All Day, London**
 
-Hosted by The Alan Turing Institute, AI UK is an in-depth exploration of how data science and AI can be used to solve real-world challenges. Our diverse programme was thematically structured around the latest innovations from across the AI ecosystem. With a broad range of interactive content, covering the latest thinking on fundamental AI, digital twins, algorithmic bias, AI ethics – and much more.
+Hosted by The Alan Turing Institute, AI UK is an in-depth exploration of how data science and AI can be used to solve real-world challenges. Our diverse programme was thematically structured around the latest innovations from across the AI ecosystem. With a broad range of interactive content, it covers the latest thinking on fundamental AI, digital twins, algorithmic bias, AI ethics – and much more.
 
 *NB: This is not a free event*
 
@@ -85,7 +85,7 @@ Join us for our 11th festival, DSF MayDay 2025! Top tech speakers, incredible pa
 
 The ballot is open for those wanting a chance to get tickets to DSF's MayDay 2025. Click through the link above to find out how to apply, and the (free) tickets to those successful will be sent out in April.
 
-There will be a mixture of talks featured at the festival, covering all things data (science, engineering, etc) and a variety of technical levels. You can view last years playlist on [YouTube here](https://www.youtube.com/playlist?list=PLwzX3WM0AfxopbhVhGCA373Xk-7wNhLfq){target="_blank"} to get an idea of the talks at the events.
+There will be a mixture of talks featured at the festival, covering all things data (science, engineering, etc) and at a variety of technical levels. You can view last years playlist on [YouTube here](https://www.youtube.com/playlist?list=PLwzX3WM0AfxopbhVhGCA373Xk-7wNhLfq){target="_blank"} to get an idea of the talks at the events.
 
 
 ### [Big Data LDN](https://www.bigdataldn.com/en-gb.html){target="_blank"}
@@ -125,7 +125,7 @@ If you've signed up to our mailing list ([sign up here if not!](https://forms.of
 
 Presenting at one of these calls will spread the word on the work you have done, and make connections with like-minded people across lots of different areas of healthcare data science. 
 
-We're currently looking for people to talk at one of these calls from March onwards, so if you'd like to share your work contact us at [england.datascience@nhs.net](mailto:england.datascience@nhs.net) with the subject **DS Huddle Presenter** and we will get it organised!
+We're currently looking for people to talk at one of these calls from March onwards, so if you'd like to share your work, contact us at [england.datascience@nhs.net](mailto:england.datascience@nhs.net) with the subject **DS Huddle Presenter** and we will get it organised!
 
 ___
 
