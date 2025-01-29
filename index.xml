@@ -10,8 +10,98 @@
 <atom:link href="https://nhsengland.github.io/datascience-pd-newsletter/index.xml" rel="self" type="application/rss+xml"/>
 <description>A newsletter to share professional development tips and opportunities for people interested in healthcare data science
 </description>
-<generator>quarto-1.6.39</generator>
-<lastBuildDate>Fri, 20 Dec 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Sat, 25 Jan 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Data Science Community for Health and Care Newsletter January 2025</title>
+  <dc:creator>Jennifer Struthers</dc:creator>
+  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_01/newsletter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_jan.png" class="img-fluid"></p>
+<p>Welcome to 2025 and welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team.</p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – newsletter team</p>
+<section id="llms-as-a-judge" class="level1 section-heading">
+<h1>LLMs as a Judge</h1>
+</section>
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_01/llm_as_a_judge.jpg" class="img-fluid"></p>
+<p>Large Language Models (LLMs) like ChatGPT are increasingly being used across the NHS, but did you know you can use LLMs to evaluate other LLMs?</p>
+<p>LLM-as-a-Judge is a versatile technique we have been researching in the NHS England Data Science Team. To find out exactly how this technique works, you can read our new article here: <a href="https://nhsengland.github.io/datascience/articles/2024/12/31/LLM-as-a-Judge/" target="_blank">What is LLM-as-a-Judge and how can we use it? - NHS England Data Science</a></p>
+<p>This is just one of many interesting articles written by the Data Science Team. You can find a full list of our articles <a href="https://nhsengland.github.io/datascience/articles/" target="_blank">here</a>.</p>
+<hr>
+<section id="events" class="level1 section-heading">
+<h1>Events</h1>
+</section>
+<p>Lots of exciting things coming up! See the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">full calendar here</a>, and a small selection below.</p>
+<section id="ons-health-data-science-seminar-series-health-policy-development" class="level3">
+<h3 class="anchored" data-anchor-id="ons-health-data-science-seminar-series-health-policy-development"><a href="https://www.eventbrite.co.uk/e/health-data-science-seminar-series-tickets-1104444205349" target="_blank">ONS Health Data Science Seminar Series: Health Policy Development</a></h3>
+<p><strong>Wednesday 5th February, 14:00 - 15:30, Online</strong></p>
+<p>Professor Knight will present ‘Impact from Health Data’, demonstrating how health data can create impact across neurology, integrated care, and community care. The talk will cover evaluating apps, and care pathways and the use of incidental findings.</p>
+<p>Mr Jain will present ‘The role of regulation in health technologies’, providing insights and lessons from the Regulatory Horizons Council who has developed a range of reports, including those on the regulation of medical devices and AI as a medical device.</p>
+</section>
+<section id="rethinking-good-technology-feminism-ai-and-ethical-futures" class="level3">
+<h3 class="anchored" data-anchor-id="rethinking-good-technology-feminism-ai-and-ethical-futures"><a href="https://www.lse.ac.uk/Events/2025/03/202503111830/feminism-AI-and-ethical-futures" target="_blank">Rethinking good technology: feminism, AI and ethical futures</a></h3>
+<p><strong>Tuesday 11th March, 18:30-20:00, Online and In-Person (Old Theatre, Old Building, LSE, London)</strong></p>
+<p>What does it mean for technology to be ‘good’ in an age dominated by AI? Can a feminist perspective help guide us towards more ethical digital futures?</p>
+<p>In this event Eleanor Drage talks about HEAT, a somewhat anarchic regulation tool that takes a feminist approach to helping companies meet the EU AI Act’s obligations. The toolkit has been developed as part of a project led by Drage, which is committed to an in-depth response to regulation that goes beyond mere compliance by working towards a pro-justice and sustainable future with AI.</p>
+</section>
+<section id="ai-uk-2025" class="level3">
+<h3 class="anchored" data-anchor-id="ai-uk-2025"><a href="https://www.turing.ac.uk/events/ai-uk-2025" target="_blank">AI UK 2025</a></h3>
+<p><strong>Monday 17th - Tuesday 18th March, All Day, London</strong></p>
+<p>Hosted by The Alan Turing Institute, AI UK is an in-depth exploration of how data science and AI can be used to solve real-world challenges. Our diverse programme was thematically structured around the latest innovations from across the AI ecosystem. With a broad range of interactive content, it covers the latest thinking on fundamental AI, digital twins, algorithmic bias, AI ethics – and much more.</p>
+<p><em>NB: This is not a free event</em></p>
+</section>
+<section id="data-science-festival-mayday-2025" class="level3">
+<h3 class="anchored" data-anchor-id="data-science-festival-mayday-2025"><a href="https://datasciencefestival.com/event/mayday-2025/" target="_blank">Data Science Festival: MayDay 2025</a></h3>
+<p><strong>Saturday 17th May, All Day, London</strong></p>
+<p>Join us for our 11th festival, DSF MayDay 2025! Top tech speakers, incredible partners and a thriving community, all completely free.</p>
+<p>The ballot is open for those wanting a chance to get tickets to DSF’s MayDay 2025. Click through the link above to find out how to apply, and the (free) tickets to those successful will be sent out in April.</p>
+<p>There will be a mixture of talks featured at the festival, covering all things data (science, engineering, etc) and at a variety of technical levels. You can view last years playlist on <a href="https://www.youtube.com/playlist?list=PLwzX3WM0AfxopbhVhGCA373Xk-7wNhLfq" target="_blank">YouTube here</a> to get an idea of the talks at the events.</p>
+</section>
+<section id="big-data-ldn" class="level3">
+<h3 class="anchored" data-anchor-id="big-data-ldn"><a href="https://www.bigdataldn.com/en-gb.html" target="_blank">Big Data LDN</a></h3>
+<p><strong>Wednesday 24th - Thursday 25th September, All Day, London</strong></p>
+<p>Big Data LDN is the UK’s leading free to attend data, analytics and AI conference &amp; exhibition.</p>
+<p>The two day event is a hub for the Data Community to learn and share best practice, build relationships and find the tools needed to develop an effective data-driven business.</p>
+<p><strong>The Call For Papers closes on 14 March</strong> and all applicants will be notified by the end of April whether their talk has been accepted. <a href="https://www.bigdataldn.com/en-gb/blog/event-news/call-for-papers-2025.html" target="_blank">Find out more here.</a></p>
+<hr>
+<p>See more future events on the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">calendar</a></p>
+<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+</section>
+<section id="ai-opportunities-action-plan" class="level1 section-heading">
+<h1>AI Opportunities Action Plan</h1>
+</section>
+<p>On the 13th January the Government published the AI Opportunities Action Plan, outlining how they want to have Britain shape the AI revolution. The plan outlines how Britain must invest in the foundations of AI, push hard on cross-economy AI adoption and position the UK to be an AI maker, not an AI taker.</p>
+<p>The plan outlines 50 points that the government should take up in order to achieve its goals, and concludes that while the task is not small the benefits are likely to be transformational to both the economic growth of the country and the lives of those across the UK.</p>
+<p><a href="https://www.gov.uk/government/publications/ai-opportunities-action-plan/ai-opportunities-action-plan" target="_blank">Read the full plan here, and get clued up on the future of AI in our country.</a></p>
+<hr>
+<section id="analystx-data-science-huddles-call-for-presenters" class="level1 section-heading">
+<h1>AnalystX Data Science Huddles: Call for Presenters</h1>
+</section>
+<p>If you’ve signed up to our mailing list (<a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" target="_blank">sign up here if not!</a>) you will hopefully at some point have received an invite to one of our AnalystX Data Science Huddles! These are monthly (or so) calls where we have invited speakers to talk about some of the work they do or a project they have been involved with. They are 1 hour sessions, with around 40 mins devoted to presenting and around 20 mins for questions.</p>
+<p>Presenting at one of these calls will spread the word on the work you have done, and make connections with like-minded people across lots of different areas of healthcare data science.</p>
+<p>We’re currently looking for people to talk at one of these calls from March onwards, so if you’d like to share your work, contact us at <a href="mailto:england.datascience@nhs.net">england.datascience@nhs.net</a> with the subject <strong>DS Huddle Presenter</strong> and we will get it organised!</p>
+<hr>
+<section id="need-a-quick-break" class="level1 section-heading">
+<h1>Need a Quick Break?</h1>
+</section>
+<p><a href="https://mywordle.strivemath.com/?word=zokxx" target="_blank">How many tries will it take you?</a></p>
+<div style="text-align: center;">
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe to the community</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>newsletter</category>
+  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_01/newsletter.html</guid>
+  <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Data Science Community for Health and Care Newsletter December 2024</title>
   <dc:creator>Jennifer Struthers, Amaia Imaz-Blanco</dc:creator>
