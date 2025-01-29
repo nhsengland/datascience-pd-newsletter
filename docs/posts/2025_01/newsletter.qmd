@@ -47,13 +47,6 @@ ___
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
 
-### [Designing with People, Systems and Data in Health](https://www.turing.ac.uk/events/designing-people-systems-and-data-health){target="_blank"}
-**Tuesday 28th January, 13:30-14:30, Online**
-
-This session presents a transdisciplinary design-led approach to improving and transitioning health and care systems for multiple long-term conditions, drawing on Inclusive, Human-centred and Systemic Design theory and practice.
-
-We introduce a 3-tier model comprising Person, Journey, and System maps, co-produced to capture rich multi-level insights from a diversity of patients, practitioners, providers and public partners. We discuss implications for converging big and thick data for problem definition and prioritisation in health systems. And we identify key leverage points across person/journey/system levels for MLTC health systems change. 
-
 ### [ONS Health Data Science Seminar Series: Health Policy Development](https://www.eventbrite.co.uk/e/health-data-science-seminar-series-tickets-1104444205349){target="_blank"}
 **Wednesday 5th February, 14:00 - 15:30, Online**
 
