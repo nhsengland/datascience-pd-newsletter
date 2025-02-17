@@ -41,6 +41,20 @@ ___
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
+### [An Alan Turing Institute workshop on AI Ethics and Governance in Practice programme](https://www.tickettailor.com/events/publicsectoruk/1564159/r/nhs){target="_blank"}
+**Thursday 27th February, 14:00-15:00, Online**
+
+This workshop will introduce the AI Ethics and Governance in Practice programme developed by experts of The Alan Turing Institute’s Ethics and Responsible Innovation theme. 
+
+This programme provides public sector organisations with the Process-Based-Governance (PBG) Framework, a structured framework to put ethical values and practical principles into practice across the AI project lifecycle. It is an integral part of the UK’s National AI Strategy and expands on the UK Government’s official Public Sector Guidance on AI Ethics and Safety.
+
+
+NB: This event is only available to public sector employees
+
+### [Statistical Methods for Health Equity Webinar: Catalina Vallejos (University of Edinburgh)](https://www.datascienceforhealthequity.com/event-details/statistical-methods-for-health-equity-webinar-catalina-vallejos-university-of-edinburgh){target="_blank"}
+**Thursday 6th March, 16:00-17:00, Online**
+
+Catalina will talk about "Using Routine Healthcare Data to Predict Future Health," exploring how electronic health records (EHR) can be leveraged to identify individuals at risk of adverse health events and improve patient outcomes. She will also discuss her work on SPARRAv4, a risk prediction tool soon to be deployed across Scotland to support primary care interventions.
 
 
 ### [Rethinking good technology: feminism, AI and ethical futures](https://www.lse.ac.uk/Events/2025/03/202503111830/feminism-AI-and-ethical-futures){target="_blank"}
@@ -63,7 +77,7 @@ Hosted by The Alan Turing Institute, AI UK is an in-depth exploration of how dat
 
 Dr Maurice O’Connell will give a talk on current work with Dr Matthew Sperrin and the DynAIRx team in the area of statistics and causal inference and causal machine learning. 
 
-Maurice will talk about causal inference methodology development applied to electronic health records in the areas of deprescribing or continuing\initiating medications in individuals and populations with polypharmacy and multimorbidity and selecting individuals with polypharmacy and multimorbidity for structured medication reviews. 
+Maurice will talk about causal inference methodology development applied to electronic health records in the areas of deprescribing or continuing/initiating medications in individuals and populations with polypharmacy and multimorbidity and selecting individuals with polypharmacy and multimorbidity for structured medication reviews. 
 
 
 ### [DS: Game On 2025](https://datasciencefestival.com/event/dsf-game-on-2025/){target="_blank"}
