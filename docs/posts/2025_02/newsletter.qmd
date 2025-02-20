@@ -27,12 +27,17 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Highlights
+# Probabilistic Data Linkage in NHS England Goes Open Source!
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+The Data Linkage Hub has been developing a probabilistic data linkage pipeline to enhance the quality of data linkage in the NHS. We’re excited to share that the first iteration is now openly available on [Github](https://github.com/nhsengland/NHSE_probabilistic_linkage){target="_blank"}!
+ 
+Each stage of the pipeline has been shaped by extensive research into best practices, rigorous testing on samples of the real data, feasibility assessments of computational demands, and thorough evaluation. Our approach is incremental, with planned iterative improvements to ensure the highest standards of accuracy, efficiency, and scalability.
+ 
+While this pipeline is not yet in use, it represents the foundation of what we plan to deploy within the Federated Data Platform (FDP). Our next step is to quality assure the pipeline, refining it further before implementation.
 
-TEXT
+If you’d like to learn more, visit our [website](https://nhsengland.github.io/datascience/our_work/data-linkage-hub/linkage-projects/better-matching/){target="_blank"} or [get in touch](mailto:jonathan.laidler1@nhs.net){target="_blank"}!
+
 ___
 
 
@@ -109,20 +114,51 @@ Know of any events we should feature next month? Let us know by clicking the "Co
 # Knowledge Sharing
 </div>
 
-TEXT
+### DS AnalystX Huddles - Recordings Available
+
+If you are on the mailing list for this newsletter [(sign up!)](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"} you should also be receiving invites to our monthly(-ish) Data Science AnalystX Huddles. These are a way to learn about projects and tools used in healthcare data science across the community (in fact if you'd like to present at one just [drop us an email!](mailto:datascience@nhs.net))
+
+We record these sessions in order to preserve the knowledge and anyone who couldn't make it can catch up in their own time - you can find these recording on our FutureNHS site (free account needed to access). Most recently we had NHS England Senior Data Scientist Kenneth (Kin) Quan tell us about his experience working with OpenSafely to conduct a project on producing up to date ADHD statistics using primary care data. Kin demonstrated how OpenSafely uses dummy data to help researchers write code to produce outputs, which is then executed inside a safe environment and the results returned.
 
 ___
 
+
+### CodeCarbon
+
+It's well known that LLM's such as ChatGPT use a lot of energy, with estimates varying widely from 5 to 200+ times more energy than a Google search. With the popularity of LLM's for everyday use growing, the total energy consumption is rising. Being aware of the energy consumption of your code is not only more important than ever, it is also easier than ever to do so.
+
+[CodeCarbon](https://mlco2.github.io/codecarbon/){target="_blank"} is a [open-source](https://github.com/mlco2/codecarbon){target="_blank"} Python package designed to help you estimate the carbon footprint of computing tasks, particularly for machine learning and other high-performance computing workloads. It does this by estimating your hardware electricity power consumption (GPU + CPU + RAM) and applying to it the carbon intensity of the region where the computing is done. More is explained about this calculation in the [Methodology section](https://mlco2.github.io/codecarbon/methodology.html){target="_blank"} of the documentation.
+
+Add this (or any other tracker you know of!) to your next pipeline and start taking steps toward more sustainable computing.
+
+___
 
 <div class="section-heading">
-# Training Opportunities
+# AI journal articles
 </div>
 
-TEXT
+There's a never ending list of new journal papers coming out every day - here's a few we have flagged as interesting that came out in the past month or so!
+
+- [**LLMs Can Plan Only If We Tell Them** - Bilgehan Sel, Ruoxi Jia, Ming Jin](https://arxiv.org/abs/2501.13545)
+
+- [**Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs** - Yue Wang *et al.*](https://arxiv.org/abs/2501.18585)
+
+- [**Hallucination Mitigation using Agentic AI Natural Language-Based Frameworks** - Diego Gosmar, Deborah A. Dahl](https://arxiv.org/abs/2501.13946)
+
+- [**Language Models Use Trigonometry to Do Addition** - Subhash Kantamneni, Max Tegmark](https://arxiv.org/abs/2502.00873)
+
+- [**Demystifying Long Chain-of-Thought Reasoning in LLMs** - Edward Yeo *et al.*](https://arxiv.org/abs/2502.03373)
+
+- [**GPT-4 assistance for improvement of physician performance on patient care tasks: a randomized controlled trial** - Ethan Goh *et al.*](https://pubmed.ncbi.nlm.nih.gov/39910272/)
+
+- [**Superhuman performance of a large language model on the reasoning tasks of a physician** - Peter G. Brodeur *et al.*](https://arxiv.org/abs/2412.10849)
+
+- [**Combining Human Expertise with Artificial Intelligence: Experimental Evidence from Radiology** - Nikhil Agarwal *et al.*](https://www.nber.org/papers/w31422)
+
 
 ___
 
-Check out our collection of training resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+Seen a cool paper or article recently you would like to spotlight? [Send us a contribution!](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=)
 
 <div class="section-heading">
 # Need a Quick Break?
