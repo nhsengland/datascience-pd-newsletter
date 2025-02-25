@@ -13,7 +13,7 @@ format:
       - right=20mm
 categories: ['newsletter']
 description: 'The Data Science Community for Health and Care newsletter for February 2025'
-author: 'Jennifer Struthers'
+author: 'Jennifer Struthers, Amaia Imaz-Blanco'
 ---
 
 ![](../../images/banner_feb.png)
