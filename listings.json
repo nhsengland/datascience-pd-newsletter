@@ -1,7 +1,8 @@
 [
   {
-    "listing": "/archive.html",
+    "listing": "/index.html",
     "items": [
+      "/posts/2025_02/newsletter.html",
       "/posts/2025_01/newsletter.html",
       "/posts/2024_12/newsletter.html",
       "/posts/2024_11/newsletter.html",
@@ -18,8 +19,9 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/archive.html",
     "items": [
+      "/posts/2025_02/newsletter.html",
       "/posts/2025_01/newsletter.html",
       "/posts/2024_12/newsletter.html",
       "/posts/2024_11/newsletter.html",

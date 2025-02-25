@@ -10,8 +10,132 @@
 <atom:link href="https://nhsengland.github.io/datascience-pd-newsletter/index.xml" rel="self" type="application/rss+xml"/>
 <description>A newsletter to share professional development tips and opportunities for people interested in healthcare data science
 </description>
-<generator>quarto-1.6.40</generator>
-<lastBuildDate>Sat, 25 Jan 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Tue, 25 Feb 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Data Science Community for Health and Care Newsletter February 2025</title>
+  <dc:creator>Jennifer Struthers</dc:creator>
+  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_02/newsletter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_feb.png" class="img-fluid"></p>
+<p>Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team.</p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – newsletter team</p>
+<section id="probabilistic-data-linkage-in-nhs-england-goes-open-source" class="level1 section-heading">
+<h1>Probabilistic Data Linkage in NHS England Goes Open Source!</h1>
+</section>
+<p>The Data Linkage Hub has been developing a probabilistic data linkage pipeline to enhance the quality of data linkage in the NHS. We’re excited to share that the first iteration is now openly available on <a href="https://github.com/nhsengland/NHSE_probabilistic_linkage" target="_blank">Github</a>!</p>
+<p>Each stage of the pipeline has been shaped by extensive research into best practices, rigorous testing on samples of the real data, feasibility assessments of computational demands, and thorough evaluation. Our approach is incremental, with planned iterative improvements to ensure the highest standards of accuracy, efficiency, and scalability.</p>
+<p>While this pipeline is not yet in use, it represents the foundation of what we plan to deploy within the Federated Data Platform (FDP). Our next step is to quality assure the pipeline, refining it further before implementation.</p>
+<p>If you’d like to learn more, visit our <a href="https://nhsengland.github.io/datascience/our_work/data-linkage-hub/linkage-projects/better-matching/" target="_blank">website</a> or <a href="mailto:jonathan.laidler1@nhs.net" target="_blank">get in touch</a>!</p>
+<hr>
+<section id="events" class="level1 section-heading">
+<h1>Events</h1>
+</section>
+<p>Lots of exciting things coming up! See the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">full calendar here</a>, and a small selection below.</p>
+<section id="an-alan-turing-institute-workshop-on-ai-ethics-and-governance-in-practice-programme" class="level3">
+<h3 class="anchored" data-anchor-id="an-alan-turing-institute-workshop-on-ai-ethics-and-governance-in-practice-programme"><a href="https://www.tickettailor.com/events/publicsectoruk/1564159/r/nhs" target="_blank">An Alan Turing Institute workshop on AI Ethics and Governance in Practice programme</a></h3>
+<p><strong>Thursday 27th February, 14:00-15:00, Online</strong></p>
+<p>This workshop will introduce the AI Ethics and Governance in Practice programme developed by experts of The Alan Turing Institute’s Ethics and Responsible Innovation theme.</p>
+<p>This programme provides public sector organisations with the Process-Based-Governance (PBG) Framework, a structured framework to put ethical values and practical principles into practice across the AI project lifecycle. It is an integral part of the UK’s National AI Strategy and expands on the UK Government’s official Public Sector Guidance on AI Ethics and Safety.</p>
+<p>NB: This event is only available to public sector employees</p>
+</section>
+<section id="statistical-methods-for-health-equity-webinar-catalina-vallejos-university-of-edinburgh" class="level3">
+<h3 class="anchored" data-anchor-id="statistical-methods-for-health-equity-webinar-catalina-vallejos-university-of-edinburgh"><a href="https://www.datascienceforhealthequity.com/event-details/statistical-methods-for-health-equity-webinar-catalina-vallejos-university-of-edinburgh" target="_blank">Statistical Methods for Health Equity Webinar: Catalina Vallejos (University of Edinburgh)</a></h3>
+<p><strong>Thursday 6th March, 16:00-17:00, Online</strong></p>
+<p>Catalina will talk about “Using Routine Healthcare Data to Predict Future Health,” exploring how electronic health records (EHR) can be leveraged to identify individuals at risk of adverse health events and improve patient outcomes. She will also discuss her work on SPARRAv4, a risk prediction tool soon to be deployed across Scotland to support primary care interventions.</p>
+</section>
+<section id="rethinking-good-technology-feminism-ai-and-ethical-futures" class="level3">
+<h3 class="anchored" data-anchor-id="rethinking-good-technology-feminism-ai-and-ethical-futures"><a href="https://www.lse.ac.uk/Events/2025/03/202503111830/feminism-AI-and-ethical-futures" target="_blank">Rethinking good technology: feminism, AI and ethical futures</a></h3>
+<p><strong>Tuesday 11th March, 18:30-20:00, Online and In-Person (Old Theatre, Old Building, LSE, London)</strong></p>
+<p>What does it mean for technology to be ‘good’ in an age dominated by AI? Can a feminist perspective help guide us towards more ethical digital futures?</p>
+<p>In this event Eleanor Drage talks about HEAT, a somewhat anarchic regulation tool that takes a feminist approach to helping companies meet the EU AI Act’s obligations. The toolkit has been developed as part of a project led by Drage, which is committed to an in-depth response to regulation that goes beyond mere compliance by working towards a pro-justice and sustainable future with AI.</p>
+</section>
+<section id="ai-uk-2025" class="level3">
+<h3 class="anchored" data-anchor-id="ai-uk-2025"><a href="https://www.turing.ac.uk/events/ai-uk-2025" target="_blank">AI UK 2025</a></h3>
+<p><strong>Monday 17th - Tuesday 18th March, All Day, London</strong></p>
+<p>Hosted by The Alan Turing Institute, AI UK is an in-depth exploration of how data science and AI can be used to solve real-world challenges. Our diverse programme was thematically structured around the latest innovations from across the AI ecosystem. With a broad range of interactive content, it covers the latest thinking on fundamental AI, digital twins, algorithmic bias, AI ethics – and much more.</p>
+<p><em>NB: This is not a free event</em></p>
+</section>
+<section id="an-overview-of-causal-machine-learning-methodology-in-electronic-health-records-ehr" class="level3">
+<h3 class="anchored" data-anchor-id="an-overview-of-causal-machine-learning-methodology-in-electronic-health-records-ehr"><a href="https://www.turing.ac.uk/events/overview-causal-machine-learning-methodology-electronic-health-records-ehr" target="_blank">An overview of causal machine learning methodology in Electronic Health Records (EHR)</a></h3>
+<p><strong>Wednesday 19th March, 12:00-13:00, Online</strong></p>
+<p>Dr Maurice O’Connell will give a talk on current work with Dr Matthew Sperrin and the DynAIRx team in the area of statistics and causal inference and causal machine learning.</p>
+<p>Maurice will talk about causal inference methodology development applied to electronic health records in the areas of deprescribing or continuing/initiating medications in individuals and populations with polypharmacy and multimorbidity and selecting individuals with polypharmacy and multimorbidity for structured medication reviews.</p>
+</section>
+<section id="ds-game-on-2025" class="level3">
+<h3 class="anchored" data-anchor-id="ds-game-on-2025"><a href="https://datasciencefestival.com/event/dsf-game-on-2025/" target="_blank">DS: Game On 2025</a></h3>
+<p><strong>Saturday 17th May, All Day, London</strong></p>
+<p>Join us for our 11th festival, DSF Game On 2025! Top tech speakers, incredible partners and a thriving community, all completely free.</p>
+<p>The ballot is open for those wanting a chance to get tickets to DSF’s Game On 2025. Click through the link above to find out how to apply, and the (free) tickets to those successful will be sent out in April.</p>
+<p>There will be a mixture of talks featured at the festival, covering all things data (science, engineering, etc) and at a variety of technical levels. You can view last years playlist on <a href="https://www.youtube.com/playlist?list=PLwzX3WM0AfxopbhVhGCA373Xk-7wNhLfq" target="_blank">YouTube here</a> to get an idea of the talks at the events.</p>
+</section>
+<section id="big-data-ldn" class="level3">
+<h3 class="anchored" data-anchor-id="big-data-ldn"><a href="https://www.bigdataldn.com/en-gb.html" target="_blank">Big Data LDN</a></h3>
+<p><strong>Wednesday 24th - Thursday 25th September, All Day, London</strong></p>
+<p>Big Data LDN is the UK’s leading free to attend data, analytics and AI conference &amp; exhibition.</p>
+<p>The two day event is a hub for the Data Community to learn and share best practice, build relationships and find the tools needed to develop an effective data-driven business.</p>
+<p><strong>The Call For Papers closes on 14 March</strong> and all applicants will be notified by the end of April whether their talk has been accepted. <a href="https://www.bigdataldn.com/en-gb/blog/event-news/call-for-papers-2025.html" target="_blank">Find out more here.</a></p>
+<hr>
+<p>See more future events on the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">calendar</a>.</p>
+<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+</section>
+<section id="knowledge-sharing" class="level1 section-heading">
+<h1>Knowledge Sharing</h1>
+</section>
+<section id="codecarbon" class="level3">
+<h3 class="anchored" data-anchor-id="codecarbon">CodeCarbon</h3>
+<p>It’s well known that LLM’s such as ChatGPT use a lot of energy, with estimates varying widely from 5 to 200+ times more energy than a Google search. With the popularity of LLM’s for everyday use growing, the total energy consumption is rising. Being aware of the energy consumption of your code is not only more important than ever, it is also easier than ever to do so.</p>
+<p><a href="https://mlco2.github.io/codecarbon/" target="_blank">CodeCarbon</a> is a <a href="https://github.com/mlco2/codecarbon" target="_blank">open-source</a> Python package designed to help you estimate the carbon footprint of computing tasks, particularly for machine learning and other high-performance computing workloads. It does this by estimating your hardware electricity power consumption (GPU + CPU + RAM) and applies the carbon intensity of the region where the computing is done. More is explained about this calculation in the <a href="https://mlco2.github.io/codecarbon/methodology.html" target="_blank">Methodology section</a> of the documentation.</p>
+<p>Add this (or any other tracker you know of!) to your next pipeline and start taking steps toward more sustainable computing.</p>
+<hr>
+</section>
+<section id="nhs-python-community---what-is-python" class="level3">
+<h3 class="anchored" data-anchor-id="nhs-python-community---what-is-python">NHS Python Community - What is Python?</h3>
+<p>Curious about Python in healthcare? Or maybe you’re tired of answering the same questions about it? The NHS Python Community has relaunched its newsletter on Substack, kicking things off with a post answering their most frequently asked questions:</p>
+<p>✅ What is Python?</p>
+<p>✅ Why is Python used in health and care?</p>
+<p>✅ Why should I learn Python?</p>
+<p>✅ What is open source?</p>
+<p><a href="https://nhspycom.substack.com/p/faqs-part-1-what-is-python" target="_blank">Check out their first post here</a> and subscribe to stay updated with future insights delivered straight to your inbox!</p>
+<hr>
+</section>
+<section id="ai-journal-articles" class="level1 section-heading">
+<h1>AI Journal Articles</h1>
+</section>
+<p>There’s a never ending list of new journal papers coming out every day - here’s a few we have flagged as interesting that came out in the past month or so!</p>
+<ul>
+<li><p><a href="https://arxiv.org/abs/2501.13545"><strong>LLMs Can Plan Only If We Tell Them</strong> - Bilgehan Sel, Ruoxi Jia, Ming Jin</a></p></li>
+<li><p><a href="https://arxiv.org/abs/2501.18585"><strong>Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs</strong> - Yue Wang <em>et al.</em></a></p></li>
+<li><p><a href="https://arxiv.org/abs/2501.13946"><strong>Hallucination Mitigation using Agentic AI Natural Language-Based Frameworks</strong> - Diego Gosmar, Deborah A. Dahl</a></p></li>
+<li><p><a href="https://arxiv.org/abs/2502.00873"><strong>Language Models Use Trigonometry to Do Addition</strong> - Subhash Kantamneni, Max Tegmark</a></p></li>
+<li><p><a href="https://arxiv.org/abs/2502.03373"><strong>Demystifying Long Chain-of-Thought Reasoning in LLMs</strong> - Edward Yeo <em>et al.</em></a></p></li>
+<li><p><a href="https://pubmed.ncbi.nlm.nih.gov/39910272/"><strong>GPT-4 assistance for improvement of physician performance on patient care tasks: a randomized controlled trial</strong> - Ethan Goh <em>et al.</em></a></p></li>
+<li><p><a href="https://arxiv.org/abs/2412.10849"><strong>Superhuman performance of a large language model on the reasoning tasks of a physician</strong> - Peter G. Brodeur <em>et al.</em></a></p></li>
+<li><p><a href="https://www.nber.org/papers/w31422"><strong>Combining Human Expertise with Artificial Intelligence: Experimental Evidence from Radiology</strong> - Nikhil Agarwal <em>et al.</em></a></p></li>
+</ul>
+<hr>
+<p>Seen a cool paper or article recently you would like to spotlight? <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=">Send us a contribution!</a></p>
+<section id="need-a-quick-break" class="level1 section-heading">
+<h1>Need a Quick Break?</h1>
+</section>
+<p><a href="https://mywordle.strivemath.com/?word=wfidj" target="_blank">How many tries will it take you?</a></p>
+<div style="text-align: center;">
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe to the community</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>newsletter</category>
+  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_02/newsletter.html</guid>
+  <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Data Science Community for Health and Care Newsletter January 2025</title>
   <dc:creator>Jennifer Struthers</dc:creator>
