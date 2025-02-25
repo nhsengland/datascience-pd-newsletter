@@ -114,15 +114,6 @@ Know of any events we should feature next month? Let us know by clicking the "Co
 # Knowledge Sharing
 </div>
 
-### DS AnalystX Huddles - Recordings Available
-
-If you are on the mailing list for this newsletter [(sign up!)](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"} you should also be receiving invites to our monthly(-ish) Data Science AnalystX Huddles. These are a way to learn about projects and tools used in healthcare data science across the community (in fact if you'd like to present at one just [drop us an email!](mailto:datascience@nhs.net))
-
-We record these sessions in order to preserve the knowledge and anyone who couldn't make it can catch up in their own time - you can find these recording on our FutureNHS site (free account needed to access). Most recently we had NHS England Senior Data Scientist Kenneth (Kin) Quan tell us about his experience working with OpenSafely to conduct a project on producing up to date ADHD statistics using primary care data. Kin demonstrated how OpenSafely uses dummy data to help researchers write code to produce outputs, which is then executed inside a safe environment and the results returned.
-
-___
-
-
 ### CodeCarbon
 
 It's well known that LLM's such as ChatGPT use a lot of energy, with estimates varying widely from 5 to 200+ times more energy than a Google search. With the popularity of LLM's for everyday use growing, the total energy consumption is rising. Being aware of the energy consumption of your code is not only more important than ever, it is also easier than ever to do so.
@@ -130,6 +121,25 @@ It's well known that LLM's such as ChatGPT use a lot of energy, with estimates v
 [CodeCarbon](https://mlco2.github.io/codecarbon/){target="_blank"} is a [open-source](https://github.com/mlco2/codecarbon){target="_blank"} Python package designed to help you estimate the carbon footprint of computing tasks, particularly for machine learning and other high-performance computing workloads. It does this by estimating your hardware electricity power consumption (GPU + CPU + RAM) and applying to it the carbon intensity of the region where the computing is done. More is explained about this calculation in the [Methodology section](https://mlco2.github.io/codecarbon/methodology.html){target="_blank"} of the documentation.
 
 Add this (or any other tracker you know of!) to your next pipeline and start taking steps toward more sustainable computing.
+
+___
+
+### NHS Python Community - What is Python?
+
+Curious about Python in healthcare? Or maybe you're tired of answering the same questions about it?
+The NHS Python Community has relaunched its newsletter on Substack, kicking things off with a post answering their most frequently asked questions:
+
+
+✅ What is Python?
+
+✅ Why is Python used in health and care?
+
+✅ Why should I learn Python?
+
+✅ What is open source?
+
+
+[Check out their first post here](https://nhspycom.substack.com/p/faqs-part-1-what-is-python){target="_blank"} and subscribe to stay updated with future insights delivered straight to your inbox!
 
 ___
 
