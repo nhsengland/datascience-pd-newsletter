@@ -106,7 +106,7 @@ The two day event is a hub for the Data Community to learn and share best practi
 
 ___
 
-See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
+See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}.
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
@@ -118,7 +118,7 @@ Know of any events we should feature next month? Let us know by clicking the "Co
 
 It's well known that LLM's such as ChatGPT use a lot of energy, with estimates varying widely from 5 to 200+ times more energy than a Google search. With the popularity of LLM's for everyday use growing, the total energy consumption is rising. Being aware of the energy consumption of your code is not only more important than ever, it is also easier than ever to do so.
 
-[CodeCarbon](https://mlco2.github.io/codecarbon/){target="_blank"} is a [open-source](https://github.com/mlco2/codecarbon){target="_blank"} Python package designed to help you estimate the carbon footprint of computing tasks, particularly for machine learning and other high-performance computing workloads. It does this by estimating your hardware electricity power consumption (GPU + CPU + RAM) and applying to it the carbon intensity of the region where the computing is done. More is explained about this calculation in the [Methodology section](https://mlco2.github.io/codecarbon/methodology.html){target="_blank"} of the documentation.
+[CodeCarbon](https://mlco2.github.io/codecarbon/){target="_blank"} is a [open-source](https://github.com/mlco2/codecarbon){target="_blank"} Python package designed to help you estimate the carbon footprint of computing tasks, particularly for machine learning and other high-performance computing workloads. It does this by estimating your hardware electricity power consumption (GPU + CPU + RAM) and applies the carbon intensity of the region where the computing is done. More is explained about this calculation in the [Methodology section](https://mlco2.github.io/codecarbon/methodology.html){target="_blank"} of the documentation.
 
 Add this (or any other tracker you know of!) to your next pipeline and start taking steps toward more sustainable computing.
 
@@ -144,7 +144,7 @@ The NHS Python Community has relaunched its newsletter on Substack, kicking thin
 ___
 
 <div class="section-heading">
-# AI journal articles
+# AI Journal Articles
 </div>
 
 There's a never ending list of new journal papers coming out every day - here's a few we have flagged as interesting that came out in the past month or so!
