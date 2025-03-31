@@ -165,15 +165,21 @@ ___
 # Confident Presenting
 </div>
 
+The NHS England Data Science Marketing team have been busy at work creating new materials on their website, and as expert markets they want to share them here too!
+
 <div style="text-align: center;">
   <img src="confident_presenting.png" alt="A confident presenter, cartoon">
 </div>
 
-The NHS England Data Science Marketing team have been busy at work creating new materials on their website, and as expert markets they want to share them here too!
 
-Do you want to present as speakers like Steve Jobs, Ken Robinson, or Simon Sinek, who are known for their exceptional ability to captivate and engage their audience? Keep reading to discover the techniques they use to deliver impactful and memorable presentations, building on the techniques from our away day workshop. Also make sure to check out some of our other resources for presenting!
-
-[Read more here on the NHS England Data Science website!](https://nhsengland.github.io/datascience/articles/2025/03/31/presentation-in-NHSE/){target="_blank"}
+Do you want to present as speakers like Steve Jobs, Ken Robinson, or Simon Sinek, who are known for their exceptional ability to captivate and engage their audience? Keep reading to discover the techniques they use to deliver impactful and memorable presentations, building on the techniques from our away day workshop. Also make sure to check out some of [our other resources](https://github.com/user-attachments/files/19533717/C.M_.Presentation.Guide-v28-20250331_111607.pdf) for presenting!
+ 
+### 💡 **Confident Presenting: 4 Simple Presentation Secrets**
+Great presentations are built on how well you engage your audience. Here’s how you can elevate your presentation game:
+ 
+_Read more on our blog [here](https://nhsengland.github.io/datascience/articles/2025/03/31/presentation-in-NHSE/)_
+ 
+📢 NHS England Data Science Team Comms and Marketing
 
 ___
 
