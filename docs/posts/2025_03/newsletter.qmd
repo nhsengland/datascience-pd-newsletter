@@ -1,6 +1,6 @@
 ---
 title: 'Data Science Community for Health and Care Newsletter March 2025'
-date: '2025-03-25'
+date: '2025-03-31'
 format:
   html:
     css: index.css
@@ -13,7 +13,7 @@ format:
       - right=20mm
 categories: ['newsletter',]
 description: 'The Data Science Community for Health and Care newsletter for March 2025'
-author: 'AUTHORS'
+author: 'Jennifer Struthers'
 ---
 
 ![](../../images/banner_march.png)
@@ -27,13 +27,40 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Highlights
+# Interview with Data Scientist
 </div>
 
-<div class="section-heading">
+Blah blah blah blah blah blah 
+
+<details>
+  <summary>See More</summary>
+
+  Here is the full text that will be revealed when the user clicks "See More." You can include **formatted text**, lists, or even code blocks.
+
+  - Bullet point 1
+  - Bullet point 2
+
+  ```python
+  print("Hello, Quarto!")
+</details> 
+
+
+<div class="section-heading"> 
 # Events
-</div>
+ </div>
+
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
+
+### [Getting started with open LLMs](https://www.turing.ac.uk/events/getting-started-open-llms){target="_blank"}
+**Wednesday 9th April, 10:00 - 12:00. The Alan Turing Institute (London)**
+
+This interactive session will introduce participants to open large language models (LLMs) and demonstrate how to apply them effectively in research and real-world scenarios.
+
+We'll explore essential tools and workflows using platforms like Hugging Face and Ollama, covering model setup, execution, and fine-tuning for various applications.
+
+By the end of the workshop, you'll gain hands-on experience and a solid foundation to integrate open LLMs into your own projects.
+
+Please email RDrysdale@turing.ac.uk to reserve your spot.
 
 ### [How AI is shaping journalism and journalism is shaping AI](https://www.turing.ac.uk/events/how-ai-shaping-journalism-and-journalism-shaping-ai){target="_blank"}
 **Friday 11th April, 17:00-19:15, The Royal Institution of Great Britain 21 Albemarle Street, London W1S 4BS**
@@ -86,19 +113,23 @@ See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/vie
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
 <div class="section-heading">
-# Knowledge Sharing
+# Population and Person Insights (AnalystX DS Huddle)
 </div>
 
-TEXT
+
+Recently, the Data Science Community for Health and Care organised a talk with the Popuation and Person Insights (PaPI) team at NHS England. The PaPI project aims to review, improve, and update the risk stratification models used in PaPI dashboards. These dashboards provide critical insights into health and care services by analysing person-level linked data, including the National Bridges to Health Segmentation Dataset.
+
+[Check out the recording (and other previous talks) here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}
+
+And if you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"}
 
 ___
 
 
 <div class="section-heading">
-# Training Opportunities
+# Confident Presenting
 </div>
 
-TEXT
 
 ___
 
@@ -108,7 +139,7 @@ Check out our collection of training resources in the [Resources Section](https:
 # Need a Quick Break?
 </div>
 
-[How many tries will it take you?](custom_wordle_link){target="_blank"}
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=afirc){target="_blank"}
 
 
 
