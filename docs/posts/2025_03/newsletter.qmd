@@ -13,7 +13,7 @@ format:
       - right=20mm
 categories: ['newsletter', 'interview with a data scientist']
 description: 'The Data Science Community for Health and Care newsletter for March 2025'
-author: 'Jennifer Struthers, Joe Wilson, Amaia Imaz Blanco'
+author: 'Jennifer Struthers, Joe Wilson, Michelle Nwachukwu'
 ---
 
 ![](../../images/banner_march.png)
@@ -165,7 +165,15 @@ ___
 # Confident Presenting
 </div>
 
-Here is will link to the DS website........
+<div style="text-align: center;">
+  <img src="confident_presenting.png" alt="A confident presenter, cartoon">
+</div>
+
+The NHS England Data Science Marketing team have been busy at work creating new materials on their website, and as expert markets they want to share them here too!
+
+Do you want to present as speakers like Steve Jobs, Ken Robinson, or Simon Sinek, who are known for their exceptional ability to captivate and engage their audience? Keep reading to discover the techniques they use to deliver impactful and memorable presentations, building on the techniques from our away day workshop. Also make sure to check out some of our other resources for presenting!
+
+[Read more here on the NHS England Data Science website!](https://nhsengland.github.io/datascience/articles/2025/03/31/presentation-in-NHSE/){target="_blank"}
 
 ___
 
