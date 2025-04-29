@@ -32,65 +32,62 @@ Thanks for reading! – newsletter team
 
 Welcome to the second installment of our **"Interview with a Data Scientist"** series, where we explore the careers and work of the talented members of the NHS England Data Science team. We aim to showcase the fantastic individuals who contribute to the NHS England Data Science Profession and provide valuable insights for those considering a career in Data Science within the healthcare sector.
 
-Our second interview is with Sarah Culkin, a chemist turned data science enthusiast.
+This week, we have the pleasure of hearing from Sarah Culkin, the Deputy Director of the Data Science team. Leveraging her experience in both health and data, Sarah is leading the charge to support the digital transformation of the NHS and champion the growth of data science as a vital profession across the organisation.
 
 <details>
   <summary>Read more...</summary>
 
   ## How did you end up in data science at the NHS? What did you do before, and what really sparked your interest in this field?
 
-  I studied chemistry at the University of Leeds; after my undergraduate degree I stayed at Leeds to do a PhD in organic chemistry.
- 
-  I was researching peptides and proteins so spent quite a lot of time in a lab rather than on a computer. And more time than I would like to admit washing up glassware!  But then the department bought a robot to run experiments; this was my first real experience of programming and data handling.
+  I studied chemistry at the University of Leeds; after my undergraduate degree, I stayed on to pursue a PhD in organic chemistry.
 
-  Toward the end of my PhD, I saw a job ad for the Government Operational Research Service (GORS, some would say a forerunner to Data Science).  I applied and ended up placed in the Department of Health. 
+  My research focused on peptides and proteins, which meant a significant amount of time in the lab, and more time than I'd like to recall spent washing glassware! However, a turning point came when the department acquired a robot to run experiments. This was my first real immersion in programming and data handling.
 
-  I've remained in the health sector and in data ever since (about 17 years) although I have moved to lots of different areas.
+  Towards the end of my PhD, I came across a job advertisement for the Government Operational Research Service (GORS), a service often considered a precursor to modern data science. I applied and was placed within the Department of Health.
 
-  My passion for data science was sparked around 2016, and I established its small data science team in the Department of Health. I have held a range of other roles, in the Department of Health and Social Care (DHSC), NHS England and NHSX.  I've spent time in Leeds Teaching Hospitals Trust and in a data policy role but ultimately leading a data science team is my passion.
+  I've remained within the health sector and the realm of data ever since, for about 17 years now, although I've had the opportunity to work in many different areas.
+
+  My passion for data science truly ignited around 2016, and I took the initiative to establish a small data science team within the Department of Health. Since then, I've held a variety of roles across the Department of Health and Social Care (DHSC), NHS England, and NHSX. I also spent some valuable time at Leeds Teaching Hospitals Trust and in a data policy role. Ultimately, though, leading a data science team is where my true passion lies.
 
   ## What are you currently working on? Are there any projects that you're particularly excited about, or that you feel are making a real difference? What impact are you having?
 
-  As deputy director of the data science team in NHS England I, sadly, no longer spend much time day-to-day involved in projects. Instead I lead the team.  I spend time focusing upwards and outwards, to raise awareness of the team and bring in new work.
+  As Deputy Director of the Data Science team at NHS England, my focus has shifted from direct project involvement to leading the team and shaping its strategic direction. While I miss the day-to-day project work, I now dedicate my time to raising the team's profile and securing new opportunities for us to contribute.
 
-  Two current areas of work that excite me:
+  Two current areas of work particularly excite me. Firstly, the ongoing development of data science as a recognised profession within the NHS.
 
-  Firstly, developing data science as a profession.  
+  For example, our PhD intern programme, which connects the NHS with early-career researchers in academia, has been running successfully for several years (more information can be found [here](https://nhsengland.github.io/datascience/PhDInterns/)).  This initiative brings fresh perspectives and skills into the NHS.  
   
-  For example, we set up a PhD intern programme to link the NHS to early career researchers in academia. This programme has now been running for several years and it is highly successful (see lots more info [here](https://nhsengland.github.io/datascience/PhDInterns/)).  
+  We also now oversee a Data Science Masters programme, a fantastic opportunity to provide advanced training to our colleagues, enhancing their capabilities and the overall data science capacity within the NHS.
   
-  We also now look after a Data Science Masters programme. This is a great opportunity to offer advanced data science training to our colleagues. 
-  
-  I worked to develop the data science [competency frameworks](https://future.nhs.uk/DataAnalytics/view?objectID=31311216) and more recently a continuous professional development policy. 
-  I think having a clear, fair, well-defined and well promoted profession is important.
-  
-  More recently I have been involved in school outreach.  The sessions at primary schools were particularly memorable; the questions you get asked are wild, funny and brilliant!
+  I was also involved in developing the data science [competency frameworks](https://future.nhs.uk/DataAnalytics/view?objectID=31311216) and, more recently, a continuous professional development policy. I firmly believe that having a clear, fair, well-defined, and well-promoted profession is crucial for attracting and retaining talent and ensuring high standards.
 
-  The second area that particularly excites me is shaping new work coming into the team. 
-  
-  I am particularly interested to see how data science can support digital transformation in the NHS, as well as operational decisions. 
-  
-  It is interesting to see how different teams work and how data science can help them. I help scope projects so that they meet and maybe even go beyond their needs. 
-  
-  Increasingly we are getting colleagues interested in using AI in their work and this brings new challenges, opportunities and teams to us.
+  More recently, I've had the rewarding experience of engaging in school outreach. The sessions at primary schools were particularly memorable; the children's questions are often wonderfully wild, funny, and insightful!
+
+  The second area that truly excites me is shaping the new projects coming into the team. I'm particularly keen to see how data science can effectively support the digital transformation initiatives within the NHS, as well as inform crucial operational decisions.
+
+  It's fascinating to observe how different teams operate and identify how data science can provide valuable assistance. I play a key role in scoping these projects to ensure they not only meet but potentially exceed the initial requirements.
+
+  Increasingly, we're seeing colleagues interested in leveraging the power of AI in their work, which brings exciting new challenges, opportunities, and collaborations for our team.
 
 
   ## If you could give someone just starting out in data science a few pieces of advice, what would they be? And what resources have you found particularly helpful along the way that you can share?
 
   My advice for aspiring data scientists would be two things:
 
-  1. Get good at explaining complicated, technical, potentially quite dry subjects in a simple engaging way.  Think, “can I explain what I'm doing to a 9-year-old in a way that they would understand and would also hold their attention”. Channel your inner kids TV presenter/science journalist!
+  Firstly, cultivate the ability to explain complex, technical, and potentially dry subjects in a simple and engaging manner. Think to yourself, 'Can I explain what I'm doing to a 9-year-old in a way that they would not only understand but also find captivating?' Channel your inner kids' TV presenter or science journalist!
 
-  A good way of doing this is to find everyday analogies. Compare a project, process or problem to an everyday situation. Recent things I've used when trying to explain something technical have been visiting a restaurant and using an iPhone. 
+  A great way to achieve this is by using everyday analogies. Try comparing a project, process, or problem to a familiar, everyday situation. Recently, when explaining technical concepts, I've used examples like visiting a restaurant or using an iPhone.
 
-  If you can help people to feel clever (rather than prioritising making yourself look clever!) they're far more likely to engage with (and remember) what you're trying to describe.
+  If you can help people, feel intelligent (rather than prioritising making yourself appear intelligent!), they are far more likely to engage with and remember what you're trying to convey.
 
-  It's very tempting when you've done a complicated piece of work to want to get across how hard it has been, how complicated it was.  Sometimes this is needed.  But, in general, seek common ground.
+  It's natural, after completing a complex piece of work, to want to highlight its difficulty and intricacy. While sometimes this is necessary, generally, strive to find common ground and make the concepts accessible.
 
+  Secondly, ensure you have a solid grasp of the fundamentals of the data science technique or approach you're using, including its potential weaknesses as well as its strengths compared to other methods.
 
-  2. Make sure you really understand the fundamentals of the data science technique or the approach that you are using and its potential weak points as well as benefits, compared to others.
+  In an age where we can execute complicated processes and code with a few clicks, it's not always mandatory to delve into the underlying statistical models. However, to build your own confidence and effectively explain your work to others, this understanding of the fundamentals is, for me, paramount. It also equips you to critically evaluate the next 'new big thing' that emerges. Aim to be a cynical optimist in your approach. 
 
-  When we can run complicated processes and code with a few clicks it’s not always necessary to engage with the underlying statistical model. But to be able to assure yourself and to help you to be able to explain it others, this understanding of the fundamentals, for me, is key.  It also helps to critically appraise the next new thing when it comes out. Aim to be a cynical optimist.
+  ___
+  We hope you found this interview with Sarah Culkin insightful. Her journey and advice offer valuable perspectives for those interested in contributing to the growing field of data science within the NHS. For more information about the NHS England Data Science Profession, please visit our [website](https://nhsengland.github.io/datascience/). Here you can also find our first ‘Interview with a Data Scientist’ with Joe Wilson, [The Aerospace Engineer who Loved Spreadsheets](https://nhsengland.github.io/datascience/articles/2025/04/16/interview_with_joseph_wilson/).
 
 
 </details> 
