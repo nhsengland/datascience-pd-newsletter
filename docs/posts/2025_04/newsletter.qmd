@@ -47,7 +47,7 @@ Our second interview is with Sarah Culkin, a chemist turned data science enthusi
 
   I've remained in the health sector and in data ever since (about 17 years) although I have moved to lots of different areas.
 
-  My passion for data science was sparked around 2016, and I established its small data science team in the Department of Health. I have held a range of other roles, in the Department of Health and Social Care (DHSC) NHS England and NHSX.  I've spent time in Leeds Teaching Hospitals Trust and in a data policy role but ultimately leading a data science team is my passion.
+  My passion for data science was sparked around 2016, and I established its small data science team in the Department of Health. I have held a range of other roles, in the Department of Health and Social Care (DHSC), NHS England and NHSX.  I've spent time in Leeds Teaching Hospitals Trust and in a data policy role but ultimately leading a data science team is my passion.
 
   ## What are you currently working on? Are there any projects that you're particularly excited about, or that you feel are making a real difference? What impact are you having?
 
@@ -78,7 +78,8 @@ Our second interview is with Sarah Culkin, a chemist turned data science enthusi
   ## If you could give someone just starting out in data science a few pieces of advice, what would they be? And what resources have you found particularly helpful along the way that you can share?
 
   My advice for aspiring data scientists would be two things:
-  1.	 Get good at explaining complicated, technical, potentially quite dry subjects in a simple engaging way.  Think, “can I explain what I'm doing to a 9-year-old in a way that they would understand and would also hold their attention”. Channel your inner kids TV presenter/science journalist!
+
+  1. Get good at explaining complicated, technical, potentially quite dry subjects in a simple engaging way.  Think, “can I explain what I'm doing to a 9-year-old in a way that they would understand and would also hold their attention”. Channel your inner kids TV presenter/science journalist!
 
   A good way of doing this is to find everyday analogies. Compare a project, process or problem to an everyday situation. Recent things I've used when trying to explain something technical have been visiting a restaurant and using an iPhone. 
 
@@ -87,7 +88,7 @@ Our second interview is with Sarah Culkin, a chemist turned data science enthusi
   It's very tempting when you've done a complicated piece of work to want to get across how hard it has been, how complicated it was.  Sometimes this is needed.  But, in general, seek common ground.
 
 
-  2.	Make sure you really understand the fundamentals of the data science technique or the approach that you are using and its potential weak points as well as benefits, compared to others.
+  2. Make sure you really understand the fundamentals of the data science technique or the approach that you are using and its potential weak points as well as benefits, compared to others.
 
   When we can run complicated processes and code with a few clicks it’s not always necessary to engage with the underlying statistical model. But to be able to assure yourself and to help you to be able to explain it others, this understanding of the fundamentals, for me, is key.  It also helps to critically appraise the next new thing when it comes out. Aim to be a cynical optimist.
 
@@ -130,7 +131,9 @@ There will be a mixture of talks featured at the festival, covering all things d
 ### [Pint of Science 2025](https://www.turing.ac.uk/events/pint-science-2025){target="_blank"}
 **Tuesday 20th May, 18:30 - 21:30. Prince Albert Pub, 163 Royal College Street, London, NW1 0SG**
 
-We're told AI is taking an increasingly important role in decision-making, but what does this really mean? And how should we, the people, respond to this? Understanding how AI is *really* being used for prediction and decision-making is the best tool for interpreting the daily flow of AI news. Three researchers from the Alan Turing Institute will take to the stage to help. We'll hear how AI is being used in the real world and how it relates to the big things in life: health, travel safety and (most important of all) the weather. Plus join in with our annual Big Quiz of AI! 
+We're told AI is taking an increasingly important role in decision-making, but what does this really mean? And how should we, the people, respond to this? Understanding how AI is *really* being used for prediction and decision-making is the best tool for interpreting the daily flow of AI news. 
+
+Three researchers from the Alan Turing Institute will take to the stage to help. We'll hear how AI is being used in the real world and how it relates to the big things in life: health, travel safety and (most important of all) the weather. Plus join in with our annual Big Quiz of AI! 
 
 ### [Health Data Science Seminar Series](https://www.eventbrite.co.uk/e/health-data-science-seminar-series-tickets-1329649059129?aff=ebdsoporgprofile&_gl=1*90qvwn*_up*MQ..*_ga*MTkyMDUyNDM4NC4xNzQ1ODI4MjAy*_ga_TQVES5V6SH*MTc0NTgyODIwMS4xLjAuMTc0NTgyODIwMS4wLjAuMA..){target="_blank"}
 **Wednesday 4th June, 14:00 - 15:30, Online **
@@ -143,29 +146,30 @@ Please note, this seminar takes place on Microsoft Teams, with the access link t
 
 If you have any questions about this seminar, please email outreach.engagement.community@ons.gov.uk.
 
+### [Big Data LDN](https://www.bigdataldn.com/en-gb.html){target="_blank"}
+**Wednesday 24th - Thursday 25th September, All Day, London**
+
+Big Data LDN is the UK’s leading free to attend data, analytics and AI conference & exhibition.
+
+The two day event is a hub for the Data Community to learn and share best practice, build relationships and find the tools needed to develop an effective data-driven business.
+
+
 ___
 
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
+___
 <div class="section-heading">
-# Knowledge Sharing
+# Using AI for early detection of lung cancer
 </div>
 
-TEXT
+Looking for an interesting read? The British Journal of General Practice has a paper on [Artificial intelligence for early detection of lung cancer in GPs’ clinical notes: a retrospective observational cohort study](https://bjgp.org/content/early/2025/04/21/BJGP.2023.0489). 
+
+The paper looks at developing new prediction tools to improve the risk assessment of lung cancer, by performing text analysis on electronic patient data using natural language processing and machine learning. The processing is applied to general practice files of four networks in the Netherlands.  
 
 ___
-
-
-<div class="section-heading">
-# Training Opportunities
-</div>
-
-TEXT
-
-___
-
 Check out our collection of training resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
 
 <div class="section-heading">
