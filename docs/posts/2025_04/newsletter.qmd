@@ -53,15 +53,15 @@ Our second interview is with Sarah Culkin, a chemist turned data science enthusi
 
   As deputy director of the data science team in NHS England I, sadly, no longer spend much time day-to-day involved in projects. Instead I lead the team.  I spend time focusing upwards and outwards, to raise awareness of the team and bring in new work.
 
-  Two current areas of work that that excite me:
+  Two current areas of work that excite me:
 
   Firstly, developing data science as a profession.  
   
-  For example, we set up a PhD intern programme to link the NHS to early career researchers in academia. This programme has now been running for several years and it is highly successful (see lots more info here ).  
+  For example, we set up a PhD intern programme to link the NHS to early career researchers in academia. This programme has now been running for several years and it is highly successful (see lots more info [here](https://nhsengland.github.io/datascience/PhDInterns/)).  
   
   We also now look after a Data Science Masters programme. This is a great opportunity to offer advanced data science training to our colleagues. 
   
-  I worked to develop the data science competency frameworks and more recently a continuous professional development policy. 
+  I worked to develop the data science [competency frameworks](https://future.nhs.uk/DataAnalytics/view?objectID=31311216) and more recently a continuous professional development policy. 
   I think having a clear, fair, well-defined and well promoted profession is important.
   
   More recently I have been involved in school outreach.  The sessions at primary schools were particularly memorable; the questions you get asked are wild, funny and brilliant!
