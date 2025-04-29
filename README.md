@@ -23,6 +23,7 @@ Creating the next monthly newsletter? Here's how:
 - Start editing the file to add in all the content you want, checking periodically it's rendering as expected.
 - You can also update the wordle at the end of the newsletter going to [Customer Wordle](https://mywordle.strivemath.com/). Remember to keep the word short (5 letters) and related!
 - When finished, create a PR for it to be reviewed and once approved and pushed, an action should kick off to render it so it can be shared.
+- The link in the "about" section should be updated with the latest newsletter. Use this link to share the newsletter.
 
 ### Built With
 
