@@ -1,0 +1,187 @@
+---
+title: 'Data Science Community for Health and Care Newsletter April 2025'
+date: '2025-04-29'
+format:
+  html:
+    css: index.css
+  pdf:
+    toc: false
+    geometry: 
+      - top=10mm
+      - bottom=10mm
+      - left=20mm
+      - right=20mm
+categories: ['newsletter', 'interview with a data scientist']
+description: 'The Data Science Community for Health and Care newsletter for April 2025'
+author: 'Elizabeth Kelly, Sarah Culkin'
+---
+
+![](../../images/banner_april.png)
+
+Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
+
+The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
+
+If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
+
+Thanks for reading! – newsletter team 
+
+<div class="section-heading">
+# Blowing the Trumpet for Data Science
+</div>
+
+Welcome to the second installment of our **"Interview with a Data Scientist"** series, where we explore the careers and work of the talented members of the NHS England Data Science team. We aim to showcase the fantastic individuals who contribute to the NHS England Data Science Profession and provide valuable insights for those considering a career in Data Science within the healthcare sector.
+
+Our second interview is with Sarah Culkin, a chemist turned data science enthusiast.
+
+<details>
+  <summary>Read more...</summary>
+
+  ## How did you end up in data science at the NHS? What did you do before, and what really sparked your interest in this field?
+
+  I studied chemistry at the University of Leeds; after my undergraduate degree I stayed at Leeds to do a PhD in organic chemistry.
+ 
+  I was researching peptides and proteins so spent quite a lot of time in a lab rather than on a computer. And more time than I would like to admit washing up glassware!  But then the department bought a robot to run experiments; this was my first real experience of programming and data handling.
+
+  Toward the end of my PhD, I saw a job ad for the Government Operational Research Service (GORS, some would say a forerunner to Data Science).  I applied and ended up placed in the Department of Health. 
+
+  I've remained in the health sector and in data ever since (about 17 years) although I have moved to lots of different areas.
+
+  My passion for data science was sparked around 2016, and I established its small data science team in the Department of Health. I have held a range of other roles, in the Department of Health and Social Care (DHSC), NHS England and NHSX.  I've spent time in Leeds Teaching Hospitals Trust and in a data policy role but ultimately leading a data science team is my passion.
+
+  ## What are you currently working on? Are there any projects that you're particularly excited about, or that you feel are making a real difference? What impact are you having?
+
+  As deputy director of the data science team in NHS England I, sadly, no longer spend much time day-to-day involved in projects. Instead I lead the team.  I spend time focusing upwards and outwards, to raise awareness of the team and bring in new work.
+
+  Two current areas of work that excite me:
+
+  Firstly, developing data science as a profession.  
+  
+  For example, we set up a PhD intern programme to link the NHS to early career researchers in academia. This programme has now been running for several years and it is highly successful (see lots more info [here](https://nhsengland.github.io/datascience/PhDInterns/)).  
+  
+  We also now look after a Data Science Masters programme. This is a great opportunity to offer advanced data science training to our colleagues. 
+  
+  I worked to develop the data science [competency frameworks](https://future.nhs.uk/DataAnalytics/view?objectID=31311216) and more recently a continuous professional development policy. 
+  I think having a clear, fair, well-defined and well promoted profession is important.
+  
+  More recently I have been involved in school outreach.  The sessions at primary schools were particularly memorable; the questions you get asked are wild, funny and brilliant!
+
+  The second area that particularly excites me is shaping new work coming into the team. 
+  
+  I am particularly interested to see how data science can support digital transformation in the NHS, as well as operational decisions. 
+  
+  It is interesting to see how different teams work and how data science can help them. I help scope projects so that they meet and maybe even go beyond their needs. 
+  
+  Increasingly we are getting colleagues interested in using AI in their work and this brings new challenges, opportunities and teams to us.
+
+
+  ## If you could give someone just starting out in data science a few pieces of advice, what would they be? And what resources have you found particularly helpful along the way that you can share?
+
+  My advice for aspiring data scientists would be two things:
+
+  1. Get good at explaining complicated, technical, potentially quite dry subjects in a simple engaging way.  Think, “can I explain what I'm doing to a 9-year-old in a way that they would understand and would also hold their attention”. Channel your inner kids TV presenter/science journalist!
+
+  A good way of doing this is to find everyday analogies. Compare a project, process or problem to an everyday situation. Recent things I've used when trying to explain something technical have been visiting a restaurant and using an iPhone. 
+
+  If you can help people to feel clever (rather than prioritising making yourself look clever!) they're far more likely to engage with (and remember) what you're trying to describe.
+
+  It's very tempting when you've done a complicated piece of work to want to get across how hard it has been, how complicated it was.  Sometimes this is needed.  But, in general, seek common ground.
+
+
+  2. Make sure you really understand the fundamentals of the data science technique or the approach that you are using and its potential weak points as well as benefits, compared to others.
+
+  When we can run complicated processes and code with a few clicks it’s not always necessary to engage with the underlying statistical model. But to be able to assure yourself and to help you to be able to explain it others, this understanding of the fundamentals, for me, is key.  It also helps to critically appraise the next new thing when it comes out. Aim to be a cynical optimist.
+
+
+</details> 
+
+
+<div class="section-heading">
+# Events
+</div>
+Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
+
+### [Supremacy - Data Ethics and Society Reading Group](https://www.tickettailor.com/events/dataethics/1549481/r/nhsteams){target="_blank"}
+**Tuesday 29th April, 12:00-14:00, Online**
+
+Join us at the Data Ethics & Society Reading Group to discuss Supremacy by Parmy Olson. 
+
+We will be holding two sessions over two weeks. The sessions will each focus on a different section of the book- but if you can't make the one you want to come to, we can still guarantee a great conversation! [Read more about our changes in our recent Data in Government blog post.](https://dataingovernment.blog.gov.uk/2025/02/17/data-ethics-and-society-join-the-conversation-in-2025/){target="_blank"}
+
+The event is FREE to attend, but places are limited so please sign up to reserve your spot! (Registration closes on Friday 18th April at 17:00)
+
+*Please note this event is for Public Sector workers only*
+
+### [LSE: The power of data: ethics, politics, and public interest](https://www.lse.ac.uk/Events/2025/05/202505081830/data-ethics-politics-and-public-interest?_gl=1*rwgszb*_gcl_au*MTc0NDU0NDcyNC4xNzM4NTkyNjk3*_ga*MjE2MDg0MDMzLjE3Mzg1OTI2OTI.*_ga_LWTEVFESYX*MTc0MDk5NDcxNS42OS4xLjE3NDA5OTgzNzQuMjkuMC4w){target="_blank"}
+**Thursday 8th May, 18.30-20.00, In-person and online public event (Auditorium, Centre Building)**
+
+Data profoundly influences all of our lives and the social, economic and political systems that govern them. Everywhere we turn we are creating increasing amounts of data that powers decision-making algorithms and shapes our future. It is however important to remember how partial and biased data can be given the priviledged position it has in the perception of absolute truth. 
+
+This event will discuss important questions around the role of data science in understanding and shaping the public interest, from access to information to civic participation and business development to democratic processes.
+
+### [DS: Game On 2025](https://datasciencefestival.com/event/dsf-game-on-2025/){target="_blank"}
+**Saturday 17th May, All Day, London**
+
+Join us for our 11th festival, DSF Game On 2025! Top tech speakers, incredible partners and a thriving community, all completely free. 
+
+The ballot is open for those wanting a chance to get tickets to DSF's Game On 2025. Click through the link above to find out how to apply, and the (free) tickets to those successful will be sent out in April.
+
+There will be a mixture of talks featured at the festival, covering all things data (science, engineering, etc) and at a variety of technical levels. You can view last years playlist on [YouTube here](https://www.youtube.com/playlist?list=PLwzX3WM0AfxopbhVhGCA373Xk-7wNhLfq){target="_blank"} to get an idea of the talks at the events.
+
+### [Pint of Science 2025](https://www.turing.ac.uk/events/pint-science-2025){target="_blank"}
+**Tuesday 20th May, 18:30 - 21:30. Prince Albert Pub, 163 Royal College Street, London, NW1 0SG**
+
+We're told AI is taking an increasingly important role in decision-making, but what does this really mean? And how should we, the people, respond to this? Understanding how AI is *really* being used for prediction and decision-making is the best tool for interpreting the daily flow of AI news. 
+
+Three researchers from the Alan Turing Institute will take to the stage to help. We'll hear how AI is being used in the real world and how it relates to the big things in life: health, travel safety and (most important of all) the weather. Plus join in with our annual Big Quiz of AI! 
+
+### [Health Data Science Seminar Series](https://www.eventbrite.co.uk/e/health-data-science-seminar-series-tickets-1329649059129?aff=ebdsoporgprofile&_gl=1*90qvwn*_up*MQ..*_ga*MTkyMDUyNDM4NC4xNzQ1ODI4MjAy*_ga_TQVES5V6SH*MTc0NTgyODIwMS4xLjAuMTc0NTgyODIwMS4wLjAuMA..){target="_blank"}
+**Wednesday 4th June, 14:00 - 15:30, Online **
+
+This series of seminars presents an exciting opportunity to hear about recent developments in health data science, generate ideas and help build the health data science community. It is hosted by the ONS's Data Science Campus and Health Analysis Team in partnership with Health Data Research UK (HDR UK).
+
+The Health Data Science Seminar series provides a dedicated space for data scientists, policymakers, health professionals, academics, epidemiologists, statisticians and other members of the data science community to come together and explore the potential of data science, to help improve health and health policy. Sign up now and be part of the conversation - it's free!
+
+Please note, this seminar takes place on Microsoft Teams, with the access link to be sent to all registered attendees at least 24 hours before the start of the event.
+
+If you have any questions about this seminar, please email outreach.engagement.community@ons.gov.uk.
+
+### [Big Data LDN](https://www.bigdataldn.com/en-gb.html){target="_blank"}
+**Wednesday 24th - Thursday 25th September, All Day, London**
+
+Big Data LDN is the UK’s leading free to attend data, analytics and AI conference & exhibition.
+
+The two day event is a hub for the Data Community to learn and share best practice, build relationships and find the tools needed to develop an effective data-driven business.
+
+
+___
+
+See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
+
+Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+
+___
+<div class="section-heading">
+# Using AI for early detection of lung cancer
+</div>
+
+Looking for an interesting read? The British Journal of General Practice has a paper on [Artificial intelligence for early detection of lung cancer in GPs’ clinical notes: a retrospective observational cohort study](https://bjgp.org/content/early/2025/04/21/BJGP.2023.0489). 
+
+The paper looks at developing new prediction tools to improve the risk assessment of lung cancer, by performing text analysis on electronic patient data using natural language processing and machine learning. The processing is applied to general practice files of four networks in the Netherlands.  
+
+___
+Check out our collection of training resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](custom_wordle_link){target="_blank"}
+
+
+
+<div style="text-align: center;">
+
+[Subscribe to the community](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+</div>
+
