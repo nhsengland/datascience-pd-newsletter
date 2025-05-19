@@ -46,12 +46,7 @@ Lots of exciting things coming up! See the [full calendar here](https://future.n
 ### [EVENT TITLE](event link){target="_blank"}
 **DATE, TIME, LOCATION,**
 
-A SHORT DESCRIPTION OF EVENT 
-
-### [Exploring associations in survey data with machine learning and tidymodels: AnalystX DS Huddle](event link){target="_blank"}
-**17th of June 2025, 13:30 - 14:30, Online,*
-
-Supervised machine learning can be used to understand the factors associated with a result or outcome. In this huddle we will compare using two different machine learning algorithms to explore the results of the General Practice Patient Survey, a national publicly-available dataset. What can supervised learning tell us about factors that are associated with overall patient satisfaction? And how can using different algorithms for the same machine learning task strengthen the quality and robustness of our findings? R and the tidymodels collection of packages will be used to show how different models can be applied to the same dataset with minimum fuss, though the approach will also be of interest to users of Python and other programming languages. This work continues to evolve, and constructive feedback is very welcome!
+A SHORT DESCRIPTION OF EVENT
 
 ___
 
@@ -73,7 +68,13 @@ ___
 </div>
 **17th of June 2025, 13:30 - 14:30, Online,**
 
+The Data Science Community for Health and Care has organised a talk on exploring associations in survey data with machine learning and tidymodels. Have a read of the abstract below:
+
 Supervised machine learning can be used to understand the factors associated with a result or outcome. In this huddle we will compare using two different machine learning algorithms to explore the results of the General Practice Patient Survey, a national publicly-available dataset. What can supervised learning tell us about factors that are associated with overall patient satisfaction? And how can using different algorithms for the same machine learning task strengthen the quality and robustness of our findings? R and the tidymodels collection of packages will be used to show how different models can be applied to the same dataset with minimum fuss, though the approach will also be of interest to users of Python and other programming languages. This work continues to evolve, and constructive feedback is very welcome!
+
+[Check out the recording for previous talks here!](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}. We will also add the recording for this AnalystX DS Huddle at a later date.
+
+If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"}
 
 ___
 
