@@ -48,6 +48,58 @@ Lots of exciting things coming up! See the [full calendar here](https://future.n
 
 A SHORT DESCRIPTION OF EVENT
 
+### [Research Showcase: Understanding the impacts of generative AI use on children](https://www.turing.ac.uk/events/research-showcase-understanding-impacts-generative-ai-use-children){target="_blank"}
+**Tuesday 3rd June, 14:30 - 16:00, Online**
+
+New research from the UK shows that almost a quarter of children aged 8 – 12 already use generative AI, but these tools have not been designed with children’s needs in mind. This leads to children being exposed to inappropriate or harmful content and risks potential negative impacts on children’s wellbeing.
+
+Yet the research also demonstrates that children are excited about the ways generative AI could be used to support them in their learning and for play, if developed and deployed responsibly.
+
+Over the course of the "Understanding the impacts of generative AI use on children" project, The Alan Turing Institute's Children and AI team and AI for Public Services team have explored the perspectives of children, parents, carers and teachers on generative AI technologies. Their research was guided by the framework for children’s online well-being established by the UNICEF project 'Responsible Innovation in Technology for Children'.
+
+This webinar will share the key findings of the project's two work packages namely, surveys with children, parents, carers and teachers, and school-based engagements undertaken in collaboration with Children's Parliament. Researchers will share insights into the observed impacts of generative AI on children's wellbeing and additional insights from teachers about how generative AI is being used within classrooms.
+
+This webinar is free to attend; just register and you will receive the link!
+
+### [Health Data Science Seminar Series](https://www.eventbrite.co.uk/e/health-data-science-seminar-series-tickets-1329649059129?aff=ebdsoporgprofile&_gl=1*90qvwn*_up*MQ..*_ga*MTkyMDUyNDM4NC4xNzQ1ODI4MjAy*_ga_TQVES5V6SH*MTc0NTgyODIwMS4xLjAuMTc0NTgyODIwMS4wLjAuMA..){target="_blank"}
+**Wednesday 4th June, 14:00 - 15:30, Online**
+
+This series of seminars presents an exciting opportunity to hear about recent developments in health data science, generate ideas and help build the health data science community. It is hosted by the ONS's Data Science Campus and Health Analysis Team in partnership with Health Data Research UK (HDR UK).
+
+The Health Data Science Seminar series provides a dedicated space for data scientists, policymakers, health professionals, academics, epidemiologists, statisticians and other members of the data science community to come together and explore the potential of data science, to help improve health and health policy. Sign up now and be part of the conversation - it's free!
+
+Please note, this seminar takes place on Microsoft Teams, with the access link to be sent to all registered attendees at least 24 hours before the start of the event.
+
+If you have any questions about this seminar, please email outreach.engagement.community@ons.gov.uk.
+
+### [ONS Local Workshop: Using R for regional economic analysis, taster session](https://www.eventbrite.co.uk/e/ons-local-workshop-using-r-for-regional-economic-analysis-taster-session-tickets-1372930745819?aff=ebdsoporgprofile&_gl=1*d1nizw*_up*MQ..*_ga*MTY5MzMwNTEyOS4xNzQ3OTIxNjI3*_ga_TQVES5V6SH*czE3NDc5MjE2MjYkbzEkZzAkdDE3NDc5MjE2MjYkajAkbDAkaDAkZFpJV1lyeE9aeV9Pelk3ZzNjWEo4LTFRVTVqZzJGWVl2b2c.){target="_blank"}
+**Tuesday 17th June, 09:30 - 11:00, Online**
+
+This 90 minute session will introduce using R and RStudio for regional data analysis, with a focus on economic data. No experience with R is necessary. You can attend without coding, but if you’d like to follow along with some economic data wrangling and don’t yet have R/RStudio, please [follow this short guide to getting set up with R](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdanolner.github.io%2Fposts%2Fsetting_up_w_r_online%2F&data=05%7C02%7CEmma.Smale%40ons.gov.uk%7C25bde1bdd9c145267f0008dd9793a4b4%7C078807bfce824688bce00d811684dc46%7C0%7C0%7C638833382579500947%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2FmZ4w3v1OMQ71kmoE9c5oU4CWKy72rJkqr16qRDomhI%3D&reserved=0) before the session, and you’ll be ready to go. Using mainly ONS [region-by-industry GVA data](https://www.ons.gov.uk/economy/grossvalueaddedgva/datasets/nominalandrealregionalgrossvalueaddedbalancedbyindustry), we’ll look at wrangling data, making visualisations and other analysis tasks, and using libraries like tidyverse.
+
+As well as introducing R, the session will talk about why open and reproducible data analysis can be so valuable, and run through examples of using it to produce pipelines from ONS data through to reports, maps and other outputs. The session will leave time to discuss the pros, cons and challenges of using tools like this, which will help shape future R training sessions.
+
+The session is free and a ticket is required.
+
+### [Data for development](https://www.lse.ac.uk/Events/LSE-Festival/2025/0617/data-development){target="_blank"}
+**Tuesday 17th June, 13:00 - 14:00, In person (Marshall Building, London School of Economics and Political Science) and online**
+
+Data plays a crucial role in designing effective development policies, yet its availability and use in low- and middle-income countries remain inconsistent. In some cases, data is simply unavailable, in others it exists but remains underutilised due to limited access or awareness.   
+
+Our panel explores how these challenges can be addressed and examines the transformative role of data in shaping global development initiatives. They discuss the potential of leveraging both existing data and AI tools to generate insights and inform policies that drive sustainable growth. 
+
+This event is part of the "LSE Festival: Visions for the Future" running from Monday 16 to Saturday 21 June 2025, with a series of events exploring the threats and opportunities of the near and distant future, and what a better world could look like.
+
+This event is free and open to all, and a ticket is required.
+
+### [Big Data LDN](https://www.bigdataldn.com/en-gb.html){target="_blank"}
+**Wednesday 24th - Thursday 25th September, All Day, London**
+
+Big Data LDN is the UK’s leading free to attend data, analytics and AI conference & exhibition.
+
+The two day event is a hub for the Data Community to learn and share best practice, build relationships and find the tools needed to develop an effective data-driven business.
+
+
 ___
 
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
@@ -55,11 +107,12 @@ See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/vie
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
 <div class="section-heading">
-# Knowledge Sharing
+# A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation
 </div>
 
-TEXT
+Looking for an interesting read? The Nature Journal has a paper on [A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation](https://www.nature.com/articles/s41746-025-01670-7). 
 
+The paper looks at how the fidelity between LLM outputs and ground truth information is vital to prevent miscommunication that could lead to compromise in patient safety, and proposes a framework to assess and evaluate these errors.
 ___
 
 
