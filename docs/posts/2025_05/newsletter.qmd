@@ -1,6 +1,6 @@
 ---
 title: 'Data Science Community for Health and Care Newsletter May 2025'
-date: '2025-05-27'
+date: '2025-05-28'
 format:
   html:
     css: index.css
