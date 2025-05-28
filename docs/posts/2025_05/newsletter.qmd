@@ -32,7 +32,7 @@ Thanks for reading! – newsletter team
 
 Welcome to another installment of our "Interview with a Data Scientist" series, where we explore the careers and work of the talented members of the NHS England Data Science team. We aim to showcase the fantastic individuals who contribute to the NHSE Data Science Profession and provide valuable insights for those considering a career in Data Science within the healthcare sector.
 
-This week our interviewee is Adam Hollings, a Principal Data Scientists in the Data Science Team who recently moved from the SDE Service Team to the Central Data Science Team.
+This week our interviewee is Adam Hollings, a Principal Data Scientist in the Data Science Team who recently moved from the SDE Service Team to the Central Data Science Team.
 
 <details>
   <summary>Read more...</summary>
@@ -80,9 +80,9 @@ This week our interviewee is Adam Hollings, a Principal Data Scientists in the D
   When I say "be proactive," I mean actively participate: ask questions in meetings, confidently present your work, and ensure people are aware of who you are, the impactful things you're working on, and your accomplishments. This could involve consistently marketing your work! It's perfectly fine to let your personality shine through – I always look forward to Warren's weekly meme post, and if even one person in the team gets a laugh from my regular Teams background rotations, it's worthwhile. These small personal touches help endear people to you, make you memorable, and significantly build team spirit.
 
   ___
-  We hope you found this interview with Adam Hollings inspiring. 
+  We hope you found this interview with Adam Hollings inspiring. His journey shows the diverse paths you can take to become a Data Scientist in the NHS.
   
-  For more information about the NHS England Data Science Profession, please visit our [website](https://nhsengland.github.io/datascience/). Here you can also find our previous ‘Interview with a Data Scientist’ installments.
+  For more information about the NHS England Data Science Profession, please visit our [website](https://nhsengland.github.io/datascience/). Here you can also find our previous ‘Interview with a Data Scientist’ with Sarah Culkin, [Blowing the Trumpet for Data Science](https://nhsengland.github.io/datascience/articles/2025/04/16/interview_with_sarah_culkin/).
 
 
 </details> 
