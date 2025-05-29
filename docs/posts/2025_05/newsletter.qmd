@@ -82,7 +82,7 @@ This week our interviewee is Adam Hollings, a Principal Data Scientist in the Da
   ___
   We hope you found this interview with Adam Hollings inspiring. His journey shows the diverse paths you can take to become a Data Scientist in the NHS.
   
-  For more information about the NHS England Data Science Profession, please visit our [website](https://nhsengland.github.io/datascience/). Here you can also find our previous ‘Interview with a Data Scientist’ with Sarah Culkin, [Blowing the Trumpet for Data Science](https://nhsengland.github.io/datascience/articles/2025/04/16/interview_with_sarah_culkin/).
+  For more information about the NHS England Data Science Profession, please visit our [website](https://nhsengland.github.io/datascience/). Here you can also find our previous ‘Interview with a Data Scientist’ with Sarah Culkin, [Blowing the Trumpet for Data Science](https://nhsengland.github.io/datascience/articles/2025/04/30/interview_with_sarah_culkin/).
 
 
 </details> 
