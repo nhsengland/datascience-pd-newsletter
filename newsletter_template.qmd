@@ -44,7 +44,7 @@ Lots of exciting things coming up! See the [full calendar here](https://future.n
 
 
 ### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,*
+**DATE, TIME, LOCATION,**
 
 A SHORT DESCRIPTION OF EVENT 
 

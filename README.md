@@ -16,12 +16,12 @@ Creating the next monthly newsletter? Here's how:
 - Open that branch up within GitHub codespaces
 - Create a new subfolder to contain the new newsletter: docs/posts/YYYY_MM
 - Copy and paste the index.css file into this folder (HTML rendering will not work otherwise- this is a workaround)
-- Copy and paste the newsletter_template.qmd file from the root folder, and rename to "newsletter.qmd"
+- Copy and paste the newsletter_template.qmd file into this folder (from the root folder), and rename to "newsletter.qmd"
 - Replace the necessary parts in the YAML at the top of the file with the information for this month (title, date, description, authors)
 - Replace the image address for the banner with the correct month
 - Check the newsletter renders as expected by following the instructions under [Developing](#developing)
 - Start editing the file to add in all the content you want, checking periodically it's rendering as expected.
-- You can also update the wordle at the end of the newsletter going to [Customer Wordle](https://mywordle.strivemath.com/). Remember to keep the word short (5 letters) and related!
+- You can also update the wordle at the end of the newsletter going to [Custom Wordle](https://mywordle.strivemath.com/). Remember to keep the word short (5 letters) and related!
 - When finished, create a PR for it to be reviewed and once approved and pushed, an action should kick off to render it so it can be shared.
 - The link in the "about" section should be updated with the latest newsletter. Use this link to share the newsletter.
 

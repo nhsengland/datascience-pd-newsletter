@@ -44,7 +44,7 @@ website:
 format:
   html:
     toc: true
-    toc-depth: 4
+    toc-depth: 2
     theme:
       light: [cosmo, _assets/style/theme.scss]
     code-copy: true
