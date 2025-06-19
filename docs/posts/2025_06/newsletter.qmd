@@ -27,26 +27,42 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Highlights
+# Interview_with_a_data_scientist_to_add
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+<details>
+  <summary>Read more...</summary>
 
-TEXT
+  ### How did you end up in data science at the NHS? What did you do before, and what really sparked your interest in this field?
+
+  ### Once you joined the NHS, what was that experience like? What different roles and teams have you been a part of, and how have they shaped your career?
+
+  ### What are you currently working on? Are there any projects that you're particularly excited about, or that you feel are making a real difference? What impact are you having?
+
+  ### If you could give someone just starting out in data science a few pieces of advice, what would they be? And what resources have you found particularly helpful along the way that you can share?
+
+  ___
+
+
+
+  For more information about the NHS England Data Science Profession, please visit our [website](https://nhsengland.github.io/datascience/){target='_blank'}. Here you can also find our previous ‘Interview with a Data Scientist’ with Adam Hollings, [Dimsum and datascience](https://nhsengland.github.io/datascience/articles/2025/06/12/interview_with_adam_hollings/){target='_blank'}.
+
+</details> 
+
 ___
 
 <div class="section-heading">
 # Analyst X Data Science Huddles reborn!
 </div>
 
-On the 17th of June 2025, the Data Science Community for Health and Care organised a talk on exploring associations in survey data with machine learning and tidymodels.  The session was really well attended with over 80 attendees at one point in the call!
+Recently, the Data Science Community for Health and Care organised a talk on exploring associations in survey data with machine learning and tidymodels. The talk compared using two different machine learning algorithms to explore the results of the General Practice Patient Survey,  a national publicly-available dataset.
 
-Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}. The recordings of previous talks are also stored here.
+Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles.
 
 ___
 
 <div class="section-heading">
-# Building the NHSRwaitinglist package: Analyst X DS Huddle
+# Analyst X DS Huddle: Building the NHSRwaitinglist package 
 </div>
 **22nd of July 2025, 14:00 - 15:00, Online**
 
