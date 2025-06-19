@@ -13,7 +13,7 @@ format:
       - right=20mm
 categories: ['newsletter', 'interview with a data scientist']
 description: 'The Data Science Community for Health and Care newsletter for May 2025'
-author: 'Elizabeth Kelly'
+author: 'Elizabeth Kelly, Adam Hollings'
 ---
 
 ![](../../images/banner_may.png)
