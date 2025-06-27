@@ -11,7 +11,7 @@ format:
       - bottom=10mm
       - left=20mm
       - right=20mm
-categories: ['newsletter', 'compentency']
+categories: ['newsletter', 'competency']
 description: 'The Data Science Community for Health and Care newsletter for MONTH YEAR'
 author: 'AUTHORS'
 ---

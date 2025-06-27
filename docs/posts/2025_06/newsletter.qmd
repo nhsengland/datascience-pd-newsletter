@@ -1,0 +1,168 @@
+---
+title: 'Data Science Community for Health and Care Newsletter June 2025'
+date: '2025-06-27'
+format:
+  html:
+    css: index.css
+  pdf:
+    toc: false
+    geometry: 
+      - top=10mm
+      - bottom=10mm
+      - left=20mm
+      - right=20mm
+categories: ['newsletter', 'interview with a data scientist']
+description: 'The Data Science Community for Health and Care newsletter for June 2025'
+author: 'Elizabeth Kelly, Amaia Imaz Blanco'
+---
+
+![](../../images/banner_june.png)
+
+Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
+
+The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
+
+If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
+
+Thanks for reading! – newsletter team 
+
+<div class="section-heading">
+# Interview with a Data Scientist - The Data Scientist Who Just Wanted to Make Plots
+</div>
+Welcome to another insightful installment of our "Interview with a Data Scientist" series. Here, we delve into the diverse career paths and impactful work of the talented individuals who make up the NHS England Data Science team. Our goal is to shine a light on the fantastic people driving the NHS Data Science Profession forward and to offer valuable perspectives for anyone considering a career in healthcare data science.
+
+This week our interviewee is Amaia Imaz Blanco, a Data Scientist in the Data Science Team whose love of making graphs led her to the NHS Digital Graduate Scheme and eventually into probabilistic data linkage!
+<details>
+  <summary>Read more...</summary>
+  
+  ### How did you end up in data science at the NHS? What did you do before, and what really sparked your interest in this field?
+  I wouldn’t say I had a grand plan to get into data science — but looking back, it probably isn’t a huge surprise. When I was asked what I wanted to be at age 11, I said “a maths teacher,” which felt a bit out of step with the dreams of astronauts and footballers around me. That early love for numbers truly set the stage for my academic and professional life.
+
+  Fast forward to being 16, and I stumbled upon the existence of an Astrophysics degree. From that moment, that became the goal. I've always loved to describe astrophysics as "just maths with pretty pictures," and honestly, what's not to love about that combination? In 2018, fresh out of school, I embarked on a Physics, Astrophysics, and Cosmology MPhys at Lancaster University. My Masters project involved a deep dive into a dataset of 40,000 galaxies, performing extensive classification and statistical analysis. However, my very first taste of what I now recognise as data science techniques came during an internship at The University of Cambridge's Institute of Astronomy. There, I used Markov-Chain Monte Carlo modelling to understand the shapes and densities of debris and dust around exoplanets, which even led to [this published paper](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.6150I/abstract){target='_blank'}.
+
+  Nearing the end of my university studies, a significant realisation dawned on me: despite my enthusiasm for my degree and for astrophysics as a whole, I just wanted to contribute to something that had a tangible impact in the "real world." So, I dove into the job market, applying to almost every role that claimed to welcome physics graduates, though with limited success. It was during a moment of frustration that my mum suggested: "Amaia, you love understanding complicated topics through reading and making graphs, why don't you look for jobs where you can do that?"
+
+  That simple question was a revelation. It completely shifted my perspective, and I began searching for data-focused roles. That's how I discovered the NHS Digital graduate scheme. It felt like the perfect alignment – an opportunity to explore a data career within a broader technical scheme, which meant I wasn't locked into a single path. Crucially, it offered the chance to make a real difference for real people, within an organisation I deeply believe in.
+
+  ### Once you joined the NHS, what was that experience like? What different roles and teams have you been a part of, and how have they shaped your career?
+
+  I've now been with the NHS for nearly three years, beginning my journey at NHS Digital before its merger with NHS England. Over half of this time has been dedicated to data science roles. My initial placement at NHS Digital was within an analytics team in the Secondary Care area, where I primarily worked with [Patient Reported Outcome Measures (PROMs)](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/patient-reported-outcome-measures-proms){target='_blank'} data.
+
+  For my second placement, I decided to venture into something completely different, joining the Run & Maintain team in the NHS App as a software developer. It quickly became clear that this wasn't my forte; I wasn't very good at it, nor did I truly enjoy it. After spending a year at the NHS, observing my fellow grad, Will, creating "cool plots" for the [CVD Pathways project](https://nhsengland.github.io/datascience/our_work/cvd_pathways/){target='_blank'}, I decided that the team that he was in might be a good match. For my final placement, I decided to join the Data Science Team myself. I've since successfully graduated from the grad scheme and am now a permanent member of the Data Science and Applied AI Team. 
+
+  ### What are you currently working on? Are there any projects that you're particularly excited about, or that you feel are making a real difference? What impact are you having?
+
+  Currently, I'm deeply involved with the Data Linkage Hub, specifically focusing on the [probabilistic data linkage pipeline](https://nhsengland.github.io/datascience/our_work/data-linkage-hub/linkage-projects/better-matching/){target='_blank'}. This project utilises a probabilistic model designed to accurately identify records belonging to the same patient, using their demographic information. The reason this project excites me so much is its foundational importance to almost all data work within our organisation. We handle immense volumes of data, and without the ability to reliably link records to individual patients, combining datasets to understand patient pathways would be fundamentally impossible. Accurate data linkage underpins the precision of our publications, the robustness of research studies, and ultimately, the efficacy of direct patient care. This is why I've been dedicated to this project since joining the team, and why I continue to be enthusiastic about its impact.
+
+  I also lead our Marketing & Comms function team, where we focus on making sure people know about the work we’re doing, the impact it’s having, and the wide range of skills across the team. It’s a part of the role I really enjoy: I get to shout about work I genuinely believe in. You can get a flavour of it from the data science website I help run [here](https://nhsengland.github.io/datascience/){target='_blank'}.
+
+  ### If you could give someone just starting out in data science a few pieces of advice, what would they be? And what resources have you found particularly helpful along the way that you can share?
+
+  I believe that, more so now than even a couple of years ago when I started, there's a strong temptation for people to apply AI and machine learning to every single problem. And as ironic as it might sound coming from someone whose job revolves around developing these products, one of the most invaluable skills I've got is the ability to critically assess a situation and determine when data science techniques are, in fact, not the optimal solution. Being able to think critically about the ethical implications and the practical usefulness – or lack thereof – of these products, in my opinion, makes me a more valuable team member and a more effective data scientist. Therefore, I would always advise anyone starting out to not just read about the benefits of certain techniques, but to dedicate significant time to understanding their pitfalls and limitations first.
+
+  My second piece of advice is that genuine enthusiasm and enjoyment in your work are the most powerful ways to succeed. Don't pursue data science simply because it's a popular or trendy field with growing job opportunities. Instead, figure out what truly brings you joy, be it coding, maths, creating visualisations, or anything else, and then explore how that passion aligns with the role of a data scientist. By doing so, you'll naturally gravitate towards a niche within the vast landscape of data science, which in turn will make you a more attractive and unique candidate in the job market.
+
+  ___
+
+  We hope you found this interview with Amaia Imaz Blanco inspiring. Her journey shows how following your enthusiasm and passions can lead you to doing work you love. You can also view our previous ‘Interview with a Data Scientist’ with Adam Hollings, [Dim Sum and Data Science](https://nhsengland.github.io/datascience/articles/2025/06/12/interview_with_adam_hollings/){target='_blank'}, on the [NHS England Data Science Website](https://nhsengland.github.io/datascience/){target='_blank'}.
+
+</details> 
+
+___
+
+<div class="section-heading">
+# Analyst X Data Science Huddles reborn!
+</div>
+
+Recently, the Data Science Community for Health and Care organised a talk on exploring associations in survey data with machine learning and tidymodels. The talk compared using two different machine learning algorithms to explore the results of the General Practice Patient Survey,  a national publicly-available dataset.
+
+Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles.
+
+___
+
+<div class="section-heading">
+# Analyst X DS Huddle: Building the NHSRwaitinglist package 
+</div>
+**22nd of July 2025, 14:00 - 15:00, Online**
+
+The Data Science Community for Health and Care have organised the next AnalystX Data Science Huddle for July! The talk will cover building the NHSRwaitinglist package. Have a read of the abstract below:
+
+Building R packages, or Python libraries, is a great way to share and disseminate your code. The process forces you to think about ‘productionising’ your code, the reproducibility of element, efficiency and the documentation of your code. Interaction with users of a package helps to identify issues, and open coding can encourage communities to fix these issues. This talk will share some of the principles of package building in R, including building functions, documenting functions, unit testing, use of GitHub and releasing a package to CRAN, the most well-known package repository. We will discuss the principles used in building the NHSRwaiting list package, a package to apply calculations and principles from queuing theory to NHS waiting list analysis. This package allows the calculation of target waiting times, understanding queue load, relief capacity required to meet target waiting times, and simple simulation of queues.
+
+We have added this event to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where you can find the calendar invite to access the event.
+
+If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"}  
+
+___
+
+<div class="section-heading">
+# Looking for an interesting read?
+</div>
+
+The Nature Journal has a paper on [A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation](https://www.nature.com/articles/s41746-025-01670-7){target="_blank"}. 
+
+The paper looks at how the fidelity between LLM outputs and ground truth information is vital to prevent miscommunication that could lead to compromise in patient safety, and proposes a framework to assess and evaluate these errors.
+
+___
+
+<div class="section-heading">
+# Events
+</div>
+Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
+
+
+### [ONS Bringing Data to Life Series: Population Statistics System webinar 2025](https://www.eventbrite.co.uk/e/population-statistics-system-webinar-2025-tickets-1335026342729?aff=ebdsoporgprofile&_gl=1*z35uuu*_up*MQ..*_ga*OTQ0Mzg3ODEuMTc1MDM0MTEyOQ..*_ga_TQVES5V6SH*czE3NTAzNDExMjkkbzEkZzAkdDE3NTAzNDExMjkkajYwJGwwJGgw){target="_blank"}
+**Tuesday 8th July, 11:00 - 12:00, Online**
+
+This latest webinar in the series - 'The Population in Numbers - what's changing?' is an opportunity to hear about the newest developments and changes in demographic data and how your feedback has shaped our approaches. We aim to provide insights into the production of demographic statistics, as well as what we will publish for mid-2024. As always, there will be a Q&A session with statisticians, and we hope you can join us. You can post your questions via [Slido](https://www.slido.com/){target="_blank"} ahead of the event using #7709.
+
+The MS Teams link to join the event will be sent to all registered attendees 24 hours before the event.
+
+If you have any questions about the event, please email: pop.info@ons.gov.uk.
+
+The session is free and a ticket is required.
+
+### [ONS Bringing Data to Life Series: Global journeys: estimating international migration](https://www.eventbrite.co.uk/e/global-journeys-estimating-international-migration-tickets-1335412357309?aff=ebdsoporgprofile&_gl=1*7ij2oc*_up*MQ..*_ga*OTQ0Mzg3ODEuMTc1MDM0MTEyOQ..*_ga_TQVES5V6SH*czE3NTAzNDExMjkkbzEkZzAkdDE3NTAzNDExMjkkajYwJGwwJGgw){target="_blank"}
+**Tuesday 22nd July, 16:00 - 17:00, Online**
+
+Migration figures are often in the headlines—but what do the numbers really show?
+
+In this next Bringing data to life webinar, we will explain how we estimate the number of people entering or leaving the UK, how people move between regions and devolved nations, and some of the reasons people move. Plus, we’ll explore the key terms, data sources, and what the stats do (or don’t) tell us about UK migration patterns.
+
+We’ll also be joined by a guest speaker to better understand how migration statistics can inform public policy and improve the lives of individuals and communities in the UK.
+
+Whether you’re curious about why people move, the nationalities of those moving in and out of the UK, or just want to know how we estimate the real numbers behind migration, this interactive webinar is for you—no prior knowledge required.
+
+The session is free and a ticket is required.
+
+### [Big Data LDN](https://www.bigdataldn.com/en-gb.html){target="_blank"}
+**Wednesday 24th - Thursday 25th September, All Day, London**
+
+Big Data LDN is the UK’s leading free to attend data, analytics and AI conference & exhibition.
+
+The two day event is a hub for the Data Community to learn and share best practice, build relationships and find the tools needed to develop an effective data-driven business.
+
+
+___
+
+See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
+
+Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+
+___
+
+Check out our collection of training resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=bwvoo){target="_blank"}
+
+
+
+<div style="text-align: center;">
+
+[Subscribe to the community](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+</div>
+
