@@ -1,83 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_11/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.654Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_01/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.638Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_10/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.654Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_08/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.648Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_05/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.669Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_02/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.667Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_04/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.640Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_03/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.639Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_06/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.642Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/index.html</loc>
-    <lastmod>2025-05-29T09:57:48.638Z</lastmod>
-  </url>
-  <url>
     <loc>https://nhsengland.github.io/datascience-pd-newsletter/about.html</loc>
-    <lastmod>2025-05-29T09:57:48.634Z</lastmod>
+    <lastmod>2025-06-27T10:24:29.714Z</lastmod>
   </url>
   <url>
     <loc>https://nhsengland.github.io/datascience-pd-newsletter/archive.html</loc>
-    <lastmod>2025-05-29T09:57:48.634Z</lastmod>
+    <lastmod>2025-06-27T10:24:29.714Z</lastmod>
   </url>
   <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_01/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.667Z</lastmod>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_11/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.734Z</lastmod>
   </url>
   <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_03/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.668Z</lastmod>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_08/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.728Z</lastmod>
   </url>
   <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_09/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.653Z</lastmod>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_02/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.747Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_10/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.734Z</lastmod>
   </url>
   <url>
     <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_12/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.666Z</lastmod>
+    <lastmod>2025-06-27T10:24:29.746Z</lastmod>
   </url>
   <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_07/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.643Z</lastmod>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_03/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.748Z</lastmod>
   </url>
   <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_04/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.668Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_02/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.639Z</lastmod>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_03/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.719Z</lastmod>
   </url>
   <url>
     <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_05/newsletter.html</loc>
-    <lastmod>2025-05-29T09:57:48.641Z</lastmod>
+    <lastmod>2025-06-27T10:24:29.722Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_04/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.748Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_06/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.750Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_07/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.723Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_09/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.733Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_01/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.718Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_04/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.720Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_01/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.747Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_02/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.719Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_06/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.722Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_05/newsletter.html</loc>
+    <lastmod>2025-06-27T10:24:29.749Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nhsengland.github.io/datascience-pd-newsletter/index.html</loc>
+    <lastmod>2025-06-27T10:24:29.718Z</lastmod>
   </url>
 </urlset>
