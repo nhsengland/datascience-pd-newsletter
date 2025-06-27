@@ -1,6 +1,6 @@
 ---
 title: 'Data Science Community for Health and Care Newsletter June 2025'
-date: '2025-06-26'
+date: '2025-06-27'
 format:
   html:
     css: index.css
@@ -87,7 +87,7 @@ ___
 
 The Data Science Community for Health and Care have organised the next AnalystX Data Science Huddle for July! The talk will cover building the NHSRwaitinglist package. Have a read of the abstract below:
 
-Building R packages, or Python libraries, is a great way to share and disseminate your code. The process forces you to think about the ‘productionising’ your code, the reproducibility of element, efficiency and the documentation of your code. Interaction with users of a package helps to identify issues, and open coding can encourage communities to fix these issues. This talk will share some of the principles of package building in R, including building functions, documenting functions, unit testing, use of GitHub and releasing a package to CRAN, the most well-known package repository. We will discuss the principles used in building the NHSRwaiting list package, a package to apply calculations and principles from queuing theory to NHS waiting list analysis. This package allows the calculation of target waiting times, understanding queue load, relief capacity required to meet target waiting times, and simple simulation of queues.
+Building R packages, or Python libraries, is a great way to share and disseminate your code. The process forces you to think about ‘productionising’ your code, the reproducibility of element, efficiency and the documentation of your code. Interaction with users of a package helps to identify issues, and open coding can encourage communities to fix these issues. This talk will share some of the principles of package building in R, including building functions, documenting functions, unit testing, use of GitHub and releasing a package to CRAN, the most well-known package repository. We will discuss the principles used in building the NHSRwaiting list package, a package to apply calculations and principles from queuing theory to NHS waiting list analysis. This package allows the calculation of target waiting times, understanding queue load, relief capacity required to meet target waiting times, and simple simulation of queues.
 
 We have added this event to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where you can find the calendar invite to access the event.
 
@@ -110,12 +110,6 @@ ___
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
-
-
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,**
-
-A SHORT DESCRIPTION OF EVENT 
 
 ### [ONS Bringing Data to Life Series: Population Statistics System webinar 2025](https://www.eventbrite.co.uk/e/population-statistics-system-webinar-2025-tickets-1335026342729?aff=ebdsoporgprofile&_gl=1*z35uuu*_up*MQ..*_ga*OTQ0Mzg3ODEuMTc1MDM0MTEyOQ..*_ga_TQVES5V6SH*czE3NTAzNDExMjkkbzEkZzAkdDE3NTAzNDExMjkkajYwJGwwJGgw){target="_blank"}
 **Tuesday 8th July, 11:00 - 12:00, Online**
@@ -154,15 +148,6 @@ ___
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
-
-___
-
-
-<div class="section-heading">
-# Training Opportunities
-</div>
-
-TEXT
 
 ___
 
