@@ -1,0 +1,144 @@
+---
+title: 'Data Science Community for Health and Care Newsletter July 2025'
+date: '2025-07-30'
+format:
+  html:
+    css: index.css
+  pdf:
+    toc: false
+    geometry: 
+      - top=10mm
+      - bottom=10mm
+      - left=20mm
+      - right=20mm
+categories: ['newsletter', 'interview with a data scientist']
+description: 'The Data Science Community for Health and Care newsletter for July 2025'
+author: 'Elizabeth Kelly, '
+---
+
+![](../../images/banner_july.png)
+
+Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
+
+The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
+
+If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
+
+Thanks for reading! – newsletter team 
+
+<div class="section-heading">
+# Interview with a Data Scientist - TO DOOOO
+</div>
+Welcome to another insightful installment of our "Interview with a Data Scientist" series. Here, we delve into the diverse career paths and impactful work of the talented individuals who make up the NHS England Data Science team. Our goal is to shine a light on the fantastic people driving the NHS Data Science Profession forward and to offer valuable perspectives for anyone considering a career in healthcare data science.
+
+<details>
+  <summary>Read more...</summary>
+
+  ### How did you end up in data science at the NHS? What did you do before, and what really sparked your interest in this field?
+
+  asd  
+
+  ### Once you joined the NHS, what was that experience like? What different roles and teams have you been a part of, and how have they shaped your career?
+
+  asd
+
+  ### What are you currently working on? Are there any projects that you're particularly excited about, or that you feel are making a real difference? What impact are you having?
+
+  asd
+
+  ### If you could give someone just starting out in data science a few pieces of advice, what would they be? And what resources have you found particularly helpful along the way that you can share?
+
+  asd
+
+  ___
+
+  You can also view our previous ‘Interview with a Data Scientist’ with Amaia Imaz Blanco, [The Data Scientist Who Just Wanted to Make Plots](https://nhsengland.github.io/datascience/articles/2025/07/03/interview_with_aib/){target='_blank'}, on the [NHS England Data Science Website](https://nhsengland.github.io/datascience/){target='_blank'}.
+
+</details> 
+___
+
+<div class="section-heading">
+# July Analyst X Data Science Huddle
+</div>
+
+Recently, the Data Science Community for Health and Care organised a talk discussing the principles used in building the NHSRwaitinglist package, a package to apply calculations and principles from queuing theory to NHS waiting list analysis.
+
+Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles.
+
+
+___
+
+<div class="section-heading">
+# Analyst X DS Huddle: Dual Project Showcase 
+</div>
+**23rd of September 2025, 14:00 - 15:00, Online**
+
+The Data Science Community for Health and Care have organised the next AnalystX Data Science Huddle for September! The session will include two talks: Simulation Modelling of Non-Elective Patient Flow, and Probabilistic Linkage Pipeline Improving Linkage Quality and Explainability in Healthcare. 
+
+<u>Abstract: Simulation Modelling of Non-Elective Patient Flow</u>
+
+Poor admitted non-elective patient flow is a major issue for many acute trusts. Discrete Event Simulation (DES) is a useful tool for modelling patient pathways. This project used DES to model patient flow for non-elective admissions. The model was used to investigate how reductions in inpatient length of stay, non-criteria to reside, additional escalation beds and fluctuations in demand impact waits for admission in ED. The model allows testing of ad hoc scenarios, via a user-friendly streamlit app, and has also been used to provide evidence-based targets for inpatient length of stay and informed discussions about relevant flow metrics. In this talk I'll discuss the model, how it works and some of the insights from the project and happy to answer any questions or receive any suggestions you may have!
+
+<u>Abstract: Probabilistic Linkage Pipeline Improving Linkage Quality and Explainability in Healthcare</u>
+
+The current methods used for data linkage or indexing in the healthcare industry follow deterministic algorithms that are not transparent to the end users and with often sub-optimal outcomes. Our work focuses on building and implementing a probabilistic algorithm that improves quality as well as explainability of the linkage. In this project we have used Splink, a UK Ministry of Justice probabilistic linkage Python package, to build a pipeline that links any health data set to the Personal Demographics Service (PDS), a dataset containing information about all patients registered to a GP in England, which acts as our linkage “spine”.
+
+
+We have added this event to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where you can find the calendar invite to access the event.
+
+If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"}  
+
+___
+
+<div class="section-heading">
+# Events
+</div>
+Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
+
+
+
+### [EVENT TITLE](event link){target="_blank"}
+**DATE, TIME, LOCATION,**
+
+A SHORT DESCRIPTION OF EVENT 
+
+### [Big Data LDN](https://www.bigdataldn.com/en-gb.html){target="_blank"}
+**Wednesday 24th - Thursday 25th September, All Day, London**
+
+Big Data LDN is the UK’s leading free to attend data, analytics and AI conference & exhibition.
+
+The two day event is a hub for the Data Community to learn and share best practice, build relationships and find the tools needed to develop an effective data-driven business.
+
+
+___
+
+See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
+
+Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+
+___
+
+
+<div class="section-heading">
+# The Operational Research Society have a new Data Science section
+</div>
+
+The Operational Research (OR) Society have a new Data Science section called [Data Science Connects](https://www.datascienceconnects.com/){target="_blank"}. This is a commnuity of the OR Society and has tailored resources and training in the data science field. 
+
+___
+
+Check out our collection of training resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=afirc){target="_blank"}
+
+
+
+<div style="text-align: center;">
+
+[Subscribe to the community](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+</div>
+
