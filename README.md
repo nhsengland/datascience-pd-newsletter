@@ -25,6 +25,9 @@ Creating the next monthly newsletter? Here's how:
 - When finished, create a PR for it to be reviewed and once approved and pushed, an action should kick off to render it so it can be shared.
 - The link in the "about" section should be updated with the latest newsletter. Use this link to share the newsletter.
 
+## Distributing the newsletter
+See the [Data Science Confluence page](https://nhsd-confluence.digital.nhs.uk/spaces/DAT/pages/565791242/DS+PD+Newsletter+and+event+calendar) for details of how and where to share the newsletter.  
+
 ### Built With
 
 - [Quarto](https://quarto.org/)
