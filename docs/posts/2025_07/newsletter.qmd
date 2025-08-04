@@ -1,0 +1,176 @@
+---
+title: 'Data Science Community for Health and Care Newsletter July 2025'
+date: '2025-08-04'
+format:
+  html:
+    css: index.css
+  pdf:
+    toc: false
+    geometry: 
+      - top=10mm
+      - bottom=10mm
+      - left=20mm
+      - right=20mm
+categories: ['newsletter', 'interview with a data scientist']
+description: 'The Data Science Community for Health and Care newsletter for July 2025'
+author: 'Elizabeth Kelly, Mobolu Olowoyeye'
+---
+
+![](../../images/banner_july.png)
+
+Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
+
+The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
+
+If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
+
+Thanks for reading! – newsletter team 
+
+<div class="section-heading">
+# Interview with a Data Scientist - The Data Science Intern Making an Impact
+</div>
+Welcome to another insightful installment of our "Interview with a Data Scientist" series. Here, we delve into the diverse career paths and impactful work of the talented individuals who make up the NHS England Data Science team. Our goal is to shine a light on the fantastic people driving the NHS Data Science Profession forward and to offer valuable perspectives for anyone considering a career in healthcare data science.
+
+This week our interviewee is Mobolu Olowoyeye, a Data Scientist intern that joined the Data Science Team for eight weeks. Mobolu has a keen interest in AI ethics and has been involved in various projects that explore the intersection of technology and public good.
+
+<details>
+  <summary>Read more...</summary>
+
+  ### How did you end up in data science at the NHS? What did you do before, and what really sparked your interest in this field?
+
+  **Using technology to drive positive change? There’s no place I’d rather be!**
+
+  Making a real-world impact with technology has always been a key motivation for me, so when I saw how data science could make a difference in healthcare at the NHS, I was all in!
+
+  I’ve just finished my first year of university and decided to spend my summer exploring possible career paths. I’m currently studying Artificial Intelligence at King’s College London. Yes, AI is officially a degree now; Crazy, right?
+
+  I’ve always loved mathematics and computer science, but I specifically chose to study AI because of its multidisciplinary nature and my passion for AI Ethics. I became intrigued by AI ethics and understanding technology's impact on society after watching the documentary 'Coded Bias,' which explored algorithmic bias in facial recognition technology. As an aspiring black woman in tech, seeing the impact of bias on people who look like me opened my eyes to a worrying reality. This inspired me to create an academic research poster on the topic, which I had the wonderful opportunity to present at the House of Lords!
+
+  My journey into data science began the summer after my GCSEs, with a four-week internship at QBE Insurance. I discovered I really enjoyed working with big data, and the following year, I had the chance to work at Circana, a big data and analytics company. I also gained a behind-the-scenes look at how tech companies use data to make decisions during my time as a data science mentee at Deliveroo.
+
+  I also dipped into quantitative finance, gaining software engineering experience at G-Research and spending time at PDT Partners, a quantitative investment firm. While I found these experiences incredibly interesting, I realised I’m more drawn to data science with a social or public impact—not just numbers, but outcomes that improve people’s lives.
+
+  That’s where the NHS came in. I’ve always been passionate about using technology as a force for good, and data science in healthcare feels like exactly that. Whether it’s tackling health inequalities, improving patient outcomes, or making systems run more efficiently, its impact is real and visible.
+
+  Alongside this internship, I’ve been an undergraduate research fellow at King’s, focusing on the ethical implications of AI in insurance law. I was also selected as one of 200 students for a BAME mentorship programme, where I was mentored by a PhD researcher working on ethics in language models.
+
+  So, between the technical side, the public good aspect, and my passion for ethical, responsible tech, data science in the NHS just made sense. Long-term, I’d love to work in AI policy or as a data ethicist, helping shape how technology is used fairly and safely across society. I’m also hoping to do a placement year in industry during my third year of university.
+
+  ### What are you currently working on? Are there any projects that you're particularly excited about, or that you feel are making a real difference? What impact are you having?
+
+  I’ve been interning with the Data Science and Applied AI team for the past eight weeks. During this time, I’ve had the opportunity to learn, lead, and contribute in ways that have truly shaped my understanding of data science and AI in healthcare.
+
+  One of my most insightful experiences was speaking with front-line workers. I went to Epsom Hospital to talk with GPs about AI tools like Ambient Voice Technology and ran a small focus group to explore how AI impacts their daily work.
+
+  My main project has been the Synthetic Clinical Notes Project, where we create synthetic patient data to train an AI model for automating discharge summaries. When I joined, the dataset primarily used White British names and ethnicities. As someone from an ethnic minority with a culturally distinctive name, I recognised the risk of bias this could create. To address this, I’ve spent the last few weeks diversifying the naming data, researching names from a wide range of ethnic groups based on NHS staff survey statistics. By helping create a more representative dataset, I’ve contributed to making the project more ethically robust and ensuring it serves the public interest. I also helped update the style instructions for the clinicians who write these notes.
+
+  Alongside my project work, I’ve been completing the Edward Jenner Leadership Programme, spoke on AI ethics at a GOSH training session, developed my Python skills through the Federated Data Platform pipeline, and contributed to discussions around data hazard labels. These experiences have all deepened my commitment to building responsible and impactful technology.
+
+  ### If you could give someone just starting out in data science a few pieces of advice, what would they be? And what resources have you found particularly helpful along the way that you can share?
+
+  My biggest piece of advice to an incoming data science intern would be to be inquisitive!  Don’t hesitate to ask questions or ask for clarification. Many terms, concepts or abbreviations will probably be new to you and you don’t want to be left confused or behind in meetings or on your day-to-day.
+
+  Whilst you are here to learn and gain experience; you can also offer fresh and valuable perspectives too! Don’t be afraid to contribute and share your knowledge, opinions and ideas.
+
+  Stay open minded, don’t limit yourself to one particular career path or area of the team. Most people’s career paths aren’t linear so be open to trying new things and developing new skillsets. So, say yes to opportunities!
+
+  “Yes” has become one of my favourite words and has definitely opened more doors for me than I could have ever imagined. That being said, it’s important to know when to say no, and what meetings or experiences aren’t beneficial to you. Say yes to opportunities but don’t overwhelm yourself - it’s all about finding balance!
+
+  Take initiative, stay busy, ask for things to do. Strive for excellence in all you do - you want people to remember you for what you’ve done and the fact that you’ve done it well. I’d advise you to set goals for yourself to give yourself direction and so that you know what you’re working towards and have clarity on what you want to achieve before the end of your internship!
+
+  ___
+
+  We hope you found this interview with Mobolu Olowoyeye interesting. Her journey demonstrates how a passion for ethical technology and a drive to make a positive impact is building the foundations for a meaningful career, providing an example on how to combine technical skills with a commitment to public good.
+
+  If you are interested in learning more about the Data Scientist working in Healthcare, you can read our previous 'Interview with a Data Scientist' with Amaia Imaz Blanco, [The Data Scientist Who Just Wanted to Make Plots](https://nhsengland.github.io/datascience/articles/2025/07/03/interview_with_aib/){target='_blank'}, on the [NHS England Data Science Website](https://nhsengland.github.io/datascience/){target='_blank'}.
+
+</details> 
+___
+
+<div class="section-heading">
+# July Analyst X Data Science Huddle
+</div>
+
+Recently, the Data Science Community for Health and Care organised a talk discussing the principles used in building the NHSRwaitinglist package, a package to apply calculations and principles from queuing theory to NHS waiting list analysis.
+
+Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles.
+
+
+___
+
+<div class="section-heading">
+# Analyst X DS Huddle: Dual Project Showcase 
+</div>
+**23rd of September 2025, 14:00 - 15:00, Online**
+
+The Data Science Community for Health and Care have organised the next AnalystX Data Science Huddle for September! The session will include two talks: Simulation Modelling of Non-Elective Patient Flow, and Probabilistic Linkage Pipeline Improving Linkage Quality and Explainability in Healthcare. 
+
+<u>Abstract: Simulation Modelling of Non-Elective Patient Flow</u>
+
+Poor admitted non-elective patient flow is a major issue for many acute trusts. Discrete Event Simulation (DES) is a useful tool for modelling patient pathways. This project used DES to model patient flow for non-elective admissions. The model was used to investigate how reductions in inpatient length of stay, non-criteria to reside, additional escalation beds and fluctuations in demand impact waits for admission in ED. The model allows testing of ad hoc scenarios, via a user-friendly streamlit app, and has also been used to provide evidence-based targets for inpatient length of stay and informed discussions about relevant flow metrics. In this talk I'll discuss the model, how it works and some of the insights from the project and happy to answer any questions or receive any suggestions you may have!
+
+<u>Abstract: Probabilistic Linkage Pipeline Improving Linkage Quality and Explainability in Healthcare</u>
+
+The current methods used for data linkage or indexing in the healthcare industry follow deterministic algorithms that are not transparent to the end users and with often sub-optimal outcomes. Our work focuses on building and implementing a probabilistic algorithm that improves quality as well as explainability of the linkage. In this project we have used Splink, a UK Ministry of Justice probabilistic linkage Python package, to build a pipeline that links any health data set to the Personal Demographics Service (PDS), a dataset containing information about all patients registered to a GP in England, which acts as our linkage “spine”.
+
+
+We have added this event to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where you can find the calendar invite to access the event.
+
+If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"}  
+
+___
+
+<div class="section-heading">
+# Events
+</div>
+Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
+
+### [AI and Defence for Maritime: Breakfast Briefing](https://www.turing.ac.uk/events/ai-and-defence-maritime-breakfast-briefing){target="_blank"}
+**Wenesday 17th September, 09:30 - 11:30, IET London: 2 Savoy Place, London,**
+
+The Alan Turing Institute’s Sustainability Mission is hosting a cross-cutting event with the aim to bring together a range of individuals across industry, government, and academia to discuss Artificial Intelligence (AI) in maritime.  The focus of this event will be to break down silos, and foster communication across a diverse group of people (regulators, insurers, developers, users), and throughout the AI lifecycle. We will explore the current state of AI in relation to defence across the maritime sector.
+
+If you would like to learn more about how AI can be used within the Maritime sector for defence, and how attackers can use AI against maritime technology, come along to hear from experts in the field and network with likeminded individuals over some breakfast!
+
+This is a free workshop event and requires you to register your interest.
+
+### [Big Data LDN](https://www.bigdataldn.com/en-gb.html){target="_blank"}
+**Wednesday 24th - Thursday 25th September, All Day, London**
+
+Big Data LDN is the UK’s leading free to attend data, analytics and AI conference & exhibition.
+
+The two day event is a hub for the Data Community to learn and share best practice, build relationships and find the tools needed to develop an effective data-driven business.
+
+
+___
+
+See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
+
+Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+
+___
+
+
+<div class="section-heading">
+# The Operational Research Society have a new Data Science section
+</div>
+
+The Operational Research (OR) Society have a new Data Science section called [Data Science Connects](https://www.datascienceconnects.com/){target="_blank"}. This is a commnuity of the OR Society and has tailored resources and training in the data science field. 
+
+___
+
+Check out our collection of training resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=afirc){target="_blank"}
+
+
+
+<div style="text-align: center;">
+
+[Subscribe to the community](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+</div>
+
