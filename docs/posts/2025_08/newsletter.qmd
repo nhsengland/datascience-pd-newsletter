@@ -1,0 +1,124 @@
+---
+title: 'Data Science Community for Health and Care Newsletter August 2025'
+date: '2025-08-29'
+format:
+  html:
+    css: index.css
+  pdf:
+    toc: false
+    geometry: 
+      - top=10mm
+      - bottom=10mm
+      - left=20mm
+      - right=20mm
+categories: ['newsletter']
+description: 'The Data Science Community for Health and Care newsletter for August 2025'
+author: 'Elizabeth Kelly'
+---
+
+![](../../images/banner_august.png)
+
+Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
+
+The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
+
+If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
+
+Thanks for reading! – newsletter team 
+
+<div class="section-heading">
+# Highlights
+</div>
+
+#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+
+TEXT
+___
+
+<div class="section-heading">
+# Analyst X DS Huddle: Dual Project Showcase 
+</div>
+**23rd of September 2025, 14:00 - 15:00, Online**
+
+The Data Science Community for Health and Care have organised the next AnalystX Data Science Huddle for September! The session will include two talks: Simulation Modelling of Non-Elective Patient Flow, and Probabilistic Linkage Pipeline Improving Linkage Quality and Explainability in Healthcare. 
+
+<u>Abstract: Simulation Modelling of Non-Elective Patient Flow</u>
+
+Poor admitted non-elective patient flow is a major issue for many acute trusts. Discrete Event Simulation (DES) is a useful tool for modelling patient pathways. This project used DES to model patient flow for non-elective admissions. The model was used to investigate how reductions in inpatient length of stay, non-criteria to reside, additional escalation beds and fluctuations in demand impact waits for admission in ED. The model allows testing of ad hoc scenarios, via a user-friendly streamlit app, and has also been used to provide evidence-based targets for inpatient length of stay and informed discussions about relevant flow metrics. In this talk I'll discuss the model, how it works and some of the insights from the project and happy to answer any questions or receive any suggestions you may have!
+
+<u>Abstract: Probabilistic Linkage Pipeline Improving Linkage Quality and Explainability in Healthcare</u>
+
+The current methods used for data linkage or indexing in the healthcare industry follow deterministic algorithms that are not transparent to the end users and with often sub-optimal outcomes. Our work focuses on building and implementing a probabilistic algorithm that improves quality as well as explainability of the linkage. In this project we have used Splink, a UK Ministry of Justice probabilistic linkage Python package, to build a pipeline that links any health data set to the Personal Demographics Service (PDS), a dataset containing information about all patients registered to a GP in England, which acts as our linkage “spine”.
+
+
+We have added this event to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where you can find the calendar invite to access the event.
+
+If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"}  
+
+___
+
+<div class="section-heading">
+# Events
+</div>
+Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
+
+### [AI and Defence for Maritime: Breakfast Briefing](https://www.turing.ac.uk/events/ai-and-defence-maritime-breakfast-briefing){target="_blank"}
+**Wednesday 17th September, 09:30 - 11:30, IET London: 2 Savoy Place, London,**
+
+The Alan Turing Institute’s Sustainability Mission is hosting a cross-cutting event with the aim to bring together a range of individuals across industry, government, and academia to discuss Artificial Intelligence (AI) in maritime.  The focus of this event will be to break down silos, and foster communication across a diverse group of people (regulators, insurers, developers, users), and throughout the AI lifecycle. We will explore the current state of AI in relation to defence across the maritime sector.
+
+If you would like to learn more about how AI can be used within the Maritime sector for defence, and how attackers can use AI against maritime technology, come along to hear from experts in the field and network with likeminded individuals over some breakfast!
+
+This is a free workshop event and requires you to register your interest.
+
+### [Big Data LDN](https://www.bigdataldn.com/en-gb.html){target="_blank"}
+**Wednesday 24th - Thursday 25th September, All Day, London**
+
+Big Data LDN is the UK’s leading free to attend data, analytics and AI conference & exhibition.
+
+The two day event is a hub for the Data Community to learn and share best practice, build relationships and find the tools needed to develop an effective data-driven business.
+
+
+### [EVENT TITLE](event link){target="_blank"}
+**DATE, TIME, LOCATION,**
+
+A SHORT DESCRIPTION OF EVENT 
+
+___
+
+See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
+
+Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+
+<div class="section-heading">
+# Knowledge Sharing
+</div>
+
+TEXT
+
+___
+
+
+<div class="section-heading">
+# Training Opportunities
+</div>
+
+TEXT
+
+___
+
+Check out our collection of training resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](custom_wordle_link){target="_blank"}
+
+
+
+<div style="text-align: center;">
+
+[Subscribe to the community](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+</div>
+

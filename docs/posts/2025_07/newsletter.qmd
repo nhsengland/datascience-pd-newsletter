@@ -126,7 +126,7 @@ ___
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
 ### [AI and Defence for Maritime: Breakfast Briefing](https://www.turing.ac.uk/events/ai-and-defence-maritime-breakfast-briefing){target="_blank"}
-**Wenesday 17th September, 09:30 - 11:30, IET London: 2 Savoy Place, London,**
+**Wednesday 17th September, 09:30 - 11:30, IET London: 2 Savoy Place, London,**
 
 The Alan Turing Institute’s Sustainability Mission is hosting a cross-cutting event with the aim to bring together a range of individuals across industry, government, and academia to discuss Artificial Intelligence (AI) in maritime.  The focus of this event will be to break down silos, and foster communication across a diverse group of people (regulators, insurers, developers, users), and throughout the AI lifecycle. We will explore the current state of AI in relation to defence across the maritime sector.
 
