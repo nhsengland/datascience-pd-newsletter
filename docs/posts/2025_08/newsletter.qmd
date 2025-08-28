@@ -79,10 +79,15 @@ Big Data LDN is the UK’s leading free to attend data, analytics and AI confere
 The two day event is a hub for the Data Community to learn and share best practice, build relationships and find the tools needed to develop an effective data-driven business.
 
 
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,**
+### [Leeds Digital Festival](https://leedsdigitalfestival.org/){target="_blank"}
+**Monday 22nd September - Friday 3rd October, Multiple, Leeds**
 
-A SHORT DESCRIPTION OF EVENT 
+Immerse yourself in the Leeds digital community at the largest tech event in the North. Leeds Digital Festival is an open, collaborative celebration of digital culture in all its forms, so there’s something for everyone. The two-week-long open-platform returns with 200+ tech events to choose from, and it's the 10th anniversary! 
+
+Each event is free and requires you to book a place. 
+
+Here are some highlighted events:
+* dd
 
 ___
 
