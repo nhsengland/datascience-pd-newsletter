@@ -27,13 +27,21 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Highlights
+# The Health Service Modelling Associates (HSMA) Programme
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+The Health Service Modelling Associates (HSMA) Programme teaches public sector analysts, clinicians and managers how to use data science and operational research techniques, as well as supporting them to apply these techniques in their organisations.
 
-TEXT
+The full HSMA course experience is provided free of charge to people working in health, social care and policing organisations in England.
+
+The full HSMA experience is a live, 15-month programme with two distinct phases: a 6 month training phase where participants learn the Python programming language, and a 9 month project phase where participants are supported to produce their own project using the new skills they have learned.  
+
+Recently, two NHS England Data Scientists completed the HSMA course and have written a blog post about the course 
+
+**Interested in taking part?** [Sign up to their mailing list](https://hsma.co.uk/#:~:text=If%20you%20are%20interested%20in%20being%20kept%20up%20to%20date%20with%20our%20plans%20for%20the%20next%20round%20of%20HSMA%20via%20our%20mailing%20list%2C%20please%20drop%20us%20an%20email.){target="_blank"} to keep up to date with their plans for next years HSMA course.  
+
 ___
+
 
 <div class="section-heading">
 # Analyst X DS Huddle: Dual Project Showcase 
@@ -80,35 +88,39 @@ The two day event is a hub for the Data Community to learn and share best practi
 
 
 ### [Leeds Digital Festival](https://leedsdigitalfestival.org/){target="_blank"}
-**Monday 22nd September - Friday 3rd October, Multiple, Leeds**
+**Monday 22nd September - Friday 3rd October, Various times, Mix of Leeds and Online**
 
 Immerse yourself in the Leeds digital community at the largest tech event in the North. Leeds Digital Festival is an open, collaborative celebration of digital culture in all its forms, so there’s something for everyone. The two-week-long open-platform returns with 200+ tech events to choose from, and it's the 10th anniversary! 
 
 Each event is free and requires you to book a place. 
 
-Here are some highlighted events:
-* dd
+Below are some highlighted events but there are many more to choose from!
+
+[Tech Flix Screening: ‘Data’s Untold Story: The AI Energy Crisis’](https://leedsdigitalfestival.org/events/tech-flix-screening-datas-untold-story-the-ai-energy-crisis/){target="_blank"} *(organised by Harvey Nash)*   
+**Thursday 25th September, 18:00 - 20:30, Leeds University Business School, Leeds LS6 1AN**  
+We are delighted to invite you to an exclusive screening of our latest Tech Flix film, “Data’s Untold Story: The AI Energy Crisis”. Following the screening of the film, we will be hosting an expert panel to discuss how the tech industry might tackle digital waste, data inefficiency, and drive greener AI adoption.
+
+[The Art of Prompt Engineering: Get the most out of your LLM](https://leedsdigitalfestival.org/events/the-art-of-prompt-engineering-get-the-most-out-of-your-llm/){target="_blank"} *(organised by Hippo Digital)*  
+**Wednesday 24th September, 18:00 - 20:00, HippoCampus, The Brew Society, Leeds LS1 4HT**  
+With a blend of expert insight and practical hands-on workshops, Josh Healey (Principal Consultant at Hippo) will guide participants through what prompt engineering is, why it matters, and how it can empower individuals and teams across a range of industries and skill levels.  
+
+[The NHS Innovation Accelerator (NIA) Programme](https://leedsdigitalfestival.org/events/the-nhs-innovation-accelerator-nia-programme/){target="_blank"} *(organised by The Leeds Teaching Hospitals NHS Trust)*   
+**Thursday 25th September, 13:00 - 17:00, Thackray Mdeical Museum of Medicine, Leeds LS9 7LN**    
+Come along to this event to meet Fellows & Founders who are part of the 2025 cohort of the NHS Innovation Accelerator (NIA) Programme. Hear about projects already underway in the Leeds Teaching Hospitals NHS Trust, and hear new Founders pitch their innovations!
+
+[Digital Therapies & AI: Rethinking Mental Health Access in Practice](https://leedsdigitalfestival.org/events/digital-therapies-ai-rethinking-mental-health-access-in-practice/){target="_blank"} *(organised by NorthPoint)*  
+**Tuesday 30th September, 13:30 - 15:30, Northpoint, Leeds LS10 1LJ**  
+As pressure on mental health services continues to grow, how can digital therapies and AI tools be deployed meaningfully—not just efficiently—to support better access, better outcomes, and a better experience for service users? Join Northpoint, a leading VCSE mental health provider and our partners, for a practical and provocative conversation exploring real-world innovation in the field.  
+
+[Metric Store: The Future Backbone of Data Science, ML, and Intelligent Analytics](https://leedsdigitalfestival.org/events/metric-store-the-future-backbone-of-data-science-ml-and-intelligent-analytics/){target="_blank"} *(organised by Flutter)*  
+**Tuesday 30th September, 15:00 - 16:00, The Bleachers, Leeds LS1 4AP and Online)**  
+Flutter’s Data Science ML and Analytics Engineering team will be talking about building a Metric Store, a powerful internal platform that brings clarity, consistency, and innovation to Analytics Engineering. Designed to solve the biggest challenge in modern data: multiple versions of the truth. That is why we created a single, trusted source of metrics, accelerating experimentation, improving compliance, and unlocking data-driven decision-making across the business.  
 
 ___
 
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
-
-<div class="section-heading">
-# Knowledge Sharing
-</div>
-
-TEXT
-
-___
-
-
-<div class="section-heading">
-# Training Opportunities
-</div>
-
-TEXT
 
 ___
 
