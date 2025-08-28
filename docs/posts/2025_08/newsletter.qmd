@@ -115,6 +115,13 @@ As pressure on mental health services continues to grow, how can digital therapi
 **Tuesday 30th September, 15:00 - 16:00, The Bleachers, Leeds LS1 4AP and Online)**  
 Flutter’s Data Science ML and Analytics Engineering team will be talking about building a Metric Store, a powerful internal platform that brings clarity, consistency, and innovation to Analytics Engineering. Designed to solve the biggest challenge in modern data: multiple versions of the truth. That is why we created a single, trusted source of metrics, accelerating experimentation, improving compliance, and unlocking data-driven decision-making across the business.  
 
+### [AI in the NHS 2025](https://www.health.org.uk/events/ai-in-the-nhs-2025){target="_blank"}  
+**Tuesday 14th October, 14:00 - 17:15, Online**  
+With the opportunities for artificial intelligence in health care expanding and new technologies igniting political and media debate, the drive to understand how to effectively and responsibly implement AI in the NHS continues unabated.  
+
+At our 2025 event, we’ll hear international perspectives on how to capitalise on AI in healthcare and navigate the challenges of effectively implementing the technology. With the government’s NHS AI strategic roadmap due this autumn, we’ll consider what the UK can learn from these experiences.  
+
+Join stakeholders from across the NHS, government, tech industry, investors, academia and the charity sector who are leading the strategic direction, development and implementation of AI and technology in health care.  
 ___
 
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
