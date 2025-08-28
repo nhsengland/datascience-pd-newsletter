@@ -24,24 +24,7 @@ The newsletter team are always happy to receive constructive feedback, and we in
 
 If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
 
-Thanks for reading! – newsletter team 
-
-<div class="section-heading">
-# The Health Service Modelling Associates (HSMA) Programme
-</div>
-
-The Health Service Modelling Associates (HSMA) Programme teaches public sector analysts, clinicians and managers how to use data science and operational research techniques, as well as supporting them to apply these techniques in their organisations.
-
-The full HSMA course experience is provided free of charge to people working in health, social care and policing organisations in England.
-
-The full HSMA experience is a live, 15-month programme with two distinct phases: a 6 month training phase where participants learn the Python programming language, and a 9 month project phase where participants are supported to produce their own project using the new skills they have learned.  
-
-Recently, two NHS England Data Scientists completed the HSMA course and have written a blog post about the course 
-
-**Interested in taking part?** [Sign up to their mailing list](https://hsma.co.uk/#:~:text=If%20you%20are%20interested%20in%20being%20kept%20up%20to%20date%20with%20our%20plans%20for%20the%20next%20round%20of%20HSMA%20via%20our%20mailing%20list%2C%20please%20drop%20us%20an%20email.){target="_blank"} to keep up to date with their plans for next years HSMA course.  
-
-___
-
+Thanks for reading! – newsletter team
 
 <div class="section-heading">
 # Analyst X DS Huddle: Dual Project Showcase 
@@ -62,6 +45,22 @@ The current methods used for data linkage or indexing in the healthcare industry
 We have added this event to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where you can find the calendar invite to access the event.
 
 If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"}  
+
+___
+
+<div class="section-heading">
+# The Health Service Modelling Associates (HSMA) Programme
+</div>
+
+The [Health Service Modelling Associates (HSMA) Programme](https://hsma.co.uk/){target="_blank"} teaches public sector analysts, clinicians and managers how to use data science and operational research techniques, as well as supporting them to apply these techniques in their organisations.
+
+The full HSMA course experience is provided free of charge to people working in health, social care and policing organisations in England.
+
+The full HSMA experience is a live, 15-month programme with two distinct phases: a 6 month training phase where participants learn the Python programming language, and a 9 month project phase where participants are supported to produce their own project using the new skills they have learned.  
+
+Recently, two NHS England Data Scientists completed the HSMA course and have written a [blog post about the course](https://nhsengland.github.io/datascience/articles/2025/06/27/hsma-waiting-lists/){target="_blank"} and their [project](https://nhsengland.github.io/datascience/our_work/hsma-wlmds/){target="_blank"}. Have a read of the exciting things they got up to!  
+
+**Interested in taking part in the next cohort?** [Sign up to their mailing list](https://hsma.co.uk/#:~:text=If%20you%20are%20interested%20in%20being%20kept%20up%20to%20date%20with%20our%20plans%20for%20the%20next%20round%20of%20HSMA%20via%20our%20mailing%20list%2C%20please%20drop%20us%20an%20email.){target="_blank"} to keep up to date with their plans for next years HSMA course. They hope to launch HSMA 7 in mid 2026.    
 
 ___
 
