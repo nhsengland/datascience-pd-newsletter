@@ -1,0 +1,147 @@
+---
+title: 'Data Science Community for Health and Care Newsletter August 2025'
+date: '2025-08-29'
+format:
+  html:
+    css: index.css
+  pdf:
+    toc: false
+    geometry: 
+      - top=10mm
+      - bottom=10mm
+      - left=20mm
+      - right=20mm
+categories: ['newsletter']
+description: 'The Data Science Community for Health and Care newsletter for August 2025'
+author: 'Elizabeth Kelly'
+---
+
+![](../../images/banner_august.png)
+
+Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
+
+The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
+
+If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
+
+Thanks for reading! – newsletter team
+
+<div class="section-heading">
+# Analyst X DS Huddle: Dual Project Showcase 
+</div>
+**23rd of September 2025, 14:00 - 15:00, Online**
+
+The Data Science Community for Health and Care have organised the next AnalystX Data Science Huddle for September! The session will include two talks: Simulation Modelling of Non-Elective Patient Flow, and Probabilistic Linkage Pipeline Improving Linkage Quality and Explainability in Healthcare. 
+
+<u>Abstract: Simulation Modelling of Non-Elective Patient Flow</u>
+
+Poor admitted non-elective patient flow is a major issue for many acute trusts. Discrete Event Simulation (DES) is a useful tool for modelling patient pathways. This project used DES to model patient flow for non-elective admissions. The model was used to investigate how reductions in inpatient length of stay, non-criteria to reside, additional escalation beds and fluctuations in demand impact waits for admission in ED. The model allows testing of ad hoc scenarios, via a user-friendly streamlit app, and has also been used to provide evidence-based targets for inpatient length of stay and informed discussions about relevant flow metrics. In this talk I'll discuss the model, how it works and some of the insights from the project and happy to answer any questions or receive any suggestions you may have!
+
+<u>Abstract: Probabilistic Linkage Pipeline Improving Linkage Quality and Explainability in Healthcare</u>
+
+The current methods used for data linkage or indexing in the healthcare industry follow deterministic algorithms that are not transparent to the end users and with often sub-optimal outcomes. Our work focuses on building and implementing a probabilistic algorithm that improves quality as well as explainability of the linkage. In this project we have used Splink, a UK Ministry of Justice probabilistic linkage Python package, to build a pipeline that links any health data set to the Personal Demographics Service (PDS), a dataset containing information about all patients registered to a GP in England, which acts as our linkage “spine”.
+
+
+We have added this event to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where you can find the calendar invite to access the event.
+
+If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"}  
+
+___
+
+<div class="section-heading">
+# The Health Service Modelling Associates (HSMA) Programme
+</div>
+
+The [Health Service Modelling Associates (HSMA) Programme](https://hsma.co.uk/){target="_blank"} teaches public sector analysts, clinicians and managers how to use data science and operational research techniques, as well as supporting them to apply these techniques in their organisations.
+
+The full HSMA course experience is provided free of charge to people working in health, social care and policing organisations in England.
+
+The full HSMA experience is a live, 15-month programme with two distinct phases: a 6 month training phase where participants learn the Python programming language, and a 9 month project phase where participants are supported to produce their own project using the new skills they have learned.  
+
+Recently, two NHS England Data Scientists completed the HSMA course and have written a [blog post about the course](https://nhsengland.github.io/datascience/articles/2025/06/27/hsma-waiting-lists/){target="_blank"} and their [project](https://nhsengland.github.io/datascience/our_work/hsma-wlmds/){target="_blank"}. Have a read of the exciting things they got up to!  
+
+**Interested in taking part in the next cohort?** [Sign up to their mailing list](https://hsma.co.uk/#:~:text=If%20you%20are%20interested%20in%20being%20kept%20up%20to%20date%20with%20our%20plans%20for%20the%20next%20round%20of%20HSMA%20via%20our%20mailing%20list%2C%20please%20drop%20us%20an%20email.){target="_blank"} to keep up to date with their plans for next years HSMA course. They hope to launch HSMA 7 in mid 2026.    
+
+___
+
+<div class="section-heading">
+# Events
+</div>
+Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
+
+### [AI and Defence for Maritime: Breakfast Briefing](https://www.turing.ac.uk/events/ai-and-defence-maritime-breakfast-briefing){target="_blank"}
+**Wednesday 17th September, 09:30 - 11:30, IET London: 2 Savoy Place, London,**
+
+The Alan Turing Institute’s Sustainability Mission is hosting a cross-cutting event with the aim to bring together a range of individuals across industry, government, and academia to discuss Artificial Intelligence (AI) in maritime.  The focus of this event will be to break down silos, and foster communication across a diverse group of people (regulators, insurers, developers, users), and throughout the AI lifecycle. We will explore the current state of AI in relation to defence across the maritime sector.
+
+If you would like to learn more about how AI can be used within the Maritime sector for defence, and how attackers can use AI against maritime technology, come along to hear from experts in the field and network with likeminded individuals over some breakfast!
+
+This is a free workshop event and requires you to register your interest.
+
+### [Big Data LDN](https://www.bigdataldn.com/en-gb.html){target="_blank"}
+**Wednesday 24th - Thursday 25th September, All Day, London**
+
+Big Data LDN is the UK’s leading free to attend data, analytics and AI conference & exhibition.
+
+The two day event is a hub for the Data Community to learn and share best practice, build relationships and find the tools needed to develop an effective data-driven business.
+
+
+### [Leeds Digital Festival](https://leedsdigitalfestival.org/){target="_blank"}
+**Monday 22nd September - Friday 3rd October, Various times, Mix of Leeds and Online**
+
+Immerse yourself in the Leeds digital community at the largest tech event in the North. Leeds Digital Festival is an open, collaborative celebration of digital culture in all its forms, so there’s something for everyone. The two-week-long open-platform returns with 200+ tech events to choose from, and it's the 10th anniversary! 
+
+Each event is free and requires you to book a place. 
+
+Below are some highlighted events but there are many more to choose from!
+
+[Tech Flix Screening: ‘Data’s Untold Story: The AI Energy Crisis’](https://leedsdigitalfestival.org/events/tech-flix-screening-datas-untold-story-the-ai-energy-crisis/){target="_blank"} *(organised by Harvey Nash)*   
+**Thursday 25th September, 18:00 - 20:30, Leeds University Business School, Leeds LS6 1AN**  
+We are delighted to invite you to an exclusive screening of our latest Tech Flix film, “Data’s Untold Story: The AI Energy Crisis”. Following the screening of the film, we will be hosting an expert panel to discuss how the tech industry might tackle digital waste, data inefficiency, and drive greener AI adoption.
+
+[The Art of Prompt Engineering: Get the most out of your LLM](https://leedsdigitalfestival.org/events/the-art-of-prompt-engineering-get-the-most-out-of-your-llm/){target="_blank"} *(organised by Hippo Digital)*  
+**Wednesday 24th September, 18:00 - 20:00, HippoCampus, The Brew Society, Leeds LS1 4HT**  
+With a blend of expert insight and practical hands-on workshops, Josh Healey (Principal Consultant at Hippo) will guide participants through what prompt engineering is, why it matters, and how it can empower individuals and teams across a range of industries and skill levels.  
+
+[The NHS Innovation Accelerator (NIA) Programme](https://leedsdigitalfestival.org/events/the-nhs-innovation-accelerator-nia-programme/){target="_blank"} *(organised by The Leeds Teaching Hospitals NHS Trust)*   
+**Thursday 25th September, 13:00 - 17:00, Thackray Mdeical Museum of Medicine, Leeds LS9 7LN**    
+Come along to this event to meet Fellows & Founders who are part of the 2025 cohort of the NHS Innovation Accelerator (NIA) Programme. Hear about projects already underway in the Leeds Teaching Hospitals NHS Trust, and hear new Founders pitch their innovations!
+
+[Digital Therapies & AI: Rethinking Mental Health Access in Practice](https://leedsdigitalfestival.org/events/digital-therapies-ai-rethinking-mental-health-access-in-practice/){target="_blank"} *(organised by NorthPoint)*  
+**Tuesday 30th September, 13:30 - 15:30, Northpoint, Leeds LS10 1LJ**  
+As pressure on mental health services continues to grow, how can digital therapies and AI tools be deployed meaningfully—not just efficiently—to support better access, better outcomes, and a better experience for service users? Join Northpoint, a leading VCSE mental health provider and our partners, for a practical and provocative conversation exploring real-world innovation in the field.  
+
+[Metric Store: The Future Backbone of Data Science, ML, and Intelligent Analytics](https://leedsdigitalfestival.org/events/metric-store-the-future-backbone-of-data-science-ml-and-intelligent-analytics/){target="_blank"} *(organised by Flutter)*  
+**Tuesday 30th September, 15:00 - 16:00, The Bleachers, Leeds LS1 4AP and Online)**  
+Flutter’s Data Science ML and Analytics Engineering team will be talking about building a Metric Store, a powerful internal platform that brings clarity, consistency, and innovation to Analytics Engineering. Designed to solve the biggest challenge in modern data: multiple versions of the truth. That is why we created a single, trusted source of metrics, accelerating experimentation, improving compliance, and unlocking data-driven decision-making across the business.  
+
+### [AI in the NHS 2025](https://www.health.org.uk/events/ai-in-the-nhs-2025){target="_blank"}  
+**Tuesday 14th October, 14:00 - 17:15, Online**  
+With the opportunities for artificial intelligence in health care expanding and new technologies igniting political and media debate, the drive to understand how to effectively and responsibly implement AI in the NHS continues unabated.  
+
+At our 2025 event, we’ll hear international perspectives on how to capitalise on AI in healthcare and navigate the challenges of effectively implementing the technology. With the government’s NHS AI strategic roadmap due this autumn, we’ll consider what the UK can learn from these experiences.  
+
+Join stakeholders from across the NHS, government, tech industry, investors, academia and the charity sector who are leading the strategic direction, development and implementation of AI and technology in health care.  
+___
+
+See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
+
+Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+
+___
+
+Check out our collection of training resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=hophc){target="_blank"}
+
+
+
+<div style="text-align: center;">
+
+[Subscribe to the community](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+</div>
+
