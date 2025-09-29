@@ -1,0 +1,122 @@
+---
+title: 'Data Science Community for Health and Care Newsletter September 2025'
+date: '2025-09-30'
+format:
+  html:
+    css: index.css
+  pdf:
+    toc: false
+    geometry: 
+      - top=10mm
+      - bottom=10mm
+      - left=20mm
+      - right=20mm
+categories: ['newsletter', 'competency']
+description: 'The Data Science Community for Health and Care newsletter for September 2025'
+author: 'Elizabeth Kelly'
+---
+
+![](../../images/banner_september.png)
+
+Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
+
+The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
+
+If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
+
+Thanks for reading! – newsletter team 
+
+<div class="section-heading">
+# Highlights
+</div>
+
+#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+
+TEXT
+___
+
+
+<div class="section-heading">
+# Events
+</div>
+Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
+
+
+
+### [EVENT TITLE](event link){target="_blank"}
+**DATE, TIME, LOCATION,**
+
+A SHORT DESCRIPTION OF EVENT 
+
+### [Leeds Digital Festival](https://leedsdigitalfestival.org/){target="_blank"}
+**Monday 22nd September - Friday 3rd October, Various times, Mix of Leeds and Online**
+
+Immerse yourself in the Leeds digital community at the largest tech event in the North. Leeds Digital Festival is an open, collaborative celebration of digital culture in all its forms, so there’s something for everyone. The two-week-long open-platform returns with 200+ tech events to choose from, and it's the 10th anniversary! 
+
+Each event is free and requires you to book a place. 
+
+Below are some highlighted events but there are many more to choose from!
+
+[Metric Store: The Future Backbone of Data Science, ML, and Intelligent Analytics](https://leedsdigitalfestival.org/events/metric-store-the-future-backbone-of-data-science-ml-and-intelligent-analytics/){target="_blank"} *(organised by Flutter)*   
+**Thursday 2nd October, 12:45 - 18:30, Flutter UK & Ireland, 4 Wellington Place, Leeds, LS1 4AP** 
+
+[AI for Good in Healthcare: From Theory to Impact](https://leedsdigitalfestival.org/events/ai-for-good-in-healthcare-from-theory-to-impact/){target="_blank"} *(organised by Hedgehog Lab)*   
+**Tuesday 30th September, 17:00 - 19:30, KPMG, 1 Sovereign St, Leeds, LS1 4DA**  
+This session showcases where AI is already making a measurable difference in people’s lives. You will hear directly from the people building and deploying AI at scale. Not theorising. Not piloting. Delivering. We are talking NHS diagnostics, vet tech that is shaking up a broken system, and digital transformation that is saving lives, not just budgets. Drinks and food will be provided. 
+
+[2025: AI is going back to the future…](https://leedsdigitalfestival.org/events/2025-ai-is-going-back-to-the-future/){target="_blank"} *(organised by Oakland)*   
+**Thursday 2nd October, 12:45 - 18:30, Flutter UK & Ireland, 4 Wellington Place, Leeds, LS1 4AP**  
+The last year has gone by in the blink of an AI. At our 2024 session, we explored the hype, hope, and hands-on examples of AI in action. But as the dust settles, one truth is becoming increasingly clear: AI can’t deliver on its promise without strong data foundations.
+
+Enter 2025, and organisations are starting to feel the strain: AI projects are stalling, models are drifting, and demonstrating value is becoming increasingly challenging. Why? Because we’ve rushed headlong into the future without checking, we packed the essentials. Good data. Shared language. Trusted processes. Skilled people.
+
+Join The Data Crowd for an unmissable afternoon of exploration, challenge, and connection as we dive into the opportunities (and hard truths) of data and AI in practice. 
+
+Whether you’re a data-curious graduate, a data team leader, or a Chief Data Officer shaping strategy at scale, this event will inspire new thinking, offer real-world lessons, and challenge assumptions.
+
+### [AI in the NHS 2025](https://www.health.org.uk/events/ai-in-the-nhs-2025){target="_blank"}  
+**Tuesday 14th October, 14:00 - 17:15, Online**  
+With the opportunities for artificial intelligence in health care expanding and new technologies igniting political and media debate, the drive to understand how to effectively and responsibly implement AI in the NHS continues unabated.  
+
+At our 2025 event, we’ll hear international perspectives on how to capitalise on AI in healthcare and navigate the challenges of effectively implementing the technology. With the government’s NHS AI strategic roadmap due this autumn, we’ll consider what the UK can learn from these experiences.  
+
+Join stakeholders from across the NHS, government, tech industry, investors, academia and the charity sector who are leading the strategic direction, development and implementation of AI and technology in health care. 
+
+___
+
+See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
+
+Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+
+<div class="section-heading">
+# Knowledge Sharing
+</div>
+
+TEXT
+
+___
+
+
+<div class="section-heading">
+# Training Opportunities
+</div>
+
+TEXT
+
+___
+
+Check out our collection of training resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](custom_wordle_link){target="_blank"}
+
+
+
+<div style="text-align: center;">
+
+[Subscribe to the community](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+</div>
+
