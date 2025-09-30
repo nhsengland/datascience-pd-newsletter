@@ -27,12 +27,26 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Highlights
+# Looking for an interesting read?
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+### [SpikingBrain Technical Report: Spiking Brain-inspired Large Models](https://arxiv.org/html/2509.05276v1){target="_blank"}
+LLM Architecture inspired from Brain-Inspired Mechanisms
 
-TEXT
+Large language models (LLMs) face significant efficiency bottlenecks: training computation scales quadratically with sequence length, and inference memory grows linearly. These constraints limit their ability to process long sequences effectively, and make it more challenging to achieve stable and efficient training and deployment. 
+
+This paper delves into these issues and proposes SpikingBrain, a new family of brain-inspired models designed to help combat these challenges. The architecture is based on how biological neurons work in the brain, particularly around their adaptive spiking threshold. This threshold, which can dynamically change, enables event-driven copmutation which can enhance computational efficiency. 
+
+### [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/){target="_blank"}
+Reproducibility is a bedrock of scientific progress. However, it’s remarkably difficult to get reproducible results out of large language models (LLMs). For example, you might observe that asking ChatGPT the same question multiple times provides different results. However, even when we adjust the temperature down to 0 (that is, the LLM always chooses the highest probability token, which is called greedy sampling), LLM APIs are still not deterministic in practice.
+
+A group from the Thinking Machine Lab dive into what contributes to the non-deterministic behaviour of LLMs and explain how to defeat nondeterminism and obtain truly reproducible results in LLM inference. They prompt an LLM to "tell me about Richard Feynman" and found that when batch-invariant kernels are enabled, all 1000 completions are identical!
+
+### [GOSH shares study into AI scribe pilot across nine London NHS sites](https://htn.co.uk/2025/09/04/gosh-publish-study-into-ai-scribe-pilot-across-nine-london-nhs-sites/){target="_blank"}
+Great Ormond Street Hospital has shared results around using AI-scribe technology across a nine London NHS sites, evaluating the impact of the TORTUS tool. Key findings included that clinicians spent “nearly a quarter” more time directly with patients, with findings reportedly already being used to shape national policy and inform NHSE guidance on AI-enabled scribing.
+
+This article describes the TORTUS AI-scribing tool and discusses how AI-scribing could add clinician capacity per day and increase the number of patients seen per shift.
+
 ___
 
 
@@ -98,21 +112,6 @@ ___
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
-
-<div class="section-heading">
-# Knowledge Sharing
-</div>
-
-TEXT
-
-___
-
-
-<div class="section-heading">
-# Training Opportunities
-</div>
-
-TEXT
 
 ___
 
