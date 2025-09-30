@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,14 +36,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a47f7b47788f5d6388dab36fa918c64c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-0543a6b8148d45bf6fe9fe755321623f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -115,7 +116,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -144,6 +145,10 @@ window.Quarto = {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
+  </div>
             <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
@@ -206,7 +211,7 @@ window.Quarto = {
   <li><a href="#data-science-pd-newsletter-v1.0.0" id="toc-data-science-pd-newsletter-v1.0.0" class="nav-link active" data-scroll-target="#data-science-pd-newsletter-v1.0.0">Data Science PD newsletter <span>v1.0.0</span></a></li>
   </ul>
 <div class="toc-actions"><ul class="collapse"><li><a href="https:/github.com/nhsengland/datascience-pd-newsletter/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https:/github.com/nhsengland/datascience-pd-newsletter/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(20)</span></div><div class="category" data-category="YW5hbHl0aWNz">analytics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2l2aWwlMjBTZXJ2aWNlJTIwRGF0YSUyMENoYWxsZW5nZQ==">Civil Service Data Challenge <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0YSUyMFNjaWVuY2UlMjBEaXNjdXNzaW9u">Data Science Discussion <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGF0YSUyMHNjaWVuY2UlMjBkaXNjdXNzaW9u">data science discussion <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGVsaXZlcnk=">delivery <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZmVzdGl2ZSUyMGVkaXRpb24=">festive edition <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW50ZXJ2aWV3JTIwd2l0aCUyMGElMjBkYXRhJTIwc2NpZW50aXN0">interview with a data scientist <span class="quarto-category-count">(6)</span></div><div class="category" data-category="bGVhZGVyc2hpcA==">leadership <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3c2xldHRlcg==">newsletter <span class="quarto-category-count">(20)</span></div><div class="category" data-category="cHJvZmVzc2lvbmFsJTIwZGV2ZWxvcG1lbnQ=">professional development <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UlB5U09D">RPySOC <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(21)</span></div><div class="category" data-category="YW5hbHl0aWNz">analytics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2l2aWwlMjBTZXJ2aWNlJTIwRGF0YSUyMENoYWxsZW5nZQ==">Civil Service Data Challenge <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0YSUyMFNjaWVuY2UlMjBEaXNjdXNzaW9u">Data Science Discussion <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGF0YSUyMHNjaWVuY2UlMjBkaXNjdXNzaW9u">data science discussion <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGVsaXZlcnk=">delivery <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZmVzdGl2ZSUyMGVkaXRpb24=">festive edition <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW50ZXJ2aWV3JTIwd2l0aCUyMGElMjBkYXRhJTIwc2NpZW50aXN0">interview with a data scientist <span class="quarto-category-count">(6)</span></div><div class="category" data-category="bGVhZGVyc2hpcA==">leadership <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3c2xldHRlcg==">newsletter <span class="quarto-category-count">(21)</span></div><div class="category" data-category="cHJvZmVzc2lvbmFsJTIwZGV2ZWxvcG1lbnQ=">professional development <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UlB5U09D">RPySOC <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -266,7 +271,30 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bmV3c2xldHRlcg==" data-listing-date-sort="1756425600000" data-listing-file-modified-sort="1756453191228" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1516">
+<div class="quarto-post image-right" data-index="0" data-categories="bmV3c2xldHRlcg==" data-listing-date-sort="1759190400000" data-listing-file-modified-sort="1759242679036" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1665">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/2025_09/newsletter.html" class="no-external">Data Science Community for Health and Care Newsletter September 2025</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('bmV3c2xldHRlcg=='); return false;">newsletter</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/2025_09/newsletter.html" class="no-external">
+<p>The Data Science Community for Health and Care newsletter for September 2025</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/2025_09/newsletter.html" class="no-external">
+<div class="listing-date">
+Sep 30, 2025
+</div>
+<div class="listing-reading-time">9 min</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="bmV3c2xldHRlcg==" data-listing-date-sort="1756425600000" data-listing-file-modified-sort="1759242679035" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1516">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2025_08/newsletter.html" class="no-external">Data Science Community for Health and Care Newsletter August 2025</a>
@@ -289,7 +317,7 @@ Aug 29, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="bmV3c2xldHRlciUyQ2ludGVydmlldyUyMHdpdGglMjBhJTIwZGF0YSUyMHNjaWVudGlzdA==" data-listing-date-sort="1754265600000" data-listing-file-modified-sort="1756453191228" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2117">
+<div class="quarto-post image-right" data-index="2" data-categories="bmV3c2xldHRlciUyQ2ludGVydmlldyUyMHdpdGglMjBhJTIwZGF0YSUyMHNjaWVudGlzdA==" data-listing-date-sort="1754265600000" data-listing-file-modified-sort="1759242679035" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2117">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2025_07/newsletter.html" class="no-external">Data Science Community for Health and Care Newsletter July 2025</a>
@@ -314,7 +342,7 @@ Aug 4, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="bmV3c2xldHRlciUyQ2ludGVydmlldyUyMHdpdGglMjBhJTIwZGF0YSUyMHNjaWVudGlzdA==" data-listing-date-sort="1750982400000" data-listing-file-modified-sort="1756453191228" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2186">
+<div class="quarto-post image-right" data-index="3" data-categories="bmV3c2xldHRlciUyQ2ludGVydmlldyUyMHdpdGglMjBhJTIwZGF0YSUyMHNjaWVudGlzdA==" data-listing-date-sort="1750982400000" data-listing-file-modified-sort="1759242679035" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2186">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2025_06/newsletter.html" class="no-external">Data Science Community for Health and Care Newsletter June 2025</a>
@@ -339,7 +367,7 @@ Jun 27, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="bmV3c2xldHRlciUyQ2ludGVydmlldyUyMHdpdGglMjBhJTIwZGF0YSUyMHNjaWVudGlzdA==" data-listing-date-sort="1748476800000" data-listing-file-modified-sort="1756453191228" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13" data-listing-word-count-sort="2568">
+<div class="quarto-post image-right" data-index="4" data-categories="bmV3c2xldHRlciUyQ2ludGVydmlldyUyMHdpdGglMjBhJTIwZGF0YSUyMHNjaWVudGlzdA==" data-listing-date-sort="1748476800000" data-listing-file-modified-sort="1759242679035" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13" data-listing-word-count-sort="2568">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2025_05/newsletter.html" class="no-external">Data Science Community for Health and Care Newsletter May 2025</a>
@@ -364,7 +392,7 @@ May 29, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="bmV3c2xldHRlciUyQ2ludGVydmlldyUyMHdpdGglMjBhJTIwZGF0YSUyMHNjaWVudGlzdA==" data-listing-date-sort="1745884800000" data-listing-file-modified-sort="1756453191227" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2040">
+<div class="quarto-post image-right" data-index="5" data-categories="bmV3c2xldHRlciUyQ2ludGVydmlldyUyMHdpdGglMjBhJTIwZGF0YSUyMHNjaWVudGlzdA==" data-listing-date-sort="1745884800000" data-listing-file-modified-sort="1759242679034" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2040">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2025_04/newsletter.html" class="no-external">Data Science Community for Health and Care Newsletter April 2025</a>
@@ -389,7 +417,7 @@ Apr 29, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="bmV3c2xldHRlciUyQ2ludGVydmlldyUyMHdpdGglMjBhJTIwZGF0YSUyMHNjaWVudGlzdA==" data-listing-date-sort="1743379200000" data-listing-file-modified-sort="1756453191227" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2339">
+<div class="quarto-post image-right" data-index="6" data-categories="bmV3c2xldHRlciUyQ2ludGVydmlldyUyMHdpdGglMjBhJTIwZGF0YSUyMHNjaWVudGlzdA==" data-listing-date-sort="1743379200000" data-listing-file-modified-sort="1759242679034" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2339">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2025_03/newsletter.html" class="no-external">Data Science Community for Health and Care Newsletter March 2025</a>
@@ -414,7 +442,7 @@ Mar 31, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="bmV3c2xldHRlcg==" data-listing-date-sort="1740441600000" data-listing-file-modified-sort="1756453191226" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1339">
+<div class="quarto-post image-right" data-index="7" data-categories="bmV3c2xldHRlcg==" data-listing-date-sort="1740441600000" data-listing-file-modified-sort="1759242679033" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1339">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2025_02/newsletter.html" class="no-external">Data Science Community for Health and Care Newsletter February 2025</a>
@@ -437,7 +465,7 @@ Feb 25, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="bmV3c2xldHRlcg==" data-listing-date-sort="1737763200000" data-listing-file-modified-sort="1756453191226" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="997">
+<div class="quarto-post image-right" data-index="8" data-categories="bmV3c2xldHRlcg==" data-listing-date-sort="1737763200000" data-listing-file-modified-sort="1759242679033" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="997">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2025_01/newsletter.html" class="no-external">Data Science Community for Health and Care Newsletter January 2025</a>
@@ -460,7 +488,7 @@ Jan 25, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="bmV3c2xldHRlciUyQ2Zlc3RpdmUlMjBlZGl0aW9u" data-listing-date-sort="1734652800000" data-listing-file-modified-sort="1756453191225" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="705">
+<div class="quarto-post image-right" data-index="9" data-categories="bmV3c2xldHRlciUyQ2Zlc3RpdmUlMjBlZGl0aW9u" data-listing-date-sort="1734652800000" data-listing-file-modified-sort="1759242679032" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="705">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2024_12/newsletter.html" class="no-external">Data Science Community for Health and Care Newsletter December 2024</a>
@@ -485,7 +513,7 @@ Dec 20, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="bmV3c2xldHRlciUyQ1JQeVNPQyUyQ0RhdGElMjBTY2llbmNlJTIwRGlzY3Vzc2lvbg==" data-listing-date-sort="1732838400000" data-listing-file-modified-sort="1756453191214" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1124">
+<div class="quarto-post image-right" data-index="10" data-categories="bmV3c2xldHRlciUyQ1JQeVNPQyUyQ0RhdGElMjBTY2llbmNlJTIwRGlzY3Vzc2lvbg==" data-listing-date-sort="1732838400000" data-listing-file-modified-sort="1759242679021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1124">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2024_11/newsletter.html" class="no-external">Data Science Community for Health and Care Newsletter November 2024</a>
@@ -512,7 +540,7 @@ Nov 29, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="bmV3c2xldHRlciUyQ3Byb2Zlc3Npb25hbCUyMGRldmVsb3BtZW50JTJDZGF0YSUyMHNjaWVuY2UlMjBkaXNjdXNzaW9u" data-listing-date-sort="1730246400000" data-listing-file-modified-sort="1756453191214" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1247">
+<div class="quarto-post image-right" data-index="11" data-categories="bmV3c2xldHRlciUyQ3Byb2Zlc3Npb25hbCUyMGRldmVsb3BtZW50JTJDZGF0YSUyMHNjaWVuY2UlMjBkaXNjdXNzaW9u" data-listing-date-sort="1730246400000" data-listing-file-modified-sort="1759242679021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1247">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2024_10/newsletter.html" class="no-external">Data Science Community for Health and Care Newsletter October 2024</a>
@@ -539,7 +567,7 @@ Oct 30, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="bmV3c2xldHRlciUyQ0NpdmlsJTIwU2VydmljZSUyMERhdGElMjBDaGFsbGVuZ2U=" data-listing-date-sort="1727395200000" data-listing-file-modified-sort="1756453191213" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1119">
+<div class="quarto-post image-right" data-index="12" data-categories="bmV3c2xldHRlciUyQ0NpdmlsJTIwU2VydmljZSUyMERhdGElMjBDaGFsbGVuZ2U=" data-listing-date-sort="1727395200000" data-listing-file-modified-sort="1759242679020" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1119">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2024_09/newsletter.html" class="no-external">Professional Development Newsletter September 2024</a>
@@ -564,7 +592,7 @@ Sep 27, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="bmV3c2xldHRlcg==" data-listing-date-sort="1724198400000" data-listing-file-modified-sort="1756453191209" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1281">
+<div class="quarto-post image-right" data-index="13" data-categories="bmV3c2xldHRlcg==" data-listing-date-sort="1724198400000" data-listing-file-modified-sort="1759242679016" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1281">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2024_08/newsletter.html" class="no-external">Professional Development Newsletter August 2024</a>
@@ -587,7 +615,7 @@ Aug 21, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="bmV3c2xldHRlcg==" data-listing-date-sort="1722384000000" data-listing-file-modified-sort="1756453191204" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1846">
+<div class="quarto-post image-right" data-index="14" data-categories="bmV3c2xldHRlcg==" data-listing-date-sort="1722384000000" data-listing-file-modified-sort="1759242679010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1846">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2024_07/newsletter.html" class="no-external">Professional Development Newsletter July 2024</a>
@@ -610,7 +638,7 @@ Jul 31, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="bmV3c2xldHRlciUyQ2ludGVydmlldyUyMHdpdGglMjBhJTIwZGF0YSUyMHNjaWVudGlzdA==" data-listing-date-sort="1719446400000" data-listing-file-modified-sort="1756453191203" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2100">
+<div class="quarto-post image-right" data-index="15" data-categories="bmV3c2xldHRlciUyQ2ludGVydmlldyUyMHdpdGglMjBhJTIwZGF0YSUyMHNjaWVudGlzdA==" data-listing-date-sort="1719446400000" data-listing-file-modified-sort="1759242679008" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2100">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2024_06/newsletter.html" class="no-external">Professional Development Newsletter June 2024</a>
@@ -635,7 +663,7 @@ Jun 27, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-categories="bmV3c2xldHRlcg==" data-listing-date-sort="1716163200000" data-listing-file-modified-sort="1756453191203" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1228">
+<div class="quarto-post image-right" data-index="16" data-categories="bmV3c2xldHRlcg==" data-listing-date-sort="1716163200000" data-listing-file-modified-sort="1759242679008" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1228">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2024_05/newsletter.html" class="no-external">Professional Development Newsletter May 2024</a>
@@ -658,7 +686,7 @@ May 20, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="bmV3c2xldHRlcg==" data-listing-date-sort="1713744000000" data-listing-file-modified-sort="1756453191201" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1221">
+<div class="quarto-post image-right" data-index="17" data-categories="bmV3c2xldHRlcg==" data-listing-date-sort="1713744000000" data-listing-file-modified-sort="1759242679006" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1221">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2024_04/newsletter.html" class="no-external">Professional Development Newsletter April 2024</a>
@@ -681,7 +709,7 @@ Apr 22, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-categories="bmV3c2xldHRlciUyQ2xlYWRlcnNoaXA=" data-listing-date-sort="1710979200000" data-listing-file-modified-sort="1756453191200" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="918">
+<div class="quarto-post image-right" data-index="18" data-categories="bmV3c2xldHRlciUyQ2xlYWRlcnNoaXA=" data-listing-date-sort="1710979200000" data-listing-file-modified-sort="1759242679005" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="918">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2024_03/newsletter.html" class="no-external">Professional Development Newsletter March 2024</a>
@@ -706,7 +734,7 @@ Mar 21, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="18" data-categories="bmV3c2xldHRlciUyQ2FuYWx5dGljcw==" data-listing-date-sort="1708473600000" data-listing-file-modified-sort="1756453191200" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1200">
+<div class="quarto-post image-right" data-index="19" data-categories="bmV3c2xldHRlciUyQ2FuYWx5dGljcw==" data-listing-date-sort="1708473600000" data-listing-file-modified-sort="1759242679004" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1200">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2024_02/newsletter.html" class="no-external">Professional Development Newsletter February 2024</a>
@@ -731,7 +759,7 @@ Feb 21, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="19" data-categories="bmV3c2xldHRlciUyQ2RlbGl2ZXJ5" data-listing-date-sort="1705968000000" data-listing-file-modified-sort="1756453191199" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="668">
+<div class="quarto-post image-right" data-index="20" data-categories="bmV3c2xldHRlciUyQ2RlbGl2ZXJ5" data-listing-date-sort="1705968000000" data-listing-file-modified-sort="1759242679004" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="668">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/2024_01/newsletter.html" class="no-external">Professional Development Newsletter January 2024</a>
@@ -822,13 +850,14 @@ Jan 23, 2024
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

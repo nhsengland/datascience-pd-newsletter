@@ -10,8 +10,114 @@
 <atom:link href="https://nhsengland.github.io/datascience-pd-newsletter/index.xml" rel="self" type="application/rss+xml"/>
 <description>A newsletter to share professional development tips and opportunities for people interested in healthcare data science
 </description>
-<generator>quarto-1.7.33</generator>
-<lastBuildDate>Fri, 29 Aug 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Tue, 30 Sep 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Data Science Community for Health and Care Newsletter September 2025</title>
+  <dc:creator>Elizabeth Kelly</dc:creator>
+  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_09/newsletter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_sept.png" class="img-fluid"></p>
+<p>Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team.</p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – newsletter team</p>
+<section id="looking-for-an-interesting-read" class="level1 section-heading">
+<h1>Looking for an interesting read?</h1>
+</section>
+<section id="spikingbrain-technical-report-spiking-brain-inspired-large-models" class="level3">
+<h3 class="anchored" data-anchor-id="spikingbrain-technical-report-spiking-brain-inspired-large-models"><a href="https://arxiv.org/html/2509.05276v1" target="_blank">SpikingBrain Technical Report: Spiking Brain-inspired Large Models</a></h3>
+<p>LLM Architecture inspired from Brain-Inspired Mechanisms</p>
+<p>Large language models (LLMs) face significant efficiency bottlenecks: training computation scales quadratically with sequence length, and inference memory grows linearly. These constraints limit their ability to process long sequences effectively, and make it more challenging to achieve stable and efficient training and deployment.</p>
+<p>This paper delves into these issues and proposes SpikingBrain, a new family of brain-inspired models designed to help combat these challenges. The architecture is based on how biological neurons work in the brain, particularly around their adaptive spiking threshold. This threshold, which can dynamically change, enables event-driven copmutation which can enhance computational efficiency.</p>
+</section>
+<section id="defeating-nondeterminism-in-llm-inference" class="level3">
+<h3 class="anchored" data-anchor-id="defeating-nondeterminism-in-llm-inference"><a href="https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/" target="_blank">Defeating Nondeterminism in LLM Inference</a></h3>
+<p>Reproducibility is a bedrock of scientific progress. However, it’s remarkably difficult to get reproducible results out of large language models (LLMs). For example, you might observe that asking ChatGPT the same question multiple times provides different results. However, even when we adjust the temperature down to 0 (that is, the LLM always chooses the highest probability token, which is called greedy sampling), LLM APIs are still not deterministic in practice.</p>
+<p>A group from the Thinking Machine Lab dive into what contributes to the non-deterministic behaviour of LLMs and explain how to defeat nondeterminism and obtain truly reproducible results in LLM inference. They prompt an LLM to “tell me about Richard Feynman” and found that when batch-invariant kernels are enabled, all 1000 completions are identical!</p>
+</section>
+<section id="gosh-shares-study-into-ai-scribe-pilot-across-nine-london-nhs-sites" class="level3">
+<h3 class="anchored" data-anchor-id="gosh-shares-study-into-ai-scribe-pilot-across-nine-london-nhs-sites"><a href="https://htn.co.uk/2025/09/04/gosh-publish-study-into-ai-scribe-pilot-across-nine-london-nhs-sites/" target="_blank">GOSH shares study into AI scribe pilot across nine London NHS sites</a></h3>
+<p>Great Ormond Street Hospital has shared results around using AI-scribe technology across a nine London NHS sites, evaluating the impact of the TORTUS tool. Key findings included that clinicians spent “nearly a quarter” more time directly with patients, with findings reportedly already being used to shape national policy and inform NHSE guidance on AI-enabled scribing.</p>
+<p>This article describes the TORTUS AI-scribing tool and discusses how AI-scribing could add clinician capacity per day and increase the number of patients seen per shift.</p>
+</section>
+<section id="dawn-of-a-new-era-of-primary-prevention-in-medicine" class="level3">
+<h3 class="anchored" data-anchor-id="dawn-of-a-new-era-of-primary-prevention-in-medicine"><a href="https://erictopol.substack.com/p/dawn-of-a-new-era-of-primary-prevention" target="_blank">Dawn of A New Era of Primary Prevention in Medicine</a></h3>
+<p>Recent groundbreaking reports highlight our newfound potential to prevent diseases</p>
+<p>Primary Prevention means a disease or condition is averted. Currently, we have secondary prevention in place, for example screening for cancer, which focuses on finding cancer at an early stage. This Ground Truths post is about the new and exciting opportunity for achieving primary prevention, and discusses the profound economic benefit of primary prevention for reducing the cost of treatments. The post references various new papers that have recently come out such as Personal Health Agent, Epigenetic Organ Age Clocks and Continuous Protein Monitoring.</p>
+<hr>
+</section>
+<section id="events" class="level1 section-heading">
+<h1>Events</h1>
+</section>
+<p>Lots of exciting things coming up! See the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">full calendar here</a>, and a small selection below.</p>
+<section id="leeds-digital-festival" class="level3">
+<h3 class="anchored" data-anchor-id="leeds-digital-festival"><a href="https://leedsdigitalfestival.org/" target="_blank">Leeds Digital Festival</a></h3>
+<p><strong>Monday 22nd September - Friday 3rd October, Various times, Mix of Leeds and Online</strong></p>
+<p>Immerse yourself in the Leeds digital community at the largest tech event in the North. Leeds Digital Festival is an open, collaborative celebration of digital culture in all its forms, so there’s something for everyone. The two-week-long open-platform returns with 200+ tech events to choose from, and it’s the 10th anniversary!</p>
+<p>Each event is free and requires you to book a place.</p>
+<p>Below are some highlighted events but there are many more to choose from!</p>
+<p><a href="https://leedsdigitalfestival.org/events/ai-for-good-in-healthcare-from-theory-to-impact/" target="_blank">AI for Good in Healthcare: From Theory to Impact</a> <em>(organised by Hedgehog Lab)</em><br>
+<strong>Tuesday 30th September, 17:00 - 19:30, KPMG, 1 Sovereign St, Leeds, LS1 4DA</strong><br>
+This session showcases where AI is already making a measurable difference in people’s lives. You will hear directly from the people building and deploying AI at scale. Not theorising. Not piloting. Delivering. We are talking NHS diagnostics, vet tech that is shaking up a broken system, and digital transformation that is saving lives, not just budgets. Drinks and food will be provided.</p>
+<p><a href="https://leedsdigitalfestival.org/events/applied-ai/" target="_blank">Applied AI</a> <em>(organised by Parallax)</em><br>
+<strong>Tuesday 30th September, 18:00 - 20:00, Parallax, The Elbow Rooms, 64 Call Lane, Leeds, LS1 6DT</strong> Join us for another Applied AI at Leeds Digital Festival and explore the real-world impact of AI, without the jargon. Applied AI is an evening of thought-provoking talks, live examples, and down-to-earth discussion focused on how AI is being applied today – in teams, in products, and in the everyday decisions we make at work. At this Applied AI, you’ll hear from leading thinkers, tinkerers and makers who are applying AI in meaningful, often surprising ways.</p>
+<p><a href="https://leedsdigitalfestival.org/events/demystifying-mlops-and-how-should-i-investigate-data/" target="_blank">“Demystifying MLOps” and “How should I investigate data?”</a> <em>(organised by Leeds Data Science Meetup)</em><br>
+<strong>Tuesday 30th September, 18:00 - 20:00, Platform, New Station St, Leeds LS1 4JB</strong> Leeds Data Science Meetup will be holding their September event during Leeds Digital Festival this year. Our regular events cover the cutting-edge work in data science and data engineering that is happening in and around Leeds. You can meet with students, scientists, engineers, and entrepreneurs who are interested in all things Data Science related! This is an exciting time for coders of every type in Leeds, so join us!</p>
+<p>In September, we have speakers from both academia and industry. Professor Roy Ruddle (LIDA) will be presenting “How should I investigate data quality?” and Myles Mitchell (Jumping Rivers) will be presenting “Demystifying MLOps”.</p>
+<p><a href="https://leedsdigitalfestival.org/events/digital-transformation-developing-smart-infrastructures/" target="_blank">Digital Transformation: Developing Smart Solutions for Critical Government Services</a> <em>(organised by Netcompany)</em><br>
+<strong>Wednesday 1st October, 08:45 - 10:30, Netcompany UK, 3 Wellington Place, Leeds, LS1 4AP</strong> How do you approach building digital systems that are smart, reliable, and designed to serve society? This panel explores the mindset and methodology behind tackling complex digital challenges, from understanding problems to designing smart, sustainable solutions. We’ll discuss the broader impact of these systems – how they support the digitisation of government services and address challenges that affect everyday life. If you’re an aspiring technologist, a natural problem-solver, and want to have a positive impact on government services, join us to learn how you can contribute to meaningful, society-wide digital transformation.</p>
+<p><a href="https://leedsdigitalfestival.org/events/2025-ai-is-going-back-to-the-future/" target="_blank">2025: AI is going back to the future…</a> <em>(organised by Oakland)</em><br>
+<strong>Thursday 2nd October, 12:45 - 18:30, Flutter UK &amp; Ireland, 4 Wellington Place, Leeds, LS1 4AP</strong><br>
+The last year has gone by in the blink of an AI. At our 2024 session, we explored the hype, hope, and hands-on examples of AI in action. But as the dust settles, one truth is becoming increasingly clear: AI can’t deliver on its promise without strong data foundations.</p>
+<p>Enter 2025, and organisations are starting to feel the strain: AI projects are stalling, models are drifting, and demonstrating value is becoming increasingly challenging. Why? Because we’ve rushed headlong into the future without checking, we packed the essentials. Good data. Shared language. Trusted processes. Skilled people.</p>
+<p>Join The Data Crowd for an unmissable afternoon of exploration, challenge, and connection as we dive into the opportunities (and hard truths) of data and AI in practice.</p>
+<p>Whether you’re a data-curious graduate, a data team leader, or a Chief Data Officer shaping strategy at scale, this event will inspire new thinking, offer real-world lessons, and challenge assumptions.</p>
+</section>
+<section id="ai-in-the-nhs-2025" class="level3">
+<h3 class="anchored" data-anchor-id="ai-in-the-nhs-2025"><a href="https://www.health.org.uk/events/ai-in-the-nhs-2025" target="_blank">AI in the NHS 2025</a></h3>
+<p><strong>Tuesday 14th October, 14:00 - 17:15, Online</strong><br>
+With the opportunities for artificial intelligence in health care expanding and new technologies igniting political and media debate, the drive to understand how to effectively and responsibly implement AI in the NHS continues unabated.</p>
+<p>At our 2025 event, we’ll hear international perspectives on how to capitalise on AI in healthcare and navigate the challenges of effectively implementing the technology. With the government’s NHS AI strategic roadmap due this autumn, we’ll consider what the UK can learn from these experiences.</p>
+<p>Join stakeholders from across the NHS, government, tech industry, investors, academia and the charity sector who are leading the strategic direction, development and implementation of AI and technology in health care.</p>
+</section>
+<section id="privacy-is-power---data-ethics-and-society-reading-group" class="level3">
+<h3 class="anchored" data-anchor-id="privacy-is-power---data-ethics-and-society-reading-group"><a href="https://www.tickettailor.com/events/dataethics/1836720/r/nhsdsteams" target="_blank">Privacy is Power - Data Ethics and Society Reading Group</a></h3>
+<p><strong>Tuesday 11th November, 12:00 - 13:00, Online,</strong><br>
+<strong>Wednesday 26th November, 13:00 - 14:00, Online,</strong></p>
+<p>Join us at the Data Ethics &amp; Society Reading Group to discuss Privacy is Power by Carissa Véliz.</p>
+<p>“Digital technology is stealing our personal data and with it our power to make free choices. To reclaim that power and democracy, we must protect our privacy. Short, terrifying, practical: Privacy is Power highlights the implications of our laid-back attitude to data and sets out how we can take back control.”</p>
+<p>We will be holding two sessions over two weeks. The sessions will each focus on a different section of the book- but if you can’t make the one you want to come to, we can still guarantee a great conversation! Read more about our changes in our recent <a href="https://dataingovernment.blog.gov.uk/2025/02/17/data-ethics-and-society-join-the-conversation-in-2025/" target="_blank">Data in Government blog post</a>.</p>
+<ul>
+<li>Tue 11 Nov 2025 12 PM - 1 PM (focusing on the first half of the book; the dangers the data economy poses and why we should care)</li>
+<li>Wed 26 Nov 2025 1 PM - 2 PM (focusing on the second half of the book; what can we do about it, and whose responsibility is it?)</li>
+</ul>
+<p>The event is free, but you need to sign up to reserve your spot. Signups for the first session will close on Monday 3rd November at 6pm. Signups for the second session close on Tuesday 18th November at 6pm.</p>
+<hr>
+<p>See more future events on the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">calendar</a></p>
+<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+<hr>
+<p>Check out our collection of training resources in the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">Resources Section</a>! Can you spot something missing? <a href="mailto:datascience@nhs.net">Contact us</a>!</p>
+</section>
+<section id="need-a-quick-break" class="level1 section-heading">
+<h1>Need a Quick Break?</h1>
+</section>
+<p><a href="https://mywordle.strivemath.com/?word=biqcj" target="_blank">How many tries will it take you?</a></p>
+<div style="text-align: center;">
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe to the community</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>newsletter</category>
+  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_09/newsletter.html</guid>
+  <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Data Science Community for Health and Care Newsletter August 2025</title>
   <dc:creator>Elizabeth Kelly</dc:creator>
@@ -2239,86 +2345,6 @@ Basically, combine structured learning with practical application, and don’t b
   <category>analytics</category>
   <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_02/newsletter.html</guid>
   <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Professional Development Newsletter January 2024</title>
-  <dc:creator>Harriet Sands and Harry Kelleher</dc:creator>
-  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_01/newsletter.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_jan.png" class="img-fluid"></p>
-<p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Capability team.</p>
-<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
-<p>There are some items that are available via legacy systems available to former NHS Digital colleagues. We have marked these with❗</p>
-<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
-<p>Thanks for reading! – PD newsletter team</p>
-<section id="highlights" class="level1 section-heading">
-<h1>Highlights</h1>
-</section>
-<section id="competency-framework-zooming-intodelivery" class="level4">
-<h4 class="anchored" data-anchor-id="competency-framework-zooming-intodelivery"><u><strong>Competency Framework</strong> – zooming into…Delivery</u></h4>
-<p>As we adjust to delivering in the new team structure; using potentially unfamiliar tools like Confluence, JIRA and DevOps, getting to grips with new projects and new stakeholders, it’s the perfect time to refresh our understanding of what makes good delivery.</p>
-<p>Delivery is the translation of the insights we produce into actionable outcomes. Keeping a delivery-focussed mindset is key to achieve value for money and improve lives for service users. Without it, we cannot fulfil our mission to drive the digital transformation of the NHS!</p>
-<p>Delivery comes in different shapes and sizes, whether it’s being accountable for your own tickets or ensuring your team is focused on the top priorities – each of us play our part.</p>
-<p>Check out these top tips from our <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Competency+Framework" target="_blank">Competency Framework</a>❗ :</p>
-<ul>
-<li>Break down complex objectives into clear tasks to deliver incremental value with each iteration</li>
-<li>Regularly sync-up with stakeholders to understand priorities and manage delivery expectations</li>
-<li>Be a role model to others by demonstrating a focus on delivery, whilst being open to new ideas and continuous improvement</li>
-</ul>
-<hr>
-<p>Check out the resources to boost your delivery skills on the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Framework" target="_blank">Training Framework</a>❗and our full collection on the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a>❗ Can you spot something missing? <a href="mailto:datascience@nhs.net">Contact us</a>!</p>
-</section>
-<section id="events" class="level1 section-heading">
-<h1>Events</h1>
-</section>
-<p>Lots of exciting things coming up! See the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars" target="_blank">full calendar here</a>❗ , and a small selection below.</p>
-<section id="onshdr-health-data-science-seminars" class="level3">
-<h3 class="anchored" data-anchor-id="onshdr-health-data-science-seminars"><a href="https://www.eventbrite.co.uk/e/health-data-science-seminar-series-tickets-758986237267" target="_blank">ONS/HDR Health Data Science Seminars</a></h3>
-<p><strong>Thursday 25th January, 14:00-15:30, Online</strong></p>
-<p>This event, ‘Digital footprints’, will feature presentations from guest speakers: Dr Anya Skatova, Senior Research Fellow at the University of Bristol, Professor Will Dixon, Professor of Digital Epidemiology, The University of Manchester and Professor Tim Chico, Professor of Cardiovascular Medicine, from the University of Sheffield.</p>
-</section>
-<section id="genomics-england-research-seminars" class="level3">
-<h3 class="anchored" data-anchor-id="genomics-england-research-seminars"><a href="https://www.genomicsengland.co.uk/events/research-seminar-january-2024" target="_blank">Genomics England Research Seminars</a></h3>
-<p><strong>Tuesday 30th January, 14:00-15:00, Online</strong></p>
-<p>This seminar series showcases the latest research using data from the National Genomic Research Library. Two projects will be presented: ‘Investigating microRNA-associated variation in the Epileptic Encephalopathies’ and ‘Effects of Ancestry in the 100,000 Genomes Project Cancer Pipelines’. (January is clearly Genomics month, with the <a href="https://festivalofgenomics.com/london/en/page/home" target="_blank">Festival of Genomics &amp; Biodata</a> starting tomorrow!)</p>
-</section>
-<section id="data-bites-48-getting-things-done-with-data-in-government---smart-data-special" class="level3">
-<h3 class="anchored" data-anchor-id="data-bites-48-getting-things-done-with-data-in-government---smart-data-special"><a href="https://www.instituteforgovernment.org.uk/event/data-bites-48-getting-things-done-data-government" target="_blank">Data Bites #48: Getting things done with data in government - smart data special</a></h3>
-<p><strong>Monday 26th February, 18:00-19:20, Online &amp; London</strong></p>
-<p>In an exciting, quickfire format, each speaker has eight minutes to present on data in government. Next month’s speakers include Ben Goldacre among others.</p>
-<hr>
-<p>See more future events on our <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars" target="_blank">confluence calendar</a>❗</p>
-<p>Know of any events we should feature next month?Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
-</section>
-<section id="knowledge-sharing" class="level1 section-heading">
-<h1>Knowledge Sharing</h1>
-</section>
-<p><strong><a href="https://future.nhs.uk/connect.ti/DataAnalytics/messageShowThread?threadid=12369486" target="_blank">Blog: Delivering user centred dashboards</a></strong></p>
-<p><strong>Harry Kelleher</strong>, Lead BI Developer, shares his experience building dashboards that make a difference, and how a product thinking approach has been the key to unlocking system-wide value.</p>
-<hr>
-<p>Stay tuned for an update on what seminars &amp; show and tells will look like in the new team. Please bear with us as it is likely to be a learning process! Contact <a href="mailto:amelia.noonan1@nhs.net">Mia Noonan</a> for more information..</p>
-<section id="training-opportunities" class="level1 section-heading">
-<h1>Training Opportunities</h1>
-</section>
-<p>How much do you actually know about the NHS? Check out the <a href="https://www.kingsfund.org.uk/health-care-explained/online-course" target="_blank">The NHS explained free online course: how the health system in England really works</a>.</p>
-<p>With the release of the <a href="https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html" target="_blank">Generative AI Framework for HMG</a>, Civil Service Learning now includes a set of open learning relating to Generative AI, including a <a href="https://learn.civilservice.gov.uk/courses/E0nDu3fET6q3Tg5yOBFn_g" target="_blank">technical curriculum</a>, that is a helpful collection of free resources from <a href="https://www.cloudskillsboost.google/paths/183" target="_blank">Google</a>, <a href="https://learn.microsoft.com/en-us/training/paths/copilot/" target="_blank">Microsoft</a> and <a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/17256/planning-a-generative-ai-project" target="_blank">AWS</a>.</p>
-<hr>
-<p>Check out all the resources in the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a>! Can you spot something missing? Contact <a href="mailto:datascience@nhs.net">Harriet Sands</a>.</p>
-<div style="text-align: center;">
-<p><a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe to the community</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
-</div>
-
-
-
- ]]></description>
-  <category>newsletter</category>
-  <category>delivery</category>
-  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_01/newsletter.html</guid>
-  <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
