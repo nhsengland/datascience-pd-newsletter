@@ -11,12 +11,12 @@ format:
       - bottom=10mm
       - left=20mm
       - right=20mm
-categories: ['newsletter', 'competency']
+categories: ['newsletter']
 description: 'The Data Science Community for Health and Care newsletter for September 2025'
 author: 'Elizabeth Kelly'
 ---
 
-![](../../images/banner_september.png)
+![](../../images/banner_sept.png)
 
 Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
 
@@ -57,12 +57,23 @@ Each event is free and requires you to book a place.
 
 Below are some highlighted events but there are many more to choose from!
 
-[Metric Store: The Future Backbone of Data Science, ML, and Intelligent Analytics](https://leedsdigitalfestival.org/events/metric-store-the-future-backbone-of-data-science-ml-and-intelligent-analytics/){target="_blank"} *(organised by Flutter)*   
-**Thursday 2nd October, 12:45 - 18:30, Flutter UK & Ireland, 4 Wellington Place, Leeds, LS1 4AP** 
-
 [AI for Good in Healthcare: From Theory to Impact](https://leedsdigitalfestival.org/events/ai-for-good-in-healthcare-from-theory-to-impact/){target="_blank"} *(organised by Hedgehog Lab)*   
 **Tuesday 30th September, 17:00 - 19:30, KPMG, 1 Sovereign St, Leeds, LS1 4DA**  
 This session showcases where AI is already making a measurable difference in people’s lives. You will hear directly from the people building and deploying AI at scale. Not theorising. Not piloting. Delivering. We are talking NHS diagnostics, vet tech that is shaking up a broken system, and digital transformation that is saving lives, not just budgets. Drinks and food will be provided. 
+
+[Applied AI](https://leedsdigitalfestival.org/events/applied-ai/){target="_blank"} *(organised by Parallax)*   
+**Tuesday 30th September, 18:00 - 20:00, Parallax, The Elbow Rooms, 64 Call Lane, Leeds, LS1 6DT** 
+Join us for another Applied AI at Leeds Digital Festival and explore the real-world impact of AI, without the jargon. Applied AI is an evening of thought-provoking talks, live examples, and down-to-earth discussion focused on how AI is being applied today – in teams, in products, and in the everyday decisions we make at work. At this Applied AI, you’ll hear from leading thinkers, tinkerers and makers who are applying AI in meaningful, often surprising ways.
+
+[“Demystifying MLOps” and “How should I investigate data?”](https://leedsdigitalfestival.org/events/demystifying-mlops-and-how-should-i-investigate-data/){target="_blank"} *(organised by Leeds Data Science Meetup)*   
+**Tuesday 30th September, 18:00 - 20:00, Platform, New Station St, Leeds LS1 4JB** 
+Leeds Data Science Meetup will be holding their September event during Leeds Digital Festival this year. Our regular events cover the cutting-edge work in data science and data engineering that is happening in and around Leeds. You can meet with students, scientists, engineers, and entrepreneurs who are interested in all things Data Science related! This is an exciting time for coders of every type in Leeds, so join us!
+
+In September, we have speakers from both academia and industry. Professor Roy Ruddle (LIDA) will be presenting “How should I investigate data quality?” and Myles Mitchell (Jumping Rivers) will be presenting “Demystifying MLOps”.
+
+[Digital Transformation: Developing Smart Solutions for Critical Government Services ](https://leedsdigitalfestival.org/events/digital-transformation-developing-smart-infrastructures/){target="_blank"} *(organised by Netcompany)*   
+**Wednesday 1st October, 08:45 - 10:30, Netcompany UK, 3 Wellington Place, Leeds, LS1 4AP** 
+How do you approach building digital systems that are smart, reliable, and designed to serve society? This panel explores the mindset and methodology behind tackling complex digital challenges, from understanding problems to designing smart, sustainable solutions. We’ll discuss the broader impact of these systems – how they support the digitisation of government services and address challenges that affect everyday life. If you’re an aspiring technologist, a natural problem-solver, and want to have a positive impact on government services, join us to learn how you can contribute to meaningful, society-wide digital transformation. 
 
 [2025: AI is going back to the future…](https://leedsdigitalfestival.org/events/2025-ai-is-going-back-to-the-future/){target="_blank"} *(organised by Oakland)*   
 **Thursday 2nd October, 12:45 - 18:30, Flutter UK & Ireland, 4 Wellington Place, Leeds, LS1 4AP**  
@@ -111,7 +122,7 @@ Check out our collection of training resources in the [Resources Section](https:
 # Need a Quick Break?
 </div>
 
-[How many tries will it take you?](custom_wordle_link){target="_blank"}
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=biqcj){target="_blank"}
 
 
 
