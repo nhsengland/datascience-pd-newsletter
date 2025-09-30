@@ -47,6 +47,11 @@ Great Ormond Street Hospital has shared results around using AI-scribe technolog
 
 This article describes the TORTUS AI-scribing tool and discusses how AI-scribing could add clinician capacity per day and increase the number of patients seen per shift.
 
+### [Dawn of A New Era of Primary Prevention in Medicine](https://erictopol.substack.com/p/dawn-of-a-new-era-of-primary-prevention){target="_blank"}
+Recent groundbreaking reports highlight our newfound potential to prevent diseases
+
+Primary Prevention means a disease or condition is averted. Currently, we have secondary prevention in place, for example screening for cancer, which focuses on finding cancer at an early stage. This Ground Truths post is about the new and exciting opportunity for achieving primary prevention, and discusses the profound economic benefit of primary prevention for reducing the cost of treatments. The post references various new papers that have recently come out such as Personal Health Agent, Epigenetic Organ Age Clocks and Continuous Protein Monitoring. 
+
 ___
 
 
