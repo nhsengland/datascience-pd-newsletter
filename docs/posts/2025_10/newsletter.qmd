@@ -37,6 +37,9 @@ blahhhh
   ### How did you end up in data science at the NHS? What did you do before, and what really sparked your interest in this field?
   blahhh
 
+  ### Once you joined the NHS, what was that experience like? What different roles and teams have you been a part of, and how have they shaped your career?
+  blahhh
+
   ### What are you currently working on? Are there any projects that you're particularly excited about, or that you feel are making a real difference? What impact are you having?
   blahhh
 
@@ -50,6 +53,17 @@ blahhhh
 ___
 
 <div class="section-heading">
+# October Analyst X Data Science Huddle
+</div>
+
+Recently, the Data Science Community for Health and Care presented at an AnalystX Huddle. We introduced who we are and various projects from our collaborators, NHS England Data Science and Applied AI Team, NHS Business Service Authority Data Science Team and the Department of Health and Social Care Data Science Team. We hope those who attended found it interesting, and we wanted to thank the AnalystX team for giving us the opportunity to present.
+
+Missed the session? [Check out the recording and PowerPoint slides here](ADD LINK HERE!!!){target="_blank"}, where you will also find the recordings of previous huddles.
+
+
+___
+
+<div class="section-heading">
 # Events
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
@@ -60,6 +74,21 @@ Lots of exciting things coming up! See the [full calendar here](https://future.n
 **DATE, TIME, LOCATION,**
 
 A SHORT DESCRIPTION OF EVENT 
+
+### [Privacy is Power - Data Ethics and Society Reading Group](https://www.tickettailor.com/events/dataethics/1836720/r/nhsdsteams){target="_blank"}
+**Tuesday 11th November, 12:00 - 13:00, Online,**  
+**Wednesday 26th November, 13:00 - 14:00, Online,**
+
+Join us at the Data Ethics & Society Reading Group to discuss Privacy is Power by Carissa Véliz. 
+
+"Digital technology is stealing our personal data and with it our power to make free choices. To reclaim that power and democracy, we must protect our privacy. Short, terrifying, practical: Privacy is Power highlights the implications of our laid-back attitude to data and sets out how we can take back control."
+
+We will be holding two sessions over two weeks. The sessions will each focus on a different section of the book- but if you can't make the one you want to come to, we can still guarantee a great conversation! Read more about our changes in our recent [Data in Government blog post](https://dataingovernment.blog.gov.uk/2025/02/17/data-ethics-and-society-join-the-conversation-in-2025/){target="_blank"}. 
+
+* Tue 11 Nov 2025 12 PM - 1 PM (focusing on the first half of the book; the dangers the data economy poses and why we should care)
+* Wed 26 Nov 2025 1 PM - 2 PM (focusing on the second half of the book; what can we do about it, and whose responsibility is it?)
+
+The event is free, but you need to sign up to reserve your spot. Signups for the first session will close on Monday 3rd November at 6pm. Signups for the second session close on Tuesday 18th November at 6pm. 
 
 ___
 
