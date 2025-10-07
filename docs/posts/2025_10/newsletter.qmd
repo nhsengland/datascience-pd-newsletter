@@ -27,14 +27,27 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Highlights
+# Interview with a Data Scientist - The Data Science Intern Making an Impact
 </div>
+blahhhh
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+<details>
+  <summary>Read more...</summary>
 
-TEXT
+  ### How did you end up in data science at the NHS? What did you do before, and what really sparked your interest in this field?
+  blahhh
+
+  ### What are you currently working on? Are there any projects that you're particularly excited about, or that you feel are making a real difference? What impact are you having?
+  blahhh
+
+  ### If you could give someone just starting out in data science a few pieces of advice, what would they be? And what resources have you found particularly helpful along the way that you can share?
+  blahhh
+  
+  ___
+  If you are interested in learning more about the Data Scientist working in Healthcare, you can read our previous 'Interview with a Data Scientist' with Amaia Imaz Blanco, [The Data Scientist Who Just Wanted to Make Plots](https://nhsengland.github.io/datascience/articles/2025/07/03/interview_with_aib/){target='_blank'}, on the [NHS England Data Science Website](https://nhsengland.github.io/datascience/){target='_blank'}.
+
+</details> 
 ___
-
 
 <div class="section-heading">
 # Events
