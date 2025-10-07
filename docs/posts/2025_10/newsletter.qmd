@@ -68,9 +68,12 @@ ___
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
-
-
 ### [EVENT TITLE](event link){target="_blank"}
+**DATE, TIME, LOCATION,**
+
+A SHORT DESCRIPTION OF EVENT 
+
+### [ONS Local Workshop: Building interactive onboarding tutorials in Power BI](https://www.eventbrite.co.uk/e/ons-local-workshop-building-interactive-onboarding-tutorials-in-power-bi-tickets-1544414989809?aff=ebdsoporgprofile&_gl=1*1p4ji66*_up*MQ..*_ga*MTUyMzk3NDY2NC4xNzU5ODMxMDA1*_ga_TQVES5V6SH*czE3NTk4MzEwMDUkbzEkZzAkdDE3NTk4MzEwMDUkajYwJGwwJGgw){target="_blank"}
 **DATE, TIME, LOCATION,**
 
 A SHORT DESCRIPTION OF EVENT 
@@ -89,6 +92,17 @@ We will be holding two sessions over two weeks. The sessions will each focus on 
 * Wed 26 Nov 2025 1 PM - 2 PM (focusing on the second half of the book; what can we do about it, and whose responsibility is it?)
 
 The event is free, but you need to sign up to reserve your spot. Signups for the first session will close on Monday 3rd November at 6pm. Signups for the second session close on Tuesday 18th November at 6pm. 
+
+### [BridgeAI Adopters and Developers event](https://www.turing.ac.uk/events/bridgeai-adopters-and-developers-event){target="_blank"}
+**Thursday 13th November, 09:00 - 17:30, Wallacespace, London,**
+
+Join us for an exclusive in-person networking event designed to unite AI adopters, developers, and experts to accelerate innovation and responsible AI adoption across UK sectors.
+
+Hosted by The Alan Turing Institute, this event offers a unique opportunity to connect with SMEs from across the [BridgeAI](https://iuk-business-connect.org.uk/programme/bridgeai/){target="_blank"} ecosystem. As AI adoption continues to reshape industries, this event offers an in-person space to explore collaborative opportunities, learn from peers, and access expert support tailored to your sector.
+
+Whether you’re building AI tools or implementing them in your business, this event is your gateway to deeper engagement, practical insights, and valuable partnerships.
+
+Event spaces are limited. Apply today to be considered for attendance, curated networking, and the BridgeAI PitchFest. This event is free.
 
 ___
 
