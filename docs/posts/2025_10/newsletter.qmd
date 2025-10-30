@@ -74,13 +74,18 @@ Lots of exciting things coming up! See the [full calendar here](https://future.n
 A SHORT DESCRIPTION OF EVENT 
 
 ### [ONS Local Workshop: Building interactive onboarding tutorials in Power BI](https://www.eventbrite.co.uk/e/ons-local-workshop-building-interactive-onboarding-tutorials-in-power-bi-tickets-1544414989809?aff=ebdsoporgprofile&_gl=1*1p4ji66*_up*MQ..*_ga*MTUyMzk3NDY2NC4xNzU5ODMxMDA1*_ga_TQVES5V6SH*czE3NTk4MzEwMDUkbzEkZzAkdDE3NTk4MzEwMDUkajYwJGwwJGgw){target="_blank"}
-**DATE, TIME, LOCATION,**
+**Thursday 6th November, 09:30 - 11:00, Online**
 
-A SHORT DESCRIPTION OF EVENT 
+Birmingham City Council have developed and run the Birmingham City Observatory, a public, open data platform on a wide range of characteristics of the city. Danny O’Neill, its creator, is an expert on building Power BI dashboards.   
+Want your Power BI reports to guide users, not just display data? In this hands-on session, we’ll explore how to create interactive onboarding tutorials right inside your reports using layers, bookmarks, and clever design tricks. Whether you're introducing new dashboards or making complex reports more user-friendly, you'll learn practical ways to build guided experiences that actually stick.
+
+Perfect for Power BI developers, analysts, and anyone who wants their reports to speak for themselves.
+
+This event is free and open to all; however, we anticipate it will be of most interest to anyone working with Power BI dashboards to analyse data.
 
 ### [Privacy is Power - Data Ethics and Society Reading Group](https://www.tickettailor.com/events/dataethics/1836720/r/nhsdsteams){target="_blank"}
-**Tuesday 11th November, 12:00 - 13:00, Online,**  
-**Wednesday 26th November, 13:00 - 14:00, Online,**
+**Tuesday 11th November, 12:00 - 13:00, Online**  
+**Wednesday 26th November, 13:00 - 14:00, Online**
 
 Join us at the Data Ethics & Society Reading Group to discuss Privacy is Power by Carissa Véliz. 
 
