@@ -133,7 +133,7 @@ Check out our collection of training resources in the [Resources Section](https:
 # Need a Quick Break?
 </div>
 
-[How many tries will it take you?](custom_wordle_link){target="_blank"}
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=occyp){target="_blank"}
 
 
 
