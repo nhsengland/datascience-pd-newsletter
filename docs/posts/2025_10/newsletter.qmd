@@ -56,19 +56,26 @@ ___
 # October Analyst X Data Science Huddle
 </div>
 
-Recently, the Data Science Community for Health and Care presented at an AnalystX Huddle. We introduced who we are and various projects from our collaborators, NHS England Data Science and Applied AI Team, NHS Business Service Authority Data Science Team and the Department of Health and Social Care Data Science Team. We hope those who attended found it interesting, and we wanted to thank the AnalystX team for giving us the opportunity to present.
+Recently, the Data Science Community for Health and Care was invited to present at an AnalystX Huddle. We introduced who we are and various projects from our collaborators, NHS England Data Science and Applied AI Team, NHS Business Service Authority Data Science Team and the Department of Health and Social Care Data Science Team. It was an excellent opportunity for us to showcase the amazing and varied work happening in the data science space across the health care system. We hope those who attended found it interesting, and we wanted to thank the AnalystX team for giving us the opportunity to present.
 
-Missed the session? [Check out the recording and PowerPoint slides here](ADD LINK HERE!!!){target="_blank"}, where you will also find the recordings of previous huddles.
+Missed the session? [Check out the recording and PowerPoint slides here](ADD LINK HERE!!!){target="_blank"}, where you will also find the recordings of previous huddles.  
+ADD LINK TO ABOVE!!!
 
+Want to find out more about AnalystX? [Check out their FutureNHS space](https://future.nhs.uk/DataAnalytics/groupHome){target="_blank"}.
 ___
 
 <div class="section-heading">
 # November Analyst X Data Science Huddle
 </div>
-**18th of November 2025, 14:00 - 15:00, Online**
-< TO CHECK ABOVE TIMINGS >  
-< TO DO >
+**18th November 2025, 13:00 - 14:00, Online**
 
+The Data Science Community for Health and Care have organised the next AnalystX Data Science Huddle for November! The session will contain two talks: Geospatial Analysis to Optimise Diagnostic Capacity Across the NHS South West Region, and Using Simulation to Enhance Decision-Making in Talking Therapies Pathways.
+
+< TO DO. ADD ABSTRACTS!!! >
+
+We will add this event to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where you will find the calendar invite to access the event.
+
+If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"}  
 
 ___
 
