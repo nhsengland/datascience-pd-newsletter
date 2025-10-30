@@ -60,6 +60,15 @@ Recently, the Data Science Community for Health and Care presented at an Analyst
 
 Missed the session? [Check out the recording and PowerPoint slides here](ADD LINK HERE!!!){target="_blank"}, where you will also find the recordings of previous huddles.
 
+___
+
+<div class="section-heading">
+# November Analyst X Data Science Huddle
+</div>
+**18th of November 2025, 14:00 - 15:00, Online**
+< TO CHECK ABOVE TIMINGS >  
+< TO DO >
+
 
 ___
 
@@ -72,6 +81,15 @@ Lots of exciting things coming up! See the [full calendar here](https://future.n
 **DATE, TIME, LOCATION,**
 
 A SHORT DESCRIPTION OF EVENT 
+
+### [The Health Foundation: Driving better health through English devolution](https://www.health.org.uk/events/driving-better-health-through-english-devolution){target="_blank"}
+**Wednesday 5th November, 10:00 - 16:00, Aspire Leeds, 2 Infirmary St, Leeds LS1 2JP**
+
+Regional government holds a range of powers and responsibilities that have the potential to improve people’s health. These include action on employment, the environment, housing, transport, and the economy. The government’s devolution agenda presents a vital opportunity for both newly established and existing Strategic Authorities to consider how they can maximize these powers to improve the health of their populations and reduce health inequalities.
+
+This free one-day conference will be led by the Health Foundation, with support from the Mayoral Regions Programme (run on behalf of 10 Mayoral Strategic Authorities by the West Midlands Combined Authority). It will bring together colleagues from Strategic Authorities and their partners from across England to explore how regional leadership can drive better health outcomes.
+
+The event will provide an opportunity to discuss embedding health in all policies in Mayoral Regions, working in partnership to improve health, and delivering local growth for health. We will explore examples of good practice, highlight opportunities and challenges, and offer space to learn from peers.
 
 ### [ONS Local Workshop: Building interactive onboarding tutorials in Power BI](https://www.eventbrite.co.uk/e/ons-local-workshop-building-interactive-onboarding-tutorials-in-power-bi-tickets-1544414989809?aff=ebdsoporgprofile&_gl=1*1p4ji66*_up*MQ..*_ga*MTUyMzk3NDY2NC4xNzU5ODMxMDA1*_ga_TQVES5V6SH*czE3NTk4MzEwMDUkbzEkZzAkdDE3NTk4MzEwMDUkajYwJGwwJGgw){target="_blank"}
 **Thursday 6th November, 09:30 - 11:00, Online**
@@ -108,6 +126,15 @@ Hosted by The Alan Turing Institute, this event offers a unique opportunity to c
 Whether you’re building AI tools or implementing them in your business, this event is your gateway to deeper engagement, practical insights, and valuable partnerships.
 
 Event spaces are limited. Apply today to be considered for attendance, curated networking, and the BridgeAI PitchFest. This event is free.
+
+### [ONS Local Workshop: Using R to wrangle data from web to output](https://www.eventbrite.co.uk/e/ons-local-workshop-using-r-to-wrangle-data-from-web-to-output-tickets-1784742746599?aff=ebdsoporgprofile&_gl=1*1xzq5a2*_up*MQ..*_ga*NzY2MjI0MDc3LjE3NjE4MTE4MDQ.*_ga_TQVES5V6SH*czE3NjE4MTE4MDMkbzEkZzAkdDE3NjE4MTE4MDMkajYwJGwwJGgw){target="_blank"}
+**Thursday 27th November, 09:15 - 10:30, Online**
+
+Dr. Dan Olner is a Y-PERN policy fellow and spatial economic data nerd based in the School of Management at Sheffield University. 
+
+In this session, we'll work through some examples of using R to extract data directly from web sources (like NOMIS and online Excel sheets) and create pipelines through to final outputs. Automating as many of the steps as possible can be a huge help for quickly replicating and sharing analysis, and updating quickly when new data is published (though we'll also discuss how to deal with inevitable format changes). Common ONS economic datasets will be used. Some familiarity with R will be useful, though you should be able to run all code without. If you want a quick R primer prior to the session, see Dan's previous 'R for economic data' taster session (linked on the event webpage). 
+
+This free workshop is open to everyone, but will be particularly suited to data analysts who are responsible for creating, maintaining and developing dashboards and other data outputs for local authorities.
 
 ___
 
