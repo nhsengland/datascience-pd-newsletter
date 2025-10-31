@@ -84,12 +84,12 @@ ___
 # October Analyst X Data Science Huddle
 </div>
 
-Recently, the Data Science Community for Health and Care was invited to present at an AnalystX Huddle. We introduced who we are and various projects from our collaborators, NHS England Data Science and Applied AI Team, NHS Business Service Authority Data Science Team and the Department of Health and Social Care Data Science Team. It was an excellent opportunity for us to showcase the amazing and varied work happening in the data science space across the health care system. We hope those who attended found it interesting, and we wanted to thank the AnalystX team for giving us the opportunity to present.
+Recently, the Data Science Community for Health and Care was invited to present at an AnalystX Huddle. We introduced who we are and various projects from our collaborators, NHS England Data Science and Applied AI Team, NHS Business Service Authority Data Science Team and the Department of Health and Social Care Data Science Team. 
 
-Missed the session? [Check out the recording and PowerPoint slides here](ADD LINK HERE!!!){target="_blank"}, where you will also find the recordings of previous huddles.  
-ADD LINK TO ABOVE!!!
+It was an excellent opportunity for us to showcase the amazing and varied work happening in the data science space across the health care system. We hope those who attended found it interesting, and we wanted to thank the AnalystX team for giving us the opportunity to present.
 
-Want to find out more about AnalystX? [Check out their FutureNHS space](https://future.nhs.uk/DataAnalytics/groupHome){target="_blank"}.
+Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles.  
+
 ___
 
 <div class="section-heading">
@@ -97,11 +97,12 @@ ___
 </div>
 **18th November 2025, 13:00 - 14:00, Online**
 
-The Data Science Community for Health and Care have organised the next AnalystX Data Science Huddle for November! The session will contain two talks: Geospatial Analysis to Optimise Diagnostic Capacity Across the NHS South West Region, and Using Simulation to Enhance Decision-Making in Talking Therapies Pathways.
+The Data Science Community for Health and Care have organised the next AnalystX Data Science Huddle for November! The session will contain two talks: 
 
-< TO DO. ADD ABSTRACTS!!! >
+* Geospatial Analysis to Optimise Diagnostic Capacity Across the NHS South West Region.  
+* Using Simulation to Enhance Decision-Making in Talking Therapies Pathways.  
 
-We will add this event to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where you will find the calendar invite to access the event.
+Want a read of the abstracts? This event has been added to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where you will find the calendar invite to access the event and further information. 
 
 If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"}  
 
@@ -111,11 +112,6 @@ ___
 # Events
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
-
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,**
-
-A SHORT DESCRIPTION OF EVENT 
 
 ### [The Health Foundation: Driving better health through English devolution](https://www.health.org.uk/events/driving-better-health-through-english-devolution){target="_blank"}
 **Wednesday 5th November, 10:00 - 16:00, Aspire Leeds, 2 Infirmary St, Leeds LS1 2JP**
@@ -176,21 +172,6 @@ ___
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
-
-<div class="section-heading">
-# Knowledge Sharing
-</div>
-
-TEXT
-
-___
-
-
-<div class="section-heading">
-# Training Opportunities
-</div>
-
-TEXT
 
 ___
 
