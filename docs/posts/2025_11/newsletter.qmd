@@ -89,13 +89,6 @@ ___
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
-
-
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,**
-
-A SHORT DESCRIPTION OF EVENT 
-
 ### [Health Data Science Seminar Series: Using data to tackle NHS pressures](https://www.eventbrite.co.uk/e/health-data-science-seminar-series-using-data-to-tackle-nhs-pressures-tickets-1908979261359?aff=ebdsoporgprofile&_gl=1*1v2ve1i*_up*MQ..*_ga*ODE4MDM2NzA2LjE3NjQxNzIwMzY.*_ga_TQVES5V6SH*czE3NjQxNzIwMzUkbzEkZzAkdDE3NjQxNzIwMzUkajYwJGwwJGgw){target="_blank"}
 **Thursday 27th November, 14:00 - 15:30, Online**
 
@@ -120,6 +113,17 @@ Machine learning (ML) is a key technology for advancing particle accelerators an
 
 In this seminar, Dr Andrea Santamaria Garcia will focus on tuning and control tasks in particle accelerators using these methods and demonstrate their performance in real machines.
 
+### [AI, Engineering Biology and Beyond 2026](https://www.turing.ac.uk/events/ai-engineering-biology-and-beyond-2026){target="_blank"}
+**Thursday 15th January - Friday 16th January, 09:00 - 17:00, University of Bristol**
+
+We're living through a revolution with AI and Engineering Biology colliding to unlock capabilities that seemed impossible just years ago. From designing new to nature proteins with AI, to reprogramming living cells and accelerating scientific discovery at breath-taking speed. This isn't incremental progress. This is a transformation. Join us in Bristol where pioneers, researchers, and innovators at the intersection of these fields will share their latest breakthroughs, challenge boundaries, and discuss what comes next.
+
+The AI, Engineering Biology and Beyond 2026 event will take place at the University of Bristol, UK and consists of a 2-day conference (15-16 Jan 2026) and an optional 1-day hack-a-thon (14 Jan 2026). Full details about the speaker line up and schedule can be found at the conference website: https://aiebab.github.io/ .
+
+We welcome submission of abstracts for consideration as short oral and poster presentations (before 19th December). These can be provided during the sign-up process. We are particularly interested in submissions from early career researchers (PhDs and postdocs) and will have number of travel awards to support their attendance that will be awarded once the schedule has been finalised.
+
+Lunch, snacks and drinks will be provided throughout the 2 days of the main conference.
+
 ___
 
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
@@ -128,15 +132,6 @@ Know of any events we should feature next month? Let us know by clicking the "Co
 
 <div class="section-heading">
 # Knowledge Sharing
-</div>
-
-TEXT
-
-___
-
-
-<div class="section-heading">
-# Training Opportunities
 </div>
 
 TEXT
