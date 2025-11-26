@@ -58,7 +58,7 @@ ___
 # November Analyst X Data Science Huddle
 </div>
 
-ADDDDD
+Last week we had our November Analyst X Data Science Huddle! Ross Taylor presented his work on using geospatial analysis to optimise diagnostic capacity across the NHS South West region. This project mapped site competition and how easily people across the Southwest can reach key diagnostics; CT, MRI and Endoscopy to ensure new capacity goes where it helps most. This supports the rollout of Community Diagnostic Centres (CDC) by showing who benefits from the Phase 1 CDC placements and identifying future sites for Phases 2 and 3.
 
 Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles.  
 
