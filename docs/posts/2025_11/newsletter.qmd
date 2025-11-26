@@ -104,6 +104,15 @@ Harnessing data effectively can help improve decision-making, efficiency, and pa
 
 This series of seminars presents an exciting opportunity to hear about recent developments in health data science, generate ideas and help build the health data science community. It is hosted by the ONS in partnership with Health Data Research UK (HDR UK).
 
+### [AI+ Research Seminars, October – December 2025](https://www.turing.ac.uk/events/ai-research-seminars-october-december-2025){target="_blank"}
+**Wedsnesday 3rd December, 14:00 - 15:00, Online,**
+
+Hear directly from leading experts at King's College London about advancing AI research across diverse fields, from race and technology to computational biology to public health data. These monthly seminars showcase innovative approaches spanning disciplinary boundaries. 
+
+Explore diverse AI research at King’s College London with our expert speakers. On 3rd December, Dr Georgia Richards on harnessing open data to track preventable deaths.
+
+All seminars are online, free to attend, and open to everyone interested in hearing more from the experts about how they are doing research in, for, and with AI at King's. 
+
 ### [Machine Learning for tuning and control in Particle Accelerators](https://www.turing.ac.uk/events/machine-learning-tuning-and-control-particle-accelerators-0){target="_blank"}
 **Tuesday 9th December, 15:00 - 17:00, Online**
 
