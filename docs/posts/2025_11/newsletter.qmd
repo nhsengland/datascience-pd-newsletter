@@ -27,12 +27,54 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Highlights
+# Interview with a Data Scientist - ADDDDDD
+</div>
+ADDDDD
+
+<details>
+  <summary>Read more...</summary>
+
+  ### How did you end up in data science at the NHS? What did you do before, and what really sparked your interest in this field?
+  ADDDD
+
+  ### Once you joined the NHS, what was that experience like? What different roles and teams have you been a part of, and how have they shaped your career?
+  ADDDD
+
+  ### What are you currently working on? Are there any projects that you're particularly excited about, or that you feel are making a real difference? What impact are you having?
+  ADDDD
+
+  ### If you could give someone just starting out in data science a few pieces of advice, what would they be? And what resources have you found particularly helpful along the way that you can share?
+  ADDDD
+  
+  ___
+  ADDDD
+
+  If you are interested in learning more about the Data Scientists working in Healthcare, you can read our previous iterations of the ['Interview with a Data Scientist'](https://nhsengland.github.io/datascience/articles/category/data-science-interviews/){target='_blank'} on the NHS England Data Science Website.
+
+</details> 
+___
+
+<div class="section-heading">
+# November Analyst X Data Science Huddle
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+ADDDDD
 
-TEXT
+Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles.  
+
+___
+
+<div class="section-heading">
+# December Analyst X Data Science Huddle
+</div>
+**ADDD 2025, 13:00 - 14:00, Online**
+
+ADDD 
+
+Want a read of the abstracts? This event has been added to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where you will find the calendar invite to access the event and further information. 
+
+If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"}  
+
 ___
 
 
@@ -77,7 +119,7 @@ Check out our collection of training resources in the [Resources Section](https:
 # Need a Quick Break?
 </div>
 
-[How many tries will it take you?](custom_wordle_link){target="_blank"}
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=bfrpp){target="_blank"}
 
 
 
