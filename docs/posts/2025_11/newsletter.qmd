@@ -67,11 +67,15 @@ ___
 <div class="section-heading">
 # December Analyst X Data Science Huddle
 </div>
-**ADDD 2025, 13:00 - 14:00, Online**
+**Tuesday 16th December 2025, 14:00 - 15:00, Online**
 
-ADDD 
+The Data Science Community for Health and Care have organised the next AnalystX Data Science Huddle for December! The session will cover:  
 
-Want a read of the abstracts? This event has been added to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where you will find the calendar invite to access the event and further information. 
+* Unlocking Oracle Cloud Infrastructure (OCI) Data Science Region - presented by Oracle
+
+Join Oracle Data Science Leaders, for an in-depth exploration of how the NHS AnalystX community can leverage Oracle Cloud Infrastructure (OCI) Data Science - a robust collaborative platform designed to accelerate analytics and machine learning capabilities for healthcare organisations. OCI Data Science empowers teams to unlock insights in data safely, securely, and efficiently.
+
+This event has been added to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where you will find the calendar invite to access the event and further information. 
 
 If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"}  
 
