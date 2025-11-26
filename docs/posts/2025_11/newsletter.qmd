@@ -58,7 +58,9 @@ ___
 # November Analyst X Data Science Huddle
 </div>
 
-Last week we had our November Analyst X Data Science Huddle! Ross Taylor presented his work on using geospatial analysis to optimise diagnostic capacity across the NHS South West region. This project mapped site competition and how easily people across the Southwest can reach key diagnostics; CT, MRI and Endoscopy to ensure new capacity goes where it helps most. This supports the rollout of Community Diagnostic Centres (CDC) by showing who benefits from the Phase 1 CDC placements and identifying future sites for Phases 2 and 3.
+Last week we had our November Analyst X Data Science Huddle! 
+
+Ross Taylor presented his work on using geospatial analysis to optimise diagnostic capacity across the NHS South West region. This project mapped site competition and how easily people across the Southwest can reach key diagnostics; CT, MRI and Endoscopy to ensure new capacity goes where it helps most. This supports the rollout of Community Diagnostic Centres (CDC) by showing who benefits from the Phase 1 CDC placements and identifying future sites for Phases 2 and 3.
 
 Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles.  
 
@@ -93,6 +95,21 @@ Lots of exciting things coming up! See the [full calendar here](https://future.n
 **DATE, TIME, LOCATION,**
 
 A SHORT DESCRIPTION OF EVENT 
+
+### [Health Data Science Seminar Series: Using data to tackle NHS pressures](https://www.eventbrite.co.uk/e/health-data-science-seminar-series-using-data-to-tackle-nhs-pressures-tickets-1908979261359?aff=ebdsoporgprofile&_gl=1*1v2ve1i*_up*MQ..*_ga*ODE4MDM2NzA2LjE3NjQxNzIwMzY.*_ga_TQVES5V6SH*czE3NjQxNzIwMzUkbzEkZzAkdDE3NjQxNzIwMzUkajYwJGwwJGgw){target="_blank"}
+**Thursday 27th November, 14:00 - 15:30, Online**
+
+Join us to learn how by harnessing data, the NHS can target interventions, reduce waste, and deliver sustainable, patient-centered care.  
+Harnessing data effectively can help improve decision-making, efficiency, and patient outcomes. By turning information into insight, the NHS can target interventions, reduce waste, and deliver more sustainable, patient-centred care.
+
+This series of seminars presents an exciting opportunity to hear about recent developments in health data science, generate ideas and help build the health data science community. It is hosted by the ONS in partnership with Health Data Research UK (HDR UK).
+
+### [Machine Learning for tuning and control in Particle Accelerators](https://www.turing.ac.uk/events/machine-learning-tuning-and-control-particle-accelerators-0){target="_blank"}
+**Tuesday 9th December, 15:00 - 17:00, Online**
+
+Machine learning (ML) is a key technology for advancing particle accelerators and should play a central role in their future design. ML methods provide fast predictions at lower computational cost than analytical or classical numerical approaches, capture nonlinear correlations in data, and adapt to changes in machine conditions. These capabilities enable robust online detection, prediction, optimisation, and control, while also supporting accelerator design by reducing the cost of numerical simulations and guiding parameter searches in high-dimensional spaces. Among ML applications, optimisation is particularly prominent, with Bayesian optimisation and reinforcement learning emerging as leading paradigms. 
+
+In this seminar, Dr Andrea Santamaria Garcia will focus on tuning and control tasks in particle accelerators using these methods and demonstrate their performance in real machines.
 
 ___
 
