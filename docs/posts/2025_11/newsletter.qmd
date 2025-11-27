@@ -27,24 +27,59 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Interview with a Data Scientist - ADDDDDD
+# Interview with a Data Scientist - Hopping into Data Science
 </div>
-ADDDDD
+Welcome to another instalment of our "Interview with a Data Scientist" series, where we explore the careers and work of the talented data scientists across our healthcare organisations. We aim to showcase the fantastic individuals who contribute to Data Science within the healthcare sector and provide valuable insights for those considering a career in this field.
+
+This week our interviewee is Sean Aller, a Principal Data Scientist at NHS England. Sean has a diverse background, having transitioned from academia and teaching into healthcare data science, bringing a wealth of experience and a unique perspective to his role. He is about to move on from NHS England to take up a new challenge as a Technical Specialist - Digital Intelligence Exploitation at the Financial Conduct Authority (FCA).
 
 <details>
   <summary>Read more...</summary>
 
-  ### How did you end up in data science at the NHS? What did you do before, and what really sparked your interest in this field?
-  ADDDD
+  ### How did you end up in data science in your healthcare organisation? What did you do before, and what really sparked your interest in this field?
+  I actually didn't pick data science originally. My background started with an undergraduate degree in Biomedical Science at Warwick, followed by a PhD in Systems Biology. My PhD focused on the mathematical modelling of host-virus metabolic interactions; essentially trying to figure out if there is a pandemic, can we find a drug for it by looking at how the virus uses the host's metabolism? That was where I really got my computer programming background, starting around 2018.
+  
+  From there, my career path was a series of hops.
 
-  ### Once you joined the NHS, what was that experience like? What different roles and teams have you been a part of, and how have they shaped your career?
-  ADDDD
+  Hop 1: I did a post-doc at St George's Hospital. That was my first experience working in a healthcare setting, tackling lots of random projects over two years. Ultimately, I realised I didn't really vibe with the academic route.
+  Hop 2: I moved into teaching at Decoded. I spent about a year and a half teaching a Level 5 data analytics scheme, which really solidified my technical communication skills.
+  Hop 3: I joined HealthHero, a digital clinic, in a data analyst role. I really enjoyed the actual work there, but the setting wasn't quite right for me.
+  Final Hop: That led me to NHS Digital (which later merged with NHS England) as a Data Scientist. It turned out to be the perfect mix of technical work and being back in a public healthcare environment.
+
+  ### Once you joined your healthcare organisation, what was that experience like? What different roles and teams have you been a part of, and how have they shaped your career?
+  It has been amazing. I sit within the Data Science team and was promoted to Principal Data Scientist during my time here. I have also had the opportunity to do stints with other teams, such as the National Disease Registration Service (NDRS) and Analytical Insights. This allowed me to do data science in a more applied setting, embedded within multidisciplinary teams.
+
+  Some of my biggest projects involved clinical and policy work, collaborating directly with clinicians, Subject Matter Experts (SMEs), and academics. Through this, I gained a lot of great soft skills. A prime example was moving from the COVID IDSM work into the Cardiovascular Disease (CVD) Prevent projects (in its DAE, Analytical, UDAL forms). It was effectively half data science work and half working with experts to figure out how things actually function in the real world.
+
+  The core of the experience has been taking what the experts know and translating that into a hard data science solution. It is vital to make sure we get that right; working closely with experts is the only way to build something that is genuinely useful.
 
   ### What are you currently working on? Are there any projects that you're particularly excited about, or that you feel are making a real difference? What impact are you having?
-  ADDDD
+  One of the most exciting things I am working on is actually the Neurodiversity Staff Network. This has been a massive opportunity to advocate and make a difference within the organisation for neurodivergent people. I helped found the Neurodiversity Support Network with a few colleagues, and it eventually became an official staff network during the merger with NHS England.
+
+  I have been able to bring that advocacy back into the Data Science team via the Wellbeing team. We are constantly asking ourselves if we are doing things as a team that ensure we are being inclusive. We discuss these topics at away days, and it has led to practical changes like the creation of wellbeing passports.
+
+  This has been an area of work that was completely unexpected when I joined as a Data Scientist, but it has allowed for growth in soft skills that have been valuable in every aspect of my work.
+
+  ### Looking back on your time in your healthcare organisations Data Science team, what were the most impactful moments? How do you reflect on that experience now?
+  From a project perspective, the most impactful moment was working on the first version of the CVD project. That has now turned into a Business As Usual (BAU) product used by the Office for Health Improvement and Disparities (OHID) in the DHSC as part of their monitoring and the CVD prevent ecosystem. It is incredibly rewarding to have a deployed product out there just running and adding value.
+
+  On a cultural level, the work on inclusivity has been a highlight. Getting permission to help shape the team to be more inclusive, and having senior NHSE leadership sponsor the Neurodiversity Staff Network, made it go much further than we ever hoped. I feel like I am going to leave a contribution that helps make NHS England a better place for people to work at and be served by.
+
+  Reflecting on the experience, I found the HSMA course to be a great learning opportunity. Separately, I made a conscious effort to network with people across the organisation. Being able to learn from people in areas I didn't even know existed and ask them "what are your pain points around data?" was invaluable. Within the Data Science team itself, I have been able to lead on points of culture. We have a flat structure in terms of cultural leadership that doesn't value the contributions of higher paid people more, but rather values those who want to make the team a better place to work.
 
   ### If you could give someone just starting out in data science a few pieces of advice, what would they be? And what resources have you found particularly helpful along the way that you can share?
-  ADDDD
+  My main piece of advice is: don't get hung up on mistakes or looking like you know what you are doing.
+
+  Ask for help and accept that you are going to make mistakes; you will save time and learn more that way. Imposter Syndrome can sometimes just mean you are working outside your comfort zone and developing more as a person.
+
+  If you are looking to learn a new area or skill, go find a team or project in that area and learn from them and the resources they might have created.
+
+  In terms of resources, I highly recommend:
+  * [The Neurodiversity Network on NHS Futures](https://future.nhs.uk/NeurodiversityNetwork): A great community.
+  * [The Python Graph Gallery](https://python-graph-gallery.com/): Excellent for learning new visualisation techniques.
+  * [The HSMA Course](https://sites.google.com/nihr.ac.uk/hsma/home): Great for learning about health data and the healthcare system in the UK. Their back catalogue of projects and books is a great free resource to tap into.
+  * NHS R & PyCom (soon to be NHS OA): Vital communities for technical skills.
+  * The RAP Community of Practice: Essential for learning Reproducible Analytical Pipelines.
   
   ___
   ADDDD
