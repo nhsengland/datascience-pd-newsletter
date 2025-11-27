@@ -87,7 +87,7 @@ In terms of resources, I highly recommend:
  
 ___
 
-ADDDD
+We hope you found this interview with Sean Aller insightful. His journey from academia through teaching to healthcare data science demonstrates the value of embracing new challenges and the unexpected opportunities that arise along the way. Sean's contributions to both technical projects like CVD Prevent and cultural initiatives like the Neurodiversity Staff Network show how data scientists can make a lasting impact beyond their analytical work. We wish Sean all the best in his new role at the Financial Conduct Authority and look forward to seeing how he continues to drive positive change through data science.
 
 If you are interested in learning more about the Data Scientists working in Healthcare, you can read our previous iterations of the ['Interview with a Data Scientist'](https://nhsengland.github.io/datascience/articles/category/data-science-interviews/){target='_blank'} on the NHS England Data Science Website.
 
