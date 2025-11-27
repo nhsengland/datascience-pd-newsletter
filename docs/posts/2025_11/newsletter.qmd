@@ -87,7 +87,11 @@ In terms of resources, I highly recommend:
  
 ___
 
-We hope you found this interview with Sean Aller insightful. His journey from academia through teaching to healthcare data science demonstrates the value of embracing new challenges and the unexpected opportunities that arise along the way. Sean's contributions to both technical projects like CVD Prevent and cultural initiatives like the Neurodiversity Staff Network show how data scientists can make a lasting impact beyond their analytical work. We wish Sean all the best in his new role at the Financial Conduct Authority and look forward to seeing how he continues to drive positive change through data science.
+We hope you found this interview with Sean Aller insightful.  
+
+His journey from academia through teaching to healthcare data science demonstrates the value of embracing new challenges and the unexpected opportunities that arise along the way. Sean's contributions to both technical projects like CVD Prevent and cultural initiatives like the Neurodiversity Staff Network show how data scientists can make a lasting impact beyond their analytical work. 
+
+We wish Sean all the best in his new role at the Financial Conduct Authority and look forward to seeing how he continues to drive positive change through data science.
 
 If you are interested in learning more about the Data Scientists working in Healthcare, you can read our previous iterations of the ['Interview with a Data Scientist'](https://nhsengland.github.io/datascience/articles/category/data-science-interviews/){target='_blank'} on the NHS England Data Science Website.
 
@@ -100,7 +104,9 @@ ___
 
 Last week we had our November Analyst X Data Science Huddle! 
 
-Ross Taylor presented his work on using geospatial analysis to optimise diagnostic capacity across the NHS South West region. This project mapped site competition and how easily people across the Southwest can reach key diagnostics; CT, MRI and Endoscopy to ensure new capacity goes where it helps most. This supports the rollout of Community Diagnostic Centres (CDC) by showing who benefits from the Phase 1 CDC placements and identifying future sites for Phases 2 and 3.
+Ross Taylor presented his work on using geospatial analysis to optimise diagnostic capacity across the NHS South West region. 
+
+This project mapped site competition and how easily people across the Southwest can reach key diagnostics; CT, MRI and Endoscopy to ensure new capacity goes where it helps most. This supports the rollout of Community Diagnostic Centres (CDC) by showing who benefits from the Phase 1 CDC placements and identifying future sites for Phases 2 and 3.
 
 Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles.  
 
