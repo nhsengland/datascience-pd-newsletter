@@ -79,12 +79,39 @@ ___
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
+### [State of AI for Decarbonisation 2025: Cutting through the hype](https://www.turing.ac.uk/events/state-ai-decarbonisation-2025-cutting-through-hype){target="_blank"}
+**Tuesday 13th January, 10:00 - 11:00, Online**
 
+Join Professor Emily Shuckburgh, Chief Scientific Advisor for the Department of Energy Security and Net Zero, and the ADViCE team as we unveil the inaugural State of AI for Decarbonisation report, tracking how UK applications of AI to decarbonisation challenges have matured over the last year. For each of the ADViCE grand challenges we’ll highlight where:
 
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,**
+* AI has already started to deliver decarbonisation impact at scale
+* AI has disappointed and progress has been slower than expected
+* Early applied AI research has made progress that may deliver impact in future
+* Policy, market, data or technology changes provide hints as to decarbonisation areas where AI may have momentum in 2026 
 
-A SHORT DESCRIPTION OF EVENT 
+This free webinar is organised by the AI for Decarbonisation’s Virtual Centre of Excellence (ADViCE), a Department for Energy Security and Net Zero funded programme delivered by Digital Catapult, Energy Systems Catapult and The Alan Turing Institute. You need to register to attend.
+
+### [AI, Engineering Biology and Beyond 2026](https://www.turing.ac.uk/events/ai-engineering-biology-and-beyond-2026){target="_blank"}
+**Thursday 15th January - Friday 16th January, 09:00 - 17:00, University of Bristol**
+
+We're living through a revolution with AI and Engineering Biology colliding to unlock capabilities that seemed impossible just years ago. From designing new to nature proteins with AI, to reprogramming living cells and accelerating scientific discovery at breath-taking speed. This isn't incremental progress. This is a transformation. Join us in Bristol where pioneers, researchers, and innovators at the intersection of these fields will share their latest breakthroughs, challenge boundaries, and discuss what comes next.
+
+The AI, Engineering Biology and Beyond 2026 event will take place at the University of Bristol, UK and consists of a 2-day conference (15-16 Jan 2026) and an optional 1-day hack-a-thon (14 Jan 2026). Full details about the speaker line up and schedule can be found at the conference website: https://aiebab.github.io/ .
+
+We welcome submission of abstracts for consideration as short oral and poster presentations (before 19th December). These can be provided during the sign-up process. We are particularly interested in submissions from early career researchers (PhDs and postdocs) and will have number of travel awards to support their attendance that will be awarded once the schedule has been finalised.
+
+Lunch, snacks and drinks will be provided throughout the 2 days of the main conference.
+
+### [Beyond AI Saviorism: A Practical approach to assessing the usefulness of AI systems](https://www.datascienceconnects.com/DataScience/Events/Event_display.aspx?EventKey=WEBJAN26&WebsiteKey=895c5ac3-48c4-4044-9150-a42812a702d2){target="_blank"}
+**Wednesday 28th January, 12:00 - 13:00, Online**
+
+In this webinar, we welcome Hinda Haned from Owls & Arrows who will talk about responsible AI and the introduction of the Data Analytics Functionality Index (DAFI).
+
+We introduce the Data Analytics Functionality Index (DAFI). Inspired by food labelling schemes (such as the Nutriscore), DAFI simplifies the evaluation of AI-related projects through a clear, visual representation of a system’s functionality and potential decision impact. It enables decision-makers to compare AI-driven initiatives, prioritise those with real value, and make informed choices about when to pause or abandon non-viable projects.
+
+During this webinar, participants will work through a practical use case to see how DAFI can be applied in practice. We will demonstrate how to assess an AI system using the index, interpret its functional profile, and use the results to support investment, governance, and portfolio decisions.
+
+Note, in order to register for this event, you will need to create an account with Data Science Connects.
 
 ___
 
