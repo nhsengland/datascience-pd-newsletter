@@ -27,12 +27,25 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Highlights
+# Interview with a Data Scientist - XXX
 </div>
+Blah
+<details>
+  <summary>Read more...</summary>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+### H1
 
-TEXT
+### H2
+
+### H3
+
+___
+
+blah
+
+</details>
+
+___
 
 <div class="section-heading">
 # December  Analyst X Data Science Huddle
