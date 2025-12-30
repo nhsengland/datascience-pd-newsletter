@@ -1,6 +1,6 @@
 ---
 title: 'Data Science Community for Health and Care Newsletter December 2025'
-date: '2025-12-30'
+date: '2025-12-31'
 format:
   html:
     css: index.css
@@ -96,7 +96,7 @@ This free webinar is organised by the AI for Decarbonisation’s Virtual Centre 
 
 We're living through a revolution with AI and Engineering Biology colliding to unlock capabilities that seemed impossible just years ago. From designing new to nature proteins with AI, to reprogramming living cells and accelerating scientific discovery at breath-taking speed. This isn't incremental progress. This is a transformation. Join us in Bristol where pioneers, researchers, and innovators at the intersection of these fields will share their latest breakthroughs, challenge boundaries, and discuss what comes next.
 
-The AI, Engineering Biology and Beyond 2026 event will take place at the University of Bristol, UK and consists of a 2-day conference (15-16 Jan 2026) and an optional 1-day hack-a-thon (14 Jan 2026). Full details about the speaker line up and schedule can be found at the conference website: https://aiebab.github.io/ .
+The AI, Engineering Biology and Beyond 2026 event will take place at the University of Bristol, UK and consists of a 2-day conference (15-16 Jan 2026) and an optional 1-day hack-a-thon (14 Jan 2026). Full details about the speaker line up and schedule can be found at the [conference website](https://aiebab.github.io/){target="_blank"} .
 
 We welcome submission of abstracts for consideration as short oral and poster presentations (before 19th December). These can be provided during the sign-up process. We are particularly interested in submissions from early career researchers (PhDs and postdocs) and will have number of travel awards to support their attendance that will be awarded once the schedule has been finalised.
 
