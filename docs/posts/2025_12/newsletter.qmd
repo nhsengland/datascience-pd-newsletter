@@ -119,21 +119,6 @@ See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/vie
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
 
-<div class="section-heading">
-# Knowledge Sharing
-</div>
-
-TEXT
-
-___
-
-
-<div class="section-heading">
-# Training Opportunities
-</div>
-
-TEXT
-
 ___
 
 Check out our collection of training resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
