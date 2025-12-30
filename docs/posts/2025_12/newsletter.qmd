@@ -33,8 +33,33 @@ Thanks for reading! – newsletter team
 #### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
 
 TEXT
+
+<div class="section-heading">
+# December  Analyst X Data Science Huddle
+</div>
+
+Recently, we had our December Analyst X Data Science Huddle!
+
+Oracle kindly presented an in-depth exploration of how the NHS AnalystX community can leverage Oracle Cloud Infrastructure (OCI) Data Science - a robust collaborative platform designed to accelerate analytics and machine learning capabilities for healthcare organisations.
+
+Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles. 
+
 ___
 
+<div class="section-heading">
+# January Analyst X Data Science Huddle
+</div>
+**Tuesday 20th January 2026, 14:00 - 14:45, Online**
+
+With a new year comes a new Data Science Huddle! The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for January. The session will cover:
+
+* Generating Synthetic Patient Pathways and Clinical Notes using LLMs - presented by Ben Wallace and William Poulett (NHS England Data Science and Applied AI Team)
+
+This event will be added to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where we will add the abstract for the session and any further information.
+
+If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"}  
+
+___
 
 <div class="section-heading">
 # Events
