@@ -1,0 +1,169 @@
+---
+title: 'Data Science Community for Health and Care Newsletter December 2025'
+date: '2025-12-31'
+format:
+  html:
+    css: index.css
+  pdf:
+    toc: false
+    geometry: 
+      - top=10mm
+      - bottom=10mm
+      - left=20mm
+      - right=20mm
+categories: ['newsletter', 'interview with a data scientist']
+description: 'The Data Science Community for Health and Care newsletter for December 2025'
+author: 'Elizabeth Kelly, Chris Beeley'
+---
+
+![](../../images/banner_dec.png)
+
+Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
+
+The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have. 
+
+If you cannot access something of interest to you, please [reach out](https://github.com/nhsengland/datascience-pd-newsletter/issues/new){target="_blank"}. 
+
+Thanks for reading! – newsletter team 
+
+<div class="section-heading">
+# Interview with a Data Scientist - The Accidental Manager
+</div>
+Welcome to another instalment of our "Interview with a Data Scientist" series, where we explore the careers and work of the talented data scientists across our healthcare organisations. We aim to showcase the fantastic individuals who contribute to data science within the healthcare sector and provide valuable insights for those considering a career in this field.
+
+This week, our interviewee is **Chris Beeley**, the Head of Data Science at the Strategy Unit. Chris leads a team dedicated to improving the robustness and transparency of analytical work through methods such as Reproducible Analytical Pipelines (RAP). His team is also a core component of the leadership of the NHS-R community, delivering code-first training and support across health and social care organisations.
+
+<details>
+  <summary>Read more...</summary>
+
+### How did you end up in data science in your healthcare organisation? What did you do before, and what really sparked your interest in this field?
+I was originally supposed to be a clinical psychologist. I’ve always been interested in why people think and behave the way they do, and as the son of a dentist and a social worker, I always knew I wanted to work for the greatest employer in the world: the NHS.
+
+I headed off to university to study psychology and then worked as a healthcare assistant in psychiatric environments—a common way of gaining the experience required for clinical psychology. I worked for some time at Rampton, a high-secure hospital, on a ward for offenders with psychopathy and other forms of personality disorder. It was fascinating work, but while I was there, a PhD opportunity arose in the School of Psychology looking at daily behaviour and its association with personality disorders. The research was heavily focused on statistics, specifically mixed-effects models. After I finished, I continued working for the Trust that hosts Rampton. I started using R for stats, honestly only because it was free. This was back in 2008, during the "bad old days" when R wasn't visible in the NHS and online help was not particularly friendly.
+
+I eventually got involved in a patient survey project that generated a lot of data quickly—hundreds of surveys a month. Not knowing any better, I initially used the same approach I had used in my PhD: Excel macros. One day, a lightbulb went off: "I know how to do stats with R. R is a programming language designed to manipulate data. I bet I can write an R program to process all these surveys". With a bit of help from a contact in Canada, I managed to generate all the graphs with R. Then came another lightbulb moment: using `{brew}` (this was before RMarkdown) to write the entire report. When this newfangled thing called **Shiny** was released, I built a dashboard and eventually wrote a book about it.
+
+For a long time, I didn’t know what to call myself because I was doing a bit of everything: building databases, writing dashboards, analysing data, and managing a Linux server to host Shiny applications. To my knowledge, nobody in the NHS was calling themselves a "data scientist" at the time. One day around 2016, I decided that’s what I was, so I just started calling myself a data scientist. I had one of those vague analytical job titles that didn't mean much, and nobody objected to the change. Eventually, I saw the "Head of Data Science" role advertised at the Strategy Unit, got the job, and here I am.
+
+### What are you currently working on? Are there any projects that you’re particularly excited about, or that you feel are making a real difference? What impact are you having?
+I’ve been working with data in the NHS for 21 years now, and I’ve enjoyed every role I’ve had. It isn’t always easy to see the immediate impact of my work compared to, say, my father, who spent his days physically fixing people's teeth in the NHS. However, I think there are three things I’ve done that are particularly worthy of note.
+
+The first is the work with **patient experience** I mentioned earlier. Qualitative patient experience data (free-text) is often not given the attention it deserves. My work generating reports and dashboards—and more recently, my team’s work on an open-source algorithm to classify patient experience data—has helped give this data a higher profile. I know it has helped healthcare organisations better understand what is happening for their patients.
+
+The second is **NHS-R**, which recently merged with NHS Pycom to form the **NHS Open Analytics** community. As I mentioned, I learned R when it was almost non-existent in the NHS. I vowed that nobody else would have to suffer the same misery I did in 2008 learning R on my own. NHS-R is the fulfilment of that vow. I couldn’t dream of having the same impact alone as a community of analysts and data scientists can have by supporting each other, learning together, and cooperating across organisational boundaries. I consider NHS Open Analytics to be a vital part of the future of data and analytics across health and care.
+
+The third is leading my team’s work on the **open-source demand and capacity model** for acute healthcare planning, commissioned by the New Hospital Programme.
+
+I don’t actually "do" any data science myself anymore; I don’t write code, review pull requests, or deploy products. I could do those things, but I choose not to because I want to ensure my work is valuable to the team, who are working hard on difficult problems. My role involves the essential "manager" tasks: arranging funding for equipment, sorting out Information Governance (IG), and demonstrating the value of our work to senior leaders. I also act as a buffer to manage the flow of work; everyone wants everything yesterday, so it’s my job to say "no" and explain what is possible.
+
+I set the strategic direction—such as adopting agile methodologies or creating product roles—but the energy and insight come from the team. My most important role is **setting the culture**. In our team, we share successes and failures, we listen to and help each other, and we treat each other as people first and data scientists second. We understand that mistakes are inevitable. When something goes wrong, we look at our processes to improve how we work as a team, and we never blame an individual. Everyone in the team is a wonderful person as well as a brilliant scientist; my job is to help everyone remember our values even when the chips are down and people are feeling tired or frustrated.
+
+### If you could give someone just starting out in data science a few pieces of advice, what would they be?
+I’m asked this a lot, and I don't think I have one perfect answer. My story involved calling myself a data scientist after doing many random things with computers, but that path might not work as easily today given how the field has evolved. Instead, I’ll share some general advice that I hope will help someone in their career:
+
+* **Be nice to people on the way up**, because you may meet them again on the way down.
+* **If you’re the smartest person in the room, you’re in the wrong room**.
+* We are all smart; **distinguish yourself by being kind**.
+* Don’t get hung up on demonstrating your "value" and spreading yourself thin—do your job, find a problem, solve it, highlight the solution, and move on.
+* **Don’t fall into the trap of thinking you need to have all the answers**; if you don’t know something, just listen.
+* I was supposed to be a clinical psychologist—**do something you love every day** and try not to worry too much about job titles and roles; you’ll find your way through.
+
+___
+
+We hope you found this interview with Chris Beeley insightful. His journey from clinical psychology to leading a data science team demonstrates the value of curiosity and the importance of building supportive communities like NHS-R. Chris’s contributions to both technical transparency and a supportive team culture show how data science leaders can make a lasting impact far beyond the code itself.
+
+If you are interested in learning more about the Data Scientists working in Healthcare, you can read our previous iterations of the ['Interview with a Data Scientist'](https://nhsengland.github.io/datascience/articles/category/data-science-interviews/){target='_blank'} on the NHS England Data Science Website.
+
+</details>
+
+___
+
+<div class="section-heading">
+# December  Analyst X Data Science Huddle
+</div>
+
+Recently, we had our December Analyst X Data Science Huddle!
+
+Oracle kindly presented an in-depth exploration of how the NHS AnalystX community can leverage Oracle Cloud Infrastructure (OCI) Data Science - a robust collaborative platform designed to accelerate analytics and machine learning capabilities for healthcare organisations.
+
+Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles. 
+
+___
+
+<div class="section-heading">
+# January Analyst X Data Science Huddle
+</div>
+**Tuesday 20th January 2026, 14:00 - 14:45, Online**
+
+With a new year comes a new Data Science Huddle! The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for January. The session will cover:
+
+* Generating Synthetic Patient Pathways and Clinical Notes using LLMs - presented by Ben Wallace and William Poulett (NHS England Data Science and Applied AI Team)
+
+This event will be added to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where we will add the abstract for the session and any further information.
+
+If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"}  
+
+___
+
+<div class="section-heading">
+# Events
+</div>
+Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
+
+### [State of AI for Decarbonisation 2025: Cutting through the hype](https://www.turing.ac.uk/events/state-ai-decarbonisation-2025-cutting-through-hype){target="_blank"}
+**Tuesday 13th January, 10:00 - 11:00, Online**
+
+Join Professor Emily Shuckburgh, Chief Scientific Advisor for the Department of Energy Security and Net Zero, and the ADViCE team as we unveil the inaugural State of AI for Decarbonisation report, tracking how UK applications of AI to decarbonisation challenges have matured over the last year. For each of the ADViCE grand challenges we’ll highlight where:
+
+* AI has already started to deliver decarbonisation impact at scale
+* AI has disappointed and progress has been slower than expected
+* Early applied AI research has made progress that may deliver impact in future
+* Policy, market, data or technology changes provide hints as to decarbonisation areas where AI may have momentum in 2026 
+
+This free webinar is organised by the AI for Decarbonisation’s Virtual Centre of Excellence (ADViCE), a Department for Energy Security and Net Zero funded programme delivered by Digital Catapult, Energy Systems Catapult and The Alan Turing Institute. You need to register to attend.
+
+### [AI, Engineering Biology and Beyond 2026](https://www.turing.ac.uk/events/ai-engineering-biology-and-beyond-2026){target="_blank"}
+**Thursday 15th January - Friday 16th January, 09:00 - 17:00, University of Bristol**
+
+We're living through a revolution with AI and Engineering Biology colliding to unlock capabilities that seemed impossible just years ago. From designing new to nature proteins with AI, to reprogramming living cells and accelerating scientific discovery at breath-taking speed. This isn't incremental progress. This is a transformation. Join us in Bristol where pioneers, researchers, and innovators at the intersection of these fields will share their latest breakthroughs, challenge boundaries, and discuss what comes next.
+
+The AI, Engineering Biology and Beyond 2026 event will take place at the University of Bristol, UK and consists of a 2-day conference (15-16 Jan 2026) and an optional 1-day hack-a-thon (14 Jan 2026). Full details about the speaker line up and schedule can be found at the [conference website](https://aiebab.github.io/){target="_blank"} .
+
+We welcome submission of abstracts for consideration as short oral and poster presentations (before 19th December). These can be provided during the sign-up process. We are particularly interested in submissions from early career researchers (PhDs and postdocs) and will have number of travel awards to support their attendance that will be awarded once the schedule has been finalised.
+
+Lunch, snacks and drinks will be provided throughout the 2 days of the main conference.
+
+### [Beyond AI Saviorism: A Practical approach to assessing the usefulness of AI systems](https://www.datascienceconnects.com/DataScience/Events/Event_display.aspx?EventKey=WEBJAN26&WebsiteKey=895c5ac3-48c4-4044-9150-a42812a702d2){target="_blank"}
+**Wednesday 28th January, 12:00 - 13:00, Online**
+
+In this webinar, we welcome Hinda Haned from Owls & Arrows who will talk about responsible AI and the introduction of the Data Analytics Functionality Index (DAFI).
+
+We introduce the Data Analytics Functionality Index (DAFI). Inspired by food labelling schemes (such as the Nutriscore), DAFI simplifies the evaluation of AI-related projects through a clear, visual representation of a system’s functionality and potential decision impact. It enables decision-makers to compare AI-driven initiatives, prioritise those with real value, and make informed choices about when to pause or abandon non-viable projects.
+
+During this webinar, participants will work through a practical use case to see how DAFI can be applied in practice. We will demonstrate how to assess an AI system using the index, interpret its functional profile, and use the results to support investment, governance, and portfolio decisions.
+
+Note, in order to register for this event, you will need to create an account with Data Science Connects.
+
+___
+
+See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
+
+Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
+
+___
+
+Check out our collection of training resources in the [Resources Section](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}! Can you spot something missing? [Contact us](mailto:datascience@nhs.net)!
+
+<div class="section-heading">
+# Need a Quick Break?
+</div>
+
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=yzrvd){target="_blank"}
+
+
+
+<div style="text-align: center;">
+
+[Subscribe to the community](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}[Contribute](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}[PDF Version](./newsletter.pdf){.btn-action-primary .btn-action .btn .btn-info .btn-lg role="button" target="_blank"}
+</div>
+

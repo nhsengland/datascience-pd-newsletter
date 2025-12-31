@@ -11,7 +11,7 @@ format:
       - bottom=10mm
       - left=20mm
       - right=20mm
-categories: ['newsletter', 'RPySOC', 'Data Science Discussion']
+categories: ['newsletter', 'RPySOC', 'data science discussion']
 description: 'The Data Science Community for Health and Care newsletter for November 2024'
 author: 'Jennifer Struthers, William Poulett'
 ---
