@@ -11,7 +11,134 @@
 <description>A newsletter to share professional development tips and opportunities for people interested in healthcare data science
 </description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Thu, 27 Nov 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Data Science Community for Health and Care Newsletter December 2025</title>
+  <dc:creator>Elizabeth Kelly, Chris Beeley</dc:creator>
+  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_12/newsletter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_dec.png" class="img-fluid"></p>
+<p>Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team.</p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – newsletter team</p>
+<section id="interview-with-a-data-scientist---the-accidental-manager" class="level1 section-heading">
+<h1>Interview with a Data Scientist - The Accidental Manager</h1>
+</section>
+<p>Welcome to another instalment of our “Interview with a Data Scientist” series, where we explore the careers and work of the talented data scientists across our healthcare organisations. We aim to showcase the fantastic individuals who contribute to data science within the healthcare sector and provide valuable insights for those considering a career in this field.</p>
+<p>This week, our interviewee is <strong>Chris Beeley</strong>, the Head of Data Science at the Strategy Unit. Chris leads a team dedicated to improving the robustness and transparency of analytical work through methods such as Reproducible Analytical Pipelines (RAP). His team is also a core component of the leadership of the NHS-R community, delivering code-first training and support across health and social care organisations.</p>
+<details>
+<summary>
+Read more…
+</summary>
+<section id="how-did-you-end-up-in-data-science-in-your-healthcare-organisation-what-did-you-do-before-and-what-really-sparked-your-interest-in-this-field" class="level3">
+<h3 class="anchored" data-anchor-id="how-did-you-end-up-in-data-science-in-your-healthcare-organisation-what-did-you-do-before-and-what-really-sparked-your-interest-in-this-field">How did you end up in data science in your healthcare organisation? What did you do before, and what really sparked your interest in this field?</h3>
+<p>I was originally supposed to be a clinical psychologist. I’ve always been interested in why people think and behave the way they do, and as the son of a dentist and a social worker, I always knew I wanted to work for the greatest employer in the world: the NHS.</p>
+<p>I headed off to university to study psychology and then worked as a healthcare assistant in psychiatric environments—a common way of gaining the experience required for clinical psychology. I worked for some time at Rampton, a high-secure hospital, on a ward for offenders with psychopathy and other forms of personality disorder. It was fascinating work, but while I was there, a PhD opportunity arose in the School of Psychology looking at daily behaviour and its association with personality disorders. The research was heavily focused on statistics, specifically mixed-effects models. After I finished, I continued working for the Trust that hosts Rampton. I started using R for stats, honestly only because it was free. This was back in 2008, during the “bad old days” when R wasn’t visible in the NHS and online help was not particularly friendly.</p>
+<p>I eventually got involved in a patient survey project that generated a lot of data quickly—hundreds of surveys a month. Not knowing any better, I initially used the same approach I had used in my PhD: Excel macros. One day, a lightbulb went off: “I know how to do stats with R. R is a programming language designed to manipulate data. I bet I can write an R program to process all these surveys”. With a bit of help from a contact in Canada, I managed to generate all the graphs with R. Then came another lightbulb moment: using <code>{brew}</code> (this was before RMarkdown) to write the entire report. When this newfangled thing called <strong>Shiny</strong> was released, I built a dashboard and eventually wrote a book about it.</p>
+<p>For a long time, I didn’t know what to call myself because I was doing a bit of everything: building databases, writing dashboards, analysing data, and managing a Linux server to host Shiny applications. To my knowledge, nobody in the NHS was calling themselves a “data scientist” at the time. One day around 2016, I decided that’s what I was, so I just started calling myself a data scientist. I had one of those vague analytical job titles that didn’t mean much, and nobody objected to the change. Eventually, I saw the “Head of Data Science” role advertised at the Strategy Unit, got the job, and here I am.</p>
+</section>
+<section id="what-are-you-currently-working-on-are-there-any-projects-that-youre-particularly-excited-about-or-that-you-feel-are-making-a-real-difference-what-impact-are-you-having" class="level3">
+<h3 class="anchored" data-anchor-id="what-are-you-currently-working-on-are-there-any-projects-that-youre-particularly-excited-about-or-that-you-feel-are-making-a-real-difference-what-impact-are-you-having">What are you currently working on? Are there any projects that you’re particularly excited about, or that you feel are making a real difference? What impact are you having?</h3>
+<p>I’ve been working with data in the NHS for 21 years now, and I’ve enjoyed every role I’ve had. It isn’t always easy to see the immediate impact of my work compared to, say, my father, who spent his days physically fixing people’s teeth in the NHS. However, I think there are three things I’ve done that are particularly worthy of note.</p>
+<p>The first is the work with <strong>patient experience</strong> I mentioned earlier. Qualitative patient experience data (free-text) is often not given the attention it deserves. My work generating reports and dashboards—and more recently, my team’s work on an open-source algorithm to classify patient experience data—has helped give this data a higher profile. I know it has helped healthcare organisations better understand what is happening for their patients.</p>
+<p>The second is <strong>NHS-R</strong>, which recently merged with NHS Pycom to form the <strong>NHS Open Analytics</strong> community. As I mentioned, I learned R when it was almost non-existent in the NHS. I vowed that nobody else would have to suffer the same misery I did in 2008 learning R on my own. NHS-R is the fulfilment of that vow. I couldn’t dream of having the same impact alone as a community of analysts and data scientists can have by supporting each other, learning together, and cooperating across organisational boundaries. I consider NHS Open Analytics to be a vital part of the future of data and analytics across health and care.</p>
+<p>The third is leading my team’s work on the <strong>open-source demand and capacity model</strong> for acute healthcare planning, commissioned by the New Hospital Programme.</p>
+<p>I don’t actually “do” any data science myself anymore; I don’t write code, review pull requests, or deploy products. I could do those things, but I choose not to because I want to ensure my work is valuable to the team, who are working hard on difficult problems. My role involves the essential “manager” tasks: arranging funding for equipment, sorting out Information Governance (IG), and demonstrating the value of our work to senior leaders. I also act as a buffer to manage the flow of work; everyone wants everything yesterday, so it’s my job to say “no” and explain what is possible.</p>
+<p>I set the strategic direction—such as adopting agile methodologies or creating product roles—but the energy and insight come from the team. My most important role is <strong>setting the culture</strong>. In our team, we share successes and failures, we listen to and help each other, and we treat each other as people first and data scientists second. We understand that mistakes are inevitable. When something goes wrong, we look at our processes to improve how we work as a team, and we never blame an individual. Everyone in the team is a wonderful person as well as a brilliant scientist; my job is to help everyone remember our values even when the chips are down and people are feeling tired or frustrated.</p>
+</section>
+<section id="if-you-could-give-someone-just-starting-out-in-data-science-a-few-pieces-of-advice-what-would-they-be" class="level3">
+<h3 class="anchored" data-anchor-id="if-you-could-give-someone-just-starting-out-in-data-science-a-few-pieces-of-advice-what-would-they-be">If you could give someone just starting out in data science a few pieces of advice, what would they be?</h3>
+<p>I’m asked this a lot, and I don’t think I have one perfect answer. My story involved calling myself a data scientist after doing many random things with computers, but that path might not work as easily today given how the field has evolved. Instead, I’ll share some general advice that I hope will help someone in their career:</p>
+<ul>
+<li><strong>Be nice to people on the way up</strong>, because you may meet them again on the way down.</li>
+<li><strong>If you’re the smartest person in the room, you’re in the wrong room</strong>.</li>
+<li>We are all smart; <strong>distinguish yourself by being kind</strong>.</li>
+<li>Don’t get hung up on demonstrating your “value” and spreading yourself thin—do your job, find a problem, solve it, highlight the solution, and move on.</li>
+<li><strong>Don’t fall into the trap of thinking you need to have all the answers</strong>; if you don’t know something, just listen.</li>
+<li>I was supposed to be a clinical psychologist—<strong>do something you love every day</strong> and try not to worry too much about job titles and roles; you’ll find your way through.</li>
+</ul>
+<hr>
+<p>We hope you found this interview with Chris Beeley insightful. His journey from clinical psychology to leading a data science team demonstrates the value of curiosity and the importance of building supportive communities like NHS-R. Chris’s contributions to both technical transparency and a supportive team culture show how data science leaders can make a lasting impact far beyond the code itself.</p>
+<p>If you are interested in learning more about the Data Scientists working in Healthcare, you can read our previous iterations of the <a href="https://nhsengland.github.io/datascience/articles/category/data-science-interviews/" target="_blank">‘Interview with a Data Scientist’</a> on the NHS England Data Science Website.</p>
+</section></details>
+<hr>
+
+<section id="december-analyst-x-data-science-huddle" class="level1 section-heading">
+<h1>December Analyst X Data Science Huddle</h1>
+</section>
+<p>Recently, we had our December Analyst X Data Science Huddle!</p>
+<p>Oracle kindly presented an in-depth exploration of how the NHS AnalystX community can leverage Oracle Cloud Infrastructure (OCI) Data Science - a robust collaborative platform designed to accelerate analytics and machine learning capabilities for healthcare organisations.</p>
+<p>Missed the session? <a href="https://future.nhs.uk/DataAnalytics/view?objectID=56936784" target="_blank">Check out the recording and PowerPoint slides here</a>, where you will also find the recordings of previous huddles.</p>
+<hr>
+<section id="january-analyst-x-data-science-huddle" class="level1 section-heading">
+<h1>January Analyst X Data Science Huddle</h1>
+</section>
+<p><strong>Tuesday 20th January 2026, 14:00 - 14:45, Online</strong></p>
+<p>With a new year comes a new Data Science Huddle! The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for January. The session will cover:</p>
+<ul>
+<li>Generating Synthetic Patient Pathways and Clinical Notes using LLMs - presented by Ben Wallace and William Poulett (NHS England Data Science and Applied AI Team)</li>
+</ul>
+<p>This event will be added to <a href="https://future.nhs.uk/DataAnalytics/view?objectID=1253649" target="_blank">our Data Science Community for Health and Care calendar</a>, where we will add the abstract for the session and any further information.</p>
+<p>If you would like to be invited to future events of ours, <a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" target="_blank">sign up to our mailing list!</a></p>
+<hr>
+<section id="events" class="level1 section-heading">
+<h1>Events</h1>
+</section>
+<p>Lots of exciting things coming up! See the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">full calendar here</a>, and a small selection below.</p>
+<section id="state-of-ai-for-decarbonisation-2025-cutting-through-the-hype" class="level3">
+<h3 class="anchored" data-anchor-id="state-of-ai-for-decarbonisation-2025-cutting-through-the-hype"><a href="https://www.turing.ac.uk/events/state-ai-decarbonisation-2025-cutting-through-hype" target="_blank">State of AI for Decarbonisation 2025: Cutting through the hype</a></h3>
+<p><strong>Tuesday 13th January, 10:00 - 11:00, Online</strong></p>
+<p>Join Professor Emily Shuckburgh, Chief Scientific Advisor for the Department of Energy Security and Net Zero, and the ADViCE team as we unveil the inaugural State of AI for Decarbonisation report, tracking how UK applications of AI to decarbonisation challenges have matured over the last year. For each of the ADViCE grand challenges we’ll highlight where:</p>
+<ul>
+<li>AI has already started to deliver decarbonisation impact at scale</li>
+<li>AI has disappointed and progress has been slower than expected</li>
+<li>Early applied AI research has made progress that may deliver impact in future</li>
+<li>Policy, market, data or technology changes provide hints as to decarbonisation areas where AI may have momentum in 2026</li>
+</ul>
+<p>This free webinar is organised by the AI for Decarbonisation’s Virtual Centre of Excellence (ADViCE), a Department for Energy Security and Net Zero funded programme delivered by Digital Catapult, Energy Systems Catapult and The Alan Turing Institute. You need to register to attend.</p>
+</section>
+<section id="ai-engineering-biology-and-beyond-2026" class="level3">
+<h3 class="anchored" data-anchor-id="ai-engineering-biology-and-beyond-2026"><a href="https://www.turing.ac.uk/events/ai-engineering-biology-and-beyond-2026" target="_blank">AI, Engineering Biology and Beyond 2026</a></h3>
+<p><strong>Thursday 15th January - Friday 16th January, 09:00 - 17:00, University of Bristol</strong></p>
+<p>We’re living through a revolution with AI and Engineering Biology colliding to unlock capabilities that seemed impossible just years ago. From designing new to nature proteins with AI, to reprogramming living cells and accelerating scientific discovery at breath-taking speed. This isn’t incremental progress. This is a transformation. Join us in Bristol where pioneers, researchers, and innovators at the intersection of these fields will share their latest breakthroughs, challenge boundaries, and discuss what comes next.</p>
+<p>The AI, Engineering Biology and Beyond 2026 event will take place at the University of Bristol, UK and consists of a 2-day conference (15-16 Jan 2026) and an optional 1-day hack-a-thon (14 Jan 2026). Full details about the speaker line up and schedule can be found at the <a href="https://aiebab.github.io/" target="_blank">conference website</a> .</p>
+<p>We welcome submission of abstracts for consideration as short oral and poster presentations (before 19th December). These can be provided during the sign-up process. We are particularly interested in submissions from early career researchers (PhDs and postdocs) and will have number of travel awards to support their attendance that will be awarded once the schedule has been finalised.</p>
+<p>Lunch, snacks and drinks will be provided throughout the 2 days of the main conference.</p>
+</section>
+<section id="beyond-ai-saviorism-a-practical-approach-to-assessing-the-usefulness-of-ai-systems" class="level3">
+<h3 class="anchored" data-anchor-id="beyond-ai-saviorism-a-practical-approach-to-assessing-the-usefulness-of-ai-systems"><a href="https://www.datascienceconnects.com/DataScience/Events/Event_display.aspx?EventKey=WEBJAN26&amp;WebsiteKey=895c5ac3-48c4-4044-9150-a42812a702d2" target="_blank">Beyond AI Saviorism: A Practical approach to assessing the usefulness of AI systems</a></h3>
+<p><strong>Wednesday 28th January, 12:00 - 13:00, Online</strong></p>
+<p>In this webinar, we welcome Hinda Haned from Owls &amp; Arrows who will talk about responsible AI and the introduction of the Data Analytics Functionality Index (DAFI).</p>
+<p>We introduce the Data Analytics Functionality Index (DAFI). Inspired by food labelling schemes (such as the Nutriscore), DAFI simplifies the evaluation of AI-related projects through a clear, visual representation of a system’s functionality and potential decision impact. It enables decision-makers to compare AI-driven initiatives, prioritise those with real value, and make informed choices about when to pause or abandon non-viable projects.</p>
+<p>During this webinar, participants will work through a practical use case to see how DAFI can be applied in practice. We will demonstrate how to assess an AI system using the index, interpret its functional profile, and use the results to support investment, governance, and portfolio decisions.</p>
+<p>Note, in order to register for this event, you will need to create an account with Data Science Connects.</p>
+<hr>
+<p>See more future events on the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">calendar</a></p>
+<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+<hr>
+<p>Check out our collection of training resources in the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">Resources Section</a>! Can you spot something missing? <a href="mailto:datascience@nhs.net">Contact us</a>!</p>
+</section>
+<section id="need-a-quick-break" class="level1 section-heading">
+<h1>Need a Quick Break?</h1>
+</section>
+<p><a href="https://mywordle.strivemath.com/?word=yzrvd" target="_blank">How many tries will it take you?</a></p>
+<div style="text-align: center;">
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe to the community</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>newsletter</category>
+  <category>interview with a data scientist</category>
+  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_12/newsletter.html</guid>
+  <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Data Science Community for Health and Care Newsletter November 2025</title>
   <dc:creator>Elizabeth Kelly, Sean Aller</dc:creator>
@@ -1536,7 +1663,7 @@ Basically, combine structured learning with practical application, and don’t b
  ]]></description>
   <category>newsletter</category>
   <category>RPySOC</category>
-  <category>Data Science Discussion</category>
+  <category>data science discussion</category>
   <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_11/newsletter.html</guid>
   <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
 </item>
@@ -2267,138 +2394,6 @@ Basically, combine structured learning with practical application, and don’t b
   <category>newsletter</category>
   <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_05/newsletter.html</guid>
   <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Professional Development Newsletter April 2024</title>
-  <dc:creator>Jennifer Struthers</dc:creator>
-  <dc:creator>Giulia Mantovani</dc:creator>
-  <dc:creator>Harriet Sands</dc:creator>
-  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_04/newsletter.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_april.png" class="img-fluid"></p>
-<p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science Professional Development Functional Team.</p>
-<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
-<p>There are some legacy NHS Digital items which we have identified with❗</p>
-<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
-<p>Thanks for reading! – PD newsletter team</p>
-<section id="highlights" class="level1 section-heading">
-<h1>Highlights</h1>
-</section>
-<section id="now-accessible-to-all" class="level3">
-<h3 class="anchored" data-anchor-id="now-accessible-to-all">Now Accessible to All!</h3>
-<p>After trialing the use of the <a href="https://github.com/NHSDigital" target="_blank">NHS Digital GitHub</a> to aid in the creation of the newsletter, it has now been officially moved to the publically accessible <a href="https://github.com/nhsengland" target="_blank">NHS England GitHub</a>.</p>
-<p>We strongly encourage contributions to the newsletter from all our colleagues, which can be submitted through <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">clicking here</a> or any of the “Contribute” buttons around the site.</p>
-</section>
-<section id="mentoring-scheme-expression-of-interest" class="level3">
-<h3 class="anchored" data-anchor-id="mentoring-scheme-expression-of-interest">Mentoring Scheme Expression of Interest</h3>
-<p>The Professional Development Function Team are investigating the interest in starting up a Mentorship Scheme between senior and junior NHS Data Science colleagues.</p>
-<p><a href="https://www.southampton.ac.uk/professional-development/mentoring/benefits-of-a-mentoring-relationship.page" target="_blank">Mentorship benefits both parties</a>: mentees are provided with guidance from someone who has once been in their shoes and mentors gain insights from a new perspective, and gain experience in staff management and development. If you are interested in becoming a mentor <strong>and/or</strong> mentee, please fill out the <a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO45Vp0C6IOYJOjBrGZlr3xANUMkRSNTg1UElOVUJXRzJaS1VGQklPMUY1Ti4u" target="_blank">expression of interest form</a>.</p>
-<hr>
-</section>
-<section id="events" class="level1 section-heading">
-<h1>Events</h1>
-</section>
-<p>Lots of exciting things coming up! See the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/calendars" target="_blank">full calendar here</a>❗, and a small selection below.</p>
-<section id="hdr-uk-advanced-computer-science-summit-ai-and-healthcare" class="level3">
-<h3 class="anchored" data-anchor-id="hdr-uk-advanced-computer-science-summit-ai-and-healthcare"><a href="https://www.hdruk.ac.uk/events/hdr-uk-advanced-computer-science-summit-ai-and-healthcare/" target="_blank">HDR UK Advanced Computer Science Summit: AI and Healthcare</a></h3>
-<p><strong>24 April 2024, 10:00AM - 3:30PM, Online</strong></p>
-<p>The <a href="https://www.hdruk.ac.uk/events/hdr-uk-advanced-computer-science-summit-ai-and-healthcare/" target="_blank">HDR UK Advanced Computer Science Summit: AI and Healthcare</a> aims to anticipate advances in technologies that are on the horizon and discuss the impact these may have on health data research.</p>
-<p>Cool speakers include but are not limited to:</p>
-<ul>
-<li><a href="https://www.linkedin.com/in/elham-kashefi-76b9286/">Elham Kashefi</a> (Chief Scientist for the <a href="https://www.nqcc.ac.uk/wp-content/uploads/2022/11/Press-release-Announcement-of-the-appointment-of-the-Chief-Scientist-for-the-NQCC.pdf">UK’s National Quantum Computing Centre</a> will discuss quantum computation)</li>
-<li><a href="https://profiles.ucl.ac.uk/78197-honghan-wu">Honghan Wu</a> (Associate Professor at the Institute of Health Informatics at UCL will lead on NLP and using text technologies and Knowledge Graph techniques to analyze health data)</li>
-<li><a href="https://www.ed.ac.uk/profile/dr-william-whiteley">William Whiteley</a> (Professor of Neurology and Epidemiology at the University of Edinburgh will discuss replicating RCTs by use of data at large scale)</li>
-<li><a href="https://www.linkedin.com/in/mobuolafoluwa-onayade/">Mobuolafoluwa Onayade</a> (Health Data Scientist and Analyst at Swansea University will be presenting on The use of Causal Machine Learning (CausalML) as an upgrade to Traditional Machine Learning)</li>
-</ul>
-</section>
-<section id="the-turing-roche-knowledge-share-series-fairness-in-ai-for-health" class="level3">
-<h3 class="anchored" data-anchor-id="the-turing-roche-knowledge-share-series-fairness-in-ai-for-health"><a href="https://www.turing.ac.uk/events/turing-roche-knowledge-share-series-fairness-ai-health">The Turing-Roche Knowledge Share Series: Fairness in AI for Health</a></h3>
-<p><strong>Tuesday 30th April, 3-4pm, Online</strong></p>
-<p>Join the Turing-Roche Partnership’s virtual event series for partnership updates, knowledge sharing and new perspectives. This event will explore the theme of fairness in AI, with relation to health, and hear from Leandra Bräuninger, a PhD student at University College London and Adarsh Srivastava, Head of Data and Analytics Quality Assurance at Roche.</p>
-</section>
-<section id="digital-footprints-2024" class="level3">
-<h3 class="anchored" data-anchor-id="digital-footprints-2024"><a href="https://digifootprints.co.uk/digital-footprints-2024/" target="_blank">Digital Footprints 2024</a></h3>
-<p><strong>Wednesday 8th May 1pm – Thursday 9th May 4pm, University of Bristol</strong></p>
-<p>Focusing on digital footprints data for social impact, inviting innovative research that harnesses the potential of these novel datasets to address pressing societal challenges and drive positive change. The conference is organised by Turing Novel Data Linkage for Health and Wellbeing Interest Group.</p>
-<p><em>Please note attendance of the conference is subject to a £50 fee.</em></p>
-</section>
-<section id="data-science-festival-mayday-2024" class="level3">
-<h3 class="anchored" data-anchor-id="data-science-festival-mayday-2024"><a href="https://datasciencefestival.com/event/mayday-2024/" target="_blank">Data Science Festival MayDay 2024</a></h3>
-<p><strong>Saturday 18th May, 9-6pm, CodeNode, London</strong></p>
-<p>Enter the ballot for a chance to grab a <em>free</em> ticket to this years’ Data Science Festival, hosted in London. Many speakers and sessions to be announced, but already lined up are talks on Gender Bias in Machine Learning and Leveraging GANs for Building Synthetic Data.</p>
-</section>
-<section id="dark-data---data-ethics-and-society-reading-group" class="level3">
-<h3 class="anchored" data-anchor-id="dark-data---data-ethics-and-society-reading-group"><a href="https://www.tickettailor.com/events/dataethics/1193123/r/nhs" target="_blank">Dark Data - Data Ethics and Society Reading Group</a></h3>
-<p><strong>Tuesday 4th June, 1-2pm, Online (Teams)</strong></p>
-<p>Join the Public Sector Data Ethics &amp; Society Reading Group to discuss David Hand’s book ‘Dark Data’. <a href="https://www.tickettailor.com/events/dataethics/1193123/r/nhs" target="_blank">Sign up now to reserve your spot</a> (and receive details of the 40% discount off the paperback we’ve scooped😎).</p>
-<hr>
-<p>See more future events on our <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Data+Science+Events" target="_blank">confluence calendar</a>❗</p>
-<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
-</section>
-<section id="knowledge-sharing" class="level1 section-heading">
-<h1>Knowledge Sharing</h1>
-</section>
-<section id="data-science-discussions" class="level3">
-<h3 class="anchored" data-anchor-id="data-science-discussions">Data Science Discussions</h3>
-<center>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_04/DS_Discussion.png" class="img-fluid figure-img"></p>
-<figcaption>Data Scientists discussing a fun topic over coffee, building relationships and expanding their knowledge base</figcaption>
-</figure>
-</div>
-</center>
-<p>On Thursday 11th April we had our first Data Science discussion, hosted by Will Poulett. Data Science Discussions are a new event, focussed on peer to peer discussions on a broad range of Data Science topics. For this discussion Will asked everyone attending to research a future application of AI that interested them, and also consider how it could be later applied to healthcare. The discussion began with Will presenting his case: <a href="https://www.projectceti.org/" target="_blank">Project CETI</a>, who are applying advanced machine learning and state-of-the-art robotics to listen to and translate the communication of sperm whales. Check out his slide deck <a href="https://nhs.sharepoint.com/:f:/r/sites/msteams_2768a1/Shared%20Documents/FT%20-%20Professional%20Development/PD%20Events/Data%20Science%20Discussions?csf=1&amp;web=1&amp;e=Tbm3Gq" target="_blank">here</a>. We then broke up into smaller groups to further discuss his case and our own.</p>
-<p>The Professional Development Functional Team hope to hold Data Science Discussions monthly. If you have an area of Data Science you’re interested in sharing, and encouraging others to look into too, please <a href="mailto:datascience@nhs.net">contact us</a> to host a session! Most of the session is held in break out rooms, and so all you need to do is spark discussion.</p>
-</section>
-<section id="rap-drop-in-sessions-now-on-tuesdays" class="level3">
-<h3 class="anchored" data-anchor-id="rap-drop-in-sessions-now-on-tuesdays">RAP Drop In Sessions (Now on Tuesdays)</h3>
-<p>The RAP Squad hold a <a href="https://teams.microsoft.com/l/meetup-join/19:meeting_NGE5Mjc5ZGQtYjJkZi00OGQ4LWJmYmMtOGIxYzI3NWQ3NWZi@thread.v2/0?context=%7B%22Tid%22:%2237c354b2-85b0-47f5-b222-07b48d774ee3%22,%22Oid%22:%226a6e419b-5da0-48cb-854e-e7cca39c57e2%22%7D" target="_blank">weekly drop in session on Teams</a>,<strong>Tuesdays 10-11am</strong>, for anything and all things RAP (Reproducibile Analytical Pipelines). Come along to ask questions, get tips, or share instances of best practice in your team!</p>
-<p>Check out the <a href="https://nhsdigital.github.io/rap-community-of-practice/?utm_source=p_d_newsletter&amp;utm_medium=email&amp;utm_campaign=homepage">RAP Community of Practice website</a> to learn more, including <a href="https://nhsdigital.github.io/rap-community-of-practice/introduction_to_RAP/gov-policy-on-rap/?utm_source=p_d_newsletter&amp;utm_medium=email&amp;utm_campaign=gov_policy">information on what the government has been saying about RAP</a> (spoiler: it’s fast becoming the required way of working with data).</p>
-<hr>
-<p>Stay tuned for an update on what seminars &amp; show and tells will look like in the new team. Please bear with us as it is likely to be a learning process! Contact <a href="mailto:amelia.noonan1@nhs.net">Mia Noonan</a> for more information.</p>
-</section>
-<section id="training-opportunities" class="level1 section-heading">
-<h1>Training Opportunities</h1>
-</section>
-<section id="the-turing-way-book-dash" class="level3">
-<h3 class="anchored" data-anchor-id="the-turing-way-book-dash">The Turing Way Book Dash</h3>
-<p><a href="https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events.html"><strong>The Turing Way Book Dash</strong></a> is a collaborative event where you’ll work with others to add to and improve <strong>The Turing Way book</strong> and become a part of its community.</p>
-<p>The online contribution sessions (collaborative co-working format) and the social networking session will take place from <strong>3 to 6 June 2024</strong>, and two community share-out events on <strong>7 June 2024</strong>. <a href="https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events">See details</a>. There may also be an opportunity to join an in-person hub in your area - please indicate your interest in the application.</p>
-<p><strong>Application</strong> <a href="https://docs.google.com/document/d/1FdrlFh_4yw7XsqoG-yQt8zbEH9J8wHVhKl3ZfNz_NBk/edit">Please see the application form here</a>. Submission deadline is <strong>Friday 26th April 2024</strong> and the application form may take around 30 minutes to complete.</p>
-<p><strong>Who should apply?</strong> Everyone that has expertise that The Turing Way project can benefit from. The skills and contributions that they’re looking for include, but are not limited to:</p>
-<ul>
-<li>Tools, methods, and case studies from reproducibility in Data Science 🛠️</li>
-<li>Science communication skills: skills in writing, editing, and/or exciting interactive communications 📝</li>
-<li>Project design and management skills 📊</li>
-<li>Approaches and principles for collaboration in data science 🤝</li>
-<li>Collaboratively writing new chapters 📝</li>
-<li>Reviewing others’ contributions or editing the current chapters 📋</li>
-<li>Updating how the book looks online (e.g., website design, CSS, logos, layout) 🖥️</li>
-<li>Documenting other contributions as illustrations or stories 📸</li>
-</ul>
-<p>Participants will be expected to attend at least one co-working session (2.5 hours each) per day virtually.</p>
-<hr>
-<p>Check out all the resources in the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a> ❗ Can you spot something missing? <a href="mailto:datascience@nhs.net">Contact us</a>!</p>
-</section>
-<section id="need-a-quick-break" class="level1 section-heading">
-<h1>Need a Quick Break?</h1>
-</section>
-<p><a href="https://mywordle.strivemath.com/?word=mivuj">How many tries will it take you?</a></p>
-<div style="text-align: center;">
-<p><a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe to the community</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
-</div>
-
-
-
- ]]></description>
-  <category>newsletter</category>
-  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_04/newsletter.html</guid>
-  <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
