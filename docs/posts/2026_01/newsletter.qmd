@@ -55,6 +55,19 @@ A multidisciplinary team of researchers from the Polymathic AI collaboration, in
 The two models are trained using real scientific datasets, and being used to tackle problems in astronomy and fluid-like systems. 
 
 The aim is these "foundational models" can be applied to various fields or problems that share the same underlying physical principles. 
+
+### [An analytical framework for enhancing cancer care efficiency in North London hospitals](https://www.sciencedirect.com/science/article/pii/S2772442525000255){target="_blank"}
+The journal paper shows the use of mathematical and statistical techniques on operational data to examine the impact of different factors on the time to treatment for cancer patients in North London hospitals.
+Understanding the factors which prolong the time between referral and treatment starting for cancer patients on pathways which cross healthcare providers is imperative to improved patient care. 
+Three tumour pathways were analysed which involve transfer of patients between hospitals: sarcoma, urological, and head and neck cancers.
+
+Several factors impact on the time to first treatment including demographic characteristics, day of the week first seen and method of communicating the cancer diagnosis.
+In particular, it was found that head and neck patients from lower socioeconomic areas were more likely to have longer times from referral to treatment. 
+Patients with sarcoma who were first seen on a Sunday are more likely to breach the 28-day faster diagnosis standard. 
+
+This analysis is an important first step in highlighting where focus is needed to improve cancer care pathways. 
+Understanding and mitigating the factors influencing the length of time between referral and treatment could enhance the efficiency of cancer care pathways and, consequently, patient outcomes.
+
 ___
 
 <div class="section-heading">
