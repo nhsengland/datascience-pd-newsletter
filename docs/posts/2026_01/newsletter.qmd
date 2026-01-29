@@ -27,12 +27,34 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Highlights
+# Interview with a Data Scientist - The Accidental Manager
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+blah
 
-TEXT
+<details>
+  <summary>Read more...</summary>
+
+__
+
+blah
+
+</details>
+
+__
+
+
+<div class="section-heading">
+# Looking for an interesting read?
+</div>
+
+### [New AI models trained on physics, not words, are driving scientific discovery](https://www.cam.ac.uk/research/news/new-ai-models-trained-on-physics-not-words-are-driving-scientific-discovery){target="_blank"}
+
+A multidisciplinary team of researchers from the Polymathic AI collaboration, including researchers from the University of Cambridge, have created new models trained using Physics.
+
+The two models are trained using real scientific datasets, and being used to tackle problems in astronomy and fluid-like systems. 
+
+The aim is these "foundational models" can be applied to various fields or problems that share the same underlying physical principles. 
 ___
 
 <div class="section-heading">
@@ -92,26 +114,37 @@ ___
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
-
-
 ### [EVENT TITLE](event link){target="_blank"}
 **DATE, TIME, LOCATION,**
 
 A SHORT DESCRIPTION OF EVENT 
+
+### [Green software use on HPC](https://www.turing.ac.uk/events/green-software-use-hpc){target="_blank"}
+**Thursday 26th February, 10:00 - 15:30, The Alan Turing Institute, 1st floor of the British Library, 96 Euston Road, London, NW1 2DB**
+
+This workshop introduces environmental sustainability principles in the context of high performance computing (HPC) systems. 
+
+Understanding the scale of emissions from different sources is critical to being able to make changes to work in a more environmentally sustainable way. This workshop will give you the ability to understand emissions arising from use of HPC system and how to quantify them. We will use practical examples and real data from an existing HPC facility to illustrate the concepts.
+
+By the end of this workshop you should:
+
+Be able to understand the concept of carbon efficiency and how it relates to energy efficiency including cases where energy efficiency can be at odds with carbon efficiency
+Know about how HPC systems potentially reduce emissions
+Understand carbon intensity of electricity generation and the implications for carbon aware use of HPC
+Appreciate the embodied emissions associated with HPC hardware and how they impact carbon aware use of HPC
+Be aware of the frameworks used to measure and report on carbon emissions and how the terms used in these frameworks map onto HPC
+Gain practical advice on how you can measure and improve the carbon efficiency of your use of HPC
+We use the UK National Supercomputing Service, ARCHER2 as an example throughout this workshop but the principles and learning should be applicable to any HPC system.
+
+This event is being run in collaboration with EPCC and will be taught by Andrew Turner (EPCC).
+
+This workshop is free to attend but you need to register.
 
 ___
 
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
-
-<div class="section-heading">
-# Knowledge Sharing
-</div>
-
-TEXT
-
-___
 
 
 <div class="section-heading">
