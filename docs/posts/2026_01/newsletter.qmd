@@ -35,6 +35,57 @@ Thanks for reading! – newsletter team
 TEXT
 ___
 
+<div class="section-heading">
+# January Analyst X Data Science Huddle
+</div>
+
+Recently, we had our January Analyst X Data Science Huddle!
+
+Senior Data Scientists from the NHS England Data Science and Applied AI Team presented their work on generating synthetic patient pathways and clinical notes using LLMs - a really interesting piece of work!
+
+Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles. 
+
+___
+
+<div class="section-heading">
+# February Analyst X Data Science Huddle
+</div>
+**Tuesday 10th February 2026, 13:30 - 14:30, Online**
+
+The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for February. The session will contain two slots, covering two projects:
+
+* Slot 1 (13:30 – 14:00): Causal Inference for Intervention & Service Evaluations: Applications in North Central London (Presented by Jamie Wong)
+There is increasing interest in the application of causal inference methods to evaluate interventions and services within the NHS.  
+In this session, we will exploring what causal methods are, what types of methods are out there, and how they can be applied to impact evaluations to understand what 
+ works in improving services and outcomes for patients.   
+This will be accompanied by initial results from worked examples done within North Central London, as well as a preview of a [causal handbook](https://nhsengland.github.io/causal-handbook/){target="_blank"} 
+ that is currently being written up online to guide analysts and data scientists
+ in performing similar work going forward.
+
+
+* Slot 2 (14:00 - 14:30): MM-HealthFair: Tackling Healthcare Bias in Multimodal AI Risk Prediction (Presented by Konstantin Georgiev)
+Innovations in digital health technology continue to drive
+ novel applications of Multimodal Artificial Intelligence (MMAI) for risk prediction and decision support. MMAI algorithms demonstrate consistently superior capabilities over unimodal algorithms in forecasting health outcomes across most clinical domains. However,
+ the specificity and selectivity of multi-source data collection can also influence models to amplify pre-existing disparities in routine healthcare data, such as embedding racial bias. Fusion models require appropriate safeguards to address healthcare biases
+ and mitigate their potentially harmful effects across our broader population.
+
+To address this global challenge, we developed the MM-HealthFair framework: an open-source toolkit for investigating fairness in MMAI algorithms
+ for risk prediction.
+
+[MM-HealthFair](https://github.com/nhsengland/mm-healthfair){target="_blank"} provides customisable data pipelines for multimodal fusion of tabular, time-series and free-text modalities leveraging the MIMIC-IV open database. 
+ It enables interrogation of healthcare biases in deep fusion models through quantitative fairness
+ metrics (e.g. demographic parity, equal opportunity), uses explainability methods to compare multimodal feature interactions (MM-SHAP), and supports customisable adversarial debiasing at training time.
+
+Our work aims to promote the dissemination of knowledge regarding fairness in MMAI-guided decisions, working towards well-defined guidelines for
+ risk prediction.
+
+
+This event will be added to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where we will add the abstract for the session and any further information.
+
+If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"}  
+
+___
+
 
 <div class="section-heading">
 # Events
@@ -77,7 +128,7 @@ Check out our collection of training resources in the [Resources Section](https:
 # Need a Quick Break?
 </div>
 
-[How many tries will it take you?](custom_wordle_link){target="_blank"}
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=ohrjp){target="_blank"}
 
 
 
