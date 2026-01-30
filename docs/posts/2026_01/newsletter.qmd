@@ -11,7 +11,7 @@ format:
       - bottom=10mm
       - left=20mm
       - right=20mm
-categories: ['newsletter', 'competency']
+categories: ['newsletter']
 description: 'The Data Science Community for Health and Care newsletter for January 2026'
 author: 'Elizabeth Kelly'
 ---
