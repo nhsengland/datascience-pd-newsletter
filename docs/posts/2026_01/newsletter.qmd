@@ -26,21 +26,6 @@ If you cannot access something of interest to you, please [reach out](https://gi
 
 Thanks for reading! – newsletter team 
 
-<div class="section-heading">
-# Interview with a Data Scientist - The Accidental Manager
-</div>
-
-blah
-
-<details>
-  <summary>Read more...</summary>
-
-__
-
-blah
-
-</details>
-
 __
 
 
