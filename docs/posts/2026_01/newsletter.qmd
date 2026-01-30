@@ -127,11 +127,6 @@ ___
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,**
-
-A SHORT DESCRIPTION OF EVENT 
-
 ### [Green software use on HPC](https://www.turing.ac.uk/events/green-software-use-hpc){target="_blank"}
 **Thursday 26th February, 10:00 - 15:30, The Alan Turing Institute, 1st floor of the British Library, 96 Euston Road, London, NW1 2DB**
 
@@ -158,13 +153,6 @@ ___
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
-
-
-<div class="section-heading">
-# Training Opportunities
-</div>
-
-TEXT
 
 ___
 
