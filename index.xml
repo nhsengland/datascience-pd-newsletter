@@ -10,8 +10,98 @@
 <atom:link href="https://nhsengland.github.io/datascience-pd-newsletter/index.xml" rel="self" type="application/rss+xml"/>
 <description>A newsletter to share professional development tips and opportunities for people interested in healthcare data science
 </description>
-<generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 31 Dec 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Fri, 30 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Data Science Community for Health and Care Newsletter January 2026</title>
+  <dc:creator>Elizabeth Kelly</dc:creator>
+  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2026_01/newsletter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_jan.png" class="img-fluid"></p>
+<p>Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team.</p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – newsletter team</p>
+<p>__</p>
+<section id="looking-for-an-interesting-read" class="level1 section-heading">
+<h1>Looking for an interesting read?</h1>
+</section>
+<section id="new-ai-models-trained-on-physics-not-words-are-driving-scientific-discovery" class="level3">
+<h3 class="anchored" data-anchor-id="new-ai-models-trained-on-physics-not-words-are-driving-scientific-discovery"><a href="https://www.cam.ac.uk/research/news/new-ai-models-trained-on-physics-not-words-are-driving-scientific-discovery" target="_blank">New AI models trained on physics, not words, are driving scientific discovery</a></h3>
+<p>A multidisciplinary team of researchers from the Polymathic AI collaboration, including researchers from the University of Cambridge, have created new models trained using Physics.</p>
+<p>The two models are trained using real scientific datasets, and being used to tackle problems in astronomy and fluid-like systems.</p>
+<p>The aim is these “foundational models” can be applied to various fields or problems that share the same underlying physical principles.</p>
+</section>
+<section id="an-analytical-framework-for-enhancing-cancer-care-efficiency-in-north-london-hospitals" class="level3">
+<h3 class="anchored" data-anchor-id="an-analytical-framework-for-enhancing-cancer-care-efficiency-in-north-london-hospitals"><a href="https://www.sciencedirect.com/science/article/pii/S2772442525000255" target="_blank">An analytical framework for enhancing cancer care efficiency in North London hospitals</a></h3>
+<p>The journal paper shows the use of mathematical and statistical techniques on operational data to examine the impact of different factors on the time to treatment for cancer patients in North London hospitals. Understanding the factors which prolong the time between referral and treatment starting for cancer patients on pathways which cross healthcare providers is imperative to improved patient care. Three tumour pathways were analysed which involve transfer of patients between hospitals: sarcoma, urological, and head and neck cancers.</p>
+<p>Several factors impact on the time to first treatment including demographic characteristics, day of the week first seen and method of communicating the cancer diagnosis. In particular, it was found that head and neck patients from lower socioeconomic areas were more likely to have longer times from referral to treatment. Patients with sarcoma who were first seen on a Sunday are more likely to breach the 28-day faster diagnosis standard.</p>
+<p>This analysis is an important first step in highlighting where focus is needed to improve cancer care pathways. Understanding and mitigating the factors influencing the length of time between referral and treatment could enhance the efficiency of cancer care pathways and, consequently, patient outcomes.</p>
+<hr>
+</section>
+<section id="january-analyst-x-data-science-huddle" class="level1 section-heading">
+<h1>January Analyst X Data Science Huddle</h1>
+</section>
+<p>Recently, we had our January Analyst X Data Science Huddle!</p>
+<p>Senior Data Scientists from the NHS England Data Science and Applied AI Team presented their work on generating synthetic patient pathways and clinical notes using LLMs - a really interesting piece of work!</p>
+<p>Missed the session? <a href="https://future.nhs.uk/DataAnalytics/view?objectID=56936784" target="_blank">Check out the recording and PowerPoint slides here</a>, where you will also find the recordings of previous huddles.</p>
+<hr>
+<section id="february-analyst-x-data-science-huddle" class="level1 section-heading">
+<h1>February Analyst X Data Science Huddle</h1>
+</section>
+<p><strong>Tuesday 10th February 2026, 13:30 - 14:30, Online</strong></p>
+<p>The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for February. The session will contain two slots, covering two projects:</p>
+<ul>
+<li><p>Slot 1 (13:30 – 14:00): Causal Inference for Intervention &amp; Service Evaluations: Applications in North Central London (Presented by Jamie Wong) There is increasing interest in the application of causal inference methods to evaluate interventions and services within the NHS.<br>
+In this session, we will exploring what causal methods are, what types of methods are out there, and how they can be applied to impact evaluations to understand what works in improving services and outcomes for patients.<br>
+This will be accompanied by initial results from worked examples done within North Central London, as well as a preview of a <a href="https://nhsengland.github.io/causal-handbook/" target="_blank">causal handbook</a> that is currently being written up online to guide analysts and data scientists in performing similar work going forward.</p></li>
+<li><p>Slot 2 (14:00 - 14:30): MM-HealthFair: Tackling Healthcare Bias in Multimodal AI Risk Prediction (Presented by Konstantin Georgiev) Innovations in digital health technology continue to drive novel applications of Multimodal Artificial Intelligence (MMAI) for risk prediction and decision support. MMAI algorithms demonstrate consistently superior capabilities over unimodal algorithms in forecasting health outcomes across most clinical domains. However, the specificity and selectivity of multi-source data collection can also influence models to amplify pre-existing disparities in routine healthcare data, such as embedding racial bias. Fusion models require appropriate safeguards to address healthcare biases and mitigate their potentially harmful effects across our broader population.</p></li>
+</ul>
+<p>To address this global challenge, we developed the MM-HealthFair framework: an open-source toolkit for investigating fairness in MMAI algorithms for risk prediction.</p>
+<p><a href="https://github.com/nhsengland/mm-healthfair" target="_blank">MM-HealthFair</a> provides customisable data pipelines for multimodal fusion of tabular, time-series and free-text modalities leveraging the MIMIC-IV open database. It enables interrogation of healthcare biases in deep fusion models through quantitative fairness metrics (e.g.&nbsp;demographic parity, equal opportunity), uses explainability methods to compare multimodal feature interactions (MM-SHAP), and supports customisable adversarial debiasing at training time.</p>
+<p>Our work aims to promote the dissemination of knowledge regarding fairness in MMAI-guided decisions, working towards well-defined guidelines for risk prediction.</p>
+<p>This event will be added to <a href="https://future.nhs.uk/DataAnalytics/view?objectID=1253649" target="_blank">our Data Science Community for Health and Care calendar</a>, where we will add the abstract for the session and any further information.</p>
+<p>If you would like to be invited to future events of ours, <a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" target="_blank">sign up to our mailing list!</a></p>
+<hr>
+<section id="events" class="level1 section-heading">
+<h1>Events</h1>
+</section>
+<p>Lots of exciting things coming up! See the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">full calendar here</a>, and a small selection below.</p>
+<section id="green-software-use-on-hpc" class="level3">
+<h3 class="anchored" data-anchor-id="green-software-use-on-hpc"><a href="https://www.turing.ac.uk/events/green-software-use-hpc" target="_blank">Green software use on HPC</a></h3>
+<p><strong>Thursday 26th February, 10:00 - 15:30, The Alan Turing Institute, 1st floor of the British Library, 96 Euston Road, London, NW1 2DB</strong></p>
+<p>This workshop introduces environmental sustainability principles in the context of high performance computing (HPC) systems.</p>
+<p>Understanding the scale of emissions from different sources is critical to being able to make changes to work in a more environmentally sustainable way. This workshop will give you the ability to understand emissions arising from use of HPC system and how to quantify them. We will use practical examples and real data from an existing HPC facility to illustrate the concepts.</p>
+<p>By the end of this workshop you should:</p>
+<p>Be able to understand the concept of carbon efficiency and how it relates to energy efficiency including cases where energy efficiency can be at odds with carbon efficiency Know about how HPC systems potentially reduce emissions Understand carbon intensity of electricity generation and the implications for carbon aware use of HPC Appreciate the embodied emissions associated with HPC hardware and how they impact carbon aware use of HPC Be aware of the frameworks used to measure and report on carbon emissions and how the terms used in these frameworks map onto HPC Gain practical advice on how you can measure and improve the carbon efficiency of your use of HPC We use the UK National Supercomputing Service, ARCHER2 as an example throughout this workshop but the principles and learning should be applicable to any HPC system.</p>
+<p>This event is being run in collaboration with EPCC and will be taught by Andrew Turner (EPCC).</p>
+<p>This workshop is free to attend but you need to register.</p>
+<hr>
+<p>See more future events on the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">calendar</a></p>
+<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+<hr>
+<p>Check out our collection of training resources in the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">Resources Section</a>! Can you spot something missing? <a href="mailto:datascience@nhs.net">Contact us</a>!</p>
+</section>
+<section id="need-a-quick-break" class="level1 section-heading">
+<h1>Need a Quick Break?</h1>
+</section>
+<p><a href="https://mywordle.strivemath.com/?word=ohrjp" target="_blank">How many tries will it take you?</a></p>
+<div style="text-align: center;">
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe to the community</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>newsletter</category>
+  <category>competency</category>
+  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2026_01/newsletter.html</guid>
+  <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Data Science Community for Health and Care Newsletter December 2025</title>
   <dc:creator>Elizabeth Kelly, Chris Beeley</dc:creator>
@@ -2272,128 +2362,6 @@ Basically, combine structured learning with practical application, and don’t b
   <category>interview with a data scientist</category>
   <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_06/newsletter.html</guid>
   <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Professional Development Newsletter May 2024</title>
-  <dc:creator>Jennifer Struthers</dc:creator>
-  <dc:creator>Sam Hollings</dc:creator>
-  <dc:creator>Ben Wallace</dc:creator>
-  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_05/newsletter.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_may.png" class="img-fluid"></p>
-<p>Welcome to the latest Professional Development newsletter, brought to you by the Data Science skilled team Professional Development Functional Team.</p>
-<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
-<p>There are some legacy NHS Digital items which we have identified with❗</p>
-<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
-<p>Thanks for reading! – PD newsletter team</p>
-<section id="events" class="level1 section-heading">
-<h1>Events</h1>
-</section>
-<p>Lots of exciting things coming up! We are working on revamping the calendar and hope to have something out soon!</p>
-<section id="analystx-huddle-ai-enabled-shared-care-records-using-google-cloud-to-transform-healthcare-in-yorkshire-and-humber" class="level3">
-<h3 class="anchored" data-anchor-id="analystx-huddle-ai-enabled-shared-care-records-using-google-cloud-to-transform-healthcare-in-yorkshire-and-humber"><a href="https://gbr01.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_YWI5NDM0N2UtMWQyOC00ZGYwLTk0OWQtMThhOGQ4YmU3ODI0%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252237c354b2-85b0-47f5-b222-07b48d774ee3%2522%252c%2522Oid%2522%253a%2522339b2ca8-d397-48dd-a7e3-193ac2e2c2b3%2522%257d&amp;data=05%7C02%7Cjennifer.struthers1%40nhs.net%7Cc37ce647b0734e48efd108dc78400247%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638517463533546585%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=Kg05YcJ4HCy%2BahlbnxDV4LgCACU7C4bEAyM9hterY3Y%3D&amp;reserved=0" target="_blank">AnalystX Huddle – AI-Enabled Shared Care Records: Using Google Cloud to transform healthcare in Yorkshire and Humber</a></h3>
-<p><strong>Tuesday 21st May, 2pm-3pm, Teams</strong></p>
-<p>Humber Teaching NHS Foundation Trust, Google Cloud and Deloitte are partnering to drive digital transformation in healthcare and foster innovation in the Yorkshire region with integrated shared care records, and now leveraging Generative AI for EHR search and clinical summarization. Join us for an insightful discussion focused on how Google Cloud is revolutionizing healthcare delivery in the Yorkshire and Humber region. Learn how cutting-edge cloud technologies are improving patient care, streamlining operations, and driving innovation across the NHS.</p>
-</section>
-<section id="analysis-without-data" class="level3">
-<h3 class="anchored" data-anchor-id="analysis-without-data"><a href="https://www.eventbrite.co.uk/e/analysis-without-data-tickets-895208000227?aff=odcleoeventsincollection" target="_blank">Analysis without Data</a></h3>
-<p><strong>Tuesday 21st May, 12-1pm, Online</strong></p>
-<p>This session outlines work by the Ministry of Justice (MoJ)’s Better Outcomes through Linked Data (BOLD) programme Homelessness Pilot colleagues in Department for Levelling Up, Housing and Communities (DLUHC). The Better Outcomes through Linked Data programme aims to demonstrate the benefits of linked data across government. In DLUHC’s Homelessness Pilot Team, our challenge was a lack of full data access for sensitivity reasons. To overcome this, we developed a Reproducible Analytical Pipeline (RAP) for our offending and repeat homelessness projects. For the rough sleeping and drug treatment project, we took a pragmatic approach to writing a report using only aggregated data that was suppressed.</p>
-<p>We shall talk about our approaches, including constructing dummy data, modular coding using Quarto (an alternative to RMarkdown) and robust statistical methods such as trimmed means.</p>
-</section>
-<section id="using-data-science-and-ai-to-transform-delivery-in-the-prison-system" class="level3">
-<h3 class="anchored" data-anchor-id="using-data-science-and-ai-to-transform-delivery-in-the-prison-system"><a href="https://www.eventbrite.co.uk/e/using-data-science-and-ai-to-transform-delivery-in-the-prison-system-tickets-885509080497?aff=odcleoeventsincollection" target="_blank">Using Data Science and AI to transform delivery in the prison system</a></h3>
-<p><strong>Wednesday 29th May, 2-3pm, Online</strong></p>
-<p>Join colleagues from the Ministry of Justice (MoJ) who work alongside other government departments and agencies to bring the principles of justice to life for everyone in society. “We are one of the largest departments with a large proportion of staff working directly to the public and tens of thousands of prison staff making decisions every day about prisoners in their care. In the Prison Data Science team, we aim to support operational decision-making by developing and deploying innovative data science tools.</p>
-<p>In this session, we will show examples of how we’ve used data science and AI to transform processes within prison services”</p>
-</section>
-<section id="innovation-in-analysis-with-professor-sir-ian-diamond" class="level3">
-<h3 class="anchored" data-anchor-id="innovation-in-analysis-with-professor-sir-ian-diamond"><a href="https://www.eventbrite.co.uk/e/innovation-in-analysis-with-professor-sir-ian-diamond-tickets-904642649517?aff=odcleoeventsincollection" target="_blank">Innovation in analysis with Professor Sir Ian Diamond</a></h3>
-<p><strong>Thursday 30th May, 2:30-3:30pm, Online</strong></p>
-<p>Join us to reflect on the innovative topics raised throughout a fantastic AiG Month and consider the importance of innovations to government analysis and where you can get support - no matter which profession or department you work in!</p>
-<p>Join this session with, Professor Sir Ian Diamond - Head of the Analysis Function and National Statistician - to hear about the innovations that have caught his eye, and what he thinks are the most interesting and important innovations coming down the road.</p>
-</section>
-<section id="dark-data---data-ethics-and-society-reading-group" class="level3">
-<h3 class="anchored" data-anchor-id="dark-data---data-ethics-and-society-reading-group"><a href="https://www.tickettailor.com/events/dataethics/1193123/r/nhs" target="_blank">Dark Data - Data Ethics and Society Reading Group</a></h3>
-<p><strong>Tuesday 4th June, 1-2pm, Online (Teams)</strong></p>
-<p>Join the Public Sector Data Ethics &amp; Society Reading Group to discuss David Hand’s book ‘Dark Data’. <a href="https://www.tickettailor.com/events/dataethics/1193123/r/nhs" target="_blank">Sign up now to reserve your spot</a> (and receive details of the 40% discount off the paperback we’ve scooped😎).</p>
-</section>
-<section id="london-data-week-2024" class="level3">
-<h3 class="anchored" data-anchor-id="london-data-week-2024"><a href="https://londondataweek.org/" target="_blank">London Data Week 2024</a></h3>
-<p><strong>1st-7th July 2024, Online and in person</strong></p>
-<p>London Data Week is a city-wide, distributed festival of events focusing on all things data. Data is a major part of our everyday lives, and shapes many of the decisions we make – as well as the decisions that are made about us – whether we know it or not. We believe that everyone should have a seat at the table when it comes to data, and that is the guiding principle behind our core values: to be collaborative, open and inclusive. So, we invite you to be part of the conversation by joining us and our event partners at a London Data Week event.</p>
-<p>Find out more about London Data Week and what events are being held <a href="https://londondataweek.org/" target="_blank">here</a></p>
-</section>
-<section id="nhs-rpysoc-2024-conference-21st-nov-birmingham---registration-opened" class="level3">
-<h3 class="anchored" data-anchor-id="nhs-rpysoc-2024-conference-21st-nov-birmingham---registration-opened"><a href="https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/" target="_blank">NHS RPySOC 2024 Conference (21st Nov, Birmingham) - registration opened</a></h3>
-<p><strong>Thursday 21st-22nd November, 9am-5pm, in-person (Birmingham) / Online</strong></p>
-<p>The <strong>NHS RPySOC 2024 conference</strong> is open for registration now! It will be on <strong>21st &amp; 22nd November in Birmingham</strong>. This is jointed hosted by the NHS R Community and NHS.pycom, and also promotes Open Source.</p>
-<ul>
-<li>Day 1 will be a mixture of presentations, workshops and lightening talks</li>
-<li>Day 2 <strong>(in-person only)</strong> will be ‘Unconference’ with suggestions for topics being taken on day 1.</li>
-</ul>
-<p>It’s a great chance to show off our work, share our learning with a like minded community and learn a few things yourself, such as the state of the industry and how techniques are being applied elsewhere.</p>
-<p>You can either attend:</p>
-<ul>
-<li><a href="https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-nhs-rpysoc-2024-2024-ticket-for-in-person-attendance-on-thursday-21-november-2024/">In-Person (The ICC, Hall 11, Birmingham B1 2EA</a></li>
-<li><a href="https://nhsrcommunity.com/events/nhs-r-nhs-pycom-open-source-conference-2024-rpysoc-2024-ticket-for-virtual-attendance-on-thursday-21-november-2024/">Online</a></li>
-</ul>
-<p><strong>Abstract submissions haven’t been opened yet.</strong></p>
-<hr>
-<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
-</section>
-<section id="data-science-community" class="level1 section-heading">
-<h1>Data Science Community</h1>
-</section>
-<section id="ai-quality-community-of-practice" class="level2">
-<h2 class="anchored" data-anchor-id="ai-quality-community-of-practice">AI Quality Community of Practice</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_05/AI_CoP.png" class="img-fluid figure-img"></p>
-<figcaption>A group of data scientists engaging with the AIQCoP</figcaption>
-</figure>
-</div>
-<p>The AI Quality Community of Practice was launched on Thursday 16th May, a community primarily of testing and assurance professionals focused on the assurance of healthcare AI.</p>
-<p>Data Science’s Will Poulett and Ben Wallace gave presentations on research they’d been doing in the AiQCoP, (formally INSTANT) including work on an academic paper which will be presented in IEEE in Athens at the end of the month.</p>
-<p>AIQCOP will be closely collaborating with data science in the future, but the best way to get involved right now is to sign up to the <a href="https://engage.cloud.microsoft/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxODQ1ODE2MDMzMjgifQ/about" target="_blank">Viva Engage group</a> and send any papers or articles their way! You can also check out the <a href="https://nhs.sharepoint.com/sites/X26_AssuranceCOE/SitePages/AI-%26-Quality-Assurance.aspx?csf=1&amp;web=1&amp;e=HTahJY&amp;xsdata=MDV8MDJ8fGViMDUyZDJlMWEwYjQxMDUwOTVlMDhkYzUyZjEwOGJmfDM3YzM1NGIyODViMDQ3ZjViMjIyMDdiNDhkNzc0ZWUzfDB8MHw2Mzg0NzY0NDIzNjcxMDEyNzh8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPalU0WXpObFkyRXlMVFk1TXpVdE5ERTFZaTA1TkRrNExXWTVZVE0wTm1Sa01UYzJZMTlrTTJNeE9EUTJOeTFoWkRZeExUUTFaVEl0T1RZNU5TMDFZVFF6TkdRMFlURXlPVEZBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN4TWpBME56UXpOVFkzT1E9PXwyMWY2ZDg2M2UzNzc0ZmNmMDk1ZTA4ZGM1MmYxMDhiZnxmZmE1YTczMTNjY2I0ZWE5OTEwZjZmMjFjMjE0NjE2Nw%3D%3D&amp;sdata=QWVoVk9uOFhHUVZwdCs2SEdsY3EzakxXdEVrTzJCcnB1UTlSeFI1QXpNdz0%3D&amp;ovuser=37c354b2-85b0-47f5-b222-07b48d774ee3%2Canusha.jose%40nhs.net&amp;OR=Teams-HL&amp;CT=1712133835361&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI1MC8yNDAyMTUyODYxNiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&amp;SafelinksUrl=https%3A%2F%2Fnhs.sharepoint.com%2Fsites%2FX26_AssuranceCOE%2FSitePages%2FAI-&amp;-Quality-Assurance.aspx=" target="_blank">sharepoint website</a> or email them at <a href="mailto:nhsdigital.instant@nhs.net">nhsdigital.instant@nhs.net</a>.</p>
-</section>
-<section id="rap-community-of-practice" class="level1">
-<h1>RAP Community of Practice</h1>
-<p>The <a href="https://nhsdigital.github.io/rap-community-of-practice/?utm_source=p_d_newsletter&amp;utm_medium=email&amp;utm_campaign=PR_requests" target="_blank">RAP Community of Practice</a> promotes good coding practice and aims to support analytical teams by developing learning materials, however it’s not a solo effort! Many RAP Champions have worked with the team in recent years and the current RAP Squad wants to encourage everyone to contribute to the Community, whether it be by sending a <a href="https://github.com/NHSDigital/rap-community-of-practice/pulls" target="_blank">Pull Request</a>, raising an <a href="https://github.com/NHSDigital/rap-community-of-practice/issues/new" target="_blank">Issue</a>, or even <a href="mailto:england.rapchampions@nhs.net" target="_blank">emailing them!</a></p>
-<p>Help make the RAP <em>Community</em> of Practice a <em>community</em> endeavour!</p>
-<hr>
-</section>
-<section id="training-opportunities" class="level1 section-heading">
-<h1>Training Opportunities</h1>
-</section>
-<section id="the-turing-online-learning-platform" class="level2">
-<h2 class="anchored" data-anchor-id="the-turing-online-learning-platform"><a href="https://www.turing.ac.uk/courses" target="_blank">The Turing Online Learning Platform</a></h2>
-<p>The Turing Online Learning Platform offers a range of <strong>free</strong> online course from AI fairness on social media to an introduction to transparent machine learning. <a href="https://www.turing.ac.uk/courses" target="_blank">Check them all out here</a>.</p>
-</section>
-<section id="microsoft-enterprise-skills-initiative" class="level2">
-<h2 class="anchored" data-anchor-id="microsoft-enterprise-skills-initiative"><a href="https://esi.microsoft.com/landing" target="_blank">Microsoft Enterprise Skills Initiative</a></h2>
-<p>Using your nhs.net email account, you have access to a variety of Microsoft courses for free, as well as <a href="https://esi.microsoft.com/getcertification" target="_blank">certifications</a>. These range from a beginner friendly course titled <em>Deploy and consume models with Azure Machine Learning</em> to an advanced course titled <em>Write advanced Transact-SQL queries</em>.</p>
-<hr>
-<p>We are currently updating our resource list and reviewing the content: please let us know of any resources you think would be useful! Check out all the resources in the <a href="https://nhsd-confluence.digital.nhs.uk/display/DAT/Training+Brochure" target="_blank">Training Brochure</a>! Can you spot something missing? <a href="mailto:datascience@nhs.net">Contact us</a>!</p>
-</section>
-<section id="need-a-quick-break" class="level1 section-heading">
-<h1>Need a Quick Break?</h1>
-</section>
-<p><a href="https://mywordle.strivemath.com/?word=cfrss" target="_blank">How many tries will it take you?</a></p>
-<div style="text-align: center;">
-<p><a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe to the community</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
-</div>
-
-
-
- ]]></description>
-  <category>newsletter</category>
-  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2024_05/newsletter.html</guid>
-  <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
