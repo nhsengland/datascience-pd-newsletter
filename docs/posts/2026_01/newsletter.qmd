@@ -137,6 +137,19 @@ This event is being run in collaboration with EPCC and will be taught by Andrew 
 
 This workshop is free to attend but you need to register.
 
+### [Invisible inputs: gender bias in AI systems](https://www.lse.ac.uk/events/gender-bias-in-ai){target="_blank"}
+**Tuesday 10th March, 18:30 - 20:00, Online and at Sheikh Zayed Theatre, Cheng Kin Ku Building, London School of Economics and Political Science**
+
+Behind every algorithm lies a set of choices, some visible, many not. 
+
+This panel discusses the unseen forces that shape AI, focusing on how gender bias enters systems through data, design, and deployment.
+
+Hear from leading researchers and policymakers as they unpack the consequences of biased inputs and explore what it takes to build AI that truly serves everyone.
+
+The panel includes behavioural and data scientists, and professors in public policy, sociology and psychology.
+
+You can attend in person by requesting a ticket via their ticket request form, or online via LSE Live.
+
 ___
 
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
