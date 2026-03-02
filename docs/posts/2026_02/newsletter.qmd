@@ -85,6 +85,7 @@ Finally, I started as an apprentice when nobody quite knew if it would work. Aft
 * Build a presence, whether that is a LinkedIn profile or elsewhere. Data science is a community as much as it is a profession, and it is helpful for people be able to find you.
 * Your impact is only as good as your ability to communicate your work.
 * Be as generous as you can with your time.
+
 ___
 
 We hope you found this interview with Mary Amanuel insightful. Her journey from digital media to health economics demonstrates that curiosity and a commitment to open-source community building can break through the traditional educational glass ceilings of data science. If you are interested in learning more about the Data Scientists working in healthcare, you can read our previous iterations of the ["Interview with a Data Scientist"](https://nhsengland.github.io/datascience/articles/category/data-science-interviews/){target="_blank"} on the NHS England Data Science Website.
@@ -116,7 +117,7 @@ ___
 
 The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for March. The session will contain two slots, covering two projects:
 
-* Slot 1 (13:30 - 14:00): A Semi-Automated Annotation Workflow for Medical Reports Using Small Language Models Presented by Avish Vijayaraghavan
+* Slot 1 (13:30 - 14:00): **A Semi-Automated Annotation Workflow for Medical Reports Using Small Language Models Presented by Avish Vijayaraghavan**
 
  A lot of information in medical reports remains underutilised due to their unstructured
  format. While frontier language models could help, they necessitate sending private patient data to third parties. 
@@ -125,7 +126,7 @@ The Data Science Community for Health and Care have organised the next Analyst X
  
  In this talk, we'll describe the workflow, key design decisions, results, and discuss ongoing extensions to other areas of medicine.
 
-* Slot 2 (14:00 - 14:30): Domain-Specific LLM Evaluation on Open-Ended Generation Tasks Presented by Adam Dejl
+* Slot 2 (14:00 - 14:30): **Domain-Specific LLM Evaluation on Open-Ended Generation Tasks Presented by Adam Dejl** 
 
 Robust and comprehensive evaluation of large language models (LLMs) is essential for identifying optimal system configurations and mitigating risks associated with deploying LLMs in sensitive domains like healthcare. However, traditional statistical metrics are poorly suited to open-ended generation tasks, leading to growing reliance on LLM-based evaluation methods. 
 
