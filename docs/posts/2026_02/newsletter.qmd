@@ -1,6 +1,6 @@
 ---
-title: 'Data Science Community for Health and Care Newsletter MONTH YEAR'
-date: '3000-01-01'
+title: 'Data Science Community for Health and Care Newsletter February 2026'
+date: '2026-02-28'
 format:
   html:
     css: index.css
@@ -11,12 +11,12 @@ format:
       - bottom=10mm
       - left=20mm
       - right=20mm
-categories: ['newsletter', 'competency']
-description: 'The Data Science Community for Health and Care newsletter for MONTH YEAR'
-author: 'AUTHORS'
+categories: ['newsletter', 'interview with a data scientist']
+description: 'The Data Science Community for Health and Care newsletter for February 2026'
+author: 'Elizabeth Kelly'
 ---
 
-![](../../images/banner_MONTH.png)
+![](../../images/banner_feb.png)
 
 Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
 
@@ -27,12 +27,72 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Highlights
+# Interview with a Data Scientist - The Accidental Manager
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+<details>
+  <summary>Read more...</summary>
 
-TEXT
+### How did you end up in data science in your healthcare organisation? What did you do before, and what really sparked your interest in this field?
+
+### What are you currently working on? Are there any projects that you’re particularly excited about, or that you feel are making a real difference? What impact are you having?
+
+### If you could give someone just starting out in data science a few pieces of advice, what would they be?
+
+___
+
+
+
+</details>
+___
+
+<div class="section-heading">
+# February Analyst X Data Science Huddle
+</div>
+
+Recently, we had our February Analyst X Data Science Huddle!
+
+We heard from two projects:
+
+* Causal Inference for Intervention & Service Evaluations: Applications in North Central London
+* MM-HealthFair: Tackling Healthcare Bias in Multimodal AI Risk Prediction
+
+Many thanks to our presenters for showcasing their interesting work.
+
+Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles. 
+
+___
+
+<div class="section-heading">
+# March Analyst X Data Science Huddle
+</div>
+**Tuesday 17th March 2026, 13:30 - 14:30, Online**
+
+The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for March. The session will contain two slots, covering two projects:
+
+* Slot 1 (13:30 - 14:00): A Semi-Automated Annotation Workflow for Medical Reports Using Small Language Models Presented by Avish Vijayaraghavan
+
+ A lot of information in medical reports remains underutilised due to their unstructured
+ format. While frontier language models could help, they necessitate sending private patient data to third parties. 
+ 
+ We develop a semi-automated workflow using small language models (SLMs) that run locally to extract structured data from these reports, with clinicians kept in the loop for validation. Framing extraction as a question-answering task with clinician-guided entity guidelines and few-shot examples, our best SLM/prompt combination achieved 84.3% accuracy on 400 histopathology reports of paediatric renal biopsies from Great Ormond Street Hospital, outperforming traditional NLP baselines. 
+ 
+ In this talk, we'll describe the workflow, key design decisions, results, and discuss ongoing extensions to other areas of medicine.
+
+* Slot 2 (14:00 - 14:30): Domain-Specific LLM Evaluation on Open-Ended Generation Tasks Presented by Adam Dejl
+
+Robust and comprehensive evaluation of large language models (LLMs) is essential for identifying optimal system configurations and mitigating risks associated with deploying LLMs in sensitive domains like healthcare. However, traditional statistical metrics are poorly suited to open-ended generation tasks, leading to growing reliance on LLM-based evaluation methods. 
+
+These methods, while often more flexible, introduce additional complexity: they depend on carefully chosen models, prompts, parameters, and evaluation strategies, making the evaluation process prone to misconfiguration. 
+
+In my talk, I will present key findings and outputs from my NHSE internship project focused on establishing best practices for LLM evaluation. I will also introduce EvalSense, an open-source framework developed during the internship that assists in constructing domain-specific evaluation suites.
+
+___
+
+This event will be added to [our Data Science Community for Health and Care calendar](https://future.nhs.uk/DataAnalytics/view?objectID=1253649){target="_blank"}, where we will add the abstract for the session and any further information.
+
+If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"} 
+
 ___
 
 
