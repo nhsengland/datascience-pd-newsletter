@@ -27,7 +27,7 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Interview with a Data Scientist - The Accidental Manager
+# Interview with a Data Scientist - BLAHHH
 </div>
 
 <details>
@@ -41,7 +41,7 @@ Thanks for reading! – newsletter team
 
 ___
 
-
+BLAHHH
 
 </details>
 ___
@@ -101,13 +101,6 @@ ___
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
-
-
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,**
-
-A SHORT DESCRIPTION OF EVENT 
-
 ### [Invisible inputs: gender bias in AI systems](https://www.lse.ac.uk/events/gender-bias-in-ai){target="_blank"}
 **Tuesday 10th March, 18:30 - 20:00, Online and at Sheikh Zayed Theatre, Cheng Kin Ku Building, London School of Economics and Political Science**
 
@@ -121,26 +114,23 @@ The panel includes behavioural and data scientists, and professors in public pol
 
 You can attend in person by requesting a ticket via their ticket request form, or online via LSE Live.
 
+### [Art of the possible: LLM-enhanced research methods for large scale qualitative data](https://www.lse.ac.uk/dsi/events/2025-26/research-events/art-of-the-possible){target="_blank"}
+**Wednesday 25th March, 12:30 - 2:00, In person (COL.1.06, London School of Economics and Political Science)**
+
+LLMs provide unprecedented potential for analysing qualitative data at scale, but that potential cannot be achieved with ad-hoc chatbot interactions. We need structured, rigorous and auditable pipelines.
+
+In this talk, Lee Mager, DSI Faculty Affiliate and Digital Innovation Lead at LSE Law School, draws on three large-scale research projects which:
+* Classify 100,000+ foreign investment projects against EU sustainability criteria
+* Code corporate governance documents from S&P 500 companies’ SEC filings across 25 years
+* Comparative analysis of news media discourse on critical raw materials
+
+It addresses the practical and methodological challenges of deploying LLMs as automated 'method execution' assistants, carefully guided and evaluated by human researchers.
+
 ___
 
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
-
-<div class="section-heading">
-# Knowledge Sharing
-</div>
-
-TEXT
-
-___
-
-
-<div class="section-heading">
-# Training Opportunities
-</div>
-
-TEXT
 
 ___
 
