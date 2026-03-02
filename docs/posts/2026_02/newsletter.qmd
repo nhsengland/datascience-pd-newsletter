@@ -57,7 +57,7 @@ We heard from two projects:
 * Causal Inference for Intervention & Service Evaluations: Applications in North Central London
 * MM-HealthFair: Tackling Healthcare Bias in Multimodal AI Risk Prediction
 
-Many thanks to our presenters for showcasing their interesting work.
+Thank you to our presenters for showcasing their interesting work - it was really well received.
 
 Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles. 
 
