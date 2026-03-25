@@ -176,6 +176,19 @@ Join us for the first of our Turing Lectures to explore resilience not as a simp
 
 Tickets for this event are free if you attend the livestream, and £12 if you attend in person.
 
+### [The Turing Lectures: Making AI (truly) sustainable - from environmental costs to social impacts](https://www.turing.ac.uk/events/turing-lectures-making-ai-truly-sustainable-environmental-costs-social-impacts){target="_blank"}
+**Wednesday 27 May 2026, 18:00 - 21:00, Online & British Library, Knowledge Centre, London**
+
+It’s not news that AI has an environmental impact, and, as training models expand, so does the strain they place on the environment and energy grids around the world.
+
+AI models can transform society – improving efficiency, reducing wasted resources and accelerating innovation. Behind every model trained, every query processed and every dataset stored, though, lies a complex web of environmental, economic and social impacts.
+
+Dr Sasha Luccioni, Climate Lead at global responsible AI start-up Hugging Face, has featured on Business Insider's AI Power List for two years running, given two highly watched TED Talks on AI and, in 2024, was featured in both the BBC’s 100 inspiring and influential women from around the world and TIME Magazine's 100 most influential people in AI lists.
+
+Join us for an evening of insight and discussion where Sasha leads us through solid, evidence-based steps the AI ecosystem can take towards true sustainability. 
+
+Tickets for this event are free if you attend the livestream, and £12 if you attend in person.
+
 ___
 
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
