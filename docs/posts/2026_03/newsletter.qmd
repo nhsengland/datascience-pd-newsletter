@@ -1,6 +1,6 @@
 ---
-title: 'Data Science Community for Health and Care Newsletter MONTH YEAR'
-date: '3000-01-01'
+title: 'Data Science Community for Health and Care Newsletter March 2026'
+date: '2026-03-27'
 format:
   html:
     css: index.css
@@ -12,11 +12,11 @@ format:
       - left=20mm
       - right=20mm
 categories: ['newsletter', 'competency']
-description: 'The Data Science Community for Health and Care newsletter for MONTH YEAR'
-author: 'AUTHORS'
+description: 'The Data Science Community for Health and Care newsletter for March 2026'
+author: 'Elizabeth Kelly, '
 ---
 
-![](../../images/banner_MONTH.png)
+![](../../images/banner_march.png)
 
 Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
 
@@ -77,7 +77,7 @@ Check out our collection of training resources in the [Resources Section](https:
 # Need a Quick Break?
 </div>
 
-[How many tries will it take you?](custom_wordle_link){target="_blank"}
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=psipd){target="_blank"}
 
 
 
