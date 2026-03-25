@@ -11,7 +11,7 @@ format:
       - bottom=10mm
       - left=20mm
       - right=20mm
-categories: ['newsletter', 'competency']
+categories: ['newsletter', 'interview with a data scientist']
 description: 'The Data Science Community for Health and Care newsletter for March 2026'
 author: 'Elizabeth Kelly, '
 ---
@@ -30,9 +30,30 @@ Thanks for reading! – newsletter team
 # Highlights
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+<div class="section-heading">
+# March Analyst X Data Science Huddle
+</div>
 
-TEXT
+Recently, we had our March Analyst X Data Science Huddle!
+
+We heard from two projects:
+
+* A Semi-Automated Annotation Workflow for Medical Reports Using Small Language Models
+* Domain-Specific LLM Evaluation on Open-Ended Generation Tasks Presented
+
+As always, thank you to our presenters for sharing their interesting work!
+
+Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles. 
+
+___
+
+<div class="section-heading">
+# April Analyst X Data Science Huddle
+</div>
+**Tuesday 17th March 2026, 13:30 - 14:30, Online**
+
+blah
+
 ___
 
 
