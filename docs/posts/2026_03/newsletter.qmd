@@ -27,8 +27,36 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Highlights
+# Interview with a Data Scientist - BLAHHHHH
 </div>
+
+BLAHHH
+
+<details>
+  <summary>Read more...</summary>
+
+### How did you end up in data science in your healthcare organisation? What did you do before, and what really sparked your interest in this field?
+
+BLAHHH
+
+### Once you joined the NHS, what was that experience like? What different roles and teams have you been a part of, and how have they shaped your career?
+
+BLAHHH
+
+### What are you currently working on? Are there any projects that you’re particularly excited about, or that you feel are making a real difference? What impact are you having?
+
+BLAHHH
+
+### If you could give someone just starting out in data science a few pieces of advice, what would they be?
+
+BLAHHH
+
+___
+
+BLAHHHH
+
+</details>
+___
 
 <div class="section-heading">
 # March Analyst X Data Science Huddle
@@ -77,21 +105,6 @@ ___
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
-
-<div class="section-heading">
-# Knowledge Sharing
-</div>
-
-TEXT
-
-___
-
-
-<div class="section-heading">
-# Training Opportunities
-</div>
-
-TEXT
 
 ___
 
