@@ -146,6 +146,36 @@ Lots of exciting things coming up! See the [full calendar here](https://future.n
 
 A SHORT DESCRIPTION OF EVENT 
 
+### [Turing-Roche festival: Exploring Health AI in Practice](https://www.turing.ac.uk/events/turing-roche-festival-exploring-health-ai-practice){target="_blank"}
+**Tuesday 07 Apr 2026, 14:00 - 17:00, Online & Alan Turing Institute**
+
+This festival includes talks from Dr. Hatim Abdulhussein, Samiran Dey, and a presentation from the Turing-Roche enrichment students Reed Naidoo, Jingyu Hu and Giuseppe Tripodi. There will also be time for networking and collaboration.
+
+* 2pm-2.15pm - Introduction to speakers and the Turing-Roche partnership
+
+* 2.15pm-3pm - AI in Practice: NHS Experiences and How to Engage, a talk by Hatim Abdulhussein
+
+* 3pm-3.30pm - tea/coffee break
+
+* 3.30pm-4pm -  Crossmodal generative AI for multimodal cancer data, a talk by Samiran Dey
+
+* 4pm-4.30pm - A talk on Multimodal Cancer AI by the Turing-Roche enrichment students: Reed Naidoo, Jingyu Hu and Giuseppe Tripodi
+
+* 4.30pm-5pm - Networking and further discussion over snacks.
+
+This event is free to attend but you need to register.
+
+### [The Turing Lectures: Frontier AI under pressure - building resilience across layers](https://www.turing.ac.uk/events/turing-lectures-frontier-ai-under-pressure-building-resilience-across-layers){target="_blank"}
+**Tuesday 28 Apr 2026, 18:00 - 21:00, Online & British Library, Knowledge Centre, London**
+
+The Alan Turing Institute’s flagship public lecture series returns for its 10th year, bringing world-leading thinking in data science and AI to the forefront of national conversation.
+
+Frontier AI – highly advanced AI systems, such as GPT-5 or DeepMind’s Gemini, that push the limits of what machines can do – is moving faster than our institutions can keep up. This creates challenges that aren’t just technical, but affect the whole system, including AI models, policies, organisations and human decision-making.
+
+Join us for the first of our Turing Lectures to explore resilience not as a simple technical fix, but as a broader challenge that spans AI, institutions, policy and human judgement.
+
+Tickets for this event are free if you attend the livestream, and £12 if you attend in person.
+
 ___
 
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
