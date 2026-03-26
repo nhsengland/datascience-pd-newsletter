@@ -135,6 +135,20 @@ ___
 
 
 <div class="section-heading">
+# Synthetic Clinical Notes Work - Now Published!
+</div>
+
+On January 20th, we had Ben Wallace and Will Poulett present their work at one of our Analyst X Data Science Huddles: **“Generating Synthetic Patient Pathways and Clinical Notes Using LLMs.”** A recording can be accessed [here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784).
+
+As you might remember, they mentioned they were working on getting their work published. It is now available on GitHub:
+
+[https://github.com/nhsengland/synthetic_clinical_notes](https://github.com/nhsengland/synthetic_clinical_notes/blob/main/README.md)
+
+If you have any questions about the codebase, you can contact Will at [william.poulett1@nhs.net](mailto:william.poulett1@nhs.net) or Scarlett at [scarlett.kynoch1@nhs.net](mailto:scarlett.kynoch1@nhs.net) .
+
+___
+
+<div class="section-heading">
 # Events
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
