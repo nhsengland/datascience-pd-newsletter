@@ -139,15 +139,19 @@ ___
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
+### [Art of the possible: LLM-enhanced research methods for large scale qualitative data](https://www.lse.ac.uk/dsi/events/2025-26/research-events/art-of-the-possible){target="_blank"}
+**Wednesday 1st April, 12:30 - 14:00, London School of Economics COL.1.06**
 
+LLMs provide unprecedented potential for analysing qualitative data at scale, but that potential cannot be achieved with ad-hoc chatbot interactions. We need structured, rigorous and auditable pipelines.
 
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,**
+In this talk, Lee Mager, DSI Faculty Affiliate and Digital Innovation Lead at LSE Law School, draws on three large-scale research projects which:
 
-A SHORT DESCRIPTION OF EVENT 
+classify 100,000+ foreign investment projects against EU sustainability criteria
+code corporate governance documents from S&P 500 companies’ SEC filings across 25 years
+comparative analysis of news media discourse on critical raw materials
 
 ### [Turing-Roche festival: Exploring Health AI in Practice](https://www.turing.ac.uk/events/turing-roche-festival-exploring-health-ai-practice){target="_blank"}
-**Tuesday 07 Apr 2026, 14:00 - 17:00, Online & Alan Turing Institute**
+**Tuesday 7th Apr 2026, 14:00 - 17:00, Online & Alan Turing Institute**
 
 This festival includes talks from Dr. Hatim Abdulhussein, Samiran Dey, and a presentation from the Turing-Roche enrichment students Reed Naidoo, Jingyu Hu and Giuseppe Tripodi. There will also be time for networking and collaboration.
 
@@ -166,7 +170,7 @@ This festival includes talks from Dr. Hatim Abdulhussein, Samiran Dey, and a pre
 This event is free to attend but you need to register.
 
 ### [The Turing Lectures: Frontier AI under pressure - building resilience across layers](https://www.turing.ac.uk/events/turing-lectures-frontier-ai-under-pressure-building-resilience-across-layers){target="_blank"}
-**Tuesday 28 Apr 2026, 18:00 - 21:00, Online & British Library, Knowledge Centre, London**
+**Tuesday 28th Apr 2026, 18:00 - 21:00, Online & British Library, Knowledge Centre, London**
 
 The Alan Turing Institute’s flagship public lecture series returns for its 10th year, bringing world-leading thinking in data science and AI to the forefront of national conversation.
 
@@ -177,7 +181,7 @@ Join us for the first of our Turing Lectures to explore resilience not as a simp
 Tickets for this event are free if you attend the livestream, and £12 if you attend in person.
 
 ### [The Turing Lectures: Making AI (truly) sustainable - from environmental costs to social impacts](https://www.turing.ac.uk/events/turing-lectures-making-ai-truly-sustainable-environmental-costs-social-impacts){target="_blank"}
-**Wednesday 27 May 2026, 18:00 - 21:00, Online & British Library, Knowledge Centre, London**
+**Wednesday 27th May 2026, 18:00 - 21:00, Online & British Library, Knowledge Centre, London**
 
 It’s not news that AI has an environmental impact, and, as training models expand, so does the strain they place on the environment and energy grids around the world.
 
