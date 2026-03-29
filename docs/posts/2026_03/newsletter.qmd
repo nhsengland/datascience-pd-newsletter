@@ -124,10 +124,17 @@ ___
 <div class="section-heading">
 # April Analyst X Data Science Huddle
 </div>
+**Tuesday 28th April 2026, 13:30 - 14:30, Online**
 
 Thank you for those who have shown interest in presenting at an Analyst X Data Science Huddle! 
 
-We are currently organising the huddle for April. We will add more information to our futures page, and share an email invite with further details.
+The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for March. The session will contain two slots, covering two projects:
+
+* Slot 1 (13:30 - 14:00): Leveraging Data Science to Support a District General Hospital (DGH) Presented by Abhinav Gupta
+
+* Slot 2 (14:00 - 14:30): How I adapted the NHSR Waiting List package for Community Waits and how it could be used in other areas Presented by Simon Wellesley-Miller
+
+This will be sent out on Monday 30th of March with further details.
 
 If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"} 
 
