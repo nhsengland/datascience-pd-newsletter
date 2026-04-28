@@ -55,8 +55,8 @@ Recently, we had our April Analyst X Data Science Huddle!
 
 We heard from two projects:
 
-* AAAAA
-* BBBBB
+* Leveraging Data Science to Support a District General Hospital (DGH) Presented by Abhinav Gupta
+* How I adapted the NHSR Waiting List package for Community Waits and how it could be used in other areas Presented by Simon Wellesley-Miller
 
 As always, thank you to our presenters for sharing their interesting work!
 
