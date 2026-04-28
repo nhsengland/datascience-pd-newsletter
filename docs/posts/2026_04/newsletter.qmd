@@ -1,6 +1,6 @@
 ---
-title: 'Data Science Community for Health and Care Newsletter MONTH YEAR'
-date: '3000-01-01'
+title: 'Data Science Community for Health and Care Newsletter April 2026'
+date: '2026-04-29'
 format:
   html:
     css: index.css
@@ -11,12 +11,12 @@ format:
       - bottom=10mm
       - left=20mm
       - right=20mm
-categories: ['newsletter', 'competency']
-description: 'The Data Science Community for Health and Care newsletter for MONTH YEAR'
-author: 'AUTHORS'
+categories: ['newsletter', 'interview with a data scientist']
+description: 'The Data Science Community for Health and Care newsletter for April 2026'
+author: 'Elizabeth Kelly, Jamie Wong'
 ---
 
-![](../../images/banner_MONTH.png)
+![](../../images/banner_april.png)
 
 Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team. 
 
@@ -27,12 +27,60 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Highlights
+# Interview with a Data Scientist - The Fairness Enthusiast
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+AAAA
 
-TEXT
+<details>
+  <summary>Read more...</summary>
+
+### How did you end up in data science in your healthcare organisation? What did you do before, and what really sparked your interest in this field?
+
+AAA
+
+___
+
+We hope you have found Jamie interview insightful! If you are interested in learning more about the Data Scientists working in healthcare, you can read our previous iterations of the ["Interview with a Data Scientist"](https://nhsengland.github.io/datascience/articles/category/data-science-interviews/) on the NHS England Data Science Website.
+
+</details>
+
+___
+
+<div class="section-heading">
+# April Analyst X Data Science Huddle
+</div>
+
+Recently, we had our April Analyst X Data Science Huddle!
+
+We heard from two projects:
+
+* AAAAA
+* BBBBB
+
+As always, thank you to our presenters for sharing their interesting work!
+
+Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles. 
+
+___
+
+<div class="section-heading">
+# May Analyst X Data Science Huddle
+</div>
+**Tuesday XXXXXX May 2026, 13:30 - 14:30, Online**
+
+Thank you for those who have shown interest in presenting at an Analyst X Data Science Huddle! 
+
+The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for May. The session will contain two slots, covering two projects:
+
+* Slot 1 (13:30 - 14:00): Leveraging Data Science to Support a District General Hospital (DGH) Presented by Abhinav Gupta
+
+* Slot 2 (14:00 - 14:30): How I adapted the NHSR Waiting List package for Community Waits and how it could be used in other areas Presented by Simon Wellesley-Miller
+
+This will be sent out on Monday 30th of March with further details.
+
+If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"} 
+
 ___
 
 
@@ -47,6 +95,19 @@ Lots of exciting things coming up! See the [full calendar here](https://future.n
 **DATE, TIME, LOCATION,**
 
 A SHORT DESCRIPTION OF EVENT 
+
+### [The Turing Lectures: Making AI (truly) sustainable - from environmental costs to social impacts](https://www.turing.ac.uk/events/turing-lectures-making-ai-truly-sustainable-environmental-costs-social-impacts){target="_blank"}
+**Wednesday 27th May 2026, 18:00 - 21:00, Online & British Library, Knowledge Centre, London**
+
+It’s not news that AI has an environmental impact, and, as training models expand, so does the strain they place on the environment and energy grids around the world.
+
+AI models can transform society – improving efficiency, reducing wasted resources and accelerating innovation. Behind every model trained, every query processed and every dataset stored, though, lies a complex web of environmental, economic and social impacts.
+
+Dr Sasha Luccioni, Climate Lead at global responsible AI start-up Hugging Face, has featured on Business Insider's AI Power List for two years running, given two highly watched TED Talks on AI and, in 2024, was featured in both the BBC’s 100 inspiring and influential women from around the world and TIME Magazine's 100 most influential people in AI lists.
+
+Join us for an evening of insight and discussion where Sasha leads us through solid, evidence-based steps the AI ecosystem can take towards true sustainability. 
+
+Tickets for this event are free if you attend the livestream, and £12 if you attend in person.
 
 ___
 
