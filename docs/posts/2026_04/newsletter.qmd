@@ -1,6 +1,6 @@
 ---
 title: 'Data Science Community for Health and Care Newsletter April 2026'
-date: '2026-04-29'
+date: '2026-04-28'
 format:
   html:
     css: index.css
