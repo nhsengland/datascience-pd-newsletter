@@ -152,13 +152,6 @@ ___
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
-
-
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,**
-
-A SHORT DESCRIPTION OF EVENT 
-
 ### [Rapid evaluation in health care 2026](https://www.health.org.uk/events/rapid-evaluation-in-health-care-2026){target="_blank"}
 **Wednesday 13th May 2026, 09:30 - 16:30, British Medical Asssociation, Tavistock Square, London, WC1H 9JP**
 
