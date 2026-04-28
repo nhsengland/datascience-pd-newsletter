@@ -67,17 +67,27 @@ ___
 <div class="section-heading">
 # May Analyst X Data Science Huddle
 </div>
-**Tuesday XXXXXX May 2026, 13:30 - 14:30, Online**
+**Tuesday 26th May 2026, 13:30 - 14:30, Online**
 
 Thank you for those who have shown interest in presenting at an Analyst X Data Science Huddle! 
 
 The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for May. The session will contain two slots, covering two projects:
 
-* Slot 1 (13:30 - 14:00): Leveraging Data Science to Support a District General Hospital (DGH) Presented by Abhinav Gupta
+* Slot 1 (13:30 - 14:00): Predictive AI: Likelihood of Discharge Presented by Abdul Hussain
 
-* Slot 2 (14:00 - 14:30): How I adapted the NHSR Waiting List package for Community Waits and how it could be used in other areas Presented by Simon Wellesley-Miller
+This session will cover the evaluation and implementation of Epic's Likelihood
+ of Discharge model deployed within the Epic EHR to predict inpatient discharge probability for either today or tomorrow. 
+ 
+ We will walk through the full validation pathway from localisation through retrospective and prospective evaluation, and discuss the operational
+ framework for integrating model outputs into clinical workflows.
 
-This will be sent out on Monday 30th of March with further details.
+* Slot 2 (14:00 - 14:30): Utilising User-Centred Design to Develop an OPEL Forecasting Tool Presented by Tess Weaver
+
+The Operational Pressures Escalation Level (OPEL) Framework is designed to manage operational pressures across NHS providers, including acute trusts, through OPEL scores. Currently, responses to OPEL scores are more reactive than proactive. 
+
+We are exploring the feasibility of a forecasting tool to help operational staff proactively plan for, and ideally avoid, high demand pressures. We have been working with User-Centred Design (UCD) researchers to understand what would make forecasts actionable and useable for our users, so we can deliver maximum impact. 
+
+This presentation will walk you through some of our work on OPEL forecasting, the process of working with UCD researchers, and the impact this has had on the project.
 
 If you would like to be invited to future events of ours, [sign up to our mailing list!](https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&route=shorturl){target="_blank"} 
 
