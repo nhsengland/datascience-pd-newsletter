@@ -94,7 +94,7 @@ And, with a small and slightly shameless self-plug, if you are interested in cau
 
 ___
 
-We hope you have found Jamie interview insightful! If you are interested in learning more about the Data Scientists working in healthcare, you can read our previous iterations of the ["Interview with a Data Scientist"](https://nhsengland.github.io/datascience/articles/category/data-science-interviews/) on the NHS England Data Science Website.
+We hope you have found Jamie's interview insightful! If you are interested in learning more about the Data Scientists working in healthcare, you can read our previous iterations of the ["Interview with a Data Scientist"](https://nhsengland.github.io/datascience/articles/category/data-science-interviews/) on the NHS England Data Science Website.
 
 </details>
 

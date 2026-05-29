@@ -11,9 +11,9 @@ format:
       - bottom=10mm
       - left=20mm
       - right=20mm
-categories: ['newsletter']
+categories: ['newsletter', 'interview with a data scientist']
 description: 'The Data Science Community for Health and Care newsletter for May 2026'
-author: 'Elizabeth Kelly'
+author: 'Elizabeth Kelly, Simon Wellesley-Miller'
 ---
 
 ![](../../images/banner_may.png)
@@ -27,14 +27,75 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Highlights
+# Interview with a Data Scientist  - The Epidemiologist Who Wasn’t “Good at Maths”
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+Welcome to another instalment of our "Interview with a Data Scientist" series, where we explore the careers and work of the talented data scientists across our healthcare organisations. We aim to showcase the fantastic individuals who contribute to Data Science within the healthcare sector and provide valuable insights for those considering a career in this field.
 
-TEXT
+Today we're interviewing XXXXXX
+
+<details>
+  <summary>Read more...</summary>
+
+### How did you end up in data science in your healthcare organisation? What did you do before, and what really sparked your interest in this field?
+
+blah
+
+
+### Once you joined your healthcare organisation, what was that experience like? What different roles and teams have you been a part of, and how have they shaped your career?
+
+blah
+
+### What are you currently working on? Are there any projects that you're particularly excited about, or that you feel are making a real difference? What impact are you having?
+
+blah
+
+### If you could give someone just starting out in data science a few pieces of advice, what would they be? And what resources have you found particularly helpful along the way that you can share?
+
+blah
+
 ___
 
+We hope you have found Simon's interview insightful! If you are interested in learning more about the Data Scientists working in healthcare, you can read our previous iterations of the ["Interview with a Data Scientist"](https://nhsengland.github.io/datascience/articles/category/data-science-interviews/) on the NHS England Data Science Website.
+
+</details>
+
+___
+
+<div class="section-heading">
+# May Analyst X Data Science Huddle
+</div>
+
+Recently, we had our May Analyst X Data Science Huddle!
+
+We heard from two projects:
+
+* blah
+* blah
+
+As always, thank you to our presenters for sharing their interesting work!
+
+Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles. 
+
+___
+<div class="section-heading">
+# June Analyst X Data Science Huddle
+</div>
+**Tuesday 30th June 2026, 13:30 - 14:30, Online**
+
+The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for June. We will here from one project; see the abstract below.
+
+* Predicting Length of Stay: Explainable, Continuously Updated Discharge Forecasting to Reduce Overstays Presented by Adam Hollings
+
+Estimated discharge dates (EDD) are often missing and, when present, are frequently inaccurate — even when predicting discharge within the next 24 hours. This lack of reliability reduces staff confidence in forward planning and can result in patients who are medically optimised for discharge remaining in hospital beds longer than necessary.
+
+We are working directly with a trust to address this problem by developing a model that predicts patient length of stay using admissions, patient, and treatment data from the CDM (Canonical Data Model) within the Federated Data Platform (FDP). A key challenge is the volume and diversity of information feeding into the EDD decision, which makes explainability essential for clinical and operational trust.
+
+The model inference predictions will be able to be updated daily for a patient as new information becomes available. Crucially, the tool will highlight which changes in patient or pathway variables are driving changes in the predicted discharge window, allowing users to understand not just what has changed, but why.
+
+Alongside model development, we have treated integration into user workflows as a first‑class requirement — ensuring outputs are actionable, interpretable, and aligned with how discharge planning decisions are made in practice and the tools they prefer to use. As the tool matures, we are exploring the incorporation of multi‑modal data to further allow the model to meet the users needs and improve predictive performance.
+
+___
 
 <div class="section-heading">
 # Events
@@ -56,15 +117,6 @@ Know of any events we should feature next month? Let us know by clicking the "Co
 
 <div class="section-heading">
 # Knowledge Sharing
-</div>
-
-TEXT
-
-___
-
-
-<div class="section-heading">
-# Training Opportunities
 </div>
 
 TEXT
