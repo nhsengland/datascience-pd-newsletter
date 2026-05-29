@@ -112,16 +112,19 @@ Alongside model development, we have treated integration into user workflows as 
 ___
 
 <div class="section-heading">
+# Looking for an interesting read?
+</div>
+
+Dr Andrew Barnes at the University of Bath is harnessing artificial intelligence to predict storms and extreme weather events all over the world. 
+
+See [Weather wizards: How AI is predicting storms with precision](https://www.bath.ac.uk/case-studies/weather-wizards-how-ai-is-predicting-storms-with-precision/){target="_blank"} and have a read!
+
+___
+
+<div class="section-heading">
 # Events
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
-
-
-
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,**
-
-A SHORT DESCRIPTION OF EVENT 
 
 ### [Rethinking research: the role of humans in scientific discovery in the age of LLMs](https://www.lse.ac.uk/dsi/events/2025-26/research-events/rethinking-research){target="_blank"}
 **Monday 1st June, 17:30 - 19:00, London School of Economics, MAR 2.04**
