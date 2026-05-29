@@ -27,19 +27,23 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Interview with a Data Scientist  - The Epidemiologist Who Wasn’t “Good at Maths”
+# Interview with a Data Scientist  - Dungeons, dragons and data
 </div>
 
 Welcome to another instalment of our "Interview with a Data Scientist" series, where we explore the careers and work of the talented data scientists across our healthcare organisations. We aim to showcase the fantastic individuals who contribute to Data Science within the healthcare sector and provide valuable insights for those considering a career in this field.
 
-Today we're interviewing XXXXXX
+Today we're interviewing Simon Wellesley-Miller, BLAHHHHH 
 
 <details>
   <summary>Read more...</summary>
 
 ### How did you end up in data science in your healthcare organisation? What did you do before, and what really sparked your interest in this field?
 
-blah
+I had worked with data for about 10 years before I jumped into data science, working across child protection data, police and then coming into the NHS. Before my data roles I had various jobs including DVLA court prosecutor and professional goblin (yes I was really a paid goblin!).
+
+My previous data roles were very traditional KPI reporting and report building. I was not great at SQL and took on a multitude of very manual processes to build not very insightful reports. Working with data, I always knew there was better things we could do with it but was very unsure how to do it. I was very fortunate geographically working in Exeter, that my trust had good links with the university. I was fortunate to be chosen to provide some data for a collaborate university project. This really opened my eyes to the art of the possible with data. Again, I was lucky in that the university had a strong PenARC Operational Research and Data Science Team and they were the founders of the Health Service Modelling Associates (HSMA) programme, which teaches analysts the foundations of data science and operational research. I was lucky enough to be on one of the very early cohorts.
+
+My project for HSMA was a discrete event simulation that supported a massive investment in Crisis Cafes for support of mental health services in Devon. The HSMA really gave me a taste for data science and 2 years later Exeter University started its first MSC in Healthcare Data Science and I was keen to get on, despite not having a bachelor’s degree, I was accepted on merit and jumped straight into the course. As a more mature student and never having done university properly and still having to work a full-time job, was certainly a challenge but one I loved, and I got great support from the Uni and my peers. I really see data science as a great accompaniment to performance reporting, to dig into the why things are happening but far more importantly what do we think will happen, what impact to we predict mitigations will have and how we can improve our services for our patients. I love it when I see tangible actions arise from a project and bring clinically meaningful insights into my work.
 
 
 ### Once you joined your healthcare organisation, what was that experience like? What different roles and teams have you been a part of, and how have they shaped your career?
@@ -85,7 +89,7 @@ ___
 
 The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for June. We will here from one project; see the abstract below.
 
-* Predicting Length of Stay: Explainable, Continuously Updated Discharge Forecasting to Reduce Overstays Presented by Adam Hollings
+* **Predicting Length of Stay: Explainable, Continuously Updated Discharge Forecasting to Reduce Overstays Presented by Adam Hollings**  
 
 Estimated discharge dates (EDD) are often missing and, when present, are frequently inaccurate — even when predicting discharge within the next 24 hours. This lack of reliability reduces staff confidence in forward planning and can result in patients who are medically optimised for discharge remaining in hospital beds longer than necessary.
 
@@ -114,12 +118,6 @@ ___
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
 
 Know of any events we should feature next month? Let us know by clicking the "Contribute" button, or [here](https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&labels=&projects=&template=suggest-some-newsletter-content-.md&title=){target="_blank"}.
-
-<div class="section-heading">
-# Knowledge Sharing
-</div>
-
-TEXT
 
 ___
 
