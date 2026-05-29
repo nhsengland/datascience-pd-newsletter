@@ -70,8 +70,8 @@ Recently, we had our May Analyst X Data Science Huddle!
 
 We heard from two projects:
 
-* blah
-* blah
+* Predictive AI: Likelihood of Discharge Presented by Abdul Hussain
+* Utilising User-Centred Design to Develop an OPEL Forecasting Tool Presented by Tess Weaver
 
 As always, thank you to our presenters for sharing their interesting work!
 
