@@ -146,6 +146,20 @@ Event timings:
 * Drinks reception from 6.00pm
 * Talk begins at 6.30pm
 
+### [From Theory to Impact in Health and Care](https://www.datascienceconnects.com/DataScience/Events/Event_display.aspx?EventKey=HCSJUNE26&WebsiteKey=895c5ac3-48c4-4044-9150-a42812a702d2){target="_blank"}
+**Friday 19th June, 13:30 - 17:30, Birmingham**
+
+We are delighted to invite you to an afternoon of insightful discussion and collaborative problem-solving, hosted by the OR Society's Health and Care Systems SIG. Our event brings together practitioners and academics to explore the vital role Operational Research plays in navigating complex health and care system challenges.
+
+The afternoon features two distinguished keynote speakers who will share their expertise in healthcare modeling. Dr Elizabeth Williams, PhD will open the session by sharing her firsthand experience applying optimization methods within NHS Wales. Later, Dr Edilson Arruda who is an Associate Professor at the University of Southampton will close our formal sessions by shifting the lens to a patient-centric approach, exploring how pathway insights can transform our ability to forecast hospital bed occupancy.
+
+Beyond the keynotes, this event is designed for active participation. In our Round-Table Session, attendees are offered the chance to discuss real-world optimization scenarios in small groups. Whether you are new to the field of Operational Research or not, this is a fantastic opportunity to sharpen your skills, share system insights, and network with the wider OR community. 
+
+* OR Society Members - Free
+* Non members - £10.00 + VAT
+
+Note - you will need to sign in or create an account to register for this event. 
+
 ### [Will AI secure humanity’s future?](https://www.lse.ac.uk/events/lse-festival/2026/will-ai-secure-humanitys-future){target="_blank"}
 **Saturday 20th June, 15:30 - 16:30, Online and in-person (Marshall Building, London School of Economics)**
 
