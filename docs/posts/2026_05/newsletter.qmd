@@ -123,6 +123,40 @@ Lots of exciting things coming up! See the [full calendar here](https://future.n
 
 A SHORT DESCRIPTION OF EVENT 
 
+### [Rethinking research: the role of humans in scientific discovery in the age of LLMs](https://www.lse.ac.uk/dsi/events/2025-26/research-events/rethinking-research){target="_blank"}
+**Monday 1st June, 17:30 - 19:00, London School of Economics, MAR 2.04**
+
+Artificial intelligence (AI) and large language models (LLMs) are rapidly reshaping the landscape of scientific discovery. These technologies highlight the significant potential of AI to enhance human scientific capabilities and accelerate research. At the same time, they signal a profound shift in how research is conceived, conducted, and communicated, as well as how doctoral students and researchers are supervised and intellectually developed. This transformation calls for a critical re-examination of the human role in research.
+
+The relationship between humans and AI, and their combined biological and artificial intelligence, must be grounded in mutual critique, trust, and collaboration. Researchers should rigorously evaluate AI-generated outputs using their own expertise and judgment, while also leveraging LLMs to test, challenge, and refine arguments and hypotheses through critical thinking. Such reciprocal co-creation ensures that AI functions as an augmentative partner rather than a replacement in the pursuit of scientific knowledge. It also points toward a shift from a traditional two-way relationship to a three-way partnership involving students, supervisors, and LLMs.
+
+Rather than offering definitive conclusions, this talk seeks to stimulate dialogue, question assumptions, and inspire new forms of collective thinking about the future of scientific research and doctoral training in an AI-driven world.
+
+### [How to talk to AI](https://www.lse.ac.uk/dsi/events/2025-26/public-events/how-to-talk-to-ai){target="_blank"}
+**Tuesday 2nd June, 18:00-20:00, Space House, 12 Keeley Street, London, WC2B 4BA**
+
+Hundreds of millions of people now talk AI, every day. Artificial Intelligence has the power to reshape society faster than any technology in modern history. However, most people still don’t understand how these new AI systems work, how to make the most of them, or what the dangers are.
+
+In his new book ‘How to Talk to AI’, award-winning technology writer Jamie Bartlett explores how we actually communicate with these machines, and what happens if we get it wrong.
+
+Jamie is joined by Dr Jon Cardoso-Silva (Assistant Professor at the DSI). They will discuss Bartlett’s new book, and what it really means to communicate effectively with AI.
+
+Event timings:
+
+* Drinks reception from 6.00pm
+* Talk begins at 6.30pm
+
+### [Will AI secure humanity’s future?](https://www.lse.ac.uk/events/lse-festival/2026/will-ai-secure-humanitys-future){target="_blank"}
+**Saturday 20th June, 15:30 - 16:30, Online and in-person (Marshall Building, London School of Economics)**
+
+Artificial Intelligence is reshaping our world, transforming economies, societies, daily interactions and the institutions that support them. Many researchers and policymakers view this as a pivotal moment, one that could lead to greater global wellbeing if managed well or to growing instability if risks are left unchecked.
+
+Supporters argue that AI is driving positive change across the world. It is advancing human welfare by making scientific research faster and more reliable, improving diagnostics and treatment in healthcare, and strengthening environmental planning through climate modelling. It is boosting productivity leading to economic growth and helping public services respond more accurately to social needs. Some highlight its potential to widen democratic participation by improving access to information and enabling new forms of civic engagement.
+
+Critics warn that AI presents potentially unsurmountable challenges. Its enormous energy demands will worsen the climate crisis. The inherent biases in its data will perpetuate discrimination and social inequity. The rise of deepfakes and misinformation, will erode trust and kill democracy. In the job market, AI-driven automation will displace roles, reshape careers, and concentrate power and wealth with a limited few. Ultimately the rapid pace of its development and deployment may lead to our inability to govern and control it.
+
+Join us to hear four speakers present their competing viewpoints. Consider the debate, ask questions of the panel and decide whether you are persuaded that AI will really improve our daily lives safeguard the planet and save humanity.
+
 ___
 
 See more future events on the [calendar](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}
