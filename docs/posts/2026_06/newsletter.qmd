@@ -59,7 +59,7 @@ Take a look at the link for all the London Data Week events on this year!
 ### [Whose AI is it anyway? Data, sovereignty, and the geopolitics of intelligence](https://www.lse.ac.uk/dsi/events/2025-26/public-events/whose-ai-is-it-anyway){target="_blank"}
 **Wednesday 8 July 2026, 18:30pm - 20:30pm, Bush House, King's College London, 30 Aldwych, WC2B 4BG**
 
-In-person public event hosted by the Data Science Institute and King's Institute for Artificial Intelligence as part of London Data Week
+In-person public event hosted by the Data Science Institute and King's Institute for Artificial Intelligence as part of London Data Week.
 
 When Anthropic's Fable 5 was ordered offline worldwide just three days after its release, it sharpened a question artificial intelligence increasingly raises: who's in control?
 
@@ -77,10 +77,11 @@ The Bristol Centre for Supercomputing (BriCS) and The Alan Turing Institute are 
 The workshop is open to participants from UK research organisations (e.g. universities, NHS bodies, research institutes) and industry (UK registered business of any size with a Companies House registration number).
 
 The workshop is free but you must register for a place. The workshop covers:
-* Introduction to Isambard-AI
-* Distributed PyTorch Training 
-* PyTorch Profiling
-* Containers
+
+* Introduction to Isambard-AI 
+* Distributed PyTorch Training  
+* PyTorch Profiling 
+* Containers 
 
 ___
 
