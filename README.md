@@ -24,6 +24,7 @@ Creating the next monthly newsletter? Here's how:
 - You can also update the wordle at the end of the newsletter going to [Custom Wordle](https://mywordle.strivemath.com/). Remember to keep the word short (5 letters) and related!
 - When finished, create a PR for it to be reviewed and once approved and pushed, an action should kick off to render it so it can be shared.
 - The link in the "about" section should be updated with the latest newsletter. Use this link to share the newsletter.
+- See the "Distributing the newsletter" section below for details on how to share the newsletter.
 
 ## Distributing the newsletter
 See the [Data Science Confluence page](https://nhsd-confluence.digital.nhs.uk/spaces/DAT/pages/565791242/DS+PD+Newsletter+and+event+calendar) for details of how and where to share the newsletter.  
