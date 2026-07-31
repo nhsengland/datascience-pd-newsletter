@@ -31,7 +31,7 @@ Thanks for reading! – newsletter team
 </div>
 **Tuesday 7th July 2026, 10:30 - 11:30, Online**
 
-The next Analyst X Data Science Huddle for June has been rearranged for Tuesday 7th July. We will here from one project; see the abstract below.
+The next Analyst X Data Science Huddle for June has been rearranged for Tuesday 7th July. We will hear from one project; see the abstract below.
 
 * **Predicting Length of Stay: Explainable, Continuously Updated Discharge Forecasting to Reduce Overstays Presented by Adam Hollings**  
 

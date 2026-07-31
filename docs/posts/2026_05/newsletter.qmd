@@ -103,7 +103,7 @@ ___
 </div>
 **Tuesday 30th June 2026, 13:30 - 14:30, Online**
 
-The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for June. We will here from one project; see the abstract below.
+The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for June. We will hear from one project; see the abstract below.
 
 * **Predicting Length of Stay: Explainable, Continuously Updated Discharge Forecasting to Reduce Overstays Presented by Adam Hollings**  
 
