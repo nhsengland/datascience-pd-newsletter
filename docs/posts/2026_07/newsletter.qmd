@@ -60,39 +60,7 @@ ___
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
-### [London Data Week](https://londondataweek.org/ldw26-events/){target="_blank"}
-**4 July 2026 - 12 July 2026, Various Times, Various Locations**
 
-London Data Week (LDW) is a citywide, week-long public festival of data. Different organisations across London design and host public events over the week of the festival. 
-
-Take a look at the link for all the London Data Week events on this year!
-
-### [Whose AI is it anyway? Data, sovereignty, and the geopolitics of intelligence](https://www.lse.ac.uk/dsi/events/2025-26/public-events/whose-ai-is-it-anyway){target="_blank"}
-**Wednesday 8 July 2026, 18:30pm - 20:30pm, Bush House, King's College London, 30 Aldwych, WC2B 4BG**
-
-In-person public event hosted by the Data Science Institute and King's Institute for Artificial Intelligence as part of London Data Week.
-
-When Anthropic's Fable 5 was ordered offline worldwide just three days after its release, it sharpened a question artificial intelligence increasingly raises: who's in control?
-
-​Most governments talk about 'sovereign' AI and some are now building it, but what does it really mean for a country, an institution, or a citizen to have a say over those systems? What happens when that control slips?
-
-​Join the LSE Data Science Institute and [King's Institute for Artificial Intelligence](https://www.kcl.ac.uk/ai){target=} for a public panel bringing together leading voices to explore the technology, politics and security of AI and data sovereignty, and what's at stake for the UK.
-
-Followed by a drinks reception.
-
-### [BriCS x Turing - Isambard-AI workshop (21st July 2026)](https://www.turing.ac.uk/events/brics-x-turing-isambard-ai-workshop-21st-july-2026){target="_blank"}
-**Tuesday 21 July 2026, 10:00 - 16:00, Enigma 2.0, The Alan Turing Institute, British Library, 96 Euston Rd, London, NW1 2DB**
-
-The Bristol Centre for Supercomputing (BriCS) and The Alan Turing Institute are running a joint 1-day introductory workshop on Isambard-AI.
-
-The workshop is open to participants from UK research organisations (e.g. universities, NHS bodies, research institutes) and industry (UK registered business of any size with a Companies House registration number).
-
-The workshop is free but you must register for a place. The workshop covers:
-
-* Introduction to Isambard-AI 
-* Distributed PyTorch Training  
-* PyTorch Profiling 
-* Containers 
 
 ___
 
@@ -108,7 +76,7 @@ Check out our collection of training resources in the [Resources Section](https:
 # Need a Quick Break?
 </div>
 
-[How many tries will it take you?](https://mywordle.strivemath.com/?word=ohlgj){target="_blank"}
+[How many tries will it take you?](https://mywordle.strivemath.com/?word=althw){target="_blank"}
 
 
 
