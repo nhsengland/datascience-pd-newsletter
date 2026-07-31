@@ -27,14 +27,34 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Highlights
+# July Analyst X Data Science Huddle
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+Recently, we had our July Analyst X Data Science Huddle!
 
-TEXT
+We heard from two projects:
+
+* Discrete Event Simulation (DES) model to support ADHD and Autism pathway analysis presented by Guled Abdullahi
+* Optimising Access to OCT in the Diabetic Eye Screening Digital Surveillance Pathway presented by Simon Wellesley-Miller
+
+As always, thank you to our presenters for sharing their interesting work!
+
+Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles. 
+
 ___
 
+<div class="section-heading">
+# September Analyst X Data Science Huddle
+</div>
+**Tuesday 8th September 2026, 13:30 - 14:00, Online**
+
+The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for September. We will here from one project; see the abstract below.
+
+* **Synthesis: Turning Video Content into Searchable Institutional Memory Presented by Eirini Komninou**
+
+Your team watches hours of webinars, conference talks, and recorded meetings - then that knowledge disappears. Synthesis is a privacy-first pipeline that automatically turns video and audio into a structured, cross-linked, searchable knowledge base, stored on your own infrastructure. This huddle will be presented by Eirini from the Strategy Unit.
+
+___
 
 <div class="section-heading">
 # Events
