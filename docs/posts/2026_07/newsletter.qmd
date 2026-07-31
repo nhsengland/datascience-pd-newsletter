@@ -60,7 +60,20 @@ ___
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
+### [AI in the NHS 2026](https://www.health.org.uk/events/ai-in-the-nhs-2026){target="_blank"}
+**Thursday 15 October 2026, 10.00–17.00, Online**
 
+2026 is set to be a pivotal year for AI in the NHS, with important national strategies and regulatory reforms expected that will impact what kinds of technologies get used and how the health service adopts and oversees them.
+
+But turning the vision of an AI-enabled health system into reality won’t be straightforward. Our third annual AI event will bring together stakeholders from across the NHS, government, industry, academia and the charity sector to consider how the NHS can responsibly, safely and effectively implement AI at scale.
+
+This full day event will explore how to:
+
+* translate national strategy into real-world implementation
+* evaluate and scale AI tools rapidly, safely and effectively
+* build trust among clinicians, patients and the public
+* support the workforce through technological transformation
+* learn from leading international health systems already using AI at scale.
 
 ___
 
