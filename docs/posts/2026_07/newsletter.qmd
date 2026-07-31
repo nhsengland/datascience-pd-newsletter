@@ -1,6 +1,6 @@
 ---
-title: 'Data Science Community for Health and Care Newsletter July 2026'
-date: '2026-07-31'
+title: 'Data Science Community for Health and Care Newsletter MONTH YEAR'
+date: '3000-01-01'
 format:
   html:
     css: index.css
@@ -11,9 +11,9 @@ format:
       - bottom=10mm
       - left=20mm
       - right=20mm
-categories: ['newsletter']
-description: 'The Data Science Community for Health and Care newsletter for July 2026'
-author: 'Elizabeth Kelly'
+categories: ['newsletter', 'competency']
+description: 'The Data Science Community for Health and Care newsletter for MONTH YEAR'
+author: 'AUTHORS'
 ---
 
 ![](../../images/banner_july.png)
