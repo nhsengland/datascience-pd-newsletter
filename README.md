@@ -18,7 +18,7 @@ Creating the next monthly newsletter? Here's how:
 - Copy and paste the index.css file into this folder (HTML rendering will not work otherwise- this is a workaround)
 - Copy and paste the newsletter_template.qmd file into this folder (from the root folder), and rename to "newsletter.qmd"
 - Replace the necessary parts in the YAML at the top of the file with the information for this month (title, date, description, authors)
-- Replace the image address for the banner with the correct month
+- Replace the image address for the banner with the correct month. Images are found in docs/images.
 - Check the newsletter renders as expected by following the instructions under [Developing](#developing)
 - Start editing the file to add in all the content you want, checking periodically it's rendering as expected.
 - You can also update the wordle at the end of the newsletter going to [Custom Wordle](https://mywordle.strivemath.com/). Remember to keep the word short (5 letters) and related!
