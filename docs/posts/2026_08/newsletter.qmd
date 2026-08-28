@@ -69,14 +69,16 @@ This helped identify opportunities for service improvement, challenge anecdotal 
 <div class="section-heading">
 # Events
 </div>
-Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
+Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below. 
 
+### [International Conference on Trustworthy Digital Infrastructure 2026](https://www.turing.ac.uk/events/international-conference-trustworthy-digital-infrastructure-2026){target="_blank"}
+**Wednesday 16th September 2026, 10:00-16:00, Courthouse Hotel London Soho and Online**
 
+Digital Public Infrastructure, including foundational systems such as digital identity, payments, data exchange, registries, and public-service platforms, has emerged not merely as a technical undertaking, but as a critical site of contestation over sovereignty, governance, rights, resilience, and public trust.
 
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,**
+The rapid adoption of AI intensifies these questions. AI systems are increasingly being used to verify identity, detect fraud, assess risk, automate administrative processes, support cybersecurity monitoring, improve service personalisation, and analyse population-scale data. These capabilities may strengthen DPI by improving efficiency, inclusion, security, and responsiveness. However, they may also introduce new risks around opacity, bias, exclusion, surveillance, accountability, vendor dependency, and democratic oversight. 
 
-A SHORT DESCRIPTION OF EVENT 
+It is free to attend online, but there is a few to attend in person.
 
 ### [AI in the NHS 2026](https://www.health.org.uk/events/ai-in-the-nhs-2026){target="_blank"}
 **Thursday 15 October 2026, 10.00–17.00, Online**
