@@ -86,6 +86,14 @@ The project investigates whether routinely collected healthcare data can be used
  additional support, while providing a foundation for further model development. The work also considers how predicted risk could support service planning and prioritisation across these pathways.
 
 <div class="section-heading">
+# Fancy an interesting read?
+</div>
+Take a look at the [Why mental metaphors do not help us understand chatbot mistakes]https://link.springer.com/article/10.1007/s11229-026-05551-8){target="_blank"} article from Springer.
+
+Factual mistakes made by ChatGPT are frequently communicated using metaphors describing mistakes made by human minds, for example, hallucination. The article discusses this notion and demonstrates that the two most common metaphors dont't manage to provide us with a better understanding of factual chatbot mistakes. They argue that ChatGPT – and other chatbots such as Google’s Gemini by extension – do not hallucinate when they generate factually incorrect outputs, not even in a metaphorical sense. The article draws on research on hallucination in philosophy and the empirical mind sciences.
+
+
+<div class="section-heading">
 # Events
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
