@@ -11,7 +11,148 @@
 <description>A newsletter to share professional development tips and opportunities for people interested in healthcare data science
 </description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Fri, 28 Aug 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Data Science Community for Health and Care Newsletter September 2026</title>
+  <dc:creator>Elizabeth Kelly</dc:creator>
+  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2026_09/newsletter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_sept.png" class="img-fluid"></p>
+<p>Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team.</p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – newsletter team</p>
+<section id="october-analyst-x-data-science-huddle" class="level1 section-heading">
+<h1>October Analyst X Data Science Huddle</h1>
+</section>
+<p><strong>Tuesday 27th October 2026, 13:30 - 14:15, Online</strong></p>
+<p>The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for October. We will hear from one project followed by 2 practical examples of how it has been used in the NHS; see the abstract below.</p>
+<ul>
+<li><strong>Process Mining in the NHS</strong></li>
+</ul>
+<p>A high-level introduction to process mining: what it is, how it works, and how it can be used to understand the way NHS services operate.</p>
+<p>This will be followed by 2 practical examples of how it has been used in the NHS.</p>
+<ol type="1">
+<li>Outpatient Pathway Protocols</li>
+</ol>
+<p>This example will demonstrate how process mining is applied to outpatient pathway protocols. By comparing the intended pathway with observed activity, we can identify where follow-up appointments are concentrated, understand how patients move through different pathway variants, and highlight opportunities for providers to focus improvement efforts.</p>
+<p>The aim is not to prescribe a single solution, or a single analytical method, but to provide providers with clearer evidence about where opportunities may exist to reduce avoidable follow-ups, improve pathway efficiency, and release capacity as part of their outpatient planning.</p>
+<ol start="2" type="1">
+<li>Understanding Emergency Respiratory Patient Flow - Applying process mining and collaborative analytics to uncover patient flow patterns and identify improvement opportunities</li>
+</ol>
+<p>This is presented as an example at Nottingham University Hospitals (NUH) of executing a ‘project focused’ deep dive to gain insights from our rich set of disparate data.</p>
+<p>Buit upon a robust, version-controlled data pipeline, the analysis mapped patient journeys across the respiratory pathway. This included mappings of patient movements, pathway timings, length of stay, occupancy, and daily activity patterns to provide a detailed evidence base for understanding service performance and flow.</p>
+<p>A key principle of the project has been close collaboration with clinicians and operational teams. Recognising that data alone does not provide sufficient understanding of clinical pathways, the analysis was delivered through a series of iterative sprints. Regular review sessions enabled findings to be discussed, assumptions challenged, and priorities refined. This approach developed a shared understanding of both the service and the data, while allowing the analytical focus to adapt as new insights emerged.</p>
+<p>This helped identify opportunities for service improvement, challenge anecdotal perceptions, as well as providing a foundation that could be built upon for future projects and more advanced predictive modelling.</p>
+<hr>
+<section id="november-analyst-x-data-science-huddle" class="level1 section-heading">
+<h1>November Analyst X Data Science Huddle</h1>
+</section>
+<p><strong>Tuesday 10th November 2026, 13:30 - 14:30, Online</strong></p>
+<p>The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for November. We will hear from two projects:</p>
+<p><strong>Using classification and regression trees (CART) to investigate unknown ethnicity records in NHS emergency care data Presented by Grace Dean</strong></p>
+<p>Time: 13:30 – 14:00</p>
+<p>High-quality ethnicity data is necessary for tackling health inequalities. This study analysed 24.2 million Emergency Care Data Set (ECDS) records from 2023/24 to (a) investigate variation in unknown ethnicity records, (b) explore patterns of missingness between ethnicity and other variables, and (c) identify the variables most important in the recording of an unknown ethnicity.</p>
+<p>Variation in unknown ethnicity recording was identified by age, organisation type, and attendance characteristics. Unknown ethnicity was associated with increased missingness across 62 other ECDS variables. Provider site code emerged as the strongest predictor of unknown ethnicity recording, with a small number of acute trusts and independent sector organisations contributing disproportionately.</p>
+<p>Recommendations for future work focus on improving data collection processes for individual organisations, which would provide direct benefits for NHS England and NHS providers, and is necessary for tackling health inequalities.</p>
+<p>Here’s a link to the paper in <a href="https://bmjopen.bmj.com/content/16/8/e118200" target="_blank">BMJ Open</a>, and on the <a href="https://nhsengland.github.io/datascience/mres/ethnicity/" target="_blank">NHS England Data Science page</a>.</p>
+<p><strong>Can Routine Pathway Data Identify ED Attendance Risk While Patients Wait? Presented by Kayleigh Banyard-Haydock</strong></p>
+<p>Time: 14:00 – 14:30</p>
+<p>The project investigates whether routinely collected healthcare data can be used to identify RTT elective waiting-list pathways at increased risk of emergency department attendance while awaiting treatment.</p>
+<p>It focuses on the development and evaluation of a prediction model that produces an individualised probability risk score using information available at the beginning of the waiting-list pathway. The model aims to support risk stratification and help identify patients who may benefit from earlier review or additional support, while providing a foundation for further model development. The work also considers how predicted risk could support service planning and prioritisation across these pathways.</p>
+<hr>
+<section id="fancy-an-interesting-read" class="level1 section-heading">
+<h1>Fancy an interesting read?</h1>
+</section>
+<p>Take a look at the <a href="https://link.springer.com/article/10.1007/s11229-026-05551-8" target="_blank">Why mental metaphors do not help us understand chatbot mistakes</a> article from Springer.</p>
+<p>Factual mistakes made by ChatGPT are frequently communicated using metaphors describing mistakes made by human minds, for example, hallucination.</p>
+<p>The article discusses this notion and demonstrates that the two most common metaphors dont’t manage to provide us with a better understanding of factual chatbot mistakes. They argue that ChatGPT – and other chatbots such as Google’s Gemini by extension – do not hallucinate when they generate factually incorrect outputs, not even in a metaphorical sense. The article draws on research on hallucination in philosophy and the empirical mind sciences.</p>
+<hr>
+<section id="datacise-open-learning-courses" class="level1 section-heading">
+<h1>Datacise Open Learning Courses</h1>
+</section>
+<p><a href="https://dataciseopenlearning.org/" target="_blank">Datacise Open Learning</a> provide training for data science in research. There are a variety of courses coming up! For more information, including how to register, follow the course link.</p>
+<section id="data-quality-aspects-of-administrative-data-london" class="level3">
+<h3 class="anchored" data-anchor-id="data-quality-aspects-of-administrative-data-london"><a href="https://dataciseopenlearning.org/courses/data-quality-aspects-of-administrative-data-london/" target="_blank">Data quality aspects of administrative data (London)</a></h3>
+<p><strong>6th October 2026, 09:00 - 17:00, UK Research and Innovation (UKRI), London, SW1W 9SP</strong></p>
+<p>This course will provide an introduction to data quality, and how it can affect all aspects of working with administrative data. The course will cover data quality dimensions which include technical and social aspects.</p>
+</section>
+<section id="introduction-to-government-policy-impact" class="level3">
+<h3 class="anchored" data-anchor-id="introduction-to-government-policy-impact"><a href="https://dataciseopenlearning.org/courses/introduction-to-government-policy-impact/" target="_blank">Introduction to Government, Policy &amp; Impact</a></h3>
+<p><strong>11th November 2026, 09:30 - 15:15, Live Online</strong></p>
+<p>This course explores different experiences of successfully engaging with policy makers, so that research evidence has a greater impact and influence. The course aims to be engaging, informative, interactive, and practical, with opportunities to share experiences from your research.</p>
+</section>
+<section id="ethical-ai-coding-with-synthetic-administrative-data" class="level3">
+<h3 class="anchored" data-anchor-id="ethical-ai-coding-with-synthetic-administrative-data"><a href="https://dataciseopenlearning.org/courses/ethical-ai-coding-with-synthetic-administrative-data/" target="_blank">Ethical AI Coding with Synthetic Administrative Data</a></h3>
+<p><strong>20th November 2026, 09:30 - 16:00, UK Research &amp; Innovation, London SW1W 9SP and Online</strong></p>
+<p>This course explores the ethical use of local AI models for developing code to analyse synthetic administrative data, combining practical skills training with examples of best practice.</p>
+</section>
+<section id="good-practice-for-r-users-when-working-in-the-ons-srs" class="level3">
+<h3 class="anchored" data-anchor-id="good-practice-for-r-users-when-working-in-the-ons-srs"><a href="https://dataciseopenlearning.org/courses/good-practice-for-r-users-when-working-in-the-ons-srs/" target="_blank">Good Practice for R Users When Working in the ONS SRS</a></h3>
+<p><strong>25th November 2026, 14:00 - 15:00, Online</strong></p>
+<p>A practical workshop on writing efficient, reproducible and robust R code when working with large administrative datasets in the ONS Secure Research Service. Drawing on real-world SRS experience, the session will cover analytical workflow design, efficient database queries, memory management, safe joins, validation and reproducibility.</p>
+</section>
+<section id="adr-uk-determining-healthy-households" class="level3">
+<h3 class="anchored" data-anchor-id="adr-uk-determining-healthy-households"><a href="https://dataciseopenlearning.org/courses/adr-uk-determining-healthy-households/" target="_blank">ADR UK Determining Healthy Households</a></h3>
+<p><strong>Self-paced, Online</strong></p>
+<p>A self-paced course on how to create Household Units of Analysis (HUAs) from line-level pseudonymised GP patient data.</p>
+<hr>
+</section>
+<section id="events" class="level1 section-heading">
+<h1>Events</h1>
+</section>
+<p>Lots of exciting things coming up! See the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">full calendar here</a>, and a small selection below.</p>
+<section id="ai-in-the-nhs-2026" class="level3">
+<h3 class="anchored" data-anchor-id="ai-in-the-nhs-2026"><a href="https://www.health.org.uk/events/ai-in-the-nhs-2026" target="_blank">AI in the NHS 2026</a></h3>
+<p><strong>Thursday 15 October 2026, 10.00–17.00, Online</strong></p>
+<p>2026 is set to be a pivotal year for AI in the NHS, with important national strategies and regulatory reforms expected that will impact what kinds of technologies get used and how the health service adopts and oversees them.</p>
+<p>But turning the vision of an AI-enabled health system into reality won’t be straightforward. Our third annual AI event will bring together stakeholders from across the NHS, government, industry, academia and the charity sector to consider how the NHS can responsibly, safely and effectively implement AI at scale.</p>
+<p>This full day event will explore how to:</p>
+<ul>
+<li>translate national strategy into real-world implementation</li>
+<li>evaluate and scale AI tools rapidly, safely and effectively</li>
+<li>build trust among clinicians, patients and the public</li>
+<li>support the workforce through technological transformation</li>
+<li>learn from leading international health systems already using AI at scale.</li>
+</ul>
+</section>
+<section id="webinar-achieving-a-low-carbon-climate-resilient-nhs" class="level3">
+<h3 class="anchored" data-anchor-id="webinar-achieving-a-low-carbon-climate-resilient-nhs"><a href="https://www.health.org.uk/events/webinar-achieving-a-low-carbon-climate-resilient-nhs" target="_blank">Webinar: ​​​Achieving a low-carbon, climate resilient NHS</a></h3>
+<p><strong>Thursday 5th November, 12:00 - 13:15, Online</strong></p>
+<p>The health of people in the UK is being actively impacted by climate change, and this is only set to worsen over the coming years. The Lancet Countdown shows that Europe is facing the fastest changing climate globally. Healthcare contributes 4-6% of global greenhouse gas emissions, more than the aviation industry.</p>
+<p>In response to this, the NHS made the world’s first legally binding commitment to becoming a net zero health system – by 2040 for emissions it controls, and 2045 for emissions it influences. Action has been underway since 2020, but more needs to be done to achieve this goal, requiring transformation at scale to sustainable models of care, with supportive leadership, policy and innovation. At the same time, the NHS must move to protect health and maintain service delivery during heatwaves, floods and storms.</p>
+<p>This webinar brings together people from policy, research, clinical and innovation backgrounds to share what we can learn from work building a low-carbon, climate resilient NHS.</p>
+</section>
+<section id="common-challenges-and-policy-responses-international-lessons-for-the-nhs" class="level3">
+<h3 class="anchored" data-anchor-id="common-challenges-and-policy-responses-international-lessons-for-the-nhs"><a href="https://www.health.org.uk/events/common-challenges-and-policy-responses-international-lessons-for-the-nhs" target="_blank">Common challenges and policy responses: international lessons for the NHS</a></h3>
+<p><strong>Thursday 26th November, 10:00 - 17:00, Online</strong></p>
+<p>The NHS in England is under huge pressure. Health needs are growing as more people live longer and with major health conditions. Staff are under significant strain. Funding increases are modest by historic standards and productivity remains below pre-pandemic levels. Meanwhile the outlook for the UK economy is weak and the public finances are stretched, leading some commentators to question the NHS’s long-term sustainability. AI and new technology offer opportunities for health and care, but also challenges for policymakers seeking to harness and regulate them.</p>
+<p>The UK is not alone here. Many countries are facing similar long-term trends and seeing their health systems coming under sustained pressure. In response, policymakers across Europe and elsewhere are implementing a range of reforms to their health systems to improve and redesign care, stabilize services, drive greater efficiency and control costs.</p>
+<p>This summit will be an opportunity to hear about the major challenges facing health systems internationally, learn about policy responses in other countries, and discuss what lessons they hold for policy and practice in England. Senior policymakers and leaders in the NHS will join to reflect on how services in England need to adapt.</p>
+<hr>
+<p>See more future events on the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">calendar</a></p>
+<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+<p>Check out our collection of training resources in the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">Resources Section</a>! Can you spot something missing? <a href="mailto:datascience@nhs.net">Contact us</a>!</p>
+</section>
+<section id="need-a-quick-break" class="level1 section-heading">
+<h1>Need a Quick Break?</h1>
+</section>
+<p><a href="https://mywordle.strivemath.com/?word=ahyln" target="_blank">How many tries will it take you?</a></p>
+<div style="text-align: center;">
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe to the community</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>newsletter</category>
+  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2026_09/newsletter.html</guid>
+  <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Data Science Community for Health and Care Newsletter August 2026</title>
   <dc:creator>Elizabeth Kelly</dc:creator>
@@ -2337,96 +2478,6 @@ Basically, combine structured learning with practical application, and don’t b
   <category>newsletter</category>
   <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_02/newsletter.html</guid>
   <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Data Science Community for Health and Care Newsletter January 2025</title>
-  <dc:creator>Jennifer Struthers</dc:creator>
-  <link>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_01/newsletter.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_jan.png" class="img-fluid"></p>
-<p>Welcome to 2025 and welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team.</p>
-<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
-<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
-<p>Thanks for reading! – newsletter team</p>
-<section id="llms-as-a-judge" class="level1 section-heading">
-<h1>LLMs as a Judge</h1>
-</section>
-<p><img src="https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_01/llm_as_a_judge.jpg" class="img-fluid"></p>
-<p>Large Language Models (LLMs) like ChatGPT are increasingly being used across the NHS, but did you know you can use LLMs to evaluate other LLMs?</p>
-<p>LLM-as-a-Judge is a versatile technique we have been researching in the NHS England Data Science Team. To find out exactly how this technique works, you can read our new article here: <a href="https://nhsengland.github.io/datascience/articles/2024/12/31/LLM-as-a-Judge/" target="_blank">What is LLM-as-a-Judge and how can we use it? - NHS England Data Science</a></p>
-<p>This is just one of many interesting articles written by the Data Science Team. You can find a full list of our articles <a href="https://nhsengland.github.io/datascience/articles/" target="_blank">here</a>.</p>
-<hr>
-<section id="events" class="level1 section-heading">
-<h1>Events</h1>
-</section>
-<p>Lots of exciting things coming up! See the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">full calendar here</a>, and a small selection below.</p>
-<section id="ons-health-data-science-seminar-series-health-policy-development" class="level3">
-<h3 class="anchored" data-anchor-id="ons-health-data-science-seminar-series-health-policy-development"><a href="https://www.eventbrite.co.uk/e/health-data-science-seminar-series-tickets-1104444205349" target="_blank">ONS Health Data Science Seminar Series: Health Policy Development</a></h3>
-<p><strong>Wednesday 5th February, 14:00 - 15:30, Online</strong></p>
-<p>Professor Knight will present ‘Impact from Health Data’, demonstrating how health data can create impact across neurology, integrated care, and community care. The talk will cover evaluating apps, and care pathways and the use of incidental findings.</p>
-<p>Mr Jain will present ‘The role of regulation in health technologies’, providing insights and lessons from the Regulatory Horizons Council who has developed a range of reports, including those on the regulation of medical devices and AI as a medical device.</p>
-</section>
-<section id="rethinking-good-technology-feminism-ai-and-ethical-futures" class="level3">
-<h3 class="anchored" data-anchor-id="rethinking-good-technology-feminism-ai-and-ethical-futures"><a href="https://www.lse.ac.uk/Events/2025/03/202503111830/feminism-AI-and-ethical-futures" target="_blank">Rethinking good technology: feminism, AI and ethical futures</a></h3>
-<p><strong>Tuesday 11th March, 18:30-20:00, Online and In-Person (Old Theatre, Old Building, LSE, London)</strong></p>
-<p>What does it mean for technology to be ‘good’ in an age dominated by AI? Can a feminist perspective help guide us towards more ethical digital futures?</p>
-<p>In this event Eleanor Drage talks about HEAT, a somewhat anarchic regulation tool that takes a feminist approach to helping companies meet the EU AI Act’s obligations. The toolkit has been developed as part of a project led by Drage, which is committed to an in-depth response to regulation that goes beyond mere compliance by working towards a pro-justice and sustainable future with AI.</p>
-</section>
-<section id="ai-uk-2025" class="level3">
-<h3 class="anchored" data-anchor-id="ai-uk-2025"><a href="https://www.turing.ac.uk/events/ai-uk-2025" target="_blank">AI UK 2025</a></h3>
-<p><strong>Monday 17th - Tuesday 18th March, All Day, London</strong></p>
-<p>Hosted by The Alan Turing Institute, AI UK is an in-depth exploration of how data science and AI can be used to solve real-world challenges. Our diverse programme was thematically structured around the latest innovations from across the AI ecosystem. With a broad range of interactive content, it covers the latest thinking on fundamental AI, digital twins, algorithmic bias, AI ethics – and much more.</p>
-<p><em>NB: This is not a free event</em></p>
-</section>
-<section id="data-science-festival-mayday-2025" class="level3">
-<h3 class="anchored" data-anchor-id="data-science-festival-mayday-2025"><a href="https://datasciencefestival.com/event/mayday-2025/" target="_blank">Data Science Festival: MayDay 2025</a></h3>
-<p><strong>Saturday 17th May, All Day, London</strong></p>
-<p>Join us for our 11th festival, DSF MayDay 2025! Top tech speakers, incredible partners and a thriving community, all completely free.</p>
-<p>The ballot is open for those wanting a chance to get tickets to DSF’s MayDay 2025. Click through the link above to find out how to apply, and the (free) tickets to those successful will be sent out in April.</p>
-<p>There will be a mixture of talks featured at the festival, covering all things data (science, engineering, etc) and at a variety of technical levels. You can view last years playlist on <a href="https://www.youtube.com/playlist?list=PLwzX3WM0AfxopbhVhGCA373Xk-7wNhLfq" target="_blank">YouTube here</a> to get an idea of the talks at the events.</p>
-</section>
-<section id="big-data-ldn" class="level3">
-<h3 class="anchored" data-anchor-id="big-data-ldn"><a href="https://www.bigdataldn.com/en-gb.html" target="_blank">Big Data LDN</a></h3>
-<p><strong>Wednesday 24th - Thursday 25th September, All Day, London</strong></p>
-<p>Big Data LDN is the UK’s leading free to attend data, analytics and AI conference &amp; exhibition.</p>
-<p>The two day event is a hub for the Data Community to learn and share best practice, build relationships and find the tools needed to develop an effective data-driven business.</p>
-<p><strong>The Call For Papers closes on 14 March</strong> and all applicants will be notified by the end of April whether their talk has been accepted. <a href="https://www.bigdataldn.com/en-gb/blog/event-news/call-for-papers-2025.html" target="_blank">Find out more here.</a></p>
-<hr>
-<p>See more future events on the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">calendar</a></p>
-<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
-</section>
-<section id="ai-opportunities-action-plan" class="level1 section-heading">
-<h1>AI Opportunities Action Plan</h1>
-</section>
-<p>On the 13th January the Government published the AI Opportunities Action Plan, outlining how they want to have Britain shape the AI revolution. The plan outlines how Britain must invest in the foundations of AI, push hard on cross-economy AI adoption and position the UK to be an AI maker, not an AI taker.</p>
-<p>The plan outlines 50 points that the government should take up in order to achieve its goals, and concludes that while the task is not small the benefits are likely to be transformational to both the economic growth of the country and the lives of those across the UK.</p>
-<p><a href="https://www.gov.uk/government/publications/ai-opportunities-action-plan/ai-opportunities-action-plan" target="_blank">Read the full plan here, and get clued up on the future of AI in our country.</a></p>
-<hr>
-<section id="analystx-data-science-huddles-call-for-presenters" class="level1 section-heading">
-<h1>AnalystX Data Science Huddles: Call for Presenters</h1>
-</section>
-<p>If you’ve signed up to our mailing list (<a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" target="_blank">sign up here if not!</a>) you will hopefully at some point have received an invite to one of our AnalystX Data Science Huddles! These are monthly (or so) calls where we have invited speakers to talk about some of the work they do or a project they have been involved with. They are 1 hour sessions, with around 40 mins devoted to presenting and around 20 mins for questions.</p>
-<p>Presenting at one of these calls will spread the word on the work you have done, and make connections with like-minded people across lots of different areas of healthcare data science.</p>
-<p>We’re currently looking for people to talk at one of these calls from March onwards, so if you’d like to share your work, contact us at <a href="mailto:england.datascience@nhs.net">england.datascience@nhs.net</a> with the subject <strong>DS Huddle Presenter</strong> and we will get it organised!</p>
-<hr>
-<section id="need-a-quick-break" class="level1 section-heading">
-<h1>Need a Quick Break?</h1>
-</section>
-<p><a href="https://mywordle.strivemath.com/?word=zokxx" target="_blank">How many tries will it take you?</a></p>
-<div style="text-align: center;">
-<p><a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" class="btn-action-primary btn-action btn btn-success btn-lg">Subscribe to the community</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" target="_blank">PDF Version</a></p>
-</div>
-
-
-
- ]]></description>
-  <category>newsletter</category>
-  <guid>https://nhsengland.github.io/datascience-pd-newsletter/posts/2025_01/newsletter.html</guid>
-  <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
