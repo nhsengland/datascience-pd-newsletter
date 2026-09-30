@@ -83,7 +83,9 @@ Here's a link to the paper in [BMJ Open](https://bmjopen.bmj.com/content/16/8/e1
 
 Time: 14:00 – 14:30
 
-The project investigates whether routinely collected healthcare data can be used to identify RTT elective waiting-list pathways at increased risk of emergency department attendance while awaiting treatment. It focuses on the development and evaluation of a
+The project investigates whether routinely collected healthcare data can be used to identify RTT elective waiting-list pathways at increased risk of emergency department attendance while awaiting treatment. 
+
+It focuses on the development and evaluation of a
  prediction model that produces an individualised probability risk score using information available at the beginning of the waiting-list pathway. The model aims to support risk stratification and help identify patients who may benefit from earlier review or
  additional support, while providing a foundation for further model development. The work also considers how predicted risk could support service planning and prioritisation across these pathways.
 
@@ -92,9 +94,11 @@ ___
 <div class="section-heading">
 # Fancy an interesting read?
 </div>
-Take a look at the [Why mental metaphors do not help us understand chatbot mistakes]https://link.springer.com/article/10.1007/s11229-026-05551-8){target="_blank"} article from Springer.
+Take a look at the [Why mental metaphors do not help us understand chatbot mistakes](https://link.springer.com/article/10.1007/s11229-026-05551-8){target="_blank"} article from Springer.
 
-Factual mistakes made by ChatGPT are frequently communicated using metaphors describing mistakes made by human minds, for example, hallucination. The article discusses this notion and demonstrates that the two most common metaphors dont't manage to provide us with a better understanding of factual chatbot mistakes. They argue that ChatGPT – and other chatbots such as Google’s Gemini by extension – do not hallucinate when they generate factually incorrect outputs, not even in a metaphorical sense. The article draws on research on hallucination in philosophy and the empirical mind sciences.
+Factual mistakes made by ChatGPT are frequently communicated using metaphors describing mistakes made by human minds, for example, hallucination. 
+
+The article discusses this notion and demonstrates that the two most common metaphors dont't manage to provide us with a better understanding of factual chatbot mistakes. They argue that ChatGPT – and other chatbots such as Google’s Gemini by extension – do not hallucinate when they generate factually incorrect outputs, not even in a metaphorical sense. The article draws on research on hallucination in philosophy and the empirical mind sciences.
 
 ___
 
@@ -105,7 +109,7 @@ ___
 [Datacise Open Learning](https://dataciseopenlearning.org/){target="_blank"} provide training for data science in research. There are a variety of courses coming up! For more information, including how to register, follow the course link.
 
 ### [Data quality aspects of administrative data (London)](https://dataciseopenlearning.org/courses/data-quality-aspects-of-administrative-data-london/){target="_blank"}
-** 6th October 2026, 09:00 - 17:00, UK Research and Innovation (UKRI), London, SW1W 9SP**
+**6th October 2026, 09:00 - 17:00, UK Research and Innovation (UKRI), London, SW1W 9SP**
 
 This course will provide an introduction to data quality, and how it can affect all aspects of working with administrative data. The course will cover data quality dimensions which include technical and social aspects.
 
@@ -114,15 +118,15 @@ This course will provide an introduction to data quality, and how it can affect 
 
 This course explores different experiences of successfully engaging with policy makers, so that research evidence has a greater impact and influence. The course aims to be engaging, informative, interactive, and practical, with opportunities to share experiences from your research.
 
-### [Good Practice for R Users When Working in the ONS SRS](https://dataciseopenlearning.org/courses/good-practice-for-r-users-when-working-in-the-ons-srs/){target="_blank"}
-**25th November 2026, 14:00 - 15:00, Online**
-
-A practical workshop on writing efficient, reproducible and robust R code when working with large administrative datasets in the ONS Secure Research Service. Drawing on real-world SRS experience, the session will cover analytical workflow design, efficient database queries, memory management, safe joins, validation and reproducibility.
-
 ### [Ethical AI Coding with Synthetic Administrative Data](https://dataciseopenlearning.org/courses/ethical-ai-coding-with-synthetic-administrative-data/){target="_blank"}
 **20th November 2026, 09:30 - 16:00, UK Research & Innovation, London SW1W 9SP and Online**
 
 This course explores the ethical use of local AI models for developing code to analyse synthetic administrative data, combining practical skills training with examples of best practice.
+
+### [Good Practice for R Users When Working in the ONS SRS](https://dataciseopenlearning.org/courses/good-practice-for-r-users-when-working-in-the-ons-srs/){target="_blank"}
+**25th November 2026, 14:00 - 15:00, Online**
+
+A practical workshop on writing efficient, reproducible and robust R code when working with large administrative datasets in the ONS Secure Research Service. Drawing on real-world SRS experience, the session will cover analytical workflow design, efficient database queries, memory management, safe joins, validation and reproducibility.
 
 ### [ADR UK Determining Healthy Households](https://dataciseopenlearning.org/courses/adr-uk-determining-healthy-households/){target="_blank"}
 **Self-paced, Online**
