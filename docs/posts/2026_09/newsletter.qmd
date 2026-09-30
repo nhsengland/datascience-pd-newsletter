@@ -137,13 +137,6 @@ ___
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
 
 
-
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,**
-
-A SHORT DESCRIPTION OF EVENT 
-
-
 ### [AI in the NHS 2026](https://www.health.org.uk/events/ai-in-the-nhs-2026){target="_blank"}
 **Thursday 15 October 2026, 10.00–17.00, Online**
 
@@ -158,6 +151,24 @@ This full day event will explore how to:
 * build trust among clinicians, patients and the public
 * support the workforce through technological transformation
 * learn from leading international health systems already using AI at scale.
+
+### [Webinar: ​​​Achieving a low-carbon, climate resilient NHS](https://www.health.org.uk/events/webinar-achieving-a-low-carbon-climate-resilient-nhs){target="_blank"}
+**Thursday 5th November, 12:00 - 13:15, Online**
+
+The health of people in the UK is being actively impacted by climate change, and this is only set to worsen over the coming years. The Lancet Countdown shows that Europe is facing the fastest changing climate globally. Healthcare contributes 4-6% of global greenhouse gas emissions, more than the aviation industry.  
+
+In response to this, the NHS made the world’s first legally binding commitment to becoming a net zero health system – by 2040 for emissions it controls, and 2045 for emissions it influences. Action has been underway since 2020, but more needs to be done to achieve this goal, requiring transformation at scale to sustainable models of care, with supportive leadership, policy and innovation. At the same time, the NHS must move to protect health and maintain service delivery during heatwaves, floods and storms.  
+
+This webinar brings together people from policy, research, clinical and innovation backgrounds to share what we can learn from work building a low-carbon, climate resilient NHS.
+
+### [Common challenges and policy responses: international lessons for the NHS](https://www.health.org.uk/events/common-challenges-and-policy-responses-international-lessons-for-the-nhs){target="_blank"}
+**Thursday 26th November, 10:00 - 17:00, Online**
+
+The NHS in England is under huge pressure. Health needs are growing as more people live longer and with major health conditions. Staff are under significant strain. Funding increases are modest by historic standards and productivity remains below pre-pandemic levels. Meanwhile the outlook for the UK economy is weak and the public finances are stretched, leading some commentators to question the NHS’s long-term sustainability. AI and new technology offer opportunities for health and care, but also challenges for policymakers seeking to harness and regulate them.
+
+The UK is not alone here. Many countries are facing similar long-term trends and seeing their health systems coming under sustained pressure. In response, policymakers across Europe and elsewhere are implementing a range of reforms to their health systems to improve and redesign care, stabilize services, drive greater efficiency and control costs.
+
+This summit will be an opportunity to hear about the major challenges facing health systems internationally, learn about policy responses in other countries, and discuss what lessons they hold for policy and practice in England. Senior policymakers and leaders in the NHS will join to reflect on how services in England need to adapt. 
 
 ___
 
