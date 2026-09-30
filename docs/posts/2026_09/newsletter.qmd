@@ -55,6 +55,8 @@ A key principle of the project has been close collaboration with clinicians and 
 
 This helped identify opportunities for service improvement, challenge anecdotal perceptions, as well as providing a foundation that could be built upon for future projects and more advanced predictive modelling.
 
+___
+
 <div class="section-heading">
 # November Analyst X Data Science Huddle
 </div>
@@ -85,6 +87,8 @@ The project investigates whether routinely collected healthcare data can be used
  prediction model that produces an individualised probability risk score using information available at the beginning of the waiting-list pathway. The model aims to support risk stratification and help identify patients who may benefit from earlier review or
  additional support, while providing a foundation for further model development. The work also considers how predicted risk could support service planning and prioritisation across these pathways.
 
+___
+
 <div class="section-heading">
 # Fancy an interesting read?
 </div>
@@ -92,6 +96,40 @@ Take a look at the [Why mental metaphors do not help us understand chatbot mista
 
 Factual mistakes made by ChatGPT are frequently communicated using metaphors describing mistakes made by human minds, for example, hallucination. The article discusses this notion and demonstrates that the two most common metaphors dont't manage to provide us with a better understanding of factual chatbot mistakes. They argue that ChatGPT – and other chatbots such as Google’s Gemini by extension – do not hallucinate when they generate factually incorrect outputs, not even in a metaphorical sense. The article draws on research on hallucination in philosophy and the empirical mind sciences.
 
+___
+
+<div class="section-heading">
+# Datacise Open Learning Courses
+</div>
+
+[Datacise Open Learning](https://dataciseopenlearning.org/){target="_blank"} provide training for data science in research. There are a variety of courses coming up! For more information, including how to register, follow the course link.
+
+### [Data quality aspects of administrative data (London)](https://dataciseopenlearning.org/courses/data-quality-aspects-of-administrative-data-london/){target="_blank"}
+** 6th October 2026, 09:00 - 17:00, UK Research and Innovation (UKRI), London, SW1W 9SP**
+
+This course will provide an introduction to data quality, and how it can affect all aspects of working with administrative data. The course will cover data quality dimensions which include technical and social aspects.
+
+### [Introduction to Government, Policy & Impact](https://dataciseopenlearning.org/courses/introduction-to-government-policy-impact/){target="_blank"}
+**11th November 2026, 09:30 - 15:15, Live Online**
+
+This course explores different experiences of successfully engaging with policy makers, so that research evidence has a greater impact and influence. The course aims to be engaging, informative, interactive, and practical, with opportunities to share experiences from your research.
+
+### [Good Practice for R Users When Working in the ONS SRS](https://dataciseopenlearning.org/courses/good-practice-for-r-users-when-working-in-the-ons-srs/){target="_blank"}
+**25th November 2026, 14:00 - 15:00, Online**
+
+A practical workshop on writing efficient, reproducible and robust R code when working with large administrative datasets in the ONS Secure Research Service. Drawing on real-world SRS experience, the session will cover analytical workflow design, efficient database queries, memory management, safe joins, validation and reproducibility.
+
+### [Ethical AI Coding with Synthetic Administrative Data](https://dataciseopenlearning.org/courses/ethical-ai-coding-with-synthetic-administrative-data/){target="_blank"}
+**20th November 2026, 09:30 - 16:00, UK Research & Innovation, London SW1W 9SP and Online**
+
+This course explores the ethical use of local AI models for developing code to analyse synthetic administrative data, combining practical skills training with examples of best practice.
+
+### [ADR UK Determining Healthy Households](https://dataciseopenlearning.org/courses/adr-uk-determining-healthy-households/){target="_blank"}
+**Self-paced, Online**
+
+A self-paced course on how to create Household Units of Analysis (HUAs) from line-level pseudonymised GP patient data.
+
+___
 
 <div class="section-heading">
 # Events
