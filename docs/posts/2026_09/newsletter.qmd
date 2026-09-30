@@ -55,7 +55,35 @@ A key principle of the project has been close collaboration with clinicians and 
 
 This helped identify opportunities for service improvement, challenge anecdotal perceptions, as well as providing a foundation that could be built upon for future projects and more advanced predictive modelling.
 
+<div class="section-heading">
+# November Analyst X Data Science Huddle
+</div>
+**Tuesday 10th November 2026, 13:30 - 14:30, Online**
 
+The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for November. We will hear from two projects:
+
+**Using classification and regression trees (CART) to investigate unknown ethnicity records in NHS emergency care data Presented by Grace Dean**
+
+Time: 13:30 – 14:00
+
+High-quality ethnicity data is necessary for tackling health inequalities. This study analysed 24.2 million Emergency Care Data Set (ECDS) records from 2023/24 to (a) investigate
+ variation in unknown ethnicity records, (b) explore patterns of missingness between ethnicity and other variables, and (c) identify the variables most important in the recording of an unknown ethnicity.
+
+Variation in unknown ethnicity recording was identified by age, organisation type, and attendance characteristics. Unknown ethnicity was associated with increased missingness
+ across 62 other ECDS variables. Provider site code emerged as the strongest predictor of unknown ethnicity recording, with a small number of acute trusts and independent sector organisations contributing disproportionately.
+
+Recommendations for future work focus on improving data collection processes for individual organisations, which would provide direct benefits for NHS England and NHS providers,
+ and is necessary for tackling health inequalities.
+
+Here's a link to the paper in [BMJ Open](https://bmjopen.bmj.com/content/16/8/e118200){target="_blank"}, and on the [NHS England Data Science page](https://nhsengland.github.io/datascience/mres/ethnicity/){target="_blank"}.
+
+**Can Routine Pathway Data Identify ED Attendance Risk While Patients Wait? Presented by Kayleigh Banyard-Haydock**
+
+Time: 14:00 – 14:30
+
+The project investigates whether routinely collected healthcare data can be used to identify RTT elective waiting-list pathways at increased risk of emergency department attendance while awaiting treatment. It focuses on the development and evaluation of a
+ prediction model that produces an individualised probability risk score using information available at the beginning of the waiting-list pathway. The model aims to support risk stratification and help identify patients who may benefit from earlier review or
+ additional support, while providing a foundation for further model development. The work also considers how predicted risk could support service planning and prioritisation across these pathways.
 
 <div class="section-heading">
 # Events
