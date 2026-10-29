@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.19">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Elizabeth Kelly, Sofia Alabi">
+<meta name="dcterms.date" content="2026-10-29">
+<meta name="description" content="The Data Science Community for Health and Care newsletter for October 2026">
+
+<title>Data Science Community for Health and Care Newsletter October 2026 – Data Science PD newsletter</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../docs/_assets/favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-9ffd5cad1b7e98246df4f31ba134c55a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../_assets/style/styles.css">
+<link rel="stylesheet" href="index.css">
+<meta property="og:title" content="Data Science Community for Health and Care Newsletter October 2026 – Data Science PD newsletter">
+<meta property="og:description" content="The Data Science Community for Health and Care newsletter for October 2026">
+<meta property="og:image" content="https://nhsengland.github.io/datascience-pd-newsletter/images/banner_oct.png">
+<meta property="og:site_name" content="Data Science PD newsletter">
+<meta property="og:image:height" content="396">
+<meta property="og:image:width" content="1584">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> <i class="bi bi-box-seam" role="img">
+</i> 
+<span class="menu-text">Homepage</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank"> 
+<span class="menu-text">Contribute Content</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../archive.html"> 
+<span class="menu-text">Archive</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html"> <i class="bi bi-info-circle" role="img">
+</i> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-help" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Help</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-help">    
+        <li>
+    <a class="dropdown-item" href="https://github.com/nhsengland/datascience-pd-newsletter/issues"><i class="bi bi-bug" role="img">
+</i> 
+ <span class="dropdown-text">Report a Bug</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/nhsengland/datascience-pd-newsletter"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul class="collapse">
+  <li><a href="#interview-with-a-data-scientist---what-8-weeks-as-a-data-science-intern-taught-me" id="toc-interview-with-a-data-scientist---what-8-weeks-as-a-data-science-intern-taught-me" class="nav-link active" data-scroll-target="#interview-with-a-data-scientist---what-8-weeks-as-a-data-science-intern-taught-me">Interview with a Data Scientist - What 8 Weeks as a Data Science Intern Taught Me</a></li>
+  <li><a href="#the-virtual-nhs-open-analytics-unconference" id="toc-the-virtual-nhs-open-analytics-unconference" class="nav-link" data-scroll-target="#the-virtual-nhs-open-analytics-unconference">The Virtual NHS Open Analytics Unconference</a></li>
+  <li><a href="#october-analyst-x-data-science-huddle" id="toc-october-analyst-x-data-science-huddle" class="nav-link" data-scroll-target="#october-analyst-x-data-science-huddle">October Analyst X Data Science Huddle</a></li>
+  <li><a href="#november-analyst-x-data-science-huddle" id="toc-november-analyst-x-data-science-huddle" class="nav-link" data-scroll-target="#november-analyst-x-data-science-huddle">November Analyst X Data Science Huddle</a></li>
+  <li><a href="#datacise-open-learning-courses" id="toc-datacise-open-learning-courses" class="nav-link" data-scroll-target="#datacise-open-learning-courses">Datacise Open Learning Courses</a></li>
+  <li><a href="#events" id="toc-events" class="nav-link" data-scroll-target="#events">Events</a></li>
+  <li><a href="#need-a-quick-break" id="toc-need-a-quick-break" class="nav-link" data-scroll-target="#need-a-quick-break">Need a Quick Break?</a></li>
+  </ul>
+<div class="toc-actions"><ul class="collapse"><li><a href="https:/github.com/nhsengland/datascience-pd-newsletter/edit/main/posts/2026_10/newsletter.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https:/github.com/nhsengland/datascience-pd-newsletter/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="newsletter.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Data Science Community for Health and Care Newsletter October 2026</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">newsletter</div>
+    <div class="quarto-category">interview with a data scientist</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    The Data Science Community for Health and Care newsletter for October 2026
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Elizabeth Kelly, Sofia Alabi </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">October 29, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p><img src="../../images/banner_oct.png" class="img-fluid"></p>
+<p>Welcome to the latest newsletter from the Data Science Community for Health and Care, brought to you by the NHS England Data Science Professional Development Functional Team.</p>
+<p>The newsletter team are always happy to receive constructive feedback, and we invite you to send us any contributions you may have.</p>
+<p>If you cannot access something of interest to you, please <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new" target="_blank">reach out</a>.</p>
+<p>Thanks for reading! – newsletter team</p>
+<section id="interview-with-a-data-scientist---what-8-weeks-as-a-data-science-intern-taught-me" class="level1 section-heading">
+<h1>Interview with a Data Scientist - What 8 Weeks as a Data Science Intern Taught Me</h1>
+</section>
+<p>This month we are sharing a blog post from Sofia Alabi, who recently spent 8 weeks as a data science intern at NHS England.</p>
+<p>Sofia, a former Healthcare Assistant, built a pipeline to test whether the <a href="https://nhsengland.github.io/datascience/our_work/ds_314_plos/" target="_blank">Predicted Length of Stay (PLoS)</a> model performs fairly across sex, ethnicity, age group and BMI. In the post, she reflects on what the work taught her about data quality, small sample sizes and the limits of fairness metrics.</p>
+<details>
+<summary>
+Read more…
+</summary>
+<p>During my internship at NHS England, I had the opportunity to work on something that genuinely matters: making sure an AI model works fairly for every patient, not just on average. Coming from a healthcare background as a former Healthcare Assistant, it was especially meaningful to work on a project focused on improving the understanding of patient pathways and outcomes through data.</p>
+<p>The project centred on a Predicted Length of Stay (PLoS) model that classifies patients into one of four stay bands (0–1 day, 2–3 days, 4–7 days, 8+ days). My task was to build a bias and fairness assessment pipeline from scratch to evaluate whether the model performed equally across demographic groups.</p>
+<section id="what-i-built" class="level3">
+<h3 class="anchored" data-anchor-id="what-i-built">What I built</h3>
+<p>Using Python, I developed a fairness assessment pipeline that evaluated model performance across key demographic groups using established open-source tools and statistical methods, including Fairlearn. The pipeline assessed performance across four protected characteristics: sex, ethnicity, age group and BMI. It also used bootstrap confidence intervals (500 resamples) to help distinguish genuine disparities from statistical variation in smaller groups.</p>
+</section>
+<section id="what-i-found" class="level3">
+<h3 class="anchored" data-anchor-id="what-i-found">What I found</h3>
+<p>Because the dataset was collected for clinical care rather than analytics, some demographic fields were recorded more consistently than others, which shaped how confidently we could compare model performance across groups. Linking to centrally curated datasets could strengthen future fairness assessments.</p>
+<p>Confidence intervals told an equally important story. Some smaller demographic groups showed apparent differences in model performance, but limited representation meant those comparisons were statistically uncertain. This highlighted the importance of considering both data quality and sample size when interpreting fairness results.</p>
+</section>
+<section id="what-i-learned" class="level3">
+<h3 class="anchored" data-anchor-id="what-i-learned">What I learned</h3>
+<p>Beyond the technical skills, including Git, Python, Fairlearn and statistical testing, this project taught me that fairness in AI is not a technical problem with a purely technical solution. The biggest differences were often linked to who was represented in the data, how completely demographic information was recorded and the realities of how clinical data is captured in practice. A model can only be as fair as the data and systems behind it. This changed how I think about AI. It is as much about understanding data as it is about writing code.</p>
+<p>I also learned the importance of being honest about limitations. We found natural variation in how BMI and ethnicity were recorded across sources, which influenced how we interpreted results. Fairlearn measures association, not causation, and recognising these limitations is a critical part of responsible analysis.</p>
+<p>Fairness work is about people, processes and data, not just algorithms. Being transparent about limitations is not a weakness in the work; it is an essential part of the work itself.</p>
+<p>Grateful to NHS England and the PLoS Team for the opportunity to contribute to something with real clinical impact.</p>
+<hr>
+<p>We hope you have enjoyed reading about Sofia’s internship! You can find the <a href="https://nhsengland.github.io/datascience/articles/2026/10/16/plos-bias-and-fairness-pipeline/" target="_blank">original blog post</a> and more about the <a href="https://nhsengland.github.io/datascience/our_work/ds_314_plos/" target="_blank">PLoS project</a> on the NHS England Data Science website.</p>
+<p>If you are interested in learning more about the Data Scientists working in healthcare, you can read our previous iterations of the <a href="https://nhsengland.github.io/datascience/articles/category/data-science-interviews/" target="_blank">“Interview with a Data Scientist”</a> series.</p>
+</section></details>
+<hr>
+
+<section id="the-virtual-nhs-open-analytics-unconference" class="level1 section-heading">
+<h1>The Virtual NHS Open Analytics Unconference</h1>
+</section>
+<p><strong>Thursday 26th November 2026, 09:30 - 12:30, Online</strong></p>
+<p>The NHS Open Analytics community and University of Edinburgh are excited to announce the inaugural Virtual NHS-OA Unconference!</p>
+<p>To recreate the vibrancy of the ever popular unconference sessions of NHS-OA conferences of old, on November 26th we will be hosting a virtual get-together where you, the audience, get to decide the topics for discussion, move freely between ‘rooms’ and have your say! There will also be a chance to hang out and meet lovely new people in the more informal ‘coffee area’.</p>
+<ul>
+<li>Learn more about the unconference <a href="https://www.youtube.com/watch?v=04hSdQNTzZQ" target="_blank">here</a></li>
+<li>Sign up to register your interest to attend <a href="https://events.teams.microsoft.com/event/87859b16-2994-4a20-b5d4-7d641874e4c1@2e9f06b0-1669-4589-8789-10a06934dc61?source=copyLinkLegacyShareLinkDialog" target="_blank">here</a></li>
+</ul>
+<p>Further information will be sent out to those who have registered in due course.</p>
+<p>This is for UK-based NHS and Health and Social Care employees and people studying towards such careers.<br>
+We’re also open to anyone analysing data in the NHS, healthcare, public sector, Civil Service, charities and Local Authorities in UK. When registering use your work/school email address, or explain your eligibility.</p>
+<hr>
+<section id="october-analyst-x-data-science-huddle" class="level1 section-heading">
+<h1>October Analyst X Data Science Huddle</h1>
+</section>
+<p>Recently, we had our October Analyst X Data Science Huddle!</p>
+<p>We heard from one project:</p>
+<ul>
+<li>Process Mining in the NHS</li>
+</ul>
+<p>As always, thank you to our presenters for sharing their interesting work!</p>
+<p>Missed the session? <a href="https://future.nhs.uk/DataAnalytics/view?objectID=56936784" target="_blank">Check out the recording and PowerPoint slides here</a>, where you will also find the recordings of previous huddles.</p>
+<hr>
+<section id="november-analyst-x-data-science-huddle" class="level1 section-heading">
+<h1>November Analyst X Data Science Huddle</h1>
+</section>
+<p><strong>Tuesday 10th November 2026, 13:30 - 14:30, Online</strong></p>
+<p>The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for November. We will hear from two projects:</p>
+<ul>
+<li><strong>Using classification and regression trees (CART) to investigate unknown ethnicity records in NHS emergency care data Presented by Grace Dean</strong></li>
+</ul>
+<p>Time: 13:30 – 14:00</p>
+<p>High-quality ethnicity data is necessary for tackling health inequalities. This study analysed 24.2 million Emergency Care Data Set (ECDS) records from 2023/24 to (a) investigate variation in unknown ethnicity records, (b) explore patterns of missingness between ethnicity and other variables, and (c) identify the variables most important in the recording of an unknown ethnicity.</p>
+<p>Variation in unknown ethnicity recording was identified by age, organisation type, and attendance characteristics. Unknown ethnicity was associated with increased missingness across 62 other ECDS variables. Provider site code emerged as the strongest predictor of unknown ethnicity recording, with a small number of acute trusts and independent sector organisations contributing disproportionately.</p>
+<p>Recommendations for future work focus on improving data collection processes for individual organisations, which would provide direct benefits for NHS England and NHS providers, and is necessary for tackling health inequalities.</p>
+<p>Here’s a link to the paper in <a href="https://bmjopen.bmj.com/content/16/8/e118200" target="_blank">BMJ Open</a>, and on the <a href="https://nhsengland.github.io/datascience/mres/ethnicity/" target="_blank">NHS England Data Science page</a>.</p>
+<ul>
+<li><strong>Can Routine Pathway Data Identify ED Attendance Risk While Patients Wait? Presented by Kayleigh Banyard-Haydock</strong></li>
+</ul>
+<p>Time: 14:00 – 14:30</p>
+<p>The project investigates whether routinely collected healthcare data can be used to identify RTT elective waiting-list pathways at increased risk of emergency department attendance while awaiting treatment.</p>
+<p>It focuses on the development and evaluation of a prediction model that produces an individualised probability risk score using information available at the beginning of the waiting-list pathway. The model aims to support risk stratification and help identify patients who may benefit from earlier review or additional support, while providing a foundation for further model development. The work also considers how predicted risk could support service planning and prioritisation across these pathways.</p>
+<section id="datacise-open-learning-courses" class="level1 section-heading">
+<h1>Datacise Open Learning Courses</h1>
+</section>
+<p><a href="https://dataciseopenlearning.org/" target="_blank">Datacise Open Learning</a> provide training for data science in research. There are a variety of courses coming up! For more information, including how to register, follow the course link.</p>
+<section id="introduction-to-government-policy-impact" class="level3">
+<h3 class="anchored" data-anchor-id="introduction-to-government-policy-impact"><a href="https://dataciseopenlearning.org/courses/introduction-to-government-policy-impact/" target="_blank">Introduction to Government, Policy &amp; Impact</a></h3>
+<p><strong>11th November 2026, 09:30 - 15:15, Live Online</strong></p>
+<p>This course explores different experiences of successfully engaging with policy makers, so that research evidence has a greater impact and influence. The course aims to be engaging, informative, interactive, and practical, with opportunities to share experiences from your research.</p>
+</section>
+<section id="ethical-ai-coding-with-synthetic-administrative-data" class="level3">
+<h3 class="anchored" data-anchor-id="ethical-ai-coding-with-synthetic-administrative-data"><a href="https://dataciseopenlearning.org/courses/ethical-ai-coding-with-synthetic-administrative-data/" target="_blank">Ethical AI Coding with Synthetic Administrative Data</a></h3>
+<p><strong>20th November 2026, 09:30 - 16:00, UK Research &amp; Innovation, London SW1W 9SP and Online</strong></p>
+<p>This course explores the ethical use of local AI models for developing code to analyse synthetic administrative data, combining practical skills training with examples of best practice.</p>
+</section>
+<section id="good-practice-for-r-users-when-working-in-the-ons-srs" class="level3">
+<h3 class="anchored" data-anchor-id="good-practice-for-r-users-when-working-in-the-ons-srs"><a href="https://dataciseopenlearning.org/courses/good-practice-for-r-users-when-working-in-the-ons-srs/" target="_blank">Good Practice for R Users When Working in the ONS SRS</a></h3>
+<p><strong>25th November 2026, 14:00 - 15:00, Online</strong></p>
+<p>A practical workshop on writing efficient, reproducible and robust R code when working with large administrative datasets in the ONS Secure Research Service. Drawing on real-world SRS experience, the session will cover analytical workflow design, efficient database queries, memory management, safe joins, validation and reproducibility.</p>
+</section>
+<section id="adr-uk-determining-healthy-households" class="level3">
+<h3 class="anchored" data-anchor-id="adr-uk-determining-healthy-households"><a href="https://dataciseopenlearning.org/courses/adr-uk-determining-healthy-households/" target="_blank">ADR UK Determining Healthy Households</a></h3>
+<p><strong>Self-paced, Online</strong></p>
+<p>A self-paced course on how to create Household Units of Analysis (HUAs) from line-level pseudonymised GP patient data.</p>
+<hr>
+</section>
+<section id="events" class="level1 section-heading">
+<h1>Events</h1>
+</section>
+<p>Lots of exciting things coming up! See the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">full calendar here</a>, and a small selection below.</p>
+<section id="webinar-achieving-a-low-carbon-climate-resilient-nhs" class="level3">
+<h3 class="anchored" data-anchor-id="webinar-achieving-a-low-carbon-climate-resilient-nhs"><a href="https://www.health.org.uk/events/webinar-achieving-a-low-carbon-climate-resilient-nhs" target="_blank">Webinar: ​​​Achieving a low-carbon, climate resilient NHS</a></h3>
+<p><strong>Thursday 5th November, 12:00 - 13:15, Online</strong></p>
+<p>The health of people in the UK is being actively impacted by climate change, and this is only set to worsen over the coming years. The Lancet Countdown shows that Europe is facing the fastest changing climate globally. Healthcare contributes 4-6% of global greenhouse gas emissions, more than the aviation industry.</p>
+<p>In response to this, the NHS made the world’s first legally binding commitment to becoming a net zero health system – by 2040 for emissions it controls, and 2045 for emissions it influences. Action has been underway since 2020, but more needs to be done to achieve this goal, requiring transformation at scale to sustainable models of care, with supportive leadership, policy and innovation. At the same time, the NHS must move to protect health and maintain service delivery during heatwaves, floods and storms.</p>
+<p>This webinar brings together people from policy, research, clinical and innovation backgrounds to share what we can learn from work building a low-carbon, climate resilient NHS.</p>
+</section>
+<section id="common-challenges-and-policy-responses-international-lessons-for-the-nhs" class="level3">
+<h3 class="anchored" data-anchor-id="common-challenges-and-policy-responses-international-lessons-for-the-nhs"><a href="https://www.health.org.uk/events/common-challenges-and-policy-responses-international-lessons-for-the-nhs" target="_blank">Common challenges and policy responses: international lessons for the NHS</a></h3>
+<p><strong>Thursday 26th November, 10:00 - 17:00, Online</strong></p>
+<p>The NHS in England is under huge pressure. Health needs are growing as more people live longer and with major health conditions. Staff are under significant strain. Funding increases are modest by historic standards and productivity remains below pre-pandemic levels. Meanwhile the outlook for the UK economy is weak and the public finances are stretched, leading some commentators to question the NHS’s long-term sustainability. AI and new technology offer opportunities for health and care, but also challenges for policymakers seeking to harness and regulate them.</p>
+<p>The UK is not alone here. Many countries are facing similar long-term trends and seeing their health systems coming under sustained pressure. In response, policymakers across Europe and elsewhere are implementing a range of reforms to their health systems to improve and redesign care, stabilize services, drive greater efficiency and control costs.</p>
+<p>This summit will be an opportunity to hear about the major challenges facing health systems internationally, learn about policy responses in other countries, and discuss what lessons they hold for policy and practice in England. Senior policymakers and leaders in the NHS will join to reflect on how services in England need to adapt.</p>
+<hr>
+<p>See more future events on the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">calendar</a></p>
+<p>Know of any events we should feature next month? Let us know by clicking the “Contribute” button, or <a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" target="_blank">here</a>.</p>
+<hr>
+<p>Check out our collection of training resources in the <a href="https://future.nhs.uk/DataAnalytics/view?objectID=861745" target="_blank">Resources Section</a>! Can you spot something missing? <a href="mailto:datascience@nhs.net">Contact us</a>!</p>
+</section>
+<section id="need-a-quick-break" class="level1 section-heading">
+<h1>Need a Quick Break?</h1>
+</section>
+<p><a href="https://mywordle.strivemath.com/?word=cvfve" target="_blank">How many tries will it take you?</a></p>
+<div style="text-align: center;">
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=slTDN7CF9UeyIge0jXdO48pr_29hyJFKpCZ7SYYvjeFUNUVPMUk0STlDRlJMNklIWEI3V0NZVTZXVS4u&amp;route=shorturl" class="btn-action-primary btn-action btn btn-success btn-lg" role="button">Subscribe to the community</a><a href="https://github.com/nhsengland/datascience-pd-newsletter/issues/new?assignees=&amp;labels=&amp;projects=&amp;template=suggest-some-newsletter-content-.md&amp;title=" class="btn-action-primary btn-action btn btn-info btn-lg" role="button" target="_blank">Contribute</a><a href="./newsletter.pdf" class="btn-action-primary btn-action btn btn-info btn-lg" role="button" target="_blank">PDF Version</a></p>
+</div>
+
+
+
+</main> <!-- /main -->
+<script type="text/javascript">
+
+    // replace cmd keyboard shortcut w/ control on non-Mac platforms
+    const kPlatformMac = typeof navigator !== 'undefined' ? /Mac/.test(navigator.platform) : false;
+    if (!kPlatformMac) {
+       var kbds = document.querySelectorAll("kbd")
+       kbds.forEach(function(kbd) {
+          kbd.innerHTML = kbd.innerHTML.replace(/⌘/g, '⌃');
+       });
+    }
+    
+    </script>
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/nhsengland\.github\.io\/datascience-pd-newsletter");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>This page is built <a href="https://quarto.org/">Quarto</a>.</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https:/github.com/nhsengland/datascience-pd-newsletter/edit/main/posts/2026_10/newsletter.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https:/github.com/nhsengland/datascience-pd-newsletter/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="https://github.com/nhsengland/datascience-pd-newsletter/blob/main/LICENCE">
+<p>License</p>
+</a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
