@@ -72,6 +72,22 @@ If you are interested in learning more about the Data Scientists working in heal
 ___
 
 <div class="section-heading">
+# The Virtual NHS Open Analytics Unconference
+</div>
+**Thursday 26th November 2026, 09:30 - 12:30, Online**
+
+The NHS Open Analytics community and University of Edinburgh are excited to announce the inaugural Virtual NHS-OA Unconference!
+
+To recreate the vibrancy of the ever popular unconference sessions of NHS-OA conferences of old, on November 26th we will be hosting a virtual get-together where you, the audience, get to decide the topics for discussion, move freely between 'rooms' and have your say! There will also be a chance to hang out and meet lovely new people in the more informal 'coffee area'.
+
+* Learn more about the unconference [here](https://www.youtube.com/watch?v=04hSdQNTzZQ){target="_blank"}
+* Sign up to register your interest to attend [here](https://events.teams.microsoft.com/event/87859b16-2994-4a20-b5d4-7d641874e4c1@2e9f06b0-1669-4589-8789-10a06934dc61?source=copyLinkLegacyShareLinkDialog){target="_blank"}
+
+This is for "UK-based NHS employees and UK students aiming to become NHS employees".
+
+___
+
+<div class="section-heading">
 # October Analyst X Data Science Huddle
 </div>
 Recently, we had our October Analyst X Data Science Huddle!
