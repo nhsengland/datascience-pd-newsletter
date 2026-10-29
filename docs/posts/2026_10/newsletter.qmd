@@ -27,12 +27,80 @@ If you cannot access something of interest to you, please [reach out](https://gi
 Thanks for reading! – newsletter team 
 
 <div class="section-heading">
-# Highlights
+# October Analyst X Data Science Huddle
+</div>
+Recently, we had our October Analyst X Data Science Huddle!
+
+We heard from one project:
+
+* Process Mining in the NHS
+
+As always, thank you to our presenters for sharing their interesting work!
+
+Missed the session? [Check out the recording and PowerPoint slides here](https://future.nhs.uk/DataAnalytics/view?objectID=56936784){target="_blank"}, where you will also find the recordings of previous huddles.
+
+___
+
+
+<div class="section-heading">
+# November Analyst X Data Science Huddle
+</div>
+**Tuesday 10th November 2026, 13:30 - 14:30, Online**
+
+The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for November. We will hear from two projects:
+
+**Using classification and regression trees (CART) to investigate unknown ethnicity records in NHS emergency care data Presented by Grace Dean**
+
+Time: 13:30 – 14:00
+
+High-quality ethnicity data is necessary for tackling health inequalities. This study analysed 24.2 million Emergency Care Data Set (ECDS) records from 2023/24 to (a) investigate
+ variation in unknown ethnicity records, (b) explore patterns of missingness between ethnicity and other variables, and (c) identify the variables most important in the recording of an unknown ethnicity.
+
+Variation in unknown ethnicity recording was identified by age, organisation type, and attendance characteristics. Unknown ethnicity was associated with increased missingness
+ across 62 other ECDS variables. Provider site code emerged as the strongest predictor of unknown ethnicity recording, with a small number of acute trusts and independent sector organisations contributing disproportionately.
+
+Recommendations for future work focus on improving data collection processes for individual organisations, which would provide direct benefits for NHS England and NHS providers,
+ and is necessary for tackling health inequalities.
+
+Here's a link to the paper in [BMJ Open](https://bmjopen.bmj.com/content/16/8/e118200){target="_blank"}, and on the [NHS England Data Science page](https://nhsengland.github.io/datascience/mres/ethnicity/){target="_blank"}.
+
+**Can Routine Pathway Data Identify ED Attendance Risk While Patients Wait? Presented by Kayleigh Banyard-Haydock**
+
+Time: 14:00 – 14:30
+
+The project investigates whether routinely collected healthcare data can be used to identify RTT elective waiting-list pathways at increased risk of emergency department attendance while awaiting treatment. 
+
+It focuses on the development and evaluation of a
+ prediction model that produces an individualised probability risk score using information available at the beginning of the waiting-list pathway. The model aims to support risk stratification and help identify patients who may benefit from earlier review or
+ additional support, while providing a foundation for further model development. The work also considers how predicted risk could support service planning and prioritisation across these pathways.
+
+<div class="section-heading">
+# Datacise Open Learning Courses
 </div>
 
-#### <u>**Competency Framework** – zooming into...COMPETENCY</u> 
+[Datacise Open Learning](https://dataciseopenlearning.org/){target="_blank"} provide training for data science in research. There are a variety of courses coming up! For more information, including how to register, follow the course link.
 
-TEXT
+### [Introduction to Government, Policy & Impact](https://dataciseopenlearning.org/courses/introduction-to-government-policy-impact/){target="_blank"}
+**11th November 2026, 09:30 - 15:15, Live Online**
+
+This course explores different experiences of successfully engaging with policy makers, so that research evidence has a greater impact and influence. The course aims to be engaging, informative, interactive, and practical, with opportunities to share experiences from your research.
+
+### [Ethical AI Coding with Synthetic Administrative Data](https://dataciseopenlearning.org/courses/ethical-ai-coding-with-synthetic-administrative-data/){target="_blank"}
+**20th November 2026, 09:30 - 16:00, UK Research & Innovation, London SW1W 9SP and Online**
+
+This course explores the ethical use of local AI models for developing code to analyse synthetic administrative data, combining practical skills training with examples of best practice.
+
+### [Good Practice for R Users When Working in the ONS SRS](https://dataciseopenlearning.org/courses/good-practice-for-r-users-when-working-in-the-ons-srs/){target="_blank"}
+**25th November 2026, 14:00 - 15:00, Online**
+
+A practical workshop on writing efficient, reproducible and robust R code when working with large administrative datasets in the ONS Secure Research Service. Drawing on real-world SRS experience, the session will cover analytical workflow design, efficient database queries, memory management, safe joins, validation and reproducibility.
+
+### [ADR UK Determining Healthy Households](https://dataciseopenlearning.org/courses/adr-uk-determining-healthy-households/){target="_blank"}
+**Self-paced, Online**
+
+A self-paced course on how to create Household Units of Analysis (HUAs) from line-level pseudonymised GP patient data.
+
+
 ___
 
 
@@ -47,6 +115,24 @@ Lots of exciting things coming up! See the [full calendar here](https://future.n
 **DATE, TIME, LOCATION,**
 
 A SHORT DESCRIPTION OF EVENT 
+
+### [Webinar: ​​​Achieving a low-carbon, climate resilient NHS](https://www.health.org.uk/events/webinar-achieving-a-low-carbon-climate-resilient-nhs){target="_blank"}
+**Thursday 5th November, 12:00 - 13:15, Online**
+
+The health of people in the UK is being actively impacted by climate change, and this is only set to worsen over the coming years. The Lancet Countdown shows that Europe is facing the fastest changing climate globally. Healthcare contributes 4-6% of global greenhouse gas emissions, more than the aviation industry.  
+
+In response to this, the NHS made the world’s first legally binding commitment to becoming a net zero health system – by 2040 for emissions it controls, and 2045 for emissions it influences. Action has been underway since 2020, but more needs to be done to achieve this goal, requiring transformation at scale to sustainable models of care, with supportive leadership, policy and innovation. At the same time, the NHS must move to protect health and maintain service delivery during heatwaves, floods and storms.  
+
+This webinar brings together people from policy, research, clinical and innovation backgrounds to share what we can learn from work building a low-carbon, climate resilient NHS.
+
+### [Common challenges and policy responses: international lessons for the NHS](https://www.health.org.uk/events/common-challenges-and-policy-responses-international-lessons-for-the-nhs){target="_blank"}
+**Thursday 26th November, 10:00 - 17:00, Online**
+
+The NHS in England is under huge pressure. Health needs are growing as more people live longer and with major health conditions. Staff are under significant strain. Funding increases are modest by historic standards and productivity remains below pre-pandemic levels. Meanwhile the outlook for the UK economy is weak and the public finances are stretched, leading some commentators to question the NHS’s long-term sustainability. AI and new technology offer opportunities for health and care, but also challenges for policymakers seeking to harness and regulate them.
+
+The UK is not alone here. Many countries are facing similar long-term trends and seeing their health systems coming under sustained pressure. In response, policymakers across Europe and elsewhere are implementing a range of reforms to their health systems to improve and redesign care, stabilize services, drive greater efficiency and control costs.
+
+This summit will be an opportunity to hear about the major challenges facing health systems internationally, learn about policy responses in other countries, and discuss what lessons they hold for policy and practice in England. Senior policymakers and leaders in the NHS will join to reflect on how services in England need to adapt. 
 
 ___
 
