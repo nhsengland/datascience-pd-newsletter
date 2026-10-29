@@ -1,6 +1,6 @@
 ---
 title: 'Data Science Community for Health and Care Newsletter October 2026'
-date: '2026-10-30'
+date: '2026-10-29'
 format:
   html:
     css: index.css
@@ -113,7 +113,7 @@ ___
 
 The Data Science Community for Health and Care have organised the next Analyst X Data Science Huddle for November. We will hear from two projects:
 
-**Using classification and regression trees (CART) to investigate unknown ethnicity records in NHS emergency care data Presented by Grace Dean**
+* **Using classification and regression trees (CART) to investigate unknown ethnicity records in NHS emergency care data Presented by Grace Dean**
 
 Time: 13:30 – 14:00
 
@@ -128,7 +128,7 @@ Recommendations for future work focus on improving data collection processes for
 
 Here's a link to the paper in [BMJ Open](https://bmjopen.bmj.com/content/16/8/e118200){target="_blank"}, and on the [NHS England Data Science page](https://nhsengland.github.io/datascience/mres/ethnicity/){target="_blank"}.
 
-**Can Routine Pathway Data Identify ED Attendance Risk While Patients Wait? Presented by Kayleigh Banyard-Haydock**
+* **Can Routine Pathway Data Identify ED Attendance Risk While Patients Wait? Presented by Kayleigh Banyard-Haydock**
 
 Time: 14:00 – 14:30
 
@@ -172,13 +172,6 @@ ___
 # Events
 </div>
 Lots of exciting things coming up! See the [full calendar here](https://future.nhs.uk/DataAnalytics/view?objectID=861745){target="_blank"}, and a small selection below.
-
-
-
-### [EVENT TITLE](event link){target="_blank"}
-**DATE, TIME, LOCATION,**
-
-A SHORT DESCRIPTION OF EVENT 
 
 ### [Webinar: ​​​Achieving a low-carbon, climate resilient NHS](https://www.health.org.uk/events/webinar-achieving-a-low-carbon-climate-resilient-nhs){target="_blank"}
 **Thursday 5th November, 12:00 - 13:15, Online**
