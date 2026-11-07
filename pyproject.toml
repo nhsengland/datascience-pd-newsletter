@@ -1,46 +1,15 @@
 [project]
-name = "notify-mailer"
+name = "datascience-pd-newsletter"
 version = "0.1.0"
-description = "Send emails written in local Markdown files through GOV.UK Notify."
-readme = "README.md"
+description = "Newsletter content and distribution for the Data Science Community for Health and Care."
 requires-python = ">=3.12"
-dependencies = [
-    "loguru>=0.7",
-    "markdown>=3.7",
-    "notifications-python-client>=10.0",
-    "pyyaml>=6.0",
-]
+dependencies = ["notify-mailer"]
 
-[project.scripts]
-notify-mailer = "notify_mailer.cli:main"
+[tool.uv]
+package = false
 
-[dependency-groups]
-dev = [
-    "pytest>=8.3",
-    "pytest-mock>=3.14",
-    "ruff>=0.8",
-]
+[tool.uv.sources]
+notify-mailer = { workspace = true }
 
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
-
-[tool.ruff]
-line-length = 88
-target-version = "py312"
-
-[tool.ruff.lint]
-select = ["E", "F", "I", "UP", "B", "D"]
-
-[tool.ruff.lint.pydocstyle]
-convention = "numpy"
-
-[tool.ruff.lint.per-file-ignores]
-"tests/**" = ["D"]
-
-[tool.pytest.ini_options]
-testpaths = ["tests"]
-addopts = "-m 'not integration'"
-markers = [
-    "integration: calls the real Notify API with the test key (run with -m integration)",
-]
+[tool.uv.workspace]
+members = ["notify-mailer"]

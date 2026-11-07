@@ -12,8 +12,6 @@ from notify_mailer.render import (
     to_standard_markdown,
 )
 
-REPO_ROOT = Path(__file__).parents[3]
-
 
 class TestSplitFrontMatter:
     def test_splits_values_and_content(self) -> None:
@@ -116,13 +114,6 @@ class TestLoadMessage:
         path.write_text("---\nsubject: S\n---\n**Big news**\n", encoding="utf-8")
         with pytest.raises(MessageError, match="bold text"):
             load_message(path)
-
-    def test_renders_october_edition(self) -> None:
-        message = load_message(REPO_ROOT / "emails" / "2026_10.md")
-        assert (message.subject, message.reference) == (
-            "Data Science Professional Development Newsletter - October 2026",
-            "newsletter-2026_10",
-        )
 
 
 class TestToStandardMarkdown:
