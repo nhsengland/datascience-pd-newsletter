@@ -27,10 +27,11 @@ def normalise(address: str) -> str:
     return address.strip().lower()
 
 
-def read_addresses(path: Path, column: str = "email") -> list[str]:
-    """Read unique, valid addresses from one column of a CSV file.
+def read_recipients(path: Path, column: str = "email") -> dict[str, dict[str, str]]:
+    """Read unique, valid recipients and all their columns from a CSV file.
 
-    Blank cells are skipped. Duplicates are dropped, keeping the first one.
+    Rows with a blank address are skipped. Duplicates are dropped, keeping the
+    first row.
 
     Parameters
     ----------
@@ -41,8 +42,9 @@ def read_addresses(path: Path, column: str = "email") -> list[str]:
 
     Returns
     -------
-    list[str]
-        Normalised addresses in file order.
+    dict[str, dict[str, str]]
+        Each normalised address, in file order, mapped to its row with values
+        stripped of surrounding spaces.
 
     Raises
     ------
@@ -58,18 +60,45 @@ def read_addresses(path: Path, column: str = "email") -> list[str]:
                 f"Columns found: {reader.fieldnames}"
             )
         rows = [
-            (number, normalise(row[column] or ""))
+            (
+                number,
+                normalise(row[column] or ""),
+                {key: (value or "").strip() for key, value in row.items() if key},
+            )
             for number, row in enumerate(reader, start=2)
         ]
 
     invalid = [
         number
-        for number, address in rows
+        for number, address, _ in rows
         if address and not EMAIL_PATTERN.match(address)
     ]
     if invalid:
         raise RecipientError(f"{path.name} has invalid addresses on rows {invalid}")
-    return list(dict.fromkeys(address for _, address in rows if address))
+
+    recipients: dict[str, dict[str, str]] = {}
+    for _, address, row in rows:
+        if address:
+            recipients.setdefault(address, row)
+    return recipients
+
+
+def read_addresses(path: Path, column: str = "email") -> list[str]:
+    """Read unique, valid addresses from one column of a CSV file.
+
+    Parameters
+    ----------
+    path : Path
+        CSV file with a header row.
+    column : str
+        Header of the column that holds the addresses.
+
+    Returns
+    -------
+    list[str]
+        Normalised addresses in file order.
+    """
+    return list(read_recipients(path, column))
 
 
 def write_addresses(path: Path, addresses: list[str], column: str = "email") -> None:

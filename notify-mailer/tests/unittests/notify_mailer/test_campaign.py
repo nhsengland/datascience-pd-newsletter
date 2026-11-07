@@ -36,6 +36,15 @@ class TestSendAll:
         )
         assert client.send.call_count == 2
 
+    def test_personalises_each_address(self, client: MockType) -> None:
+        message = Message("S", "Hi ${name}", "ref-1", {"name": "you"})
+        rows = {"a@example.com": {"name": "Sam"}}
+        send_all(client, message, ["a@example.com", "b@example.com"], rows)
+        sent = [
+            (call.args[0], call.args[1].body) for call in client.send.call_args_list
+        ]
+        assert sent == [("a@example.com", "Hi Sam"), ("b@example.com", "Hi you")]
+
     def test_carries_on_after_rejection(
         self, http_error: Callable[[int], HTTPError], client: MockType
     ) -> None:

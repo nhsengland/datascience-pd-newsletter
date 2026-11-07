@@ -79,6 +79,7 @@ To send from GitHub Actions instead of steps 4 and 5, run the **Send newsletter*
 - Use `#` for headings, `*` for bullets and `[text](url)` for links. Link text should say where the link goes, not "click here".
 - Notify adds a gap after a nested list, so put any item with sub-bullets last.
 - The fixed wording is in `emails/_layout.md`.
+- To greet people by name or use other columns from the recipient list, see [personalisation](notify-mailer/README.md#personalisation).
 
 ### Unsubscribes
 Notify adds an unsubscribe link to every email. Requests appear on the Notify dashboard for 90 days. Before each send:

@@ -6,6 +6,7 @@ from notify_mailer.recipients import (
     RecipientError,
     normalise,
     read_addresses,
+    read_recipients,
     split_unsubscribed,
     write_addresses,
 )
@@ -60,6 +61,27 @@ class TestReadAddresses:
         with pytest.raises(RecipientError) as error:
             read_addresses(path)
         assert str(error.value) == "r.csv has invalid addresses on rows [3]"
+
+
+class TestReadRecipients:
+    def test_keeps_every_column_stripped(self, tmp_path: Path) -> None:
+        path = write_csv(tmp_path / "r.csv", "email,name\n A@example.com , Sam \n")
+        assert read_recipients(path) == {
+            "a@example.com": {"email": "A@example.com", "name": "Sam"}
+        }
+
+    def test_keeps_first_row_for_duplicates(self, tmp_path: Path) -> None:
+        path = write_csv(
+            tmp_path / "r.csv",
+            "email,name\na@example.com,First\nA@example.com,Second\n",
+        )
+        assert read_recipients(path)["a@example.com"]["name"] == "First"
+
+    def test_treats_missing_cells_as_blank(self, tmp_path: Path) -> None:
+        path = write_csv(tmp_path / "r.csv", "email,name\na@example.com\n")
+        assert read_recipients(path) == {
+            "a@example.com": {"email": "a@example.com", "name": ""}
+        }
 
 
 class TestWriteAddresses:
