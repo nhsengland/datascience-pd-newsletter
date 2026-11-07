@@ -134,6 +134,16 @@ class NotifyClient:
         """
         return self.api.get_template(template_id)
 
+    def email_templates(self) -> list[dict]:
+        """Return the latest version of every email template in the service.
+
+        Returns
+        -------
+        list[dict]
+            Templates, each with ``id``, ``name``, ``type``, ``subject`` and ``body``.
+        """
+        return self.api.get_all_templates(template_type="email")["templates"]
+
     def notifications(self, reference: str) -> list[dict]:
         """Return every email notification Notify holds for a reference.
 

@@ -1,6 +1,7 @@
 """Command line for previewing, sending and tracking emails."""
 
 import argparse
+import getpass
 import os
 import sys
 from pathlib import Path
@@ -18,6 +19,7 @@ from notify_mailer.recipients import (
     write_addresses,
 )
 from notify_mailer.render import load_message, personalise, to_html_page
+from notify_mailer.setup_wizard import run_setup
 from notify_mailer.templates import EMAIL, EMAIL_WITH_FILE, TEMPLATES, template_problems
 
 KEY_VARIABLES = {
@@ -164,6 +166,18 @@ def send(args: argparse.Namespace) -> None:
         sys.exit(f"{len(result.failed)} addresses failed. See {failed_file}")
 
 
+def setup(args: argparse.Namespace) -> None:
+    """Create or complete the env file with checked keys and template IDs."""
+    done = run_setup(
+        args.env_file,
+        ask=input,
+        ask_secret=getpass.getpass,
+        make_client=lambda key: NotifyClient(key, template_id=""),
+    )
+    if not done:
+        sys.exit(1)
+
+
 def check_setup(args: argparse.Namespace) -> None:
     """Check each Notify template exists and is set up as notify-mailer needs."""
     client = NotifyClient(required_variable(KEY_VARIABLES[args.key]), template_id="")
@@ -259,6 +273,9 @@ def build_parser() -> argparse.ArgumentParser:
     )
     command.add_argument("--retention-weeks", type=int, default=26)
     command.set_defaults(run=send)
+
+    command = commands.add_parser("setup", help="set up keys and templates in .env")
+    command.set_defaults(run=setup)
 
     command = commands.add_parser("check-setup", help="check the Notify templates")
     add_key(command)
