@@ -60,6 +60,28 @@ class TestSend:
             reference="ref-1",
         )
 
+    def test_sends_file_with_file_template(self, api: MockType) -> None:
+        api.send_email_notification.return_value = {"id": "n-1"}
+        client = NotifyClient("key", "template-id", "file-template-id", api=api)
+        client.send("a@example.com", MESSAGE, {"file": "ZmlsZQ=="})
+        api.send_email_notification.assert_called_once_with(
+            email_address="a@example.com",
+            template_id="file-template-id",
+            personalisation={
+                "subject": "Subject",
+                "body": "Body",
+                "link_to_file": {"file": "ZmlsZQ=="},
+            },
+            reference="ref-1",
+        )
+
+    def test_rejects_file_without_file_template(
+        self, client: NotifyClient, api: MockType
+    ) -> None:
+        with pytest.raises(ValueError, match="needs file_template_id"):
+            client.send("a@example.com", MESSAGE, {"file": "x"})
+        api.send_email_notification.assert_not_called()
+
     def test_retries_with_doubling_wait(
         self,
         http_error: Callable[[int], HTTPError],
@@ -97,6 +119,15 @@ class TestSend:
         with pytest.raises(HTTPError):
             client.send("a@example.com", MESSAGE)
         sleep.assert_not_called()
+
+
+class TestTemplate:
+    def test_returns_template_from_notify(
+        self, client: NotifyClient, api: MockType
+    ) -> None:
+        api.get_template.return_value = {"subject": "((subject))"}
+        assert client.template("t-1") == {"subject": "((subject))"}
+        api.get_template.assert_called_once_with("t-1")
 
 
 class TestSentAddresses:

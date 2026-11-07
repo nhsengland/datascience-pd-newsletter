@@ -1,6 +1,6 @@
 name: Notify integration test
 
-# Sends to 600 example.com addresses with the Notify test key. Nothing is delivered.
+# Bulk send, template checks and a file send with the Notify test key. Nothing is delivered.
 
 on:
   workflow_dispatch:
@@ -20,9 +20,10 @@ jobs:
       - name: Install
         run: uv sync --locked
 
-      - name: Bulk send with the test key
+      - name: Integration tests with the test key
         working-directory: notify-mailer
         env:
           NOTIFY_API_KEY_TEST: ${{ secrets.NOTIFY_API_KEY_TEST }}
           NOTIFY_TEMPLATE_ID: ${{ vars.NOTIFY_TEMPLATE_ID }}
+          NOTIFY_FILE_TEMPLATE_ID: ${{ vars.NOTIFY_FILE_TEMPLATE_ID }}
         run: uv run pytest -m integration -v

@@ -12,7 +12,7 @@
 # Lists for Actions are compressed and split across NEWSLETTER_RECIPIENTS_1, _2, ...
 # so they are not limited by the size of one secret.
 #
-# Keys and NOTIFY_TEMPLATE_ID are read from .env. Run from the repo root.
+# Keys and template IDs are read from .env. Run from the repo root.
 # Needs the GitHub CLI (gh), logged in with admin rights on the repo.
 set -euo pipefail
 
@@ -85,7 +85,7 @@ set_list_chunks() {
 
 update_environment() {
   local environment="notify-$1" key_name=$2 list=${3:-}
-  local key template_id
+  local key template_id file_template_id
   key=$(require_value "$key_name")
   template_id=$(require_value NOTIFY_TEMPLATE_ID)
   [[ -z "$list" ]] || check_list "$list"
@@ -93,6 +93,10 @@ update_environment() {
 
   printf '%s' "$key" | gh secret set "$key_name" --env "$environment"
   gh variable set NOTIFY_TEMPLATE_ID --env "$environment" --body "$template_id"
+  file_template_id=$(env_value NOTIFY_FILE_TEMPLATE_ID)
+  if [[ -n "$file_template_id" ]]; then
+    gh variable set NOTIFY_FILE_TEMPLATE_ID --env "$environment" --body "$file_template_id"
+  fi
   [[ -z "$list" ]] || set_list_chunks "$environment" "$list"
   echo "Updated $environment."
 }
@@ -112,6 +116,11 @@ update_codespaces() {
   printf '%s' "$test_key" | gh secret set NOTIFY_API_KEY_TEST --app codespaces
   printf '%s' "$team_key" | gh secret set NOTIFY_API_KEY_TEAM --app codespaces
   printf '%s' "$template_id" | gh secret set NOTIFY_TEMPLATE_ID --app codespaces
+  local file_template_id
+  file_template_id=$(env_value NOTIFY_FILE_TEMPLATE_ID)
+  if [[ -n "$file_template_id" ]]; then
+    printf '%s' "$file_template_id" | gh secret set NOTIFY_FILE_TEMPLATE_ID --app codespaces
+  fi
   gh secret set NEWSLETTER_TEAM_RECIPIENTS --app codespaces < "$list"
   echo "Updated Codespaces secrets. Restart open codespaces to pick them up."
 }

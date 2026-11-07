@@ -258,3 +258,111 @@ class TestTeams:
         output = tmp_path / "out.html"
         cli.main([*no_env, "teams", str(message_file), "--output", str(output)])
         assert "<p>Body</p>" in output.read_text(encoding="utf-8")
+
+
+class TestSendWithFile:
+    def test_links_prepared_file_from_every_email(
+        self,
+        message_file: Path,
+        recipients_file: Path,
+        tmp_path: Path,
+        fake_client: MockType,
+        no_env: list[str],
+        capsys: pytest.CaptureFixture,
+    ) -> None:
+        report = tmp_path / "report.csv"
+        report.write_text("a,b\n", encoding="utf-8")
+        cli.main(
+            [
+                *no_env,
+                "send",
+                str(message_file),
+                "--recipients",
+                str(recipients_file),
+                "--file",
+                str(report),
+                "--retention-weeks",
+                "4",
+            ]
+        )
+        file = fake_client.send.call_args.args[2]
+        assert (file["filename"], file["retention_period"]) == ("report.csv", "4 weeks")
+        assert capsys.readouterr().out.startswith(
+            "File: report.csv | Kept for 4 weeks | Email check before download: on\n"
+        )
+
+    def test_rejects_bad_file_before_contacting_notify(
+        self,
+        message_file: Path,
+        recipients_file: Path,
+        tmp_path: Path,
+        fake_client: MockType,
+        no_env: list[str],
+    ) -> None:
+        log = tmp_path / "run.log"
+        log.write_text("boom", encoding="utf-8")
+        with pytest.raises(SystemExit):
+            cli.main(
+                [
+                    *no_env,
+                    "send",
+                    str(message_file),
+                    "--recipients",
+                    str(recipients_file),
+                    "--file",
+                    str(log),
+                ]
+            )
+        fake_client.sent_addresses.assert_not_called()
+
+
+class TestCheckSetup:
+    GOOD = {
+        "t-email": {"type": "email", "subject": "((subject))", "body": "((body))"},
+        "t-file": {
+            "type": "email",
+            "subject": "((subject))",
+            "body": "((body))\n\n((link_to_file))",
+        },
+    }
+
+    @pytest.fixture
+    def notify(
+        self, mocker: MockerFixture, monkeypatch: pytest.MonkeyPatch
+    ) -> MockType:
+        monkeypatch.setenv("NOTIFY_API_KEY_TEST", "key")
+        monkeypatch.setenv("NOTIFY_TEMPLATE_ID", "t-email")
+        monkeypatch.setenv("NOTIFY_FILE_TEMPLATE_ID", "t-file")
+        client = mocker.MagicMock()
+        client.template.side_effect = lambda template_id: self.GOOD[template_id]
+        mocker.patch.object(cli, "NotifyClient", return_value=client)
+        return client
+
+    def test_reports_ok_for_correct_templates(
+        self, notify: MockType, no_env: list[str], capsys: pytest.CaptureFixture
+    ) -> None:
+        cli.main([*no_env, "check-setup"])
+        lines = capsys.readouterr().out.splitlines()
+        assert lines[:2] == [
+            "OK       notify-mailer email (NOTIFY_TEMPLATE_ID)",
+            "OK       notify-mailer email with file (NOTIFY_FILE_TEMPLATE_ID)",
+        ]
+
+    def test_shows_what_to_paste_when_wrong(
+        self,
+        notify: MockType,
+        no_env: list[str],
+        monkeypatch: pytest.MonkeyPatch,
+        capsys: pytest.CaptureFixture,
+    ) -> None:
+        monkeypatch.delenv("NOTIFY_FILE_TEMPLATE_ID")
+        with pytest.raises(SystemExit):
+            cli.main([*no_env, "check-setup"])
+        lines = capsys.readouterr().out.splitlines()
+        assert lines[1:5] == [
+            "PROBLEM  notify-mailer email with file (NOTIFY_FILE_TEMPLATE_ID): "
+            "NOTIFY_FILE_TEMPLATE_ID is not set",
+            "         Subject: ((subject))",
+            "         Message: ((body))",
+            "                  ",
+        ]
