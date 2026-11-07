@@ -68,6 +68,7 @@ def send_all(
     message: Message,
     addresses: list[str],
     recipients: dict[str, dict[str, str]] | None = None,
+    file: dict | None = None,
     progress_every: int = 50,
 ) -> Result:
     """Send the message to each address, carrying on past rejected addresses.
@@ -83,6 +84,8 @@ def send_all(
         Addresses to send to.
     recipients : dict[str, dict[str, str]] | None
         Recipient rows by address. Addresses without a row get the defaults.
+    file : dict | None
+        File from ``prepare_file``, prepared once and linked from every email.
     progress_every : int
         Log progress after this many attempts.
 
@@ -95,7 +98,7 @@ def send_all(
     result = Result()
     for number, address in enumerate(addresses, start=1):
         try:
-            client.send(address, personalise(message, rows.get(address, {})))
+            client.send(address, personalise(message, rows.get(address, {})), file)
             result.sent += 1
         except HTTPError as error:
             result.failed.append(address)

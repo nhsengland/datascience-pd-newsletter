@@ -10,6 +10,7 @@ from notifications_python_client.notifications import NotificationsAPIClient
 
 from notify_mailer.recipients import normalise
 from notify_mailer.render import Message
+from notify_mailer.templates import FILE_PLACEHOLDER
 
 
 def is_retryable(error: HTTPError) -> bool:
@@ -29,14 +30,16 @@ def is_retryable(error: HTTPError) -> bool:
 
 
 class NotifyClient:
-    """Send emails through one Notify email template.
+    """Send emails through notify-mailer's Notify templates.
 
     Parameters
     ----------
     api_key : str
         Notify API key. Its type (test, team or live) decides who receives email.
     template_id : str
-        Template with ``((subject))`` as its subject and ``((body))`` as its body.
+        The ``EMAIL`` template in ``notify_mailer.templates``.
+    file_template_id : str | None
+        The ``EMAIL_WITH_FILE`` template. Only needed to send files.
     retries : int
         Attempts after the first for retryable errors.
     wait_seconds : float
@@ -51,6 +54,7 @@ class NotifyClient:
         self,
         api_key: str,
         template_id: str,
+        file_template_id: str | None = None,
         retries: int = 3,
         wait_seconds: float = 2.0,
         api: NotificationsAPIClient | None = None,
@@ -58,11 +62,12 @@ class NotifyClient:
     ) -> None:
         self.api = api or NotificationsAPIClient(api_key)
         self.template_id = template_id
+        self.file_template_id = file_template_id
         self.retries = retries
         self.wait_seconds = wait_seconds
         self.sleep = sleep
 
-    def send(self, address: str, message: Message) -> str:
+    def send(self, address: str, message: Message, file: dict | None = None) -> str:
         """Send one email, retrying on rate limits and server errors.
 
         Parameters
@@ -71,6 +76,9 @@ class NotifyClient:
             Recipient address.
         message : Message
             Rendered message.
+        file : dict | None
+            File from ``notify_mailer.files.prepare_file``. The email then uses
+            the file template and links to the file.
 
         Returns
         -------
@@ -79,15 +87,25 @@ class NotifyClient:
 
         Raises
         ------
+        ValueError
+            If a file is given but the client has no file template.
         HTTPError
             If Notify rejects the email or retries run out.
         """
+        personalisation: dict = {"subject": message.subject, "body": message.body}
+        template_id = self.template_id
+        if file is not None:
+            if not self.file_template_id:
+                raise ValueError("Sending a file needs file_template_id")
+            personalisation[FILE_PLACEHOLDER] = file
+            template_id = self.file_template_id
+
         for attempt in range(self.retries + 1):
             try:
                 response = self.api.send_email_notification(
                     email_address=address,
-                    template_id=self.template_id,
-                    personalisation={"subject": message.subject, "body": message.body},
+                    template_id=template_id,
+                    personalisation=personalisation,
                     reference=message.reference,
                 )
                 return response["id"]
@@ -100,6 +118,21 @@ class NotifyClient:
                 )
                 self.sleep(wait)
         raise AssertionError("unreachable")
+
+    def template(self, template_id: str) -> dict:
+        """Return a template's latest version from Notify.
+
+        Parameters
+        ----------
+        template_id : str
+            Template ID.
+
+        Returns
+        -------
+        dict
+            Template fields, including ``type``, ``subject`` and ``body``.
+        """
+        return self.api.get_template(template_id)
 
     def notifications(self, reference: str) -> list[dict]:
         """Return every email notification Notify holds for a reference.

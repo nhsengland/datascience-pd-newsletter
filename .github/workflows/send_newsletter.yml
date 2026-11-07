@@ -36,6 +36,7 @@ jobs:
       KEY: ${{ inputs.key }}
       DRY_RUN: ${{ inputs.dry_run }}
       NOTIFY_TEMPLATE_ID: ${{ vars.NOTIFY_TEMPLATE_ID }}
+      NOTIFY_FILE_TEMPLATE_ID: ${{ vars.NOTIFY_FILE_TEMPLATE_ID }}
       NOTIFY_API_KEY_TEAM: ${{ secrets.NOTIFY_API_KEY_TEAM }}
       NOTIFY_API_KEY_LIVE: ${{ secrets.NOTIFY_API_KEY_LIVE }}
     steps:

@@ -6,9 +6,11 @@ import sys
 from pathlib import Path
 
 from loguru import logger
+from notifications_python_client.errors import HTTPError
 
 from notify_mailer.campaign import plan_send, send_all
 from notify_mailer.client import NotifyClient
+from notify_mailer.files import prepare_file
 from notify_mailer.recipients import (
     read_addresses,
     read_recipients,
@@ -16,13 +18,13 @@ from notify_mailer.recipients import (
     write_addresses,
 )
 from notify_mailer.render import load_message, personalise, to_html_page
+from notify_mailer.templates import EMAIL, EMAIL_WITH_FILE, TEMPLATES, template_problems
 
 KEY_VARIABLES = {
     "test": "NOTIFY_API_KEY_TEST",
     "team": "NOTIFY_API_KEY_TEAM",
     "live": "NOTIFY_API_KEY_LIVE",
 }
-TEMPLATE_VARIABLE = "NOTIFY_TEMPLATE_ID"
 
 
 def load_env_file(path: Path) -> None:
@@ -60,22 +62,30 @@ def required_variable(name: str) -> str:
     return value
 
 
-def make_client(key_type: str) -> NotifyClient:
+def make_client(key_type: str, with_file: bool = False) -> NotifyClient:
     """Build a client for the chosen key type.
 
     Parameters
     ----------
     key_type : str
         One of ``test``, ``team`` or ``live``.
+    with_file : bool
+        Whether the file template must be configured.
 
     Returns
     -------
     NotifyClient
-        Client using that key and the configured template.
+        Client using that key and the configured templates.
     """
+    file_variable = EMAIL_WITH_FILE.variable
     return NotifyClient(
         api_key=required_variable(KEY_VARIABLES[key_type]),
-        template_id=required_variable(TEMPLATE_VARIABLE),
+        template_id=required_variable(EMAIL.variable),
+        file_template_id=(
+            required_variable(file_variable)
+            if with_file
+            else os.environ.get(file_variable)
+        ),
     )
 
 
@@ -121,7 +131,19 @@ def send(args: argparse.Namespace) -> None:
     message = load_message(args.message)
     rows = read_recipients(args.recipients)
     recipients = list(rows)
-    client = make_client(args.key)
+    file = None
+    if args.file:
+        file = prepare_file(
+            args.file,
+            confirm_email=not args.no_email_check,
+            retention_weeks=args.retention_weeks,
+        )
+        check = "off" if args.no_email_check else "on"
+        print(
+            f"File: {args.file.name} | Kept for {args.retention_weeks} weeks | "
+            f"Email check before download: {check}"
+        )
+    client = make_client(args.key, with_file=file is not None)
     plan = plan_send(client, message, recipients)
     print(
         f"Key: {args.key} | Reference: {message.reference} | "
@@ -135,11 +157,39 @@ def send(args: argparse.Namespace) -> None:
         if not confirm(f"Type {count} to send to {count} people:", count):
             sys.exit("Not sent.")
 
-    result = send_all(client, message, plan.to_send, rows)
+    result = send_all(client, message, plan.to_send, rows, file)
     if result.failed:
         failed_file = args.recipients.parent / f"failed-{message.reference}.csv"
         write_addresses(failed_file, result.failed)
         sys.exit(f"{len(result.failed)} addresses failed. See {failed_file}")
+
+
+def check_setup(args: argparse.Namespace) -> None:
+    """Check each Notify template exists and is set up as notify-mailer needs."""
+    client = NotifyClient(required_variable(KEY_VARIABLES[args.key]), template_id="")
+    failed = False
+    for spec in TEMPLATES:
+        template_id = os.environ.get(spec.variable, "")
+        if not template_id:
+            problems = [f"{spec.variable} is not set"]
+        else:
+            try:
+                problems = template_problems(spec, client.template(template_id))
+            except HTTPError as error:
+                problems = [f"Notify could not return it ({error.status_code})"]
+        if not problems:
+            print(f"OK       {spec.name} ({spec.variable})")
+            continue
+        failed = True
+        print(f"PROBLEM  {spec.name} ({spec.variable}): {'; '.join(problems)}")
+        print(f"         Subject: {spec.subject}")
+        print("         Message: " + spec.body.replace("\n", "\n                  "))
+    print(
+        "\nNotify's API cannot show the unsubscribe setting. For newsletters, "
+        "check 'Add an unsubscribe link' is ticked on each template."
+    )
+    if failed:
+        sys.exit(1)
 
 
 def status(args: argparse.Namespace) -> None:
@@ -201,7 +251,18 @@ def build_parser() -> argparse.ArgumentParser:
     add_key(command)
     command.add_argument("--dry-run", action="store_true", help="count only")
     command.add_argument("--yes", action="store_true", help="skip live confirmation")
+    command.add_argument("--file", type=Path, help="file to link from the email")
+    command.add_argument(
+        "--no-email-check",
+        action="store_true",
+        help="let anyone with the link download the file without entering an email",
+    )
+    command.add_argument("--retention-weeks", type=int, default=26)
     command.set_defaults(run=send)
+
+    command = commands.add_parser("check-setup", help="check the Notify templates")
+    add_key(command)
+    command.set_defaults(run=check_setup)
 
     command = commands.add_parser("status", help="count deliveries by status")
     command.add_argument("reference")

@@ -32,12 +32,10 @@ The newsletter email is sent through GOV.UK Notify with [notify-mailer](notify-m
 
 ### One-off set-up
 1. Install [uv](https://docs.astral.sh/uv/) (codespaces already have it), then run `uv sync` in the repo root.
-2. Create a `.env` file in the repo root. It is gitignored. Never commit it.
+2. Copy the example settings file, then fill it in by following the [Notify set-up steps](notify-mailer/README.md#notify-set-up). `.env` is gitignored. Never commit it.
    ```bash
-   NOTIFY_TEMPLATE_ID=
-   NOTIFY_API_KEY_TEST=
-   NOTIFY_API_KEY_TEAM=
-   NOTIFY_API_KEY_LIVE=
+   cp .env.example .env
+   uv run notify-mailer check-setup
    ```
 3. Put the recipient lists in `data/`, which is gitignored. Each is a CSV file with an `email` column:
    - `data/recipients.csv`: everyone who gets the newsletter

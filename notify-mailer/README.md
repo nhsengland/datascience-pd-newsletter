@@ -2,24 +2,42 @@
 
 Send emails written in local Markdown files through [GOV.UK Notify](https://www.notifications.service.gov.uk/).
 
-All wording lives in your repository. Notify holds one email template, and each send fills it in.
+All wording lives in your repository. Notify holds two fixed templates, and each send fills one in.
 
 ## Notify set-up
 
-1. Create an email template with `((subject))` as the subject and `((body))` as the message.
-2. Tick "Add an unsubscribe link" if the emails are subscription emails.
-3. Create API keys. A test key delivers nothing, a team key sends only to your team, and a live key sends to anyone.
+Notify's API cannot create templates or keys, so these steps are done once in the [Notify portal](https://www.notifications.service.gov.uk/).
 
-## Settings
+1. Create a `.env` file in the folder you will run from. Never commit it.
+   ```bash
+   # Template IDS
+   NOTIFY_TEMPLATE_ID=
+   NOTIFY_FILE_TEMPLATE_ID=
 
-Set these in the environment or in a `.env` file in the folder you run from. Never commit `.env`.
+   # API Keys
+   NOTIFY_API_KEY_TEST=
+   NOTIFY_API_KEY_TEAM=
+   NOTIFY_API_KEY_LIVE=
+   ```
+2. **Templates → New template → Email**. Copy each one exactly:
 
-| Variable | Used for |
-|---|---|
-| `NOTIFY_TEMPLATE_ID` | The template above |
-| `NOTIFY_API_KEY_TEST` | `--key test` (the default) |
-| `NOTIFY_API_KEY_TEAM` | `--key team` |
-| `NOTIFY_API_KEY_LIVE` | `--key live` |
+   | Template name | Subject | Message | `.env` variable |
+   |---|---|---|---|
+   | notify-mailer email | `((subject))` | `((body))` | `NOTIFY_TEMPLATE_ID` |
+   | notify-mailer email with file | `((subject))` | `((body))`, a blank line, then `((link_to_file))` | `NOTIFY_FILE_TEMPLATE_ID` |
+
+   Tick **Add an unsubscribe link** on both if the emails are subscription emails, such as a newsletter. Save, then copy the template ID (shown under the template) into `.env`.
+3. **API integration → Create an API key**. Add each key you need to `.env`:
+   - **Test**: delivers nothing. Use it to try things out.
+   - **Team and guest list**: sends only to members of your Notify team.
+   - **Live**: sends to anyone. Only works once the service is live.
+4. Check it all:
+   ```bash
+   notify-mailer check-setup
+   ```
+   Each template shows `OK`, or `PROBLEM` with the exact subject and message to fix it.
+
+Settings can also come from environment variables, which take priority over `.env`.
 
 ## Message files
 
@@ -75,11 +93,48 @@ Thank you to everyone at ${organisation} who contributed.
 - The message is checked with the defaults before anything is sent, so a field that is not declared stops the send.
 - See how it looks for one recipient with `notify-mailer preview MESSAGE --recipients FILE --row N`. The Teams page uses the defaults.
 
+## Sending files
+
+Add `--file` to send a file with the email. Recipients get a link to download it, not an attachment.
+
+```bash
+notify-mailer send report.md --recipients team.csv --key team --file report.xlsx
+```
+
+- Files must be under 2MB and one of: CSV, DOC, DOCX, JPEG, JPG, JSON, ODT, PDF, PNG, RTF, TXT, XLSX. Save logs as `.txt`.
+- By default, recipients must enter their email address before downloading. Keep this for anything personal, sensitive or OFFICIAL. `--no-email-check` turns it off.
+- Files stay available for 26 weeks by default. Use `--retention-weeks` to choose 1 to 78.
+- The file is read and checked once, before anything is sent. Notify needs it in every send request, so for large lists, consider hosting the file elsewhere and linking to it instead.
+
+## Python
+
+The same pieces work from Python, for example at the end of a pipeline:
+
+```python
+import os
+from pathlib import Path
+
+from notify_mailer import Message, NotifyClient, prepare_file
+
+client = NotifyClient(
+    api_key=os.environ["NOTIFY_API_KEY_TEAM"],
+    template_id=os.environ["NOTIFY_TEMPLATE_ID"],
+    file_template_id=os.environ["NOTIFY_FILE_TEMPLATE_ID"],
+)
+message = Message(
+    subject="Monthly report ready",
+    body="# Monthly report\n\nThe pipeline finished. The report is linked below.",
+    reference="monthly-report-2026-11",
+)
+client.send("analyst@example.org", message, file=prepare_file(Path("report.xlsx")))
+```
+
 ## Commands
 
 ```bash
+notify-mailer check-setup                           # check the Notify templates
 notify-mailer preview MESSAGE [--recipients FILE --row N]  # show the rendered email
-notify-mailer send MESSAGE --recipients FILE --key test|team|live [--dry-run]
+notify-mailer send MESSAGE --recipients FILE --key test|team|live [--dry-run] [--file FILE]
 notify-mailer status REFERENCE --key test|team|live # count deliveries by status
 notify-mailer unsubscribe REPORT --recipients FILE  # remove unsubscribed addresses
 notify-mailer teams MESSAGE                         # HTML page to copy into Teams
