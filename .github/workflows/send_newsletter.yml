@@ -1,0 +1,65 @@
+name: Send newsletter
+
+# team: sends to the team list in the notify-team environment.
+# live: sends to everyone. The notify-live environment needs a reviewer to approve.
+# Leave "dry_run" ticked first to check the counts, then run again without it.
+
+on:
+  workflow_dispatch:
+    inputs:
+      edition:
+        description: 'Email file, for example emails/2026_11.md'
+        required: true
+      key:
+        description: 'Who receives it'
+        type: choice
+        options: [team, live]
+        default: team
+      dry_run:
+        description: 'Only count recipients, send nothing'
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: send-newsletter
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    environment: notify-${{ inputs.key }}
+    env:
+      EDITION: ${{ inputs.edition }}
+      KEY: ${{ inputs.key }}
+      DRY_RUN: ${{ inputs.dry_run }}
+      NOTIFY_TEMPLATE_ID: ${{ vars.NOTIFY_TEMPLATE_ID }}
+      NOTIFY_API_KEY_TEAM: ${{ secrets.NOTIFY_API_KEY_TEAM }}
+      NOTIFY_API_KEY_LIVE: ${{ secrets.NOTIFY_API_KEY_LIVE }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check the edition file
+        run: |
+          if [[ ! "$EDITION" =~ ^emails/[A-Za-z0-9_-]+\.md$ || ! -f "$EDITION" ]]; then
+            echo "No email file at $EDITION"
+            exit 1
+          fi
+
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Install
+        run: uv sync --locked
+
+      - name: Write the recipient list
+        env:
+          RECIPIENTS: ${{ secrets.NEWSLETTER_RECIPIENTS }}
+        run: printf '%s\n' "$RECIPIENTS" > "$RUNNER_TEMP/recipients.csv"
+
+      - name: Send
+        run: |
+          args=(send "$EDITION" --recipients "$RUNNER_TEMP/recipients.csv" --key "$KEY" --yes)
+          if [[ "$DRY_RUN" == "true" ]]; then args+=(--dry-run); fi
+          uv run notify-mailer --env-file /dev/null "${args[@]}"

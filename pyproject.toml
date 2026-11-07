@@ -1,0 +1,15 @@
+[project]
+name = "datascience-pd-newsletter"
+version = "0.1.0"
+description = "Newsletter content and distribution for the Data Science Community for Health and Care."
+requires-python = ">=3.12"
+dependencies = ["notify-mailer"]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+notify-mailer = { workspace = true }
+
+[tool.uv.workspace]
+members = ["notify-mailer"]
