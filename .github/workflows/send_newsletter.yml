@@ -53,10 +53,31 @@ jobs:
       - name: Install
         run: uv sync --locked
 
+      # Pieces written by scripts/update_secrets.sh. Keep this list in step with
+      # MAX_CHUNKS in that script.
       - name: Write the recipient list
         env:
-          RECIPIENTS: ${{ secrets.NEWSLETTER_RECIPIENTS }}
-        run: printf '%s\n' "$RECIPIENTS" > "$RUNNER_TEMP/recipients.csv"
+          NEWSLETTER_RECIPIENTS_1: ${{ secrets.NEWSLETTER_RECIPIENTS_1 }}
+          NEWSLETTER_RECIPIENTS_2: ${{ secrets.NEWSLETTER_RECIPIENTS_2 }}
+          NEWSLETTER_RECIPIENTS_3: ${{ secrets.NEWSLETTER_RECIPIENTS_3 }}
+          NEWSLETTER_RECIPIENTS_4: ${{ secrets.NEWSLETTER_RECIPIENTS_4 }}
+          NEWSLETTER_RECIPIENTS_5: ${{ secrets.NEWSLETTER_RECIPIENTS_5 }}
+          NEWSLETTER_RECIPIENTS_6: ${{ secrets.NEWSLETTER_RECIPIENTS_6 }}
+          NEWSLETTER_RECIPIENTS_7: ${{ secrets.NEWSLETTER_RECIPIENTS_7 }}
+          NEWSLETTER_RECIPIENTS_8: ${{ secrets.NEWSLETTER_RECIPIENTS_8 }}
+          NEWSLETTER_RECIPIENTS_9: ${{ secrets.NEWSLETTER_RECIPIENTS_9 }}
+          NEWSLETTER_RECIPIENTS_10: ${{ secrets.NEWSLETTER_RECIPIENTS_10 }}
+          NEWSLETTER_RECIPIENTS_11: ${{ secrets.NEWSLETTER_RECIPIENTS_11 }}
+          NEWSLETTER_RECIPIENTS_12: ${{ secrets.NEWSLETTER_RECIPIENTS_12 }}
+          NEWSLETTER_RECIPIENTS_13: ${{ secrets.NEWSLETTER_RECIPIENTS_13 }}
+          NEWSLETTER_RECIPIENTS_14: ${{ secrets.NEWSLETTER_RECIPIENTS_14 }}
+          NEWSLETTER_RECIPIENTS_15: ${{ secrets.NEWSLETTER_RECIPIENTS_15 }}
+          NEWSLETTER_RECIPIENTS_16: ${{ secrets.NEWSLETTER_RECIPIENTS_16 }}
+          NEWSLETTER_RECIPIENTS_17: ${{ secrets.NEWSLETTER_RECIPIENTS_17 }}
+          NEWSLETTER_RECIPIENTS_18: ${{ secrets.NEWSLETTER_RECIPIENTS_18 }}
+          NEWSLETTER_RECIPIENTS_19: ${{ secrets.NEWSLETTER_RECIPIENTS_19 }}
+          NEWSLETTER_RECIPIENTS_20: ${{ secrets.NEWSLETTER_RECIPIENTS_20 }}
+        run: scripts/join_recipient_secrets.sh "$RUNNER_TEMP/recipients.csv"
 
       - name: Send
         run: |

@@ -95,6 +95,14 @@ GitHub Actions uses copies of the keys and lists, stored as secrets in the `noti
 ```bash
 scripts/update_secrets.sh live   # or test, or team
 ```
+Lists are compressed and split across up to 20 numbered secrets (`NEWSLETTER_RECIPIENTS_1`, `_2`, ...). That holds roughly 85,000 addresses. To allow more, add lines to the list step in `.github/workflows/send_newsletter.yml` and raise `MAX_CHUNKS` in the script.
+
+### Codespaces
+Codespaces get the test key, the team key and the team list as repo Codespaces secrets. A new codespace writes `data/team.csv` when it starts, so previews, team sends and the integration test work without a `.env` file. Update these secrets with:
+```bash
+scripts/update_secrets.sh codespaces
+```
+The live key is never stored as a Codespaces secret, because anyone with write access to the repo would get it. To send to everyone from a codespace, run the **Send newsletter** workflow, which waits for a reviewer to approve.
 
 ### Built With
 
