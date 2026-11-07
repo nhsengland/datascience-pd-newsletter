@@ -52,12 +52,33 @@ Notify does not support images, bold or italic text, so files containing them ar
 
 ## Recipient lists
 
-A CSV file with an `email` column. Addresses are trimmed, lower-cased and de-duplicated. Keep these files out of git.
+A CSV file with an `email` column. Addresses are trimmed, lower-cased and de-duplicated, keeping the first row. Other columns can be used for personalisation. Keep these files out of git, and only add columns you use.
+
+## Personalisation
+
+List the fields to fill per recipient under `recipient_fields`, in the message or its layout, with the value to use when a recipient's cell is blank or missing. Each field name must match a column header in the recipient list.
+
+```markdown
+---
+subject: Newsletter - ${month}
+recipient_fields:
+  name: colleague
+  organisation: the NHS
+---
+Hi ${name},
+
+Thank you to everyone at ${organisation} who contributed.
+```
+
+- Fields can be used in the subject and body, but not in `reference`.
+- Values are cleaned before use: characters that would add formatting, links or placeholders are removed, as are URL schemes and `www.`, so a value always appears as plain text.
+- The message is checked with the defaults before anything is sent, so a field that is not declared stops the send.
+- See how it looks for one recipient with `notify-mailer preview MESSAGE --recipients FILE --row N`. The Teams page uses the defaults.
 
 ## Commands
 
 ```bash
-notify-mailer preview MESSAGE                       # show the rendered email
+notify-mailer preview MESSAGE [--recipients FILE --row N]  # show the rendered email
 notify-mailer send MESSAGE --recipients FILE --key test|team|live [--dry-run]
 notify-mailer status REFERENCE --key test|team|live # count deliveries by status
 notify-mailer unsubscribe REPORT --recipients FILE  # remove unsubscribed addresses

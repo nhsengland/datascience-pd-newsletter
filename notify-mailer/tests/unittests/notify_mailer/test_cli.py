@@ -65,6 +65,50 @@ class TestPreview:
         cli.main([*no_env, "preview", str(message_file)])
         assert capsys.readouterr().out == "Subject:   Hello\nReference: m\n\nBody\n"
 
+    def test_fills_fields_from_chosen_row(
+        self, tmp_path: Path, no_env: list[str], capsys: pytest.CaptureFixture
+    ) -> None:
+        message = tmp_path / "p.md"
+        message.write_text(
+            "---\nsubject: Hello\nrecipient_fields:\n  name: you\n---\nHi ${name}\n",
+            encoding="utf-8",
+        )
+        people = tmp_path / "people.csv"
+        people.write_text(
+            "email,name\na@example.com,Sam\nb@example.com,Ali\n", encoding="utf-8"
+        )
+        cli.main(
+            [
+                *no_env,
+                "preview",
+                str(message),
+                "--recipients",
+                str(people),
+                "--row",
+                "2",
+            ]
+        )
+        assert capsys.readouterr().out == (
+            "Subject:   Hello\nReference: p\n"
+            "Recipient fields: name (default 'you')\n\nHi Ali\n"
+        )
+
+    def test_rejects_row_outside_list(
+        self, message_file: Path, recipients_file: Path, no_env: list[str]
+    ) -> None:
+        with pytest.raises(SystemExit, match="--row must be between 1 and 2"):
+            cli.main(
+                [
+                    *no_env,
+                    "preview",
+                    str(message_file),
+                    "--recipients",
+                    str(recipients_file),
+                    "--row",
+                    "3",
+                ]
+            )
+
 
 class TestSend:
     def test_dry_run_only_counts(

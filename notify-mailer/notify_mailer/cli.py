@@ -9,8 +9,13 @@ from loguru import logger
 
 from notify_mailer.campaign import plan_send, send_all
 from notify_mailer.client import NotifyClient
-from notify_mailer.recipients import read_addresses, split_unsubscribed, write_addresses
-from notify_mailer.render import load_message, to_html_page
+from notify_mailer.recipients import (
+    read_addresses,
+    read_recipients,
+    split_unsubscribed,
+    write_addresses,
+)
+from notify_mailer.render import load_message, personalise, to_html_page
 
 KEY_VARIABLES = {
     "test": "NOTIFY_API_KEY_TEST",
@@ -93,16 +98,29 @@ def confirm(prompt: str, expected: str) -> bool:
 
 
 def preview(args: argparse.Namespace) -> None:
-    """Print the rendered subject, reference and body."""
+    """Print the rendered subject, reference and body for one recipient."""
     message = load_message(args.message)
-    print(f"Subject:   {message.subject}\nReference: {message.reference}\n")
-    print(message.body)
+    recipient: dict[str, str] = {}
+    if args.recipients:
+        rows = list(read_recipients(args.recipients).values())
+        if not 1 <= args.row <= len(rows):
+            sys.exit(f"--row must be between 1 and {len(rows)}")
+        recipient = rows[args.row - 1]
+    fields = ", ".join(
+        f"{k} (default '{v}')" for k, v in message.recipient_fields.items()
+    )
+    email = personalise(message, recipient)
+    print(f"Subject:   {email.subject}\nReference: {email.reference}")
+    if fields:
+        print(f"Recipient fields: {fields}")
+    print(f"\n{email.body}")
 
 
 def send(args: argparse.Namespace) -> None:
     """Send a message to everyone on the list who does not have it yet."""
     message = load_message(args.message)
-    recipients = read_addresses(args.recipients)
+    rows = read_recipients(args.recipients)
+    recipients = list(rows)
     client = make_client(args.key)
     plan = plan_send(client, message, recipients)
     print(
@@ -117,7 +135,7 @@ def send(args: argparse.Namespace) -> None:
         if not confirm(f"Type {count} to send to {count} people:", count):
             sys.exit("Not sent.")
 
-    result = send_all(client, message, plan.to_send)
+    result = send_all(client, message, plan.to_send, rows)
     if result.failed:
         failed_file = args.recipients.parent / f"failed-{message.reference}.csv"
         write_addresses(failed_file, result.failed)
@@ -150,7 +168,7 @@ def unsubscribe(args: argparse.Namespace) -> None:
 
 def teams(args: argparse.Namespace) -> None:
     """Write the message as an HTML page to open and copy into Teams."""
-    message = load_message(args.message)
+    message = personalise(load_message(args.message), {})
     output = args.output or args.message.with_suffix(".teams.html")
     output.write_text(to_html_page(message), encoding="utf-8")
     print(f"Open {output} in a browser, select all, copy and paste into Teams.")
@@ -173,6 +191,8 @@ def build_parser() -> argparse.ArgumentParser:
 
     command = commands.add_parser("preview", help="show the rendered email")
     command.add_argument("message", type=Path)
+    command.add_argument("--recipients", type=Path, help="fill fields from this list")
+    command.add_argument("--row", type=int, default=1, help="recipient to show")
     command.set_defaults(run=preview)
 
     command = commands.add_parser("send", help="send to a recipient list")

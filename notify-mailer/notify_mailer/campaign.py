@@ -6,7 +6,7 @@ from loguru import logger
 from notifications_python_client.errors import HTTPError
 
 from notify_mailer.client import NotifyClient
-from notify_mailer.render import Message
+from notify_mailer.render import Message, personalise
 
 
 @dataclass(frozen=True)
@@ -67,6 +67,7 @@ def send_all(
     client: NotifyClient,
     message: Message,
     addresses: list[str],
+    recipients: dict[str, dict[str, str]] | None = None,
     progress_every: int = 50,
 ) -> Result:
     """Send the message to each address, carrying on past rejected addresses.
@@ -76,9 +77,12 @@ def send_all(
     client : NotifyClient
         Client to send with.
     message : Message
-        Rendered message.
+        Message from ``load_message``. Its recipient fields are filled for
+        each address from ``recipients``.
     addresses : list[str]
         Addresses to send to.
+    recipients : dict[str, dict[str, str]] | None
+        Recipient rows by address. Addresses without a row get the defaults.
     progress_every : int
         Log progress after this many attempts.
 
@@ -87,10 +91,11 @@ def send_all(
     Result
         Count sent and addresses rejected. Logs never contain addresses.
     """
+    rows = recipients or {}
     result = Result()
     for number, address in enumerate(addresses, start=1):
         try:
-            client.send(address, message)
+            client.send(address, personalise(message, rows.get(address, {})))
             result.sent += 1
         except HTTPError as error:
             result.failed.append(address)

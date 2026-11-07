@@ -1,10 +1,11 @@
 """Turn Markdown message files into an email subject and body."""
 
 import re
-from dataclasses import dataclass
+from dataclasses import dataclass, field, replace
 from html import escape
 from pathlib import Path
 from string import Template
+from typing import Any
 
 import markdown
 import yaml
@@ -12,6 +13,9 @@ import yaml
 FRONT_MATTER = re.compile(r"\A---\n(.*?)\n---\n?(.*)\Z", re.DOTALL)
 NESTED_LIST_INDENT = re.compile(r"^( +)(?=[*+-] |\d+\. )", re.MULTILINE)
 INSET_TEXT = re.compile(r"^\^ ?", re.MULTILINE)
+FIELD = re.compile(r"\$\{(\w+)\}")
+FORMATTING_CHARACTERS = re.compile(r"[\\`*_{}\[\]()<>#^|~$]")
+LINK_STARTS = re.compile(r"(?i)\b[a-z][a-z0-9+.-]*://|\bwww\.")
 
 UNSUPPORTED = {
     "an image (Notify removes images)": re.compile(r"!\[[^\]]*\]\([^)]*\)"),
@@ -20,6 +24,7 @@ UNSUPPORTED = {
         r"(?<![\w*])([*_])(?!\s)[^*_\n]+?(?<!\s)\1(?![\w*])"
     ),
     "a ((placeholder)) (readers would see it as text)": re.compile(r"\(\(.*?\)\)"),
+    "an unfilled ${field} (add it to recipient_fields or the front matter)": FIELD,
 }
 
 
@@ -39,14 +44,19 @@ class Message:
         Email body in Notify Markdown.
     reference : str
         Identifier shared by every email in one send. It must not hold personal data.
+    recipient_fields : dict[str, str]
+        Fields filled per recipient by ``personalise``, mapped to the value used
+        when a recipient has none. Their ``${name}`` markers stay in the subject
+        and body until then.
     """
 
     subject: str
     body: str
     reference: str
+    recipient_fields: dict[str, str] = field(default_factory=dict)
 
 
-def split_front_matter(text: str) -> tuple[dict[str, str], str]:
+def split_front_matter(text: str) -> tuple[dict[str, Any], str]:
     """Split a file into its YAML front matter and the content after it.
 
     Parameters
@@ -56,14 +66,13 @@ def split_front_matter(text: str) -> tuple[dict[str, str], str]:
 
     Returns
     -------
-    tuple[dict[str, str], str]
-        Front matter values as strings, and the remaining content.
+    tuple[dict[str, Any], str]
+        Front matter values, and the remaining content.
     """
     match = FRONT_MATTER.match(text)
     if not match:
         return {}, text
-    values = yaml.safe_load(match.group(1)) or {}
-    return {key: str(value) for key, value in values.items()}, match.group(2)
+    return yaml.safe_load(match.group(1)) or {}, match.group(2)
 
 
 def find_problems(text: str) -> list[str]:
@@ -118,7 +127,11 @@ def load_message(path: Path) -> Message:
     content: its ``${content}`` field takes the message content and other
     fields take front matter values. ``${stem}`` is the message file name
     without its extension. ``subject`` is required and ``reference`` defaults
-    to ``${stem}``.
+    to ``${stem}``. Values in the message's front matter override the layout's.
+
+    ``recipient_fields`` maps fields filled per recipient (from columns of the
+    recipient list) to a default for recipients with no value. They are left
+    in place here and filled by ``personalise``.
 
     Parameters
     ----------
@@ -128,40 +141,103 @@ def load_message(path: Path) -> Message:
     Returns
     -------
     Message
-        Rendered subject, body and reference.
+        Rendered subject, body and reference, with recipient fields unfilled.
 
     Raises
     ------
     MessageError
-        If a value is missing or the result has unsupported formatting.
+        If a value is missing, the reference uses a recipient field, or the
+        email would have unsupported formatting for a recipient with no values.
     """
-    values, content = split_front_matter(path.read_text(encoding="utf-8"))
-    values = {"stem": path.stem, **values, "content": content.strip()}
-    fields, body = {}, content
-
-    if "layout" in values:
-        layout_path = path.parent / values["layout"]
-        fields, layout_body = split_front_matter(
+    settings, content = split_front_matter(path.read_text(encoding="utf-8"))
+    layout_path, layout_body = path, None
+    if "layout" in settings:
+        layout_path = path.parent / str(settings["layout"])
+        layout_settings, layout_body = split_front_matter(
             layout_path.read_text(encoding="utf-8")
         )
-        body = fill(layout_body, values, layout_path)
-
-    fields = {
-        **fields,
-        **{k: v for k, v in values.items() if k in ("subject", "reference")},
-    }
-    if "subject" not in fields:
+        settings = {**layout_settings, **settings}
+    if "subject" not in settings:
         raise MessageError(f"{path.name} has no subject")
 
+    recipient_fields = {
+        str(name): str(default)
+        for name, default in (settings.pop("recipient_fields", None) or {}).items()
+    }
+    values = {
+        "stem": path.stem,
+        **{key: str(value) for key, value in settings.items()},
+        "content": content.strip(),
+        **{name: f"${{{name}}}" for name in recipient_fields},
+    }
+    body = fill(layout_body, values, layout_path) if layout_body else content
     message = Message(
-        subject=fill(fields["subject"], values, path).strip(),
+        subject=fill(str(settings["subject"]), values, path).strip(),
         body=body.strip(),
-        reference=fill(fields.get("reference", "${stem}"), values, path).strip(),
+        reference=fill(str(settings.get("reference", "${stem}")), values, path).strip(),
+        recipient_fields=recipient_fields,
     )
-    problems = find_problems(message.subject) + find_problems(message.body)
+    if FIELD.search(message.reference):
+        raise MessageError(f"{path.name} reference must not use recipient fields")
+
+    example = personalise(message, {})
+    problems = find_problems(example.subject) + find_problems(example.body)
     if problems:
         raise MessageError(f"{path.name} contains {', '.join(problems)}")
     return message
+
+
+def clean_value(value: str) -> str:
+    """Make a recipient value safe to put into Markdown.
+
+    Characters that could add formatting or placeholders are removed, as are
+    URL schemes and ``www.`` (Notify turns bare URLs into links). Line breaks
+    become spaces, so a value can only ever appear as plain text.
+
+    Parameters
+    ----------
+    value : str
+        Value from the recipient list.
+
+    Returns
+    -------
+    str
+        Cleaned value.
+    """
+    value = FORMATTING_CHARACTERS.sub("", LINK_STARTS.sub("", value))
+    return " ".join(value.split())
+
+
+def personalise(message: Message, recipient: dict[str, str]) -> Message:
+    """Fill a message's recipient fields for one recipient.
+
+    Parameters
+    ----------
+    message : Message
+        Message from ``load_message``.
+    recipient : dict[str, str]
+        The recipient's row from the recipient list. Missing or blank values
+        use the field's default.
+
+    Returns
+    -------
+    Message
+        Message with every recipient field filled.
+    """
+    values = {
+        name: clean_value(recipient.get(name, "")) or default
+        for name, default in message.recipient_fields.items()
+    }
+
+    def fill_fields(text: str) -> str:
+        return FIELD.sub(lambda match: values.get(match[1], match[0]), text)
+
+    return replace(
+        message,
+        subject=fill_fields(message.subject),
+        body=fill_fields(message.body),
+        recipient_fields={},
+    )
 
 
 def to_standard_markdown(body: str) -> str:
