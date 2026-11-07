@@ -1,0 +1,48 @@
+name: Notify mailer checks
+
+on:
+  pull_request:
+    paths:
+      - 'notify-mailer/**'
+      - 'emails/**'
+      - 'pyproject.toml'
+      - 'uv.lock'
+      - '.github/workflows/notify_mailer_checks.yml'
+  push:
+    branches: main
+    paths:
+      - 'notify-mailer/**'
+      - 'emails/**'
+      - 'pyproject.toml'
+      - 'uv.lock'
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Install
+        run: uv sync --locked
+
+      - name: Lint
+        working-directory: notify-mailer
+        run: |
+          uv run ruff check .
+          uv run ruff format --check .
+
+      - name: Unit tests
+        working-directory: notify-mailer
+        run: uv run pytest
+
+      - name: Check every email renders
+        run: |
+          for file in emails/[!_]*.md; do
+            echo "Checking $file"
+            uv run notify-mailer --env-file /dev/null preview "$file" > /dev/null
+          done
