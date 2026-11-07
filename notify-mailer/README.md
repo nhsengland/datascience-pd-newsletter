@@ -6,7 +6,15 @@ All wording lives in your repository. Notify holds two fixed templates, and each
 
 ## Notify set-up
 
-Notify's API cannot create templates or keys, so these steps are done once in the [Notify portal](https://www.notifications.service.gov.uk/).
+The quickest way is:
+
+```bash
+notify-mailer setup
+```
+
+It creates `.env` if needed, asks for each API key (hidden as you paste) and checks it with Notify, then finds both templates in your service by their content and saves their IDs. If a template is missing, it shows exactly what to create and waits while you do it. It is safe to run again: it only asks for what is missing.
+
+Notify's API cannot create templates or keys, so those are made in the [Notify portal](https://www.notifications.service.gov.uk/). The manual steps are:
 
 1. Create a `.env` file in the folder you will run from. Never commit it.
    ```bash
@@ -132,6 +140,7 @@ client.send("analyst@example.org", message, file=prepare_file(Path("report.xlsx"
 ## Commands
 
 ```bash
+notify-mailer setup                                 # set up .env: keys and templates
 notify-mailer check-setup                           # check the Notify templates
 notify-mailer preview MESSAGE [--recipients FILE --row N]  # show the rendered email
 notify-mailer send MESSAGE --recipients FILE --key test|team|live [--dry-run] [--file FILE]

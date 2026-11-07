@@ -31,17 +31,20 @@ Creating the next monthly newsletter? Here's how:
 The newsletter email is sent through GOV.UK Notify with [notify-mailer](notify-mailer/README.md). You can send from your machine, a codespace, or GitHub Actions.
 
 ### One-off set-up
-1. Install [uv](https://docs.astral.sh/uv/) (codespaces already have it), then run `uv sync` in the repo root.
-2. Copy the example settings file, then fill it in by following the [Notify set-up steps](notify-mailer/README.md#notify-set-up). `.env` is gitignored. Never commit it.
-   ```bash
-   cp .env.example .env
-   uv run notify-mailer check-setup
-   ```
-3. Put the recipient lists in `data/`, which is gitignored. Each is a CSV file with an `email` column:
+Install [uv](https://docs.astral.sh/uv/) (codespaces already have it), then run this from the repo root:
+```bash
+scripts/setup.sh
+```
+It walks you through everything and only asks for what is missing, so it is safe to run again:
+1. Installs the Python tools.
+2. Creates `.env` (from the same layout as `.env.example`) and asks for your Notify API keys, checking each one. Keys are not shown as you paste them.
+3. Finds the two Notify templates by their content and saves their IDs. If one does not exist yet, it shows exactly what to create in the portal and waits. See [Notify set-up](notify-mailer/README.md#notify-set-up) for the manual steps.
+4. Creates empty recipient lists in `data/` if they are missing. Each is a CSV file with an `email` column:
    - `data/recipients.csv`: everyone who gets the newsletter
    - `data/team.csv`: the newsletter team, for test sends
+5. Offers to set up the GitHub environments and secrets (`scripts/setup_github.sh`), if you are a repo admin.
 
-The repo is public. Email addresses and keys must never be committed.
+The repo is public. `.env` and `data/` are gitignored. Email addresses and keys must never be committed.
 
 ### Each month
 1. Once the edition is published, copy last month's file in `emails/` to `emails/YYYY_MM.md`. Update `month`, `edition_url` and the bullet points, then add it to a PR. The checks make sure it renders.
@@ -90,7 +93,7 @@ Notify adds an unsubscribe link to every email. Requests appear on the Notify da
 3. If you send from GitHub Actions, update the secrets (below).
 
 ### Updating GitHub secrets
-GitHub Actions uses copies of the keys and lists, stored as secrets in the `notify-test`, `notify-team` and `notify-live` environments. After changing `.env` or a list, update them with the [GitHub CLI](https://cli.github.com/):
+GitHub Actions uses copies of the keys and lists, stored as secrets in the `notify-test`, `notify-team` and `notify-live` environments. `scripts/setup_github.sh` creates the environments and copies everything the first time. After changing `.env` or a list, update them with the [GitHub CLI](https://cli.github.com/):
 ```bash
 scripts/update_secrets.sh live   # or test, or team
 ```
