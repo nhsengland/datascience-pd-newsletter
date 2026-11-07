@@ -28,7 +28,73 @@ Creating the next monthly newsletter? Here's how:
 - See the "Distributing the newsletter" section below for details on how to share the newsletter.
 
 ## Distributing the newsletter
-See the [Data Science Confluence page](https://nhsd-confluence.digital.nhs.uk/spaces/DAT/pages/565791242/DS+PD+Newsletter+and+event+calendar) for details of how and where to share the newsletter.  
+The newsletter email is sent through GOV.UK Notify with [notify-mailer](notify-mailer/README.md). You can send from your machine, a codespace, or GitHub Actions.
+
+### One-off set-up
+1. Install [uv](https://docs.astral.sh/uv/) (codespaces already have it), then run `uv sync` in the repo root.
+2. Create a `.env` file in the repo root. It is gitignored. Never commit it.
+   ```bash
+   NOTIFY_TEMPLATE_ID=
+   NOTIFY_API_KEY_TEST=
+   NOTIFY_API_KEY_TEAM=
+   NOTIFY_API_KEY_LIVE=
+   ```
+3. Put the recipient lists in `data/`, which is gitignored. Each is a CSV file with an `email` column:
+   - `data/recipients.csv`: everyone who gets the newsletter
+   - `data/team.csv`: the newsletter team, for test sends
+
+The repo is public. Email addresses and keys must never be committed.
+
+### Each month
+1. Once the edition is published, copy last month's file in `emails/` to `emails/YYYY_MM.md`. Update `month`, `edition_url` and the bullet points, then add it to a PR. The checks make sure it renders.
+2. Check the email:
+   ```bash
+   uv run notify-mailer preview emails/YYYY_MM.md
+   ```
+3. Apply unsubscribes (see below).
+4. Send to the team and check it in your inbox:
+   ```bash
+   uv run notify-mailer send emails/YYYY_MM.md --key team --recipients data/team.csv
+   ```
+5. Send to everyone. Do a dry run first. The real send asks you to type the number of recipients.
+   ```bash
+   uv run notify-mailer send emails/YYYY_MM.md --key live --dry-run
+   uv run notify-mailer send emails/YYYY_MM.md --key live
+   ```
+   If a send stops part way, run the same command again within 7 days. It skips everyone who already has the email.
+6. Check delivery a few minutes later:
+   ```bash
+   uv run notify-mailer status newsletter-YYYY_MM --key live
+   ```
+7. Make the Teams post. Open the HTML file it creates, select all, copy, and paste into the Data Science General channel:
+   ```bash
+   uv run notify-mailer teams emails/YYYY_MM.md
+   ```
+8. Add the edition to the table on the [Confluence page](https://nhsd-confluence.digital.nhs.uk/spaces/DAT/pages/565791242/DS+PD+Newsletter+and+event+calendar).
+
+To send from GitHub Actions instead of steps 4 and 5, run the **Send newsletter** workflow. Leave "dry run" ticked first, then run it again without. Live sends wait for a reviewer to approve.
+
+### Writing the email
+- Notify removes images and does not support bold or italic text. The tool rejects files that use them.
+- Use `#` for headings, `*` for bullets and `[text](url)` for links. Link text should say where the link goes, not "click here".
+- Notify adds a gap after a nested list, so put any item with sub-bullets last.
+- The fixed wording is in `emails/_layout.md`.
+
+### Unsubscribes
+Notify adds an unsubscribe link to every email. Requests appear on the Notify dashboard for 90 days. Before each send:
+1. Download the unsubscribe report from the dashboard.
+2. Remove those people from the list. The command shows who will be removed and asks you to confirm. Check for group addresses, such as `england.datascience.assembly@nhs.net`, before confirming.
+   ```bash
+   uv run notify-mailer unsubscribe path/to/report.csv
+   ```
+   If it says the column is missing, pass the report's email column name with `--column`.
+3. If you send from GitHub Actions, update the secrets (below).
+
+### Updating GitHub secrets
+GitHub Actions uses copies of the keys and lists, stored as secrets in the `notify-test`, `notify-team` and `notify-live` environments. After changing `.env` or a list, update them with the [GitHub CLI](https://cli.github.com/):
+```bash
+scripts/update_secrets.sh live   # or test, or team
+```
 
 ### Built With
 
